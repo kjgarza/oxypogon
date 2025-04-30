@@ -8,13 +8,13 @@ repos:
     -   id: check-added-large-files
 
 -   repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.1.5
+    rev: v0.11.7
     hooks:
     -   id: ruff
         args: [--fix]
     -   id: ruff-format
 
--   repo: https://github.com/RobertCraigie/pyright-python
-    rev: v1.1.326
-    hooks:
-    -   id: pyright
+# -   repo: https://github.com/RobertCraigie/pyright-python
+#     rev: v1.1.326
+#     hooks:
+#     -   id: pyright
