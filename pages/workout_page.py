@@ -58,7 +58,7 @@ class WorkoutPage(Page):
         if "is_scraping" not in st.session_state:
             st.session_state.is_scraping = False
 
-    # @st.cache_data(ttl=3600)  # Cache the explanation for 1 hour
+    @st.cache_data(ttl=3600)  # Cache the explanation for 1 hour
     def _cached_ai_explanation(self, wod_text: str) -> str:
         """
         Cache the AI explanation to avoid redundant API calls.
