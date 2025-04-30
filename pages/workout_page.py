@@ -59,7 +59,7 @@ class WorkoutPage(Page):
             st.session_state.is_scraping = False
 
     @st.cache_data(ttl=3600)  # Cache the explanation for 1 hour
-    def _cached_ai_explanation(self, wod_text: str) -> str:
+    def _cached_ai_explanation(_self, wod_text: str) -> str:  # noqa: N805
         """
         Cache the AI explanation to avoid redundant API calls.
 
