@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "oxypogon"
+version = "0.1.0"
+description = "Multipage Streamlit Application"
+authors = ["Kristian Garza"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.13"
+streamlit = "^1.44.1"
+pandas = "^2.2.3"
+numpy = "^2.2.4"
+matplotlib = "^3.10.1"
+seaborn = "^0.13.2"
+selenium = "^4.31.0"
+webdriver-manager = "^4.0.2"
+openai = "^1.73.0"
+asyncio = "^3.4.3"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.5"
+ruff = "^0.11.5"
+pyright = "^1.1.399"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+select = ["E", "F", "I", "N", "W", "B", "C", "D"]
+ignore = ["D203", "D212", "E501"]
+
+[tool.pyright]
+typeCheckingMode = "strict"
+reportMissingImports = true
+reportMissingTypeStubs = false
