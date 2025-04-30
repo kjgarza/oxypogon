@@ -8,20 +8,20 @@ package-mode = false
 
 [tool.poetry.dependencies]
 python = ">=3.12,<3.13"
-streamlit = "^1.44.1"
+streamlit = "^1.45.0"
 pandas = "^2.2.3"
-numpy = "^2.2.4"
+numpy = "^2.2.5"
 matplotlib = "^3.10.1"
 seaborn = "^0.13.2"
 selenium = "^4.31.0"
 webdriver-manager = "^4.0.2"
-openai = "^1.73.0"
+openai = "^1.76.2"
 asyncio = "^3.4.3"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.5"
-ruff = "^0.11.5"
-pyright = "^1.1.399"
+ruff = "^0.11.7"
+pyright = "^1.1.400"
 
 [build-system]
 requires = ["poetry-core"]
