@@ -16,7 +16,7 @@ from selenium.webdriver.support import expected_conditions as EC  # noqa: N812
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
-from pages.page_interface import Page
+from services.page_interface import Page
 
 # from services.data_service_interface import DataServiceInterface
 
