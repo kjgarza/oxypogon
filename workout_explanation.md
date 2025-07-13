@@ -6,56 +6,51 @@
 Workout of the Day 13.07.2025 WOD"DAILYSWEAT On the 15:00 x 2 Intervals A: 21-18-15-12-9-6-3 Doubble Dumbell Hang Cleans 200 Meter Run B: 3-6-9-12-15-18-21 Doubble Dumbell Deadlifts 2 Rope Climb Sweat: 15/10; Negative Rope Climb; 1 Hill Run Train: 17,5/12,5; 1 Rope Climb Compete: 22,5/15
 
 ### Expert Explanation
-### Workout of the Day (WOD) - 13.07.2025
+### Workout of the Day (WOD) - "DAILYSWEAT"
+**Date:** 13.07.2025
 
-**Workout Overview:**
-The workout consists of two parts (A and B), each performed in a 15-minute interval format. The goal is to complete the specified repetitions of each exercise as quickly as possible, followed by a run or rope climbs.
+#### Overview:
+This workout consists of two parts (A and B) performed in intervals of 15 minutes each, repeated twice. The workout includes a combination of dumbbell movements and running, as well as rope climbs. 
 
----
-
-### Part A: 
-**21-18-15-12-9-6-3**
-- **Double Dumbbell Hang Cleans**
-- **200 Meter Run**
+### Part A:
+**Format:** 21-18-15-12-9-6-3  
+**Movements:**  
+1. **Double Dumbbell Hang Cleans**  
+2. **200 Meter Run**
 
 #### Step-by-Step Breakdown:
 
-1. **Double Dumbbell Hang Cleans:**
-   - **Starting Position:** Stand with feet shoulder-width apart, holding a dumbbell in each hand at your sides.
-   - **Set Up:** Hinge at the hips, lowering the dumbbells to just above the knees while keeping a flat back. Your elbows should be slightly bent.
-   - **Movement:** 
-     - Explode upward by extending your hips and knees.
-     - Pull the dumbbells up to your shoulders, rotating your wrists so they end up resting on your shoulders (front rack position).
-     - Ensure your elbows are high and your core is engaged.
-   - **Finish:** Stand tall with the dumbbells at shoulder height, then lower them back to the hang position for the next rep.
+1. **Double Dumbbell Hang Cleans**
+   - **Starting Position:** Stand with feet hip-width apart, holding a dumbbell in each hand at your sides.
+   - **Movement:**
+     - Hinge at the hips, lowering the dumbbells to just above the knees while keeping your back straight.
+     - Explode upward by extending your hips and knees, pulling the dumbbells up along your body.
+     - Rotate your elbows under the dumbbells as you catch them in a front rack position.
+   - **Form Tips:**
+     - Keep your core engaged throughout the movement.
+     - Ensure your back remains flat and your chest stays up during the hinge.
+     - Use your legs to drive the movement, not just your arms.
+   - **Scaling Options:**
+     - Reduce the weight of the dumbbells if necessary.
+     - Perform single dumbbell hang cleans (one dumbbell at a time).
+   - **Modifications for Beginners:**
+     - Substitute with kettlebell swings or dumbbell front squats to build strength and technique.
 
-   **Form Tips:**
-   - Keep your back straight and chest up throughout the movement.
-   - Use your legs to drive the weight up, not just your arms.
-   - Maintain a neutral spine and avoid rounding your back.
-
-   **Scaling Options:**
-   - Use lighter dumbbells if the prescribed weight is too heavy.
-   - Perform single dumbbell hang cleans (one arm at a time) if needed.
-
-2. **200 Meter Run:**
-   - **Execution:** After completing the hang cleans, head out for a 200-meter run. Focus on maintaining a steady pace.
-   - **Form Tips:** 
+2. **200 Meter Run**
+   - **Execution:**
+     - Maintain a steady pace, focusing on your breathing and form.
+   - **Form Tips:**
      - Keep your shoulders relaxed and arms at a 90-degree angle.
      - Land softly on your feet and maintain a slight forward lean.
-
----
+   - **Scaling Options:**
+     - If running is not feasible, substitute with a 250-meter row or 1-minute of jumping jacks.
+   - **Modifications for Beginners:**
+     - Walk the distance instead of running, or perform a shuttle run (back and forth over a short distance).
 
 ### Part B:
-**3-6-9-12-15-18-21**
-- **Double Dumbbell Deadlifts**
-- **2 Rope Climbs**
-
-#### Step-by-Step Breakdown:
-
-1. **Double Dumbbell Deadlifts:**
-   - **Starting Position:** Stand with feet hip-width apart, dumbbells on the ground in front of you.
-   - **
+**Format:** 3-6-9-12-15-18-21  
+**Movements:**  
+1. **Double Dumbbell Deadl
 
 ---
-*Generated on 2025-07-13T12:37:38.098Z using AI assistance*
+*Generated on 2025-07-13T12:39:10.192Z using AI assistance*
