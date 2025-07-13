@@ -6,47 +6,50 @@
 Workout of the Day 13.07.2025 WOD"DAILYSWEAT On the 15:00 x 2 Intervals A: 21-18-15-12-9-6-3 Doubble Dumbell Hang Cleans 200 Meter Run B: 3-6-9-12-15-18-21 Doubble Dumbell Deadlifts 2 Rope Climb Sweat: 15/10; Negative Rope Climb; 1 Hill Run Train: 17,5/12,5; 1 Rope Climb Compete: 22,5/15
 
 ### Expert Explanation
-### Workout of the Day (WOD) - "DAILYSWEAT"
-**Date:** 13.07.2025
+**Workout of the Day: "DAILYSWEAT"**
 
-**Structure:**  
-This workout consists of two intervals, each lasting 15 minutes. The first part (A) focuses on a descending rep scheme of Double Dumbbell Hang Cleans followed by a 200-meter run. The second part (B) features an ascending rep scheme of Double Dumbbell Deadlifts paired with rope climbs.
+**Date: 13.07.2025**
 
----
+**Workout Structure:**
+This workout consists of two parts (A and B) performed in 15-minute intervals, repeated twice. Each part includes a combination of dumbbell movements and running, with a focus on conditioning and strength.
 
-### Part A: 15:00 x 2 Intervals
-**Workout:**  
-- **21-18-15-12-9-6-3**  
-  - Double Dumbbell Hang Cleans  
-  - 200 Meter Run  
+### Part A:
+**21-18-15-12-9-6-3**
+- **Double Dumbbell Hang Cleans**
+- **200 Meter Run**
 
-#### Proper Form Tips for Double Dumbbell Hang Cleans:
+### Part B:
+**3-6-9-12-15-18-21**
+- **Double Dumbbell Deadlifts**
+- **2 Rope Climbs**
+
+### Scaling Options:
+- **For Beginners:**
+  - **Double Dumbbell Hang Cleans:** Use lighter dumbbells or perform the movement with a single dumbbell. Focus on form over weight.
+  - **200 Meter Run:** If running is challenging, substitute with a 250-meter row or a 1-minute stationary bike.
+  
+- **For Part B:**
+  - **Double Dumbbell Deadlifts:** Use lighter weights or perform single dumbbell deadlifts.
+  - **Rope Climbs:** If you are not comfortable with rope climbs, substitute with 3-5 pull-ups or 5-10 ring rows.
+
+### Proper Form Tips:
+
+#### Double Dumbbell Hang Cleans:
 1. **Starting Position:** Stand with feet shoulder-width apart, holding a dumbbell in each hand at your sides.
-2. **Hinge at the Hips:** Push your hips back while keeping your chest up and back straight. The dumbbells should slide down your thighs.
-3. **Pull:** As you extend your hips, pull the dumbbells up by shrugging your shoulders and bending your elbows.
-4. **Catch:** Drop under the dumbbells, catching them in a front rack position (elbows high) with your knees slightly bent.
-5. **Stand Up:** Finish by standing tall, ensuring your core is engaged.
+2. **Set Up:** Hinge at the hips, keeping your back straight and chest up. The dumbbells should be just above your knees.
+3. **Movement:** 
+   - Explode upward by extending your hips and knees.
+   - Pull the dumbbells up along your body, rotating your wrists to catch them at shoulder height.
+4. **Catch Position:** Land in a quarter squat with elbows high and dumbbells resting on your shoulders.
+5. **Return:** Lower the dumbbells back to the hang position while maintaining control.
 
-#### Scaling Options:
-- **Weight:** Use lighter dumbbells (e.g., 17.5/12.5 kg for Train, 15/10 kg for Sweat).
-- **Movement:** If the hang clean is too complex, perform a dumbbell power clean or a dumbbell front squat instead.
+#### 200 Meter Run:
+- Maintain a steady pace, focusing on breathing and form.
+- Keep your shoulders relaxed and arms at a 90-degree angle, driving them back and forth to assist with momentum.
 
-#### Modifications for Beginners:
-- **Reps:** Reduce the number of reps (e.g., 15-12-9-6-3).
-- **Movement:** Substitute with a dumbbell deadlift or kettlebell swings if the hang clean is too challenging.
-- **Run:** Walk the 200 meters instead of running.
-
----
-
-### 200 Meter Run:
-- **Form Tips:** Maintain a relaxed upper body, keep your arms at a 90-degree angle, and drive your knees forward.
-- **Scaling:** If running is not feasible, substitute with a 1-minute row or a 1-minute bike ride.
+#### Double Dumbbell Deadlifts:
+1. **Starting Position:** Stand with feet hip-width apart, dumbbells on the ground in front of you.
+2. **Set Up:** Hinge at the hips
 
 ---
-
-### Part B: 15:00 x 2 Intervals
-**Workout:**  
-- **3-6
-
----
-*Generated on 2025-07-13T12:20:09.117Z using AI assistance*
+*Generated on 2025-07-13T12:29:43.493Z using AI assistance*
