@@ -1,0 +1,33 @@
+name: Flat Data - Scrape CrossFit Workout
+
+on:
+  schedule:
+    # Run every day at 6 AM UTC (adjust as needed)
+    - cron: '0 10 * * *'
+  workflow_dispatch: # Allow manual triggering
+  push:
+    paths:
+      - '.github/workflows/scrape-workout.yml'
+      - 'postprocess/*.ts'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Fetch workout data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.crossfitmins.com/wp-admin/admin-ajax.php
+          axios_config: axios_config.json
+          downloaded_filename: workout_ajax_response.txt
+          postprocess: postprocess/process_workout.ts
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}

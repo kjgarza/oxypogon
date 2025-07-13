@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["deno.window"],
+    "strict": true
+  },
+  "tasks": {
+    "scrape": "deno run --allow-read --allow-write postprocess/scrape_workout.ts",
+    "process": "deno run --allow-read --allow-write --allow-net --allow-env postprocess/process_workout.ts"
+  }
+}
