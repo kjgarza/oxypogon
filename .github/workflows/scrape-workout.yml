@@ -23,6 +23,9 @@ jobs:
 
       - name: Check out repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Fetch workout data
         uses: githubocto/flat@v3.4.0
@@ -33,4 +36,4 @@ jobs:
           postprocess: postprocess/process_workout.ts
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
