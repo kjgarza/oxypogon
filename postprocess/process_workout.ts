@@ -58,13 +58,14 @@ async function callOpenAI(workoutText: string, apiKey: string): Promise<string> 
           content: prompt
         }
       ],
-      max_tokens: 1500,
+      max_tokens: 500,
       temperature: 0.2
     })
   });
 
   if (!response.ok) {
-    throw new Error(`OpenAI API error: ${response.status} ${response.statusText}`);
+    const errorBody = await response.text();
+    throw new Error(`OpenAI API error: ${response.status} ${response.statusText}. Details: ${errorBody}`);
   }
 
   const data = await response.json();
@@ -170,6 +171,10 @@ async function processWorkoutWithAI() {
 
     // Get API key from environment
     const apiKey = Deno.env.get('OPENAI_API_KEY');
+    console.log(`🔑 API Key exists: ${apiKey ? 'YES' : 'NO'}`);
+    console.log(`🔑 API Key length: ${apiKey ? apiKey.length : 0} characters`);
+    console.log(`🔑 API Key starts with sk-: ${apiKey ? apiKey.startsWith('sk-') : 'NO'}`);
+
     if (!apiKey) {
       processedData.error = "OpenAI API key not found in environment variables";
       await writeJSON('workout_with_explanation.json', processedData);
