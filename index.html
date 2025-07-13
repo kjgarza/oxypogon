@@ -55,54 +55,6 @@
         const workoutText = data.combined_content.workout_text;
         const workoutLines = workoutText.split(/\s+/);
 
-        <!-- workoutContent.innerHTML = `
-          <div class="mb-6">
-            <h3 class="text-xl font-semibold mb-4 text-gray-800">Workout Structure</h3>
-            <div class="bg-gray-50 p-4 rounded-lg">
-              <p class="font-medium text-lg mb-3">"DAILYSWEAT"</p>
-              <p class="text-gray-700 mb-4">Format: 15:00 x 2 Intervals</p>
-
-              <div class="grid md:grid-cols-2 gap-6">
-                <div class="bg-white p-4 rounded border-l-4 border-green-500">
-                  <h4 class="font-bold text-green-700 mb-2">Part A: 21-18-15-12-9-6-3</h4>
-                  <ul class="space-y-1 text-gray-700">
-                    <li>• Double Dumbbell Hang Cleans</li>
-                    <li>• 200 Meter Run</li>
-                  </ul>
-                </div>
-
-                <div class="bg-white p-4 rounded border-l-4 border-blue-500">
-                  <h4 class="font-bold text-blue-700 mb-2">Part B: 3-6-9-12-15-18-21</h4>
-                  <ul class="space-y-1 text-gray-700">
-                    <li>• Double Dumbbell Deadlifts</li>
-                    <li>• 2 Rope Climbs</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="mb-6">
-            <h3 class="text-xl font-semibold mb-4 text-gray-800">Scaling Options</h3>
-            <div class="grid md:grid-cols-3 gap-4">
-              <div class="bg-green-50 p-4 rounded-lg border border-green-200">
-                <h4 class="font-bold text-green-700 mb-2">Sweat Level</h4>
-                <p class="text-sm text-gray-700">15/10 kg • Negative Rope Climb • 1 Hill Run</p>
-              </div>
-
-              <div class="bg-yellow-50 p-4 rounded-lg border border-yellow-200">
-                <h4 class="font-bold text-yellow-700 mb-2">Train Level</h4>
-                <p class="text-sm text-gray-700">17.5/12.5 kg • 1 Rope Climb</p>
-              </div>
-
-              <div class="bg-red-50 p-4 rounded-lg border border-red-200">
-                <h4 class="font-bold text-red-700 mb-2">Compete Level</h4>
-                <p class="text-sm text-gray-700">22.5/15 kg</p>
-              </div>
-            </div>
-          </div>
-        `; -->
-
         // AI Explanation section
         if (data.ai_explanation && data.ai_explanation.explanation) {
           const explanationSection = document.createElement('div');
