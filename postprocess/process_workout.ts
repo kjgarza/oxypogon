@@ -38,7 +38,7 @@ interface ProcessedWorkoutData {
 }
 
 async function callOpenAI(workoutText: string, apiKey: string): Promise<string> {
-  const prompt = `Act as a senior CrossFit coach with extensive experience in workout programming and technique coaching. Explain the following workout step by step, including proper form tips, scaling options, and potential modifications for beginners:\n\n${workoutText}`;
+  const prompt = `Act as a senior CrossFit coach with extensive experience in workout programming and technique coaching. Explain the following workout step by step, including proper form tips, scaling options, and potential modifications for beginners. Use plain text for the format:\n\n${workoutText}`;
 
   const response = await fetch('https://api.openai.com/v1/chat/completions', {
     method: 'POST',
