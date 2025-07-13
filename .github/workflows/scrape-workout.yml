@@ -17,13 +17,13 @@ jobs:
       - name: Setup deno
         uses: denoland/setup-deno@v1
         with:
-          deno-version: v1.x
+          deno-version: v1.10.x
 
       - name: Check out repo
         uses: actions/checkout@v4
 
       - name: Fetch workout data
-        uses: githubocto/flat@v3
+        uses: githubocto/flat@v3.4.0
         with:
           http_url: https://www.crossfitmins.com/wp-admin/admin-ajax.php
           axios_config: axios_config.json
