@@ -58,7 +58,7 @@ async function callOpenAI(workoutText: string, apiKey: string): Promise<string> 
           content: prompt
         }
       ],
-      max_tokens: 500,
+      max_tokens: 900,
       temperature: 0.2
     })
   });
