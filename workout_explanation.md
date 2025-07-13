@@ -9,48 +9,44 @@ Workout of the Day 13.07.2025 WOD"DAILYSWEAT On the 15:00 x 2 Intervals A: 21-18
 ### Workout of the Day (WOD) - "DAILYSWEAT"
 **Date:** 13.07.2025
 
-**Structure:** 
-- **Intervals:** 15:00 x 2
-- **Part A:** 21-18-15-12-9-6-3
-  - Double Dumbbell Hang Cleans
-  - 200 Meter Run
-- **Part B:** 3-6-9-12-15-18-21
-  - Double Dumbbell Deadlifts
-  - 2 Rope Climbs
-
-### Step-by-Step Breakdown
-
-#### Part A: Double Dumbbell Hang Cleans and 200 Meter Run
-
-1. **Double Dumbbell Hang Cleans**
-   - **Setup:** Stand with feet shoulder-width apart, holding a dumbbell in each hand at your sides.
-   - **Movement:**
-     - Hinge at the hips, lowering the dumbbells to just above the knees (this is the "hang" position).
-     - Keep your back flat and core engaged.
-     - Explode upward by extending your hips and knees, pulling the dumbbells up along your body.
-     - As the dumbbells reach your shoulders, rotate your elbows under the weights and catch them in a front rack position.
-   - **Form Tips:**
-     - Keep the dumbbells close to your body throughout the movement.
-     - Ensure your elbows are high in the front rack position.
-     - Maintain a neutral spine and avoid rounding your back.
-   - **Scaling Options:**
-     - Reduce the weight of the dumbbells.
-     - Perform single dumbbell cleans (alternating arms).
-   - **Modifications for Beginners:**
-     - Use lighter weights or perform the movement with a kettlebell.
-     - Focus on the hip hinge and pull without the catch to practice the movement pattern.
-
-2. **200 Meter Run**
-   - **Execution:** After completing the hang cleans, immediately transition to a 200-meter run.
-   - **Form Tips:**
-     - Maintain an upright posture with a slight forward lean.
-     - Keep your arms at a 90-degree angle and swing them naturally.
-     - Focus on landing softly on your feet.
-   - **Scaling Options:**
-     - Reduce the distance to 100 meters or substitute with a 1-minute row or bike.
-   - **Modifications for Beginners:**
-     - Walk the distance instead of running.
-     - Use a treadmill if
+**Structure:**  
+This workout consists of two intervals, each lasting 15 minutes. The first part (A) focuses on a descending rep scheme of Double Dumbbell Hang Cleans followed by a 200-meter run. The second part (B) features an ascending rep scheme of Double Dumbbell Deadlifts paired with rope climbs.
 
 ---
-*Generated on 2025-07-13T12:02:22.531Z using AI assistance*
+
+### Part A: 15:00 x 2 Intervals
+**Workout:**  
+- **21-18-15-12-9-6-3**  
+  - Double Dumbbell Hang Cleans  
+  - 200 Meter Run  
+
+#### Proper Form Tips for Double Dumbbell Hang Cleans:
+1. **Starting Position:** Stand with feet shoulder-width apart, holding a dumbbell in each hand at your sides.
+2. **Hinge at the Hips:** Push your hips back while keeping your chest up and back straight. The dumbbells should slide down your thighs.
+3. **Pull:** As you extend your hips, pull the dumbbells up by shrugging your shoulders and bending your elbows.
+4. **Catch:** Drop under the dumbbells, catching them in a front rack position (elbows high) with your knees slightly bent.
+5. **Stand Up:** Finish by standing tall, ensuring your core is engaged.
+
+#### Scaling Options:
+- **Weight:** Use lighter dumbbells (e.g., 17.5/12.5 kg for Train, 15/10 kg for Sweat).
+- **Movement:** If the hang clean is too complex, perform a dumbbell power clean or a dumbbell front squat instead.
+
+#### Modifications for Beginners:
+- **Reps:** Reduce the number of reps (e.g., 15-12-9-6-3).
+- **Movement:** Substitute with a dumbbell deadlift or kettlebell swings if the hang clean is too challenging.
+- **Run:** Walk the 200 meters instead of running.
+
+---
+
+### 200 Meter Run:
+- **Form Tips:** Maintain a relaxed upper body, keep your arms at a 90-degree angle, and drive your knees forward.
+- **Scaling:** If running is not feasible, substitute with a 1-minute row or a 1-minute bike ride.
+
+---
+
+### Part B: 15:00 x 2 Intervals
+**Workout:**  
+- **3-6
+
+---
+*Generated on 2025-07-13T12:20:09.117Z using AI assistance*
