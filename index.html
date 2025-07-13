@@ -55,7 +55,7 @@
         const workoutText = data.combined_content.workout_text;
         const workoutLines = workoutText.split(/\s+/);
 
-        workoutContent.innerHTML = `
+        <!-- workoutContent.innerHTML = `
           <div class="mb-6">
             <h3 class="text-xl font-semibold mb-4 text-gray-800">Workout Structure</h3>
             <div class="bg-gray-50 p-4 rounded-lg">
@@ -101,7 +101,7 @@
               </div>
             </div>
           </div>
-        `;
+        `; -->
 
         // AI Explanation section
         if (data.ai_explanation && data.ai_explanation.explanation) {
