@@ -1,0 +1,45 @@
+
+						<p>Workout of the Day</p>
+			<h2>13.07.2025</h2>
+
+			<div class="wod-kategorie"> <p></p> </div><div class="wod-entry-item"><div class="wod-entry-item-inner"><div class="wod-entry-90-deg"><span>WOD</span></div><div class="wod-entry-text">"DAILYSWEAT<br />
+<br />
+On the 15:00 x 2 Intervals <br />
+<br />
+A:<br />
+21-18-15-12-9-6-3<br />
+Doubble Dumbell Hang Cleans<br />
+200 Meter Run<br />
+<br />
+B:<br />
+3-6-9-12-15-18-21<br />
+Doubble Dumbell Deadlifts<br />
+2 Rope Climb<br />
+<br />
+<br />
+Sweat: 15/10; Negative Rope Climb; 1 Hill Run<br />
+Train: 17,5/12,5; 1 Rope Climb<br />
+Compete: 22,5/15			<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				</div></div></div>
+						
