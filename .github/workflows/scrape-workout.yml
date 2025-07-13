@@ -33,3 +33,4 @@ jobs:
           postprocess: postprocess/process_workout.ts
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
