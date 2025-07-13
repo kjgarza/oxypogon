@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CrossFit Workout Viewer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-900 min-h-screen">
+  <div class="container mx-auto p-6 max-w-4xl">
+    <h1 class="text-4xl font-bold mb-8 text-center text-blue-600">CrossFit Workout Viewer</h1>
+    <div id="output" class="space-y-6"></div>
+  </div>
+
+  <script>
+    fetch('workout_with_explanation.json')
+      .then(response => response.json())
+      .then(data => {
+        const output = document.getElementById('output');
+
+        // Create main workout card
+        const workoutCard = document.createElement('div');
+        workoutCard.className = 'bg-white shadow-lg rounded-lg overflow-hidden';
+
+        // Header section
+        const header = document.createElement('div');
+        header.className = 'bg-blue-600 text-white p-6';
+        header.innerHTML = `
+          <h2 class="text-2xl font-bold">${data.combined_content.title}</h2>
+          <p class="text-blue-100 mt-2">Date: ${data.combined_content.date}</p>
+          <p class="text-blue-100 text-sm">Generated: ${new Date(data.timestamp).toLocaleString()}</p>
+        `;
+
+        // Workout content section
+        const workoutContent = document.createElement('div');
+        workoutContent.className = 'p-6';
+
+        // Extract workout structure from the text
+        const workoutText = data.combined_content.workout_text;
+        const workoutLines = workoutText.split(/\s+/);
+
+        workoutContent.innerHTML = `
+          <div class="mb-6">
+            <h3 class="text-xl font-semibold mb-4 text-gray-800">Workout Structure</h3>
+            <div class="bg-gray-50 p-4 rounded-lg">
+              <p class="font-medium text-lg mb-3">"DAILYSWEAT"</p>
+              <p class="text-gray-700 mb-4">Format: 15:00 x 2 Intervals</p>
+
+              <div class="grid md:grid-cols-2 gap-6">
+                <div class="bg-white p-4 rounded border-l-4 border-green-500">
+                  <h4 class="font-bold text-green-700 mb-2">Part A: 21-18-15-12-9-6-3</h4>
+                  <ul class="space-y-1 text-gray-700">
+                    <li>• Double Dumbbell Hang Cleans</li>
+                    <li>• 200 Meter Run</li>
+                  </ul>
+                </div>
+
+                <div class="bg-white p-4 rounded border-l-4 border-blue-500">
+                  <h4 class="font-bold text-blue-700 mb-2">Part B: 3-6-9-12-15-18-21</h4>
+                  <ul class="space-y-1 text-gray-700">
+                    <li>• Double Dumbbell Deadlifts</li>
+                    <li>• 2 Rope Climbs</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="mb-6">
+            <h3 class="text-xl font-semibold mb-4 text-gray-800">Scaling Options</h3>
+            <div class="grid md:grid-cols-3 gap-4">
+              <div class="bg-green-50 p-4 rounded-lg border border-green-200">
+                <h4 class="font-bold text-green-700 mb-2">Sweat Level</h4>
+                <p class="text-sm text-gray-700">15/10 kg • Negative Rope Climb • 1 Hill Run</p>
+              </div>
+
+              <div class="bg-yellow-50 p-4 rounded-lg border border-yellow-200">
+                <h4 class="font-bold text-yellow-700 mb-2">Train Level</h4>
+                <p class="text-sm text-gray-700">17.5/12.5 kg • 1 Rope Climb</p>
+              </div>
+
+              <div class="bg-red-50 p-4 rounded-lg border border-red-200">
+                <h4 class="font-bold text-red-700 mb-2">Compete Level</h4>
+                <p class="text-sm text-gray-700">22.5/15 kg</p>
+              </div>
+            </div>
+          </div>
+        `;
+
+        // AI Explanation section
+        if (data.ai_explanation && data.ai_explanation.explanation) {
+          const explanationSection = document.createElement('div');
+          explanationSection.className = 'border-t pt-6';
+          explanationSection.innerHTML = `
+            <h3 class="text-xl font-semibold mb-4 text-gray-800 flex items-center">
+              <span class="bg-purple-100 text-purple-700 px-2 py-1 rounded text-sm mr-2">AI</span>
+              Exercise Explanations
+            </h3>
+            <div class="bg-purple-50 p-4 rounded-lg">
+              <div class="prose max-w-none text-gray-700">
+                ${data.ai_explanation.explanation.replace(/\n/g, '<br>')}
+              </div>
+            </div>
+          `;
+          workoutContent.appendChild(explanationSection);
+        }
+
+        // Assemble the card
+        workoutCard.appendChild(header);
+        workoutCard.appendChild(workoutContent);
+        output.appendChild(workoutCard);
+
+        // Add metadata card
+        const metadataCard = document.createElement('div');
+        metadataCard.className = 'bg-white shadow-lg rounded-lg p-6 mt-6';
+        metadataCard.innerHTML = `
+          <h3 class="text-lg font-semibold mb-4 text-gray-800">Workout Details</h3>
+          <div class="grid md:grid-cols-2 gap-4 text-sm">
+            <div>
+              <p class="text-gray-600">Source URL:</p>
+              <p class="text-blue-600 break-all">${data.original_data.source_url}</p>
+            </div>
+            <div>
+              <p class="text-gray-600">Data Retrieved:</p>
+              <p class="text-gray-800">${new Date(data.original_data.timestamp).toLocaleString()}</p>
+            </div>
+            <div>
+              <p class="text-gray-600">AI Model:</p>
+              <p class="text-gray-800">${data.ai_explanation?.model || 'N/A'}</p>
+            </div>
+            <div>
+              <p class="text-gray-600">Status:</p>
+              <p class="text-green-600 font-medium">${data.success ? 'Success' : 'Failed'}</p>
+            </div>
+          </div>
+        `;
+        output.appendChild(metadataCard);
+      })
+      .catch(error => {
+        console.error('Error loading JSON:', error);
+        const output = document.getElementById('output');
+        output.innerHTML = `
+          <div class="bg-red-50 border border-red-200 rounded-lg p-6">
+            <h3 class="text-red-700 font-bold mb-2">Error Loading Workout Data</h3>
+            <p class="text-red-600">Could not load workout_with_explanation.json</p>
+            <p class="text-sm text-gray-600 mt-2">Make sure the file exists in the same directory as this HTML file.</p>
+          </div>
+        `;
+      });
+  </script>
+</body>
+</html>
