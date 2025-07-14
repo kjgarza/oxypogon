@@ -1,45 +1,34 @@
 
 						<p>Workout of the Day</p>
-			<h2>13.07.2025</h2>
+			<h2>14.07.2025</h2>
 
-			<div class="wod-kategorie"> <p></p> </div><div class="wod-entry-item"><div class="wod-entry-item-inner"><div class="wod-entry-90-deg"><span>WOD</span></div><div class="wod-entry-text">"DAILYSWEAT<br />
-<br />
-On the 15:00 x 2 Intervals <br />
-<br />
-A:<br />
-21-18-15-12-9-6-3<br />
-Doubble Dumbell Hang Cleans<br />
-200 Meter Run<br />
-<br />
-B:<br />
-3-6-9-12-15-18-21<br />
-Doubble Dumbell Deadlifts<br />
-2 Rope Climb<br />
+			<div class="wod-kategorie"> <p></p> </div><div class="wod-entry-item"><div class="wod-entry-item-inner"><div class="wod-entry-90-deg"><span>WOD</span></div><div class="wod-entry-text">",1. Push Jerk<br />
+On the 1:30 x 7<br />
+2 Push Jerks<br />
+*start at 50-55% and build to 80-90% of 1 RM<br />
 <br />
 <br />
-Sweat: 15/10; Negative Rope Climb; 1 Hill Run<br />
-Train: 17,5/12,5; 1 Rope Climb<br />
-Compete: 22,5/15			<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				</div></div></div>
+2.Conditioning<br />
+3 Rounds:<br />
+7 Handstand Push Ups<br />
+ 7 Laterall Dumbell Burpees<br />
+<br />
+  50 Laterall Dumbell Hops<br />
+<br />
+3 Rounds:<br />
+5 Handstand Push Ups<br />
+5 Laterall Dumbell Burpees<br />
+<br />
+50 Laterall Dumbell Hops<br />
+<br />
+ 3 Rounds: <br />
+3 Handstand Push Ups<br />
+3 Laterall Dumbell Burpees <br />
+<br />
+<br />
+<br />
+Sweat: Z-Press or Pike<br />
+Push Up <br />
+Train:<br />
+Compete:</div></div></div>
 						

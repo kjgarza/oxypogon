@@ -1,57 +1,90 @@
-# CrossFit MINS Workout - 2025-07-13
+# CrossFit MINS Workout - 2025-07-14
 
 ## CrossFit MINS Workout
 
 ### Workout
-Workout of the Day 13.07.2025 WOD"DAILYSWEAT On the 15:00 x 2 Intervals A: 21-18-15-12-9-6-3 Doubble Dumbell Hang Cleans 200 Meter Run B: 3-6-9-12-15-18-21 Doubble Dumbell Deadlifts 2 Rope Climb Sweat: 15/10; Negative Rope Climb; 1 Hill Run Train: 17,5/12,5; 1 Rope Climb Compete: 22,5/15
+Workout of the Day 14.07.2025 WOD",1. Push Jerk On the 1:30 x 7 2 Push Jerks *start at 50-55% and build to 80-90% of 1 RM 2.Conditioning 3 Rounds: 7 Handstand Push Ups 7 Laterall Dumbell Burpees 50 Laterall Dumbell Hops 3 Rounds: 5 Handstand Push Ups 5 Laterall Dumbell Burpees 50 Laterall Dumbell Hops 3 Rounds: 3 Handstand Push Ups 3 Laterall Dumbell Burpees Sweat: Z-Press or Pike Push Up Train: Compete:
 
 ### Expert Explanation
-Hey there, fitness friends! Today we've got a fun and challenging WOD called "DAILYSWEAT." It’s structured into two intervals, and we’re going to break it down step by step. So grab your dumbbells, lace up those shoes, and let’s get ready to sweat!
+Hey there, fitness friends! Today’s WOD is a fun mix of strength and conditioning that’s sure to get your heart pumping and your muscles working. Let’s break it down step by step, so you know exactly what to expect and how to tackle each part safely and effectively. Ready? Let’s go!
 
-### Workout Overview
-**Format:** 15:00 x 2 Intervals  
-**Part A:** 21-18-15-12-9-6-3  
-- Double Dumbbell Hang Cleans  
-- 200 Meter Run  
+### Part 1: Push Jerk
+**On the 1:30 x 7 (2 Push Jerks each time)**
 
-**Part B:** 3-6-9-12-15-18-21  
-- Double Dumbbell Deadlifts  
-- 2 Rope Climbs  
+**What to do:**
+- You’ll perform 2 Push Jerks every 1 minute and 30 seconds for a total of 7 sets. 
 
-### Let’s Dive In!
+**How to do it:**
+1. **Start Position:** Stand with your feet shoulder-width apart, barbell resting on your shoulders (front rack position).
+2. **Dip:** Bend your knees slightly and push your hips back. This is your dip position.
+3. **Drive:** Explode upwards by extending your hips and knees, driving the barbell overhead.
+4. **Catch:** As the barbell rises, drop under it by bending your knees and locking out your arms overhead. Your body should be in a straight line from your wrists to your ankles.
+5. **Stand Tall:** Finish by standing tall with the barbell locked out overhead.
 
-#### Part A: Double Dumbbell Hang Cleans & 200 Meter Run
+**Form Tips:**
+- Keep your core tight and your elbows high during the dip.
+- Make sure your feet are flat on the ground during the drive.
+- Avoid leaning back; keep your torso upright.
 
-1. **Double Dumbbell Hang Cleans**  
-   - **How to Do It:** Start with your feet shoulder-width apart, holding a dumbbell in each hand. Hinge at your hips and lower the dumbbells to just above your knees (this is the hang position). From here, explode upwards, shrugging your shoulders and pulling the dumbbells up to your shoulders. Catch them in a front squat position.
-   - **Form Tips:** Keep your back straight and core tight. Use your legs to drive the movement, not just your arms. Make sure to keep the dumbbells close to your body throughout the lift.
-   - **Scaling Options:** If you’re new to this movement, you can scale down to a single dumbbell or even perform a dumbbell clean from the ground instead of the hang position.
-   - **Modifications for Beginners:** If you’re not comfortable with cleans yet, try doing dumbbell front squats or kettlebell swings instead.
+**Scaling Options:**
+- If you’re new to the Push Jerk, you can scale to a **Push Press** (no dip) or use a lighter weight.
+- You can also perform the movement with dumbbells if that feels more comfortable.
 
-2. **200 Meter Run**  
-   - **How to Do It:** Just run! If you’re at the gym, you can use a treadmill or measure out a distance outside.
-   - **Form Tips:** Keep your shoulders relaxed, arms at a 90-degree angle, and focus on landing softly on your feet.
-   - **Scaling Options:** If running isn’t your thing, you can substitute with a 1-minute row or bike ride.
-   - **Modifications for Beginners:** Walk the distance instead of running if you need to.
-
-#### Part B: Double Dumbbell Deadlifts & Rope Climbs
-
-1. **Double Dumbbell Deadlifts**  
-   - **How to Do It:** Stand with your feet hip-width apart, holding a dumbbell in each hand in front of your thighs. Hinge at your hips and lower the dumbbells down to the ground while keeping your back straight. Stand back up by driving through your heels.
-   - **Form Tips:** Keep your chest up and shoulders back. The dumbbells should stay close to your body as you lift.
-   - **Scaling Options:** If you’re not comfortable with double dumbbells, you can use a single dumbbell or even a kettlebell.
-   - **Modifications for Beginners:** You can perform bodyweight good mornings or even just practice the hinge movement without weights.
-
-2. **Rope Climbs**  
-   - **How to Do It:** If you’re comfortable with rope climbs, use your legs to assist your pull and climb up the rope. If you’re not quite there yet, don’t worry!
-   - **Form Tips:** Use your feet to pinch the rope for better grip and support. Engage your core as you pull yourself up.
-   - **Scaling Options:** If you can’t do a full rope climb, try negative rope climbs (starting at the top and lowering yourself down) or use a band for assistance.
-   - **Modifications for Beginners:** If rope climbs are too challenging, you can substitute with 5 pull-ups or 10 ring rows.
-
-### Final Thoughts
-Remember, this workout is all about pushing yourself while maintaining good form. Listen to your body and scale as needed. Whether you’re sweating it out for fun, training hard, or competing, the goal is to keep moving and enjoy the process!
-
-So, are you ready to tackle "DAILYSWEAT"? Let’s get after it and have a blast! 💪🏽
+**Building Weight:**
+- Start at 50-55% of your 1 Rep Max (1 RM) and gradually increase to 80-90% as you feel more confident. Listen to your body!
 
 ---
-*Generated on 2025-07-13T13:07:21.978Z using AI assistance*
+
+### Part 2: Conditioning
+**3 Rounds of:**
+- 7 Handstand Push-Ups
+- 7 Lateral Dumbbell Burpees
+- 50 Lateral Dumbbell Hops
+
+**Let’s break this down:**
+
+#### Handstand Push-Ups
+**How to do it:**
+1. Kick up into a handstand against a wall or use a freestanding handstand if you’re comfortable.
+2. Lower your head to the ground, keeping your elbows tucked in.
+3. Press back up to the starting position.
+
+**Scaling Options:**
+- If you can’t do Handstand Push-Ups yet, try **Pike Push-Ups** or **Shoulder Presses** with dumbbells.
+- You can also do **Box Handstand Push-Ups** by placing your feet on a box or bench.
+
+#### Lateral Dumbbell Burpees
+**How to do it:**
+1. Start standing with a dumbbell in each hand.
+2. Drop down into a burpee position (chest to the ground).
+3. Jump back up and, instead of just standing, jump laterally over the dumbbells.
+
+**Scaling Options:**
+- If you’re not comfortable with the jump, step over the dumbbells instead.
+- You can also do the burpee without the dumbbells for less intensity.
+
+#### Lateral Dumbbell Hops
+**How to do it:**
+1. Stand next to the dumbbells.
+2. Jump laterally over the dumbbells, landing softly and keeping your knees slightly bent.
+
+**Scaling Options:**
+- If jumping is too much, you can step side to side instead.
+
+---
+
+### Rounds Breakdown
+You’ll do 3 rounds of the above, then reduce the reps to 5 Handstand Push-Ups and 5 Lateral Dumbbell Burpees, and finally 3 Handstand Push-Ups and 3 Lateral Dumbbell Burpees in the last round. 
+
+### Sweat Option
+If you want to add a little extra, consider doing **Z-Press** or **Pike Push-Ups** as a finisher. These will help build shoulder strength and stability.
+
+### Train/Compete
+This WOD is designed to challenge you, so push yourself but also listen to your body. Remember, it’s all about progress, not perfection!
+
+### Final Tips
+- Stay hydrated and take breaks as needed.
+- Focus on form over speed; it’s better to do fewer reps correctly than to rush
+
+---
+*Generated on 2025-07-14T10:07:11.420Z using AI assistance*
