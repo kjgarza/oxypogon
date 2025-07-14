@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
-    "lib": ["deno.ns", "deno.window"],
-    "strict": true
+    "lib": ["deno.ns", "deno.window","es2022", "dom"],
+    "strict": true,
+     "noImplicitAny": false,
+    "target": "es2022"
   },
   "tasks": {
     "scrape": "deno run --allow-read --allow-write postprocess/scrape_workout.ts",
