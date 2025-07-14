@@ -31,7 +31,7 @@ jobs:
         with:
           http_url: https://www.crossfitmins.com/workout-of-the-day/
           axios_config: axios_config.json
-          downloaded_filename: workout_ajax_response.txt
+          downloaded_filename: workout_page.html
           postprocess: postprocess/process_workout.ts
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}

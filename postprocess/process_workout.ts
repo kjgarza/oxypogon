@@ -74,7 +74,7 @@ async function callOpenAI(workoutText: string, apiKey: string): Promise<string> 
 function extractScriptData(htmlContent: string): { pid: string, security: string } {
   const parser = new DOMParser();
   const doc = parser.parseFromString(htmlContent, "text/html");
-  
+
   let pid = '';
   let security = '';
 
@@ -84,13 +84,13 @@ function extractScriptData(htmlContent: string): { pid: string, security: string
     const scriptContent = customScript.textContent;
     if (scriptContent) {
       console.log('🔍 Found custom script content');
-      
+
       // Look for blog object with security
       const blogObjectMatch = scriptContent.match(/var\s+blog\s*=\s*\{([^}]+)\}/s);
       if (blogObjectMatch) {
         const objContent = blogObjectMatch[1];
         console.log('🔍 Found blog object in script');
-        
+
         // Extract security from blog object
         const securityMatch = objContent.match(/["']security["']\s*:\s*["']([^"']+)["']/);
         if (securityMatch) {
@@ -98,7 +98,7 @@ function extractScriptData(htmlContent: string): { pid: string, security: string
           console.log(`🔍 Found security in blog object: ${security.substring(0, 10)}...`);
         }
       }
-      
+
       // Fallback: Look for any security pattern in the script
       if (!security) {
         const securityMatch = scriptContent.match(/["']?(?:security|nonce)["']?\s*:\s*["']([^"']+)["']/i);
@@ -123,7 +123,7 @@ function extractScriptData(htmlContent: string): { pid: string, security: string
   // Method 3: Fallback - search entire HTML content for patterns
   if (!pid || !security) {
     console.log('🔍 Searching entire HTML content for fallback patterns');
-    
+
     // Look for wod-link rel pattern in HTML
     if (!pid) {
       const wodLinkMatch = htmlContent.match(/<a[^>]+class[^>]*wod-link[^>]+rel\s*=\s*["']([^"']+)["']/i);
@@ -132,7 +132,7 @@ function extractScriptData(htmlContent: string): { pid: string, security: string
         console.log(`🔍 Found PID with HTML pattern search: ${pid}`);
       }
     }
-    
+
     // Look for blog object security in HTML
     if (!security) {
       const blogSecurityMatch = htmlContent.match(/var\s+blog\s*=\s*\{[^}]*["']security["']\s*:\s*["']([^"']+)["']/i);
@@ -141,7 +141,7 @@ function extractScriptData(htmlContent: string): { pid: string, security: string
         console.log(`🔍 Found security with HTML pattern search: ${security.substring(0, 10)}...`);
       }
     }
-    
+
     // Additional fallback patterns
     if (!pid) {
       const patterns = [
@@ -149,7 +149,7 @@ function extractScriptData(htmlContent: string): { pid: string, security: string
         /post[_-]?id\s*[=:]\s*["']?(\d+)["']?/gi,
         /pid\s*[=:]\s*["']?(\d+)["']?/gi
       ];
-      
+
       for (const pattern of patterns) {
         const matches = htmlContent.matchAll(pattern);
         for (const match of matches) {
@@ -165,14 +165,14 @@ function extractScriptData(htmlContent: string): { pid: string, security: string
   }
 
   console.log(`🔍 Final extraction results - PID: ${pid || 'NOT FOUND'}, Security: ${security ? 'FOUND (' + security.substring(0, 10) + '...)' : 'NOT FOUND'}`);
-  
+
   return { pid, security };
 }
 
 
 async function fetchWorkoutData(pid: string, security: string): Promise<string> {
   const url = 'https://www.crossfitmins.com/wp-admin/admin-ajax.php';
-  
+
   // Prepare form data
   const formData = new URLSearchParams();
   formData.append('action', 'load_posts_by_ajax');
@@ -200,7 +200,7 @@ async function fetchWorkoutData(pid: string, security: string): Promise<string> 
     console.log(`📡 Response status: ${response.status}`);
 
     const responseText = await response.text();
-    
+
     if (!responseText || responseText.trim() === '') {
       throw new Error('Empty response received from server');
     }
@@ -243,7 +243,7 @@ async function processWorkoutWithAI() {
 
     // Extract pid and security from HTML
     const { pid, security } = extractScriptData(htmlContent);
-    
+
     if (!pid || !security) {
       throw new Error(`Missing required data - PID: ${pid ? 'found' : 'missing'}, Security: ${security ? 'found' : 'missing'}`);
     }
@@ -323,7 +323,7 @@ async function processWorkoutWithAI() {
     // Check if we have valid workout data to process
     if (!workoutData.success || !workoutData.data) {
       processedData.error = "No valid workout data available to process";
-      await writeJSON('workout_with_explanation.json', processedData);
+      await writeJSON('outputs/workout_with_explanation.json', processedData);
       console.log('❌ No valid workout data to process');
       return;
     }
@@ -336,7 +336,7 @@ async function processWorkoutWithAI() {
 
     if (!apiKey) {
       processedData.error = "OpenAI API key not found in environment variables";
-      await writeJSON('workout_with_explanation.json', processedData);
+      await writeJSON('outputs/workout_with_explanation.json', processedData);
       console.log('❌ OpenAI API key not found');
       return;
     }
@@ -363,10 +363,10 @@ async function processWorkoutWithAI() {
     };
 
     // Save processed data using Flat Data helpers
-    await writeJSON('workout_with_explanation.json', processedData);
+    await writeJSON('outputs/workout_with_explanation.json', processedData);
 
     // Save just the OpenAI explanation to a dedicated file
-    await writeTXT('ai_explanation.txt', explanation);
+    await writeTXT('outputs/ai_explanation.txt', explanation);
 
     // Create markdown file for easy reading
     const markdownContent = `# CrossFit MINS Workout - ${processedData.combined_content.date}
@@ -383,7 +383,7 @@ ${processedData.ai_explanation.explanation}
 *Generated on ${processedData.timestamp} using AI assistance*
 `;
 
-    await writeTXT('workout_explanation.md', markdownContent);
+    await writeTXT('outputs/workout_explanation.md', markdownContent);
 
     console.log('✅ Successfully processed workout and saved results');
     console.log(`📅 Workout date: ${processedData.combined_content.date}`);
@@ -403,7 +403,7 @@ ${processedData.ai_explanation.explanation}
       error: `Processing error: ${error.message}`
     };
 
-    await writeJSON('workout_with_explanation.json', errorData);
+    await writeJSON('outputs/workout_with_explanation.json', errorData);
   }
 }
 
