@@ -2,7 +2,7 @@
 // This script processes the workout data and generates AI explanations
 
 import { readTXT, writeJSON, writeTXT } from 'https://deno.land/x/flat@0.0.15/mod.ts';
-import { DOMParser } from "https://deno.land/x/deno_dom@v0.1.45/deno-dom-wasm.ts";
+import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 
 interface WorkoutData {
   timestamp: string;
@@ -80,6 +80,10 @@ function extractScriptData(htmlContent: string): { pid: string, security: string
 
   // Method 1: Extract security from ap-custom-script-js-extra script tag (blog object)
   const customScript = doc.getElementById('ap-custom-script-js-extra');
+  if (!customScript) {
+      console.warn('Could not find custom script element');
+      return { pid: null, security: null };
+  }
   if (customScript) {
     const scriptContent = customScript.textContent;
     if (scriptContent) {
@@ -112,6 +116,10 @@ function extractScriptData(htmlContent: string): { pid: string, security: string
 
   // Method 2: Extract PID from wod-link rel attribute
   const wodLink = doc.querySelector('a.wod-link');
+  if (!wodLink) {
+    console.warn('Could not find wod-link element');
+    return { pid: null, security: null };
+  }
   if (wodLink) {
     const relAttribute = wodLink.getAttribute('rel');
     if (relAttribute) {
