@@ -29,7 +29,7 @@ jobs:
       - name: Fetch workout data
         uses: githubocto/flat@v3.4.0
         with:
-          http_url: https://www.crossfitmins.com/wp-admin/admin-ajax.php
+          http_url: https://www.crossfitmins.com/workout-of-the-day/
           axios_config: axios_config.json
           downloaded_filename: workout_ajax_response.txt
           postprocess: postprocess/process_workout.ts

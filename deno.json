@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "lib": ["deno.window"],
+    "lib": ["deno.ns", "deno.window"],
     "strict": true
   },
   "tasks": {
