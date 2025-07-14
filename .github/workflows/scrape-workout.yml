@@ -26,6 +26,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
+      - name: Delete lockfile if exists
+        run: rm -f deno.lock
+
       - name: Fetch workout data
         uses: githubocto/flat@v3.4.0
         with:
