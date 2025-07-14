@@ -1,7 +1,6 @@
 {
-  "method": "post",
+  "method": "get",
   "headers": {
-    "Content-Type": "application/x-www-form-urlencoded"
-  },
-  "data": "action=load_posts_by_ajax&pid=7704&security=202a656113"
+    "Content-Type": "text/html"
+  }
 }
