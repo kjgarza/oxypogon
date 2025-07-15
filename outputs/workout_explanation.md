@@ -9,4 +9,4 @@ Workout of the Day 15.07.2025 WOD1.Hang Power Snatch On the 1:45 x 7 3 Hang Powe
 [object Object]
 
 ---
-*Generated on 2025-07-15T19:45:16.128Z using AI assistance*
+*Generated on 2025-07-15T19:50:15.718Z using AI assistance*
