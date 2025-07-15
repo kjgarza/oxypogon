@@ -59,51 +59,51 @@ async function callOpenAI(workoutText: string, apiKey: string): Promise<string> 
       ],
       max_tokens: 1000,
       temperature: 0.2,
-      tools: [
-        {
-          type: "function",
-          function: {
-            name: "generate_wod",
-            description: "Generates a CrossFit Workout of the Day (WOD).",
-            parameters: {
-              type: "object",
-              required: ["name", "sections"],
-              properties: {
-                name: { type: "string" },
-                sections: {
-                  type: "array",
-                  items: {
-                    type: "object",
-                    required: ["type"],
-                    properties: {
-                      type: {
-                        type: "string",
-                        enum: ["Strength", "Conditioning", "Interval", "AMRAP", "For Time", "Team"]
-                      },
-                      description: { type: "string" },
-                      timing: { type: "string" },
-                      movements: {
-                        type: "array",
-                        items: {
-                          type: "object",
-                          required: ["name", "instructions", "details"],
-                          properties: {
-                            name: { type: "string" },
-                            reps: { type: "string" },
-                            instructions: { type: "string", minLength: 100 },
-                            scaling: { type: "string" },
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      ],
-      tool_choice: { type: "function", function: { name: "generate_wod" } }
+      // tools: [
+      //   {
+      //     type: "function",
+      //     function: {
+      //       name: "generate_wod",
+      //       description: "Generates a CrossFit Workout of the Day (WOD).",
+      //       parameters: {
+      //         type: "object",
+      //         required: ["name", "sections"],
+      //         properties: {
+      //           name: { type: "string" },
+      //           sections: {
+      //             type: "array",
+      //             items: {
+      //               type: "object",
+      //               required: ["type"],
+      //               properties: {
+      //                 type: {
+      //                   type: "string",
+      //                   enum: ["Strength", "Conditioning", "Interval", "AMRAP", "For Time", "Team"]
+      //                 },
+      //                 description: { type: "string" },
+      //                 timing: { type: "string" },
+      //                 movements: {
+      //                   type: "array",
+      //                   items: {
+      //                     type: "object",
+      //                     required: ["name", "instructions", "details"],
+      //                     properties: {
+      //                       name: { type: "string" },
+      //                       reps: { type: "string" },
+      //                       instructions: { type: "string", minLength: 100 },
+      //                       scaling: { type: "string" },
+      //                     }
+      //                   }
+      //                 }
+      //               }
+      //             }
+      //           }
+      //         }
+      //       }
+      //     }
+      //   }
+      // ],
+      // tool_choice: { type: "function", function: { name: "generate_wod" } }
     })
   });
 
@@ -115,7 +115,7 @@ async function callOpenAI(workoutText: string, apiKey: string): Promise<string> 
 
   const data = await response.json();
 
-  return data.choices[0].message.tool_calls[0].function.arguments;
+  return data.choices[0].message.content.trim();
 }
 
 function extractScriptData(htmlContent: string): { pid: string, security: string } {
@@ -407,7 +407,7 @@ async function processWorkoutWithAI() {
     processedData.ai_explanation = {
       generated_at: new Date().toISOString(),
       model: 'gpt-4o-mini',
-      explanation: JSON.parse(explanation)
+      explanation: explanation
     };
     processedData.combined_content = {
       date: workoutData.data.date,
