@@ -57,7 +57,7 @@ async function callOpenAI(workoutText: string, apiKey: string): Promise<string> 
           content: prompt
         }
       ],
-      max_tokens: 1500,
+      max_tokens: 1000,
       temperature: 0.2,
       tools: [
         {
@@ -81,46 +81,23 @@ async function callOpenAI(workoutText: string, apiKey: string): Promise<string> 
                         enum: ["Strength", "Conditioning", "Interval", "AMRAP", "For Time", "Team"]
                       },
                       description: { type: "string" },
-                      timing: {
-                        type: "object",
-                        properties: {
-                          work: { type: "integer" },
-                          rounds: { type: ["integer", "string"] },
-                          intervals: { type: "integer" },
-                          rest: { type: ["integer", "string"] }
-                        }
-                      },
+                      timing: { type: "string" },
                       movements: {
                         type: "array",
                         items: {
                           type: "object",
-                          required: ["name", "reps"],
+                          required: ["name", "instructions", "details"],
                           properties: {
                             name: { type: "string" },
-                            reps: { type: ["integer", "string"] },
-                            sets: { type: "integer" },
-                            weight: { type: ["number", "string"] },
-                            equipment: { type: "string" },
-                            instructions: { type: "string" },
+                            reps: { type: "string" },
+                            instructions: { type: "string", minLength: 100 },
                             scaling: { type: "string" },
                           }
-                        }
-                      },
-                      team: {
-                        type: "object",
-                        properties: {
-                          size: { type: "integer" },
-                          format: { type: "string" }
                         }
                       }
                     }
                   }
-                },
-                scaling: {
-                  type: "object",
-                  additionalProperties: true
-                },
-                notes: { type: "string" }
+                }
               }
             }
           }
