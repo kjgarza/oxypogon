@@ -1,90 +1,12 @@
-# CrossFit MINS Workout - 2025-07-14
+# CrossFit MINS Workout - 2025-07-15
 
 ## CrossFit MINS Workout
 
 ### Workout
-Workout of the Day 14.07.2025 WOD",1. Push Jerk On the 1:30 x 7 2 Push Jerks *start at 50-55% and build to 80-90% of 1 RM 2.Conditioning 3 Rounds: 7 Handstand Push Ups 7 Laterall Dumbell Burpees 50 Laterall Dumbell Hops 3 Rounds: 5 Handstand Push Ups 5 Laterall Dumbell Burpees 50 Laterall Dumbell Hops 3 Rounds: 3 Handstand Push Ups 3 Laterall Dumbell Burpees Sweat: Z-Press or Pike Push Up Train: Compete:
+Workout of the Day 15.07.2025 WOD1.Hang Power Snatch On the 1:45 x 7 3 Hang Power Snatches *start at 50% and build to 80-85% of 1 RM 2.Conditionig For Time: 100 Alternating Dumbbell Hang Snatches 100 V-ups 100 Single Dumbbell Reverse Lunges Sweat: 10/5; Tuck Ups Train: 12,5/7,5 Compete: 15/10
 
 ### Expert Explanation
-Hey there, fitness friends! Today’s WOD is a fun mix of strength and conditioning that’s going to challenge you, but don’t worry, I’m here to guide you through it step by step. Let’s break it down!
-
-### Part 1: Push Jerks
-
-**What to Do:**
-- You’ll be doing 2 Push Jerks every 1:30 for a total of 7 rounds. 
-
-**How to Perform a Push Jerk:**
-1. **Start Position:** Stand with your feet shoulder-width apart, barbell resting on your shoulders (front rack position).
-2. **Dip:** Bend your knees slightly and push your hips back. This is your dip.
-3. **Drive:** Explode upward by straightening your legs and driving through your heels.
-4. **Catch:** As you drive up, press the bar overhead, locking your elbows out. Make sure your head comes slightly forward to let the bar pass.
-5. **Finish:** Stand tall with the bar overhead, arms locked out, and core engaged.
-
-**Form Tips:**
-- Keep your core tight throughout the movement.
-- Your elbows should be slightly in front of the bar during the dip.
-- Make sure to land with your feet in the same position as your starting stance.
-
-**Scaling Options:**
-- If you’re new to the Push Jerk, you can start with a lighter weight or even a PVC pipe to practice the movement.
-- If you’re not comfortable with the overhead position, you can substitute with a Push Press (no dip) or even a Dumbbell Shoulder Press.
-
-**Building Weight:**
-- Start at 50-55% of your 1 Rep Max (1 RM) and gradually increase to 80-90% as you feel comfortable. Listen to your body!
+[object Object]
 
 ---
-
-### Part 2: Conditioning
-
-Now, let’s get into the conditioning part, which is a bit of a grind but super rewarding!
-
-**3 Rounds of:**
-- **7 Handstand Push-Ups**
-- **7 Lateral Dumbbell Burpees**
-- **50 Lateral Dumbbell Hops**
-
-#### Handstand Push-Ups
-**How to Perform:**
-1. Kick up into a handstand against a wall or do a freestanding handstand if you’re feeling confident.
-2. Lower your head to the ground, keeping your elbows tucked in.
-3. Press back up to the starting position.
-
-**Scaling Options:**
-- If you can’t do Handstand Push-Ups yet, try pike push-ups or regular push-ups with your feet elevated on a box or bench.
-
-#### Lateral Dumbbell Burpees
-**How to Perform:**
-1. Start standing with a dumbbell in each hand.
-2. Drop down into a burpee: chest to the ground, then jump back up.
-3. Jump laterally over the dumbbells to complete one rep.
-
-**Scaling Options:**
-- If the burpee is too challenging, step back instead of jumping, or just do a squat thrust without the push-up.
-
-#### Lateral Dumbbell Hops
-**How to Perform:**
-1. Stand next to the dumbbells.
-2. Jump laterally over the dumbbells, landing softly and maintaining balance.
-
-**Scaling Options:**
-- If jumping is tough, you can step side to side instead of jumping.
-
----
-
-### Rounds Breakdown
-You’ll do 3 rounds of 7 Handstand Push-Ups, 7 Lateral Dumbbell Burpees, and 50 Lateral Dumbbell Hops. Then, you’ll drop the reps to 5 and then to 3 for the next two sets. This is a great way to keep the intensity high while allowing for some recovery as the reps decrease.
-
----
-
-### Sweat Option
-If you’re looking for a lighter workout today, consider doing Z-Press or Pike Push-Ups instead of Handstand Push-Ups. This will still give you a great shoulder workout without the intensity of going upside down.
-
-### Train/Compete
-This section is for those who want to push their limits. If you’re feeling good, go for it! Just remember to maintain good form and listen to your body.
-
----
-
-And there you have it! A solid WOD that’s going to test your strength and conditioning. Remember to hydrate, warm up properly, and most importantly, have fun! You’ve got this! 💪
-
----
-*Generated on 2025-07-14T20:44:59.697Z using AI assistance*
+*Generated on 2025-07-15T19:45:16.128Z using AI assistance*

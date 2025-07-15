@@ -37,7 +37,7 @@ interface ProcessedWorkoutData {
 }
 
 async function callOpenAI(workoutText: string, apiKey: string): Promise<string> {
-  const prompt = `Explain the following WOD step by step, using a casual and frienly tone and a conversational style. including proper form tips, scaling options, and potential modifications for beginners:\n\n${workoutText}`;
+  const prompt = `Explain the following WOD step by step, using a casual and frienly tone and a conversational style. describe in instructions how to perform the movement indetails step by step-- including proper form tips, scaling options, and potential modifications for beginners:\n\n${workoutText}`;
 
   const response = await fetch('https://api.openai.com/v1/chat/completions', {
     method: 'POST',
@@ -57,10 +57,56 @@ async function callOpenAI(workoutText: string, apiKey: string): Promise<string> 
           content: prompt
         }
       ],
-      max_tokens: 900,
-      temperature: 0.2
+      max_tokens: 1000,
+      temperature: 0.2,
+      tools: [
+        {
+          type: "function",
+          function: {
+            name: "generate_wod",
+            description: "Generates a CrossFit Workout of the Day (WOD).",
+            parameters: {
+              type: "object",
+              required: ["name", "sections"],
+              properties: {
+                name: { type: "string" },
+                sections: {
+                  type: "array",
+                  items: {
+                    type: "object",
+                    required: ["type"],
+                    properties: {
+                      type: {
+                        type: "string",
+                        enum: ["Strength", "Conditioning", "Interval", "AMRAP", "For Time", "Team"]
+                      },
+                      description: { type: "string" },
+                      timing: { type: "string" },
+                      movements: {
+                        type: "array",
+                        items: {
+                          type: "object",
+                          required: ["name", "instructions", "details"],
+                          properties: {
+                            name: { type: "string" },
+                            reps: { type: "string" },
+                            instructions: { type: "string", minLength: 100 },
+                            scaling: { type: "string" },
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      tool_choice: { type: "function", function: { name: "generate_wod" } }
     })
   });
+
 
   if (!response.ok) {
     const errorBody = await response.text();
@@ -68,7 +114,8 @@ async function callOpenAI(workoutText: string, apiKey: string): Promise<string> 
   }
 
   const data = await response.json();
-  return data.choices[0].message.content.trim();
+
+  return data.choices[0].message.tool_calls[0].function.arguments;
 }
 
 function extractScriptData(htmlContent: string): { pid: string, security: string } {
@@ -360,7 +407,7 @@ async function processWorkoutWithAI() {
     processedData.ai_explanation = {
       generated_at: new Date().toISOString(),
       model: 'gpt-4o-mini',
-      explanation: explanation
+      explanation: JSON.parse(explanation)
     };
     processedData.combined_content = {
       date: workoutData.data.date,
