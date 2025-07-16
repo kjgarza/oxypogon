@@ -2,7 +2,7 @@ name: Flat Data - Scrape CrossFit Workout
 
 on:
   schedule:
-    - cron: '0 8 * * 0,1,3,5'
+    - cron: '0 6 * * 0,1,3,5'
   workflow_dispatch: # Allow manual triggering
   # push:
   #   paths:
