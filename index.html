@@ -6,21 +6,15 @@
   <title>CrossFit Workout Viewer</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/typography@0.5.16/src/index.min.js"></script>
   <script>
     tailwind.config = {
-      theme: {
-        extend: {
-          typography: {
-            DEFAULT: {
-              css: {
-                maxWidth: 'none',
-              },
-            },
-          },
-        },
-      },
+      plugins: [
+        require('@tailwindcss/typography'),
+      ],
     }
   </script>
+
 </head>
 <body class="bg-gray-100 text-gray-900 min-h-screen">
   <div class="container mx-auto p-6 max-w-4xl">
@@ -66,6 +60,7 @@
             </h3>
             <div class="bg-purple-50 p-4 rounded-lg">
               <div class="prose prose-sm max-w-none text-gray-700">
+
                 ${marked.parse(data.ai_explanation.explanation)}
               </div>
             </div>
@@ -116,138 +111,5 @@
         `;
       });
   </script>
-<!--
-  <script>
-  fetch('outputs/workout_with_explanation.json')
-    .then(response => response.json())
-    .then(data => {
-      const output = document.getElementById('output');
-
-      // Create the main workout container
-      const workoutCard = document.createElement('div');
-      workoutCard.className = "mb-10";
-
-      // Title
-      const title = document.createElement('h2');
-      title.className = "text-2xl font-bold text-gray-800 mb-4";
-      title.textContent = `Workout: ${data.ai_explanation.explanation.name}`;
-      workoutCard.appendChild(title);
-
-      // Notes
-      //if (data.ai_explanation.explanation.notes) {
-      //  const notes = document.createElement('p');
-      //  notes.className = "text-gray-600 italic mb-6";
-      //  notes.textContent = data.ai_explanation.explanation.notes;
-      //  workoutCard.appendChild(notes);
-      //}
-
-      // Loop through sections
-      data.ai_explanation.explanation.sections.forEach(section => {
-        const sectionColors = {
-          "Strength": "green",
-          "Conditioning": "blue",
-          "AMRAP": "purple",
-          "Interval": "yellow",
-          "Team": "red",
-          "For Time": "gray"
-        };
-        const color = sectionColors[section.type] || "gray";
-
-        const sectionCard = document.createElement('div');
-        sectionCard.className = `bg-white shadow rounded-lg border-l-4 border-${color}-500 p-6 mb-8`;
-
-        const header = document.createElement('h3');
-        header.className = `text-xl font-semibold text-${color}-700 mb-2`;
-        header.textContent = section.type;
-        sectionCard.appendChild(header);
-
-        const desc = document.createElement('p');
-        desc.className = "text-gray-700 mb-2";
-        desc.textContent = section.description || '';
-        sectionCard.appendChild(desc);
-
-        // Timing
-        if (section.timing) {
-          const timingP = document.createElement('p');
-          timingP.className = "text-sm text-gray-600 mb-4";
-
-          const parts = [];
-          if (section.timing.rounds) parts.push(`${section.timing.rounds} rounds`);
-          if (section.timing.work) parts.push(`${section.timing.work}s work`);
-          if (section.timing.rest) parts.push(`${section.timing.rest}s rest`);
-          if (section.timing.intervals) parts.push(`${section.timing.intervals} intervals`);
-          timingP.textContent = parts.join(' • ');
-          sectionCard.appendChild(timingP);
-        }
-
-        // Movements grid
-        const movementGrid = document.createElement('div');
-        movementGrid.className = "grid md:grid-cols-2 gap-6";
-
-        section.movements.forEach(move => {
-          const moveCard = document.createElement('div');
-          moveCard.className = "bg-gray-50 p-4 rounded-lg";
-
-          const moveTitle = document.createElement('h4');
-          moveTitle.className = "font-bold text-gray-800";
-          moveTitle.textContent = move.name;
-          moveCard.appendChild(moveTitle);
-
-          const summary = document.createElement('p');
-          summary.className = "text-sm text-gray-600 mb-1";
-          const sets = move.sets ? `${move.sets} sets of ` : '';
-          const reps = `${move.reps} reps`;
-          const weight = move.weight ? ` @ ${move.weight} weight` : '';
-          summary.textContent = `${sets}${reps}${weight}`.trim();
-          moveCard.appendChild(summary);
-
-          const formTip = document.createElement('p');
-          formTip.className = "text-sm text-gray-700";
-          formTip.innerHTML = `<strong>Form:</strong> ${move.instructions || ''}`;
-          moveCard.appendChild(formTip);
-
-          if (move.scaling) {
-            const scaleTip = document.createElement('p');
-            scaleTip.className = "text-sm text-gray-500 mt-1";
-            scaleTip.innerHTML = `<strong>Scaling:</strong> ${move.scaling}`;
-            moveCard.appendChild(scaleTip);
-          }
-
-          movementGrid.appendChild(moveCard);
-        });
-
-        sectionCard.appendChild(movementGrid);
-        workoutCard.appendChild(sectionCard);
-      });
-
-      output.appendChild(workoutCard);
-
-            // Add metadata card
-      const metadataCard = document.createElement('div');
-      metadataCard.className = 'bg-white shadow-lg rounded-lg p-6 mt-6';
-      metadataCard.innerHTML = `
-        <h3 class="text-lg font-semibold mb-4 text-gray-800">Workout Details</h3>
-        <div class="grid md:grid-cols-2 gap-4 text-sm">
-          <div>
-            <p class="text-gray-600">Source URL:</p>
-            <p class="text-blue-600 break-all">${data.original_data.source_url}</p>
-          </div>
-          <div>
-            <p class="text-gray-600">Data Retrieved:</p>
-            <p class="text-gray-800">${new Date(data.original_data.timestamp).toLocaleString()}</p>
-          </div>
-          <div>
-            <p class="text-gray-600">AI Model:</p>
-            <p class="text-gray-800">${data.ai_explanation?.model || 'N/A'}</p>
-          </div>
-          <div>
-            <p class="text-gray-600">Status:</p>
-            <p class="text-green-600 font-medium">${data.success ? 'Success' : 'Failed'}</p>
-          </div>
-        </div>
-      `;
-      output.appendChild(metadataCard);
-    });
-</script> -->
 </body>
 </html>
