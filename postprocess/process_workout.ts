@@ -4,6 +4,8 @@
 import { readTXT, writeJSON, writeTXT } from 'https://deno.land/x/flat@0.0.15/mod.ts';
 import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 
+import { USER_PROMPT, SYSTEM_PROMPT } from './constants.ts';
+
 interface WorkoutData {
   timestamp: string;
   source_url: string;
@@ -37,74 +39,29 @@ interface ProcessedWorkoutData {
 }
 
 async function callOpenAI(workoutText: string, apiKey: string): Promise<string> {
-  const prompt = `Explain the following WOD step by step, using a casual and frienly tone and a conversational style. describe in instructions how to perform the movement indetails step by step-- including proper form tips, scaling options, and potential modifications for beginners:\n\n${workoutText}`;
+  const prompt = `${USER_PROMPT}:\n\n${workoutText}`;
 
-  const response = await fetch('https://api.openai.com/v1/chat/completions', {
-    method: 'POST',
+  const response = await fetch("https://api.openai.com/v1/chat/completions", {
+    method: "POST",
     headers: {
-      'Authorization': `Bearer ${apiKey}`,
-      'Content-Type': 'application/json',
+      Authorization: `Bearer ${apiKey}`,
+      "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      model: 'gpt-4o-mini',
+      model: "gpt-4o-mini",
       messages: [
         {
-          role: 'system',
-          content: 'Act as a senior CrossFit coach with extensive experience in workout programming and technique coaching.'
+          role: "system",
+          content: SYSTEM_PROMPT,
         },
         {
-          role: 'user',
-          content: prompt
-        }
+          role: "user",
+          content: prompt,
+        },
       ],
-      max_tokens: 1000,
+      max_tokens: 1300,
       temperature: 0.2,
-      // tools: [
-      //   {
-      //     type: "function",
-      //     function: {
-      //       name: "generate_wod",
-      //       description: "Generates a CrossFit Workout of the Day (WOD).",
-      //       parameters: {
-      //         type: "object",
-      //         required: ["name", "sections"],
-      //         properties: {
-      //           name: { type: "string" },
-      //           sections: {
-      //             type: "array",
-      //             items: {
-      //               type: "object",
-      //               required: ["type"],
-      //               properties: {
-      //                 type: {
-      //                   type: "string",
-      //                   enum: ["Strength", "Conditioning", "Interval", "AMRAP", "For Time", "Team"]
-      //                 },
-      //                 description: { type: "string" },
-      //                 timing: { type: "string" },
-      //                 movements: {
-      //                   type: "array",
-      //                   items: {
-      //                     type: "object",
-      //                     required: ["name", "instructions", "details"],
-      //                     properties: {
-      //                       name: { type: "string" },
-      //                       reps: { type: "string" },
-      //                       instructions: { type: "string", minLength: 100 },
-      //                       scaling: { type: "string" },
-      //                     }
-      //                   }
-      //                 }
-      //               }
-      //             }
-      //           }
-      //         }
-      //       }
-      //     }
-      //   }
-      // ],
-      // tool_choice: { type: "function", function: { name: "generate_wod" } }
-    })
+    }),
   });
 
 
@@ -271,6 +228,36 @@ async function fetchWorkoutData(pid: string, security: string): Promise<string> 
   }
 }
 
+    function formatTextToHTML(text: string): string {
+      if (typeof text !== "string") {
+        return "";
+      }
+
+      return text
+        .split("\n")
+        .map((line) => {
+          line = line.trim();
+          if (!line) return "<br>";
+          if (line.match(/^#{1,6}\s/)) {
+            const level = line.match(/^#{1,6}/)[0].length;
+            const text = line.replace(/^#{1,6}\s/, "");
+            return `<h${
+              level + 2
+            } class="font-semibold text-gray-800 mt-4 mb-2">${text}</h${
+              level + 2
+            }>`;
+          }
+          if (line.startsWith("- ") || line.startsWith("* ")) {
+            return `<li class="ml-4">${line.substring(2)}</li>`;
+          }
+          if (line.match(/^\d+\.\s/)) {
+            return `<li class="ml-4">${line.replace(/^\d+\.\s/, "")}</li>`;
+          }
+          return `<p class="mb-2">${line}</p>`;
+        })
+        .join("");
+    }
+
 
 async function processWorkoutWithAI() {
   console.log('🚀 Starting workout processing with AI...');
@@ -402,26 +389,29 @@ async function processWorkoutWithAI() {
     // Generate AI explanation using the fetched workout data
     const explanation = await callOpenAI(workoutData.data.full_text, apiKey);
 
+    const content = formatTextToHTML(explanation);
+
     // Create processed data
     processedData.success = true;
     processedData.ai_explanation = {
       generated_at: new Date().toISOString(),
-      model: 'gpt-4o-mini',
-      explanation: explanation
+      model: "gpt-4o-mini",
+      explanation: content,
     };
     processedData.combined_content = {
       date: workoutData.data.date,
       title: workoutData.data.title,
       workout_text: workoutData.data.text,
-      ai_explanation: explanation,
-      full_content: `${workoutData.data.full_text}\n\n--- AI EXPLANATION ---\n\n${explanation}`
+      ai_explanation: content,
+      full_content: `${workoutData.data.full_text}\n\n--- AI EXPLANATION ---\n\n${explanation}`,
     };
 
     // Save processed data using Flat Data helpers
     await writeJSON('outputs/workout_with_explanation.json', processedData);
 
+
     // Save just the OpenAI explanation to a dedicated file
-    await writeTXT('outputs/ai_explanation.txt', explanation);
+    await writeTXT("outputs/ai_explanation.txt", explanation);
 
     // Create markdown file for easy reading
     const markdownContent = `# CrossFit MINS Workout - ${processedData.combined_content.date}
@@ -432,7 +422,7 @@ async function processWorkoutWithAI() {
 ${processedData.combined_content.workout_text}
 
 ### Expert Explanation
-${processedData.ai_explanation.explanation}
+${explanation}
 
 ---
 *Generated on ${processedData.timestamp} using AI assistance*
