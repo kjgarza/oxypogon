@@ -4,7 +4,7 @@
 import { readTXT, writeJSON, writeTXT } from 'https://deno.land/x/flat@0.0.15/mod.ts';
 import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 
-import { USER_PROMPT, SYSTEM_PROMPT } from './constants.ts';
+import { USER_PROMPT, SYSTEM_PROMPT, EXTRACT_PROMPT } from "./constants.ts";
 
 interface WorkoutData {
   timestamp: string;
@@ -38,8 +38,9 @@ interface ProcessedWorkoutData {
   error?: string;
 }
 
-async function callOpenAI(workoutText: string, apiKey: string): Promise<string> {
-  const prompt = `${USER_PROMPT}:\n\n${workoutText}`;
+async function callOpenAI(workoutText: string, apiKey: string, prompt: string): Promise<string> {
+
+  const instruction = `${prompt}:\n\n${workoutText}`;
 
   const response = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
@@ -56,7 +57,7 @@ async function callOpenAI(workoutText: string, apiKey: string): Promise<string> 
         },
         {
           role: "user",
-          content: prompt,
+          content: instruction,
         },
       ],
       max_tokens: 1300,
@@ -386,8 +387,14 @@ async function processWorkoutWithAI() {
     console.log('🤖 Generating AI explanation...');
     console.log(`📝 Processing workout: ${workoutData.data.title}`);
 
+    const wod = await callOpenAI(
+      workoutData.data.full_text,
+      apiKey,
+      EXTRACT_PROMPT
+    );
+
     // Generate AI explanation using the fetched workout data
-    const explanation = await callOpenAI(workoutData.data.full_text, apiKey);
+    const explanation = await callOpenAI(wod, apiKey, USER_PROMPT);
 
     const content = formatTextToHTML(explanation);
 
@@ -401,7 +408,7 @@ async function processWorkoutWithAI() {
     processedData.combined_content = {
       date: workoutData.data.date,
       title: workoutData.data.title,
-      workout_text: workoutData.data.text,
+      workout_text: formatTextToHTML(wod),
       ai_explanation: content,
       full_content: `${workoutData.data.full_text}\n\n--- AI EXPLANATION ---\n\n${explanation}`,
     };

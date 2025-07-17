@@ -54,8 +54,13 @@ Be thorough and approachable in your explanations, as if speaking directly to a 
         - Aim for steady pace; break up big sets early, especially on core and grip-intensive moves.
 
 
-**WOD:**
+**WOD:**\n
 `;
 
 export const SYSTEM_PROMPT =
   "Act as a senior CrossFit coach with extensive experience in workout programming and technique coaching.";
+
+
+export const EXTRACT_PROMPT =
+"Given the provided workout text, extracct the workout in a succinct format. " +
+"WOD:\n";

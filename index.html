@@ -6,12 +6,8 @@
   <title>CrossFit Workout Viewer</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
- <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/typography@0.5.16/src/index.min.js"></script>
   <script>
     tailwind.config = {
-      plugins: [
-        require('@tailwindcss/typography'),
-      ],
     }
   </script>
 
@@ -48,6 +44,17 @@
         // Extract workout structure from the text
         const workoutText = data.combined_content.workout_text;
         const workoutLines = workoutText.split(/\s+/);
+
+        // Create workout text card
+        const workoutTextCard = document.createElement('div');
+        workoutTextCard.className = 'bg-gray-50 p-4 rounded-lg mb-6';
+        workoutTextCard.innerHTML = `
+            <h3 class="text-lg font-semibold mb-3 text-gray-800">Workout</h3>
+            <div class="bg-gradient-to-br from-green-50 to-green-100 border-2 border-green-200 p-4 rounded-lg shadow-sm">
+            <pre class="whitespace-pre-wrap text-green-800 font-mono text-sm">${marked.parse(workoutText)}</pre>
+            </div>
+          `;
+        workoutContent.appendChild(workoutTextCard);
 
         // AI Explanation section
         if (data.ai_explanation && data.ai_explanation.explanation) {
