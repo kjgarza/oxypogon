@@ -1,101 +1,82 @@
-# CrossFit MINS Workout - 2025-07-18
+# CrossFit MINS Workout - 2025-07-20
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">**Workout of the Day (WOD) - 18.07.2025**</p><br><li class="ml-4">**Strength: Power Clean**</li><li class="ml-4">On the 2:00 x 6</li><li class="ml-4">3 Power Cleans with a 2-second pause at knee height</li><li class="ml-4">Start at 40-50% and build to 70-75% of 1 RM Power Clean</li><br><li class="ml-4">**Conditioning: For Time**</li><li class="ml-4">18-15-12-9-6-3 reps of:</li><li class="ml-4">Power Cleans</li><li class="ml-4">Toes to Bar</li><li class="ml-4">Hand Release Push Ups</li><br><p class="mb-2">**Scaling Options:**</p><li class="ml-4">Sweat: 30/20; Knee Raises; Kneeling Push Ups</li><li class="ml-4">Train: 45/30</li><li class="ml-4">Compete: 60/40</li>
+<p class="mb-2">**Workout of the Day (WOD) - 20.07.2025**</p><br><p class="mb-2">**Format:** On the 5:00 x 6 Rounds</p><li class="ml-4">15 Kettlebell Swings</li><li class="ml-4">20 Plate Russian Twists</li><li class="ml-4">15 Slam Balls</li><li class="ml-4">Max Calories on Ski Erg and Bike (switch between the two)</li><br><p class="mb-2">**Intensity Levels:**</p><li class="ml-4">Sweat: 16/8; 10/5; 15/10</li><li class="ml-4">Train: 20/12; 15/10</li><li class="ml-4">Compete: 24/16; 20/15; 20/15</li>
 
 ### Expert Explanation
 ## Workout Overview
-Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your power output and muscular endurance. We’ll kick things off with a strength segment focusing on the Power Clean, where we’ll emphasize technique and control. Then, we’ll dive into a conditioning piece that will test your grit and stamina with a descending rep scheme of Power Cleans, Toes to Bar, and Hand Release Push-Ups. Let’s break it down step by step!
+Hey everyone! Today’s WOD is structured as an interval workout where we’ll be completing 6 rounds of four different movements every 5 minutes. The goal here is to build muscular endurance and cardiovascular fitness while keeping the intensity high. We’ll be working with kettlebells, plates, slam balls, and some cardio on the Ski Erg and bike. This workout is designed to challenge your core, grip strength, and overall conditioning, so let’s break it down!
 
----
+## Workout Components
+1. **Kettlebell Swings (15 reps)**
+   - **Technique Steps:**
+     - Start with your feet shoulder-width apart, kettlebell on the ground in front of you.
+     - Hinge at your hips, keeping your back straight, and grab the kettlebell with both hands.
+     - Engage your core, and with a powerful hip thrust, swing the kettlebell up to shoulder height.
+     - Let the kettlebell swing back down between your legs, maintaining control.
+   - **Form Tips:**
+     - Keep your arms relaxed; the power should come from your hips.
+     - Ensure your back stays flat throughout the movement.
+   - **Scaling/Modifications:**
+     - Use a lighter kettlebell if you’re new to the movement.
+     - If kettlebells aren’t available, you can substitute with dumbbell swings.
+   - **Loading:**
+     - **Sweat:** 12kg/8kg
+     - **Train:** 16kg/12kg
+     - **Compete:** 24kg/16kg
 
-## Strength Segment: Power Clean
-### 1. **Power Clean**
-- **Technique Steps:**
-    1. **Setup:** Start with your feet hip-width apart, barbell over the midfoot, and your shins close to the bar.
-    2. **Grip:** Bend at the hips and knees to grab the bar with a grip just outside your knees.
-    3. **First Pull:** Stand up by extending your knees while keeping your back straight, lifting the bar to just above the knees.
-    4. **Second Pull:** As the bar reaches knee height, explosively extend your hips and shrug your shoulders, pulling the bar up.
-    5. **Catch:** Drop under the bar, rotating your elbows around and catching it on your shoulders in a quarter squat.
-    6. **Stand:** Stand tall to finish the lift.
-  
-- **Form Tips:**
-    - Keep the bar close to your body throughout the lift.
-    - Focus on driving through your heels during the second pull.
-    - Ensure your elbows are high and your chest is up when catching the bar.
+2. **Plate Russian Twists (20 reps)**
+   - **Technique Steps:**
+     - Sit on the ground with your knees bent and feet flat.
+     - Hold a weight plate with both hands, lean back slightly, and lift your feet off the ground if you can.
+     - Rotate your torso to one side, tapping the plate on the ground, then rotate to the other side.
+   - **Form Tips:**
+     - Keep your core engaged and back straight; avoid rounding your spine.
+     - Move slowly and with control to maximize core engagement.
+   - **Scaling/Modifications:**
+     - You can perform this movement without a weight plate or keep your feet on the ground for more stability.
+   - **Loading:**
+     - **Sweat:** 5kg/2.5kg
+     - **Train:** 10kg/5kg
+     - **Compete:** 15kg/10kg
 
-- **Scaling/Modifications:**
-    - If you’re new to the Power Clean, start with a PVC pipe or a lighter barbell to master the technique.
-    - You can also practice with dumbbells or kettlebells if you’re not comfortable with the barbell yet.
+3. **Slam Balls (15 reps)**
+   - **Technique Steps:**
+     - Stand with your feet shoulder-width apart, holding the slam ball at chest level.
+     - Squat down slightly, then explosively lift the ball overhead and slam it down to the ground.
+     - Catch the ball on the bounce and repeat.
+   - **Form Tips:**
+     - Use your legs to generate power; don’t just rely on your arms.
+     - Keep your core tight to protect your back during the slam.
+   - **Scaling/Modifications:**
+     - Use a lighter slam ball or perform the movement with a medicine ball if needed.
+   - **Loading:**
+     - **Sweat:** 6kg/4kg
+     - **Train:** 9kg/6kg
+     - **Compete:** 12kg/9kg
 
-- **Loading:**
-    - Start at 40-50% of your 1RM and aim to build up to 70-75% over the six sets. Focus on maintaining good form rather than just lifting heavy.
-
----
-
-## Conditioning Segment: For Time
-### 2. **For Time: 18-15-12-9-6-3 reps of:**
-- **Power Cleans**
-- **Toes to Bar**
-- **Hand Release Push-Ups**
-
-### Breakdown of Each Movement:
-#### A. **Power Cleans**
-- **Technique Steps:** (Same as above)
-  
-- **Form Tips:**
-    - Maintain a strong core throughout the movement.
-    - Use your legs to drive the bar up, not just your arms.
-
-- **Scaling/Modifications:**
-    - Sweat: Use a lighter weight (30/20 kg) or perform Dumbbell Power Cleans.
-    - Train: Use 45/30 kg.
-    - Compete: Use 60/40 kg.
-
-#### B. **Toes to Bar**
-- **Technique Steps:**
-    1. Hang from the bar with an overhand grip, arms fully extended.
-    2. Engage your core and initiate the movement by bringing your knees up towards your chest.
-    3. As your knees rise, extend your legs and reach your toes to the bar.
-    4. Lower back down with control to the starting position.
-
-- **Form Tips:**
-    - Keep your shoulders engaged and avoid swinging.
-    - Focus on using your core rather than just your hip flexors.
-
-- **Scaling/Modifications:**
-    - Sweat: Knee Raises (bring knees to chest instead of toes to bar).
-    - Train: Toes to Bar as described.
-    - Compete: Toes to Bar as described.
-
-#### C. **Hand Release Push-Ups**
-- **Technique Steps:**
-    1. Start in a plank position with your hands slightly wider than shoulder-width.
-    2. Lower your body until your chest touches the ground.
-    3. Lift your hands off the ground briefly at the bottom.
-    4. Push back up to the starting position.
-
-- **Form Tips:**
-    - Keep your body in a straight line from head to heels.
-    - Engage your core to prevent sagging in your hips.
-
-- **Scaling/Modifications:**
-    - Sweat: Kneeling Push-Ups (perform on your knees).
-    - Train: Standard Hand Release Push-Ups.
-    - Compete: Standard Hand Release Push-Ups.
-
----
+4. **Max Calories on Ski Erg and Bike (switch between the two)**
+   - **Technique Steps:**
+     - For the Ski Erg, stand with feet shoulder-width apart, grip the handles, and pull down with your arms while engaging your core and legs.
+     - For the bike, adjust the seat height, and pedal with a steady rhythm, using your legs to drive the movement.
+   - **Form Tips:**
+     - On the Ski Erg, focus on using your whole body, not just your arms.
+     - On the bike, maintain a steady cadence and engage your core for stability.
+   - **Scaling/Modifications:**
+     - If you’re unfamiliar with the Ski Erg, you can substitute with rowing or a different cardio machine.
+   - **Loading:**
+     - **Sweat:** 16/8 calories on each machine
+     - **Train:** 20/12 calories
+     - **Compete:** 24/16 calories
 
 ## Strategy Advice
-- **Pacing:** Start with a steady pace, especially on the Power Cleans. It’s easy to burn out quickly, so find a rhythm that you can maintain throughout the workout.
-- **Breaking Up Sets:** Don’t be afraid to break up your reps early, especially on the Toes to Bar and Push-Ups. It’s better to do smaller sets with good form than to push through and risk fatigue.
-- **Transitioning:** Keep your transitions quick between movements to maintain your heart rate and stay in the zone.
+- **Pacing:** Since this is a timed workout, aim for a steady pace that you can maintain throughout the 6 rounds. It’s better to start conservatively and build up your intensity as you go.
+- **Breaks:** Don’t be afraid to take short breaks between movements if needed, especially on the kettlebell swings and slam balls, to maintain good form.
+- **Transitions:** Keep your transitions quick between movements to maximize your work time on the machines.
+
+Alright team, let’s get ready to crush this WOD! Remember to focus on your form, listen to your body, and most importantly, have fun! Let’s go! 💪
 
 ---
-
-Alright team, let’s get after it! Remember, focus on your form, listen to your body, and most importantly, have fun! Let’s crush this WOD together! 💪
-
----
-*Generated on 2025-07-18T06:08:24.647Z using AI assistance*
+*Generated on 2025-07-20T06:08:03.835Z using AI assistance*
