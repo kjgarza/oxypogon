@@ -1,82 +1,106 @@
-# CrossFit MINS Workout - 2025-07-20
+# CrossFit MINS Workout - 2025-07-21
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">**Workout of the Day (WOD) - 20.07.2025**</p><br><p class="mb-2">**Format:** On the 5:00 x 6 Rounds</p><li class="ml-4">15 Kettlebell Swings</li><li class="ml-4">20 Plate Russian Twists</li><li class="ml-4">15 Slam Balls</li><li class="ml-4">Max Calories on Ski Erg and Bike (switch between the two)</li><br><p class="mb-2">**Intensity Levels:**</p><li class="ml-4">Sweat: 16/8; 10/5; 15/10</li><li class="ml-4">Train: 20/12; 15/10</li><li class="ml-4">Compete: 24/16; 20/15; 20/15</li>
+<p class="mb-2">**Workout of the Day (WOD) - 21.07.2025**</p><br><p class="mb-2">**1. Strength:**</p><li class="ml-4">Bench Press</li><li class="ml-4">On the 3:00 x 4</li><li class="ml-4">8 Bench Presses</li><li class="ml-4">-into-</li><li class="ml-4">10 Bent Over Y Raises</li><li class="ml-4">*Start at 40% and build to 70-75% of 1 RM*</li><br><p class="mb-2">**2. Conditioning:**</p><li class="ml-4">30-24-18-12:</li><li class="ml-4">Push-ups</li><li class="ml-4">15-12-9-6:</li><li class="ml-4">Double DB Renegade Rows</li><li class="ml-4">*After each round, perform 60 Double Unders*</li><br><p class="mb-2">**Sweat Option:**</p><li class="ml-4">15/10; Kneeling Push Ups; 120 Single Unders</li><br><p class="mb-2">**Train Option:**</p><li class="ml-4">17.5/12.5; 45 Double Unders</li><br><p class="mb-2">**Compete Option:**</p><li class="ml-4">22.5/15</li>
 
 ### Expert Explanation
 ## Workout Overview
-Hey everyone! Today’s WOD is structured as an interval workout where we’ll be completing 6 rounds of four different movements every 5 minutes. The goal here is to build muscular endurance and cardiovascular fitness while keeping the intensity high. We’ll be working with kettlebells, plates, slam balls, and some cardio on the Ski Erg and bike. This workout is designed to challenge your core, grip strength, and overall conditioning, so let’s break it down!
+Hey everyone! Today’s WOD is a fantastic mix of strength and conditioning that’s going to challenge your upper body strength and endurance while also getting your heart rate up. We’ll start with a strength segment focusing on the Bench Press and Bent Over Y Raises, and then we’ll dive into a conditioning piece that combines Push-ups, Double DB Renegade Rows, and Double Unders. The goal here is to build strength while also working on your muscular endurance and cardiovascular fitness. Let’s break it down step by step!
 
-## Workout Components
-1. **Kettlebell Swings (15 reps)**
-   - **Technique Steps:**
-     - Start with your feet shoulder-width apart, kettlebell on the ground in front of you.
-     - Hinge at your hips, keeping your back straight, and grab the kettlebell with both hands.
-     - Engage your core, and with a powerful hip thrust, swing the kettlebell up to shoulder height.
-     - Let the kettlebell swing back down between your legs, maintaining control.
-   - **Form Tips:**
-     - Keep your arms relaxed; the power should come from your hips.
-     - Ensure your back stays flat throughout the movement.
-   - **Scaling/Modifications:**
-     - Use a lighter kettlebell if you’re new to the movement.
-     - If kettlebells aren’t available, you can substitute with dumbbell swings.
-   - **Loading:**
-     - **Sweat:** 12kg/8kg
-     - **Train:** 16kg/12kg
-     - **Compete:** 24kg/16kg
+## Strength Segment
+### 1. **Bench Press**
+- **Technique Steps:**
+    1. Lie back on a flat bench with your feet firmly planted on the ground.
+    2. Grip the barbell slightly wider than shoulder-width apart.
+    3. Unrack the bar and lower it slowly to your chest, keeping your elbows at about a 45-degree angle.
+    4. Press the bar back up to the starting position, fully extending your arms.
+  
+- **Form Tips:**
+    - Keep your shoulder blades retracted and your back flat against the bench.
+    - Don’t let your wrists bend back; keep them straight and strong.
+    - Breathe in as you lower the bar and exhale as you press it up.
 
-2. **Plate Russian Twists (20 reps)**
-   - **Technique Steps:**
-     - Sit on the ground with your knees bent and feet flat.
-     - Hold a weight plate with both hands, lean back slightly, and lift your feet off the ground if you can.
-     - Rotate your torso to one side, tapping the plate on the ground, then rotate to the other side.
-   - **Form Tips:**
-     - Keep your core engaged and back straight; avoid rounding your spine.
-     - Move slowly and with control to maximize core engagement.
-   - **Scaling/Modifications:**
-     - You can perform this movement without a weight plate or keep your feet on the ground for more stability.
-   - **Loading:**
-     - **Sweat:** 5kg/2.5kg
-     - **Train:** 10kg/5kg
-     - **Compete:** 15kg/10kg
+- **Scaling/Modifications:**
+    - If you’re new to the bench press, start with a lighter weight or use dumbbells.
+    - You can also perform the movement on a stability ball for added core engagement.
 
-3. **Slam Balls (15 reps)**
-   - **Technique Steps:**
-     - Stand with your feet shoulder-width apart, holding the slam ball at chest level.
-     - Squat down slightly, then explosively lift the ball overhead and slam it down to the ground.
-     - Catch the ball on the bounce and repeat.
-   - **Form Tips:**
-     - Use your legs to generate power; don’t just rely on your arms.
-     - Keep your core tight to protect your back during the slam.
-   - **Scaling/Modifications:**
-     - Use a lighter slam ball or perform the movement with a medicine ball if needed.
-   - **Loading:**
-     - **Sweat:** 6kg/4kg
-     - **Train:** 9kg/6kg
-     - **Compete:** 12kg/9kg
+- **Loading:**
+    - Start at 40% of your 1RM and aim to build to 70-75% over the course of the sets. Focus on maintaining good form rather than just lifting heavy.
 
-4. **Max Calories on Ski Erg and Bike (switch between the two)**
-   - **Technique Steps:**
-     - For the Ski Erg, stand with feet shoulder-width apart, grip the handles, and pull down with your arms while engaging your core and legs.
-     - For the bike, adjust the seat height, and pedal with a steady rhythm, using your legs to drive the movement.
-   - **Form Tips:**
-     - On the Ski Erg, focus on using your whole body, not just your arms.
-     - On the bike, maintain a steady cadence and engage your core for stability.
-   - **Scaling/Modifications:**
-     - If you’re unfamiliar with the Ski Erg, you can substitute with rowing or a different cardio machine.
-   - **Loading:**
-     - **Sweat:** 16/8 calories on each machine
-     - **Train:** 20/12 calories
-     - **Compete:** 24/16 calories
+### 2. **Bent Over Y Raises**
+- **Technique Steps:**
+    1. Stand with your feet hip-width apart, holding a pair of dumbbells.
+    2. Hinge at the hips, keeping your back flat and chest up, until your torso is almost parallel to the ground.
+    3. With a slight bend in your elbows, raise the dumbbells in a Y shape above your head.
+    4. Lower the weights back down with control.
+
+- **Form Tips:**
+    - Keep your core engaged to protect your lower back.
+    - Focus on squeezing your shoulder blades together at the top of the movement.
+    - Move slowly and with control; this is about muscle engagement, not speed.
+
+- **Scaling/Modifications:**
+    - Use lighter dumbbells or perform the movement without weights to focus on form.
+    - If you have shoulder issues, consider doing a lateral raise instead.
+
+## Conditioning Segment [For Time]
+### 1. **Push-ups**
+- **Technique Steps:**
+    1. Start in a plank position with your hands slightly wider than shoulder-width apart.
+    2. Lower your body until your chest nearly touches the ground, keeping your elbows close to your body.
+    3. Push back up to the starting position.
+
+- **Form Tips:**
+    - Keep your body in a straight line from head to heels.
+    - Engage your core and glutes to avoid sagging in your hips.
+    - If you struggle with full push-ups, drop to your knees to maintain form.
+
+- **Scaling/Modifications:**
+    - Kneeling push-ups are a great option for beginners.
+    - You can also elevate your hands on a bench or box to make it easier.
+
+### 2. **Double DB Renegade Rows**
+- **Technique Steps:**
+    1. Start in a plank position with a dumbbell in each hand.
+    2. Row one dumbbell to your hip while stabilizing your body with the other arm.
+    3. Lower the dumbbell back down and repeat on the other side.
+
+- **Form Tips:**
+    - Keep your hips level; avoid rotating your body as you row.
+    - Engage your core to maintain stability throughout the movement.
+    - Move slowly and with control to avoid swinging.
+
+- **Scaling/Modifications:**
+    - If you’re new to this movement, you can perform the rows from your knees.
+    - Use lighter dumbbells or perform the movement without weights to focus on form.
+
+### 3. **Double Unders**
+- **Technique Steps:**
+    1. Start with the jump rope behind your heels.
+    2. Jump slightly higher than a regular jump, allowing the rope to pass under your feet twice.
+    3. Keep your elbows close to your body and use your wrists to turn the rope.
+
+- **Form Tips:**
+    - Focus on a consistent rhythm and try to keep your jumps low.
+    - Practice the timing of the jump and the rope turning to find your groove.
+
+- **Scaling/Modifications:**
+    - If you’re not comfortable with double unders, stick with single unders or perform 60 single unders instead.
+
+## Loading and Rep-Modification Options
+- **Sweat Option:**
+    - Use 15/10 kg dumbbells for the Renegade Rows and perform kneeling push-ups with 120 single unders. This is a great option for those looking to maintain a steady pace without overexerting.
+
+- **Train Option:**
+    - Use 17.5/12.5 kg dumbbells and perform regular push-ups with 45 double unders. This is a balanced approach for those looking to challenge themselves while maintaining good form.
+
+- **Compete Option:**
+    - Use 22.5/15 kg dumbbells and go for full push-ups with 60 double unders. This is for those who are looking to push their limits and test their endurance.
 
 ## Strategy Advice
-- **Pacing:** Since this is a timed workout, aim for a steady pace that you can maintain throughout the 6 rounds. It’s better to start conservatively and build up your intensity as you go.
-- **Breaks:** Don’t be afraid to take short breaks between movements if needed, especially on the kettlebell swings and slam balls, to maintain good form.
-- **Transitions:** Keep your transitions quick between movements to maximize your work time on the machines.
-
-Alright team, let’s get ready to crush this WOD! Remember to focus on your form, listen to your body, and most importantly, have fun! Let’s go! 💪
+As you tackle this WOD, remember to pace yourself, especially during the conditioning segment. Break up your sets early if you need to, particularly on the Push-ups and Renegade Rows, to avoid burnout. Focus on maintaining good form throughout, and don’t hesitate to scale if needed. Let’s have fun and crush this workout together!
 
 ---
-*Generated on 2025-07-20T06:08:03.835Z using AI assistance*
+*Generated on 2025-07-21T06:09:10.115Z using AI assistance*
