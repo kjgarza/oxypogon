@@ -1,106 +1,77 @@
-# CrossFit MINS Workout - 2025-07-21
+# CrossFit MINS Workout - 2025-07-23
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">**Workout of the Day (WOD) - 21.07.2025**</p><br><p class="mb-2">**1. Strength:**</p><li class="ml-4">Bench Press</li><li class="ml-4">On the 3:00 x 4</li><li class="ml-4">8 Bench Presses</li><li class="ml-4">-into-</li><li class="ml-4">10 Bent Over Y Raises</li><li class="ml-4">*Start at 40% and build to 70-75% of 1 RM*</li><br><p class="mb-2">**2. Conditioning:**</p><li class="ml-4">30-24-18-12:</li><li class="ml-4">Push-ups</li><li class="ml-4">15-12-9-6:</li><li class="ml-4">Double DB Renegade Rows</li><li class="ml-4">*After each round, perform 60 Double Unders*</li><br><p class="mb-2">**Sweat Option:**</p><li class="ml-4">15/10; Kneeling Push Ups; 120 Single Unders</li><br><p class="mb-2">**Train Option:**</p><li class="ml-4">17.5/12.5; 45 Double Unders</li><br><p class="mb-2">**Compete Option:**</p><li class="ml-4">22.5/15</li>
+<p class="mb-2">**WOD: "VIOLA"**</p><p class="mb-2">**Date:** 23.07.2025</p><p class="mb-2">**Format:** AMRAP in 25 minutes</p><p class="mb-2">**Reps:** 3, 6, 9, 12, 15, 18, etc.</p><br><p class="mb-2">**Movements:**</p><li class="ml-4">Thrusters</li><li class="ml-4">Pull-Ups (Banded Pull-Ups or Ring Rows for Sweat)</li><li class="ml-4">Over-the-Bar Burpees</li><br><p class="mb-2">**Weight Categories:**</p><li class="ml-4">Sweat: 30/20 lbs</li><li class="ml-4">Train: 35/25 lbs</li><li class="ml-4">Compete: 40/30 lbs</li>
 
 ### Expert Explanation
 ## Workout Overview
-Hey everyone! Today’s WOD is a fantastic mix of strength and conditioning that’s going to challenge your upper body strength and endurance while also getting your heart rate up. We’ll start with a strength segment focusing on the Bench Press and Bent Over Y Raises, and then we’ll dive into a conditioning piece that combines Push-ups, Double DB Renegade Rows, and Double Unders. The goal here is to build strength while also working on your muscular endurance and cardiovascular fitness. Let’s break it down step by step!
+Hey everyone! Today’s WOD is called "VIOLA," and it’s an AMRAP (As Many Rounds As Possible) for 25 minutes. The goal here is to build endurance and strength while keeping a steady pace throughout the workout. We’ll be working through a ladder format with increasing reps of Thrusters, Pull-Ups, and Over-the-Bar Burpees. This structure not only challenges your muscular endurance but also tests your mental grit as you push through those higher rep counts. Let’s break it down!
 
-## Strength Segment
-### 1. **Bench Press**
+## Step-by-Step Breakdown
+
+### 1. Thrusters
 - **Technique Steps:**
-    1. Lie back on a flat bench with your feet firmly planted on the ground.
-    2. Grip the barbell slightly wider than shoulder-width apart.
-    3. Unrack the bar and lower it slowly to your chest, keeping your elbows at about a 45-degree angle.
-    4. Press the bar back up to the starting position, fully extending your arms.
+    - Start with the barbell resting on your shoulders, feet shoulder-width apart.
+    - Initiate the movement by squatting down, keeping your chest up and weight in your heels.
+    - As you stand up, drive through your heels and extend your hips, simultaneously pressing the barbell overhead.
+    - Lock out your arms at the top, then lower the bar back to your shoulders as you descend into the next squat.
   
 - **Form Tips:**
-    - Keep your shoulder blades retracted and your back flat against the bench.
-    - Don’t let your wrists bend back; keep them straight and strong.
-    - Breathe in as you lower the bar and exhale as you press it up.
+    - Keep your elbows high and in front of the bar to maintain a strong rack position.
+    - Ensure your knees track over your toes during the squat.
+    - Breathe out as you press overhead to maintain core stability.
 
 - **Scaling/Modifications:**
-    - If you’re new to the bench press, start with a lighter weight or use dumbbells.
-    - You can also perform the movement on a stability ball for added core engagement.
+    - Use a lighter barbell or a pair of dumbbells if the barbell feels too heavy.
+    - If you’re new to the movement, you can perform Front Squats instead.
 
-- **Loading:**
-    - Start at 40% of your 1RM and aim to build to 70-75% over the course of the sets. Focus on maintaining good form rather than just lifting heavy.
-
-### 2. **Bent Over Y Raises**
+### 2. Pull-Ups
 - **Technique Steps:**
-    1. Stand with your feet hip-width apart, holding a pair of dumbbells.
-    2. Hinge at the hips, keeping your back flat and chest up, until your torso is almost parallel to the ground.
-    3. With a slight bend in your elbows, raise the dumbbells in a Y shape above your head.
-    4. Lower the weights back down with control.
+    - Start by hanging from the bar with an overhand grip, hands slightly wider than shoulder-width.
+    - Engage your shoulders and pull your body up until your chin is above the bar.
+    - Lower yourself back down with control, fully extending your arms at the bottom.
 
 - **Form Tips:**
-    - Keep your core engaged to protect your lower back.
-    - Focus on squeezing your shoulder blades together at the top of the movement.
-    - Move slowly and with control; this is about muscle engagement, not speed.
+    - Keep your core tight to avoid swinging.
+    - Focus on pulling with your back, not just your arms.
+    - Use a full range of motion; don’t shortchange the bottom position.
 
 - **Scaling/Modifications:**
-    - Use lighter dumbbells or perform the movement without weights to focus on form.
-    - If you have shoulder issues, consider doing a lateral raise instead.
+    - For those who need assistance, use a resistance band to help with the pull-up.
+    - If bands aren’t available, you can substitute with Ring Rows, keeping your body straight and pulling the rings to your chest.
 
-## Conditioning Segment [For Time]
-### 1. **Push-ups**
+### 3. Over-the-Bar Burpees
 - **Technique Steps:**
-    1. Start in a plank position with your hands slightly wider than shoulder-width apart.
-    2. Lower your body until your chest nearly touches the ground, keeping your elbows close to your body.
-    3. Push back up to the starting position.
-
+    - Start standing with the barbell in front of you.
+    - Drop down into a plank position, chest and thighs touching the ground.
+    - Push back up, jump your feet towards the bar, and explode upwards, jumping over the barbell.
+  
 - **Form Tips:**
-    - Keep your body in a straight line from head to heels.
-    - Engage your core and glutes to avoid sagging in your hips.
-    - If you struggle with full push-ups, drop to your knees to maintain form.
+    - Keep your core engaged throughout the movement to maintain a strong plank position.
+    - Use your arms to help propel you off the ground during the jump.
+    - Land softly to reduce impact on your joints.
 
 - **Scaling/Modifications:**
-    - Kneeling push-ups are a great option for beginners.
-    - You can also elevate your hands on a bench or box to make it easier.
-
-### 2. **Double DB Renegade Rows**
-- **Technique Steps:**
-    1. Start in a plank position with a dumbbell in each hand.
-    2. Row one dumbbell to your hip while stabilizing your body with the other arm.
-    3. Lower the dumbbell back down and repeat on the other side.
-
-- **Form Tips:**
-    - Keep your hips level; avoid rotating your body as you row.
-    - Engage your core to maintain stability throughout the movement.
-    - Move slowly and with control to avoid swinging.
-
-- **Scaling/Modifications:**
-    - If you’re new to this movement, you can perform the rows from your knees.
-    - Use lighter dumbbells or perform the movement without weights to focus on form.
-
-### 3. **Double Unders**
-- **Technique Steps:**
-    1. Start with the jump rope behind your heels.
-    2. Jump slightly higher than a regular jump, allowing the rope to pass under your feet twice.
-    3. Keep your elbows close to your body and use your wrists to turn the rope.
-
-- **Form Tips:**
-    - Focus on a consistent rhythm and try to keep your jumps low.
-    - Practice the timing of the jump and the rope turning to find your groove.
-
-- **Scaling/Modifications:**
-    - If you’re not comfortable with double unders, stick with single unders or perform 60 single unders instead.
+    - If jumping over the bar is too challenging, step back and step forward instead of jumping.
+    - You can also perform regular burpees without the barbell for a lower impact option.
 
 ## Loading and Rep-Modification Options
-- **Sweat Option:**
-    - Use 15/10 kg dumbbells for the Renegade Rows and perform kneeling push-ups with 120 single unders. This is a great option for those looking to maintain a steady pace without overexerting.
+- **Weight Categories:**
+    - **Sweat:** 30/20 lbs
+    - **Train:** 35/25 lbs
+    - **Compete:** 40/30 lbs
 
-- **Train Option:**
-    - Use 17.5/12.5 kg dumbbells and perform regular push-ups with 45 double unders. This is a balanced approach for those looking to challenge themselves while maintaining good form.
+### Strategy Advice
+- **Sweat:** Focus on maintaining a steady pace. It’s more about getting through the reps than going fast. Consider breaking the thrusters into smaller sets to avoid burnout.
+  
+- **Train:** Aim for a consistent rhythm. You can push a little harder here, but don’t sacrifice form for speed. Break up the pull-ups if you start to feel fatigued.
 
-- **Compete Option:**
-    - Use 22.5/15 kg dumbbells and go for full push-ups with 60 double unders. This is for those who are looking to push their limits and test their endurance.
+- **Compete:** This is where you can really push your limits! Keep an eye on your transitions between movements to minimize downtime. Consider doing the thrusters in sets of 3-6 to keep your form sharp.
 
-## Strategy Advice
-As you tackle this WOD, remember to pace yourself, especially during the conditioning segment. Break up your sets early if you need to, particularly on the Push-ups and Renegade Rows, to avoid burnout. Focus on maintaining good form throughout, and don’t hesitate to scale if needed. Let’s have fun and crush this workout together!
+### Summary
+Alright team, remember to pace yourselves and focus on your form throughout the workout. It’s all about building that endurance and strength while keeping your technique sharp. Let’s have some fun with "VIOLA" and see how many rounds we can get through in 25 minutes! Ready? Let’s crush it! 💪
 
 ---
-*Generated on 2025-07-21T06:09:10.115Z using AI assistance*
+*Generated on 2025-07-23T06:08:52.792Z using AI assistance*
