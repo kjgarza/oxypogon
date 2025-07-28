@@ -1,79 +1,67 @@
 ## Workout Overview
-Hey everyone! Today’s WOD is a spicy one: **20 Rounds for Time**! This format is designed to challenge your endurance and mental toughness. We’ll be hitting a mix of upper body pulling, pushing, core work, and some explosive box jumps. The goal here is to maintain good form throughout all 20 rounds while keeping a steady pace. Let’s break down each movement so you know exactly what to do!
+Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your overall fitness. We’ll kick things off with a strength segment focusing on Deadstop Deadlifts, which will help you build a solid foundation and improve your pulling strength. After that, we’ll dive into a 16-minute AMRAP (As Many Rounds As Possible) that combines Double Dumbbell Deadlifts, Burpees to Target, and a 200-meter run. This workout is designed to boost your endurance, power, and overall grit. Let’s break it down!
 
-## Movement Breakdown
-
-### 1. **Strict Pull-Ups**
+## Strength Segment
+1. **Deadstop Deadlifts**
    - **Technique Steps:**
-     - Start by hanging from the pull-up bar with a grip slightly wider than shoulder-width.
-     - Engage your shoulders by pulling them down and back.
-     - Initiate the pull by driving your elbows down and back, pulling your chin above the bar.
-     - Lower yourself back to the starting position with control.
+     - Start with your feet hip-width apart and the barbell over the middle of your feet.
+     - Bend at the hips and knees to grip the barbell with both hands, keeping your back straight and chest up.
+     - Set your shoulders back and engage your core.
+     - From a dead stop (the bar should be resting on the ground), push through your heels, extend your hips and knees simultaneously to lift the barbell.
+     - Stand tall at the top, squeezing your glutes, then lower the bar back to the ground with control.
    - **Form Tips:**
-     - Avoid swinging; keep your body straight.
-     - Focus on using your back muscles rather than just your arms.
+     - Keep the bar close to your body throughout the lift.
+     - Avoid rounding your back; maintain a neutral spine.
+     - Focus on driving through your heels, not your toes.
    - **Scaling/Modifications:**
-     - **Banded Pull-Ups:** Use a resistance band for assistance.
-     - **Ring Rows:** Set rings at waist height and pull your chest to the rings.
-   - **Loading Options:**
-     - **Sweat:** Banded Pull-Ups or Ring Rows.
-     - **Train:** Strict Pull-Ups with a focus on form.
-     - **Compete:** Unassisted Strict Pull-Ups, aiming for unbroken sets if possible.
+     - If you’re new to deadlifts, consider using a lighter weight or even a kettlebell to practice the movement.
+     - You can also perform the deadlift from a raised platform if you have mobility issues.
+   - **Loading:**
+     - Start at 50% of your 1RM and gradually build up to 85-90%. This is a great opportunity to focus on form and control, so don’t rush the weight increase.
 
-### 2. **Single Dumbbell Push Jerk (4/4)**
+## Conditioning Segment [AMRAP 16 minutes]
+2. **15 Double Dumbbell Deadlifts**
    - **Technique Steps:**
-     - Start with a dumbbell in one hand at shoulder height.
-     - Dip slightly by bending your knees and pushing your hips back.
-     - Explosively extend your legs while pressing the dumbbell overhead.
-     - Lock out your arm overhead, then lower the dumbbell back to the shoulder.
-     - Switch hands after 4 reps.
+     - Stand with your feet hip-width apart, holding a dumbbell in each hand at your sides.
+     - Hinge at the hips, lowering the dumbbells toward the ground while keeping your back straight.
+     - Push through your heels to lift the dumbbells back up, standing tall at the top.
    - **Form Tips:**
-     - Keep your core tight to stabilize your body.
-     - Drive through your legs to help propel the dumbbell overhead.
+     - Keep your chest up and shoulders back throughout the movement.
+     - Ensure the dumbbells stay close to your body as you lift.
    - **Scaling/Modifications:**
-     - Use a lighter dumbbell if you’re new to the movement.
-     - Perform a strict press instead of a push jerk if needed.
-   - **Loading Options:**
-     - **Sweat:** 15/10 lbs.
-     - **Train:** 17.5/12.5 lbs.
-     - **Compete:** 22.5/15 lbs.
+     - Use lighter dumbbells if needed, or perform single-arm dumbbell deadlifts if you’re still mastering the movement.
+   
+3. **5 Burpees to Target**
+   - **Technique Steps:**
+     - Start standing, then drop into a squat position and place your hands on the ground.
+     - Jump your feet back into a plank position, perform a push-up (optional), and jump your feet back to your hands.
+     - Explode upwards, reaching for a target (like a pull-up bar or a set height).
+   - **Form Tips:**
+     - Keep your core engaged to maintain a strong plank position.
+     - Land softly when jumping to reduce impact on your joints.
+   - **Scaling/Modifications:**
+     - Step back instead of jumping if you’re not comfortable with the explosive movement.
+     - You can also perform a burpee without the push-up for a lower intensity.
 
-### 3. **Straight Leg Sit-Ups**
+4. **200 Meter Run**
    - **Technique Steps:**
-     - Lie flat on your back with your legs straight and arms extended overhead.
-     - Engage your core and sit up, bringing your arms forward to touch your toes.
-     - Lower back down with control, keeping your legs straight.
+     - Start with a light jog to warm up your legs.
+     - Maintain a steady pace, focusing on your breathing and form.
+     - Keep your arms relaxed and swing them naturally as you run.
    - **Form Tips:**
-     - Keep your feet together and avoid using momentum.
-     - Focus on using your core to lift your upper body.
+     - Land softly on your feet and avoid overstriding.
+     - Keep your head up and look forward, not down at your feet.
    - **Scaling/Modifications:**
-     - **Tuck-Ups:** Bend your knees and bring them to your chest instead.
-     - **Bent Leg Sit-Ups:** Keep your feet flat on the ground.
-   - **Loading Options:**
-     - **Sweat:** Tuck-Ups or Bent Leg Sit-Ups.
-     - **Train:** Straight Leg Sit-Ups.
-     - **Compete:** Add a light weight plate to your chest for added resistance.
+     - If running isn’t an option, consider substituting with a 250-meter row or a 1-minute bike sprint.
 
-### 4. **Box Jump Overs (24"/20")**
-   - **Technique Steps:**
-     - Stand in front of the box with your feet shoulder-width apart.
-     - Bend your knees and swing your arms back to prepare for the jump.
-     - Jump onto the box, landing softly with your knees slightly bent.
-     - Step or jump off the other side and repeat.
-   - **Form Tips:**
-     - Focus on landing softly to absorb the impact.
-     - Keep your core engaged to maintain balance.
-   - **Scaling/Modifications:**
-     - **Step-Ups:** Step onto the box instead of jumping.
-     - **Lower Box Height:** Use a shorter box if needed.
-   - **Loading Options:**
-     - **Sweat:** Step-Ups or lower box height.
-     - **Train:** Standard Box Jump Overs.
-     - **Compete:** Full height box jumps, aiming for speed.
+## Weights
+- **Sweat:** 20/15 lbs
+- **Train:** 22.5/17.5 lbs
+- **Compete:** 25/20 lbs
 
 ## Strategy Advice
-- **Pacing:** With 20 rounds, it’s crucial to find a sustainable pace. Don’t go all out in the first few rounds; instead, aim for consistency.
-- **Break It Up:** For the pull-ups and push jerks, consider breaking them into smaller sets if you start to fatigue.
-- **Stay Focused:** Keep your form sharp throughout. It’s better to slow down and maintain good technique than to rush and risk injury.
+- **Pacing:** For the AMRAP, find a sustainable pace that allows you to keep moving without burning out too quickly. It’s better to break up the Double Dumbbell Deadlifts into smaller sets if needed.
+- **Transitions:** Minimize your rest time between movements to keep your heart rate up. Plan your transitions so you can move smoothly from one exercise to the next.
+- **Focus on Form:** Remember, quality over quantity! It’s better to perform fewer reps with good form than to rush through and risk injury.
 
-Remember, this workout is all about pushing your limits while maintaining safety and form. Let’s get after it and have some fun! 💪
+Alright team, let’s get after it! Remember to listen to your body, stay hydrated, and most importantly, have fun! You’ve got this! 💪
