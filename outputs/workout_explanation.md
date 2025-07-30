@@ -1,78 +1,86 @@
-# CrossFit MINS Workout - 2025-07-28
+# CrossFit MINS Workout - 2025-07-30
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">**Workout of the Day (WOD) - 28.07.2025**</p><br><p class="mb-2">**1. Strength:**</p><li class="ml-4">**Deadlift**</li><li class="ml-4">On the 1:45 x 7</li><li class="ml-4">Deadstop Deadlifts</li><li class="ml-4">Start at 50% and build to 85-90% of 1 RM</li><br><p class="mb-2">**2. Conditioning:**</p><li class="ml-4">**AMRAP 16 minutes:**</li><li class="ml-4">15 Double Dumbbell Deadlifts</li><li class="ml-4">5 Burpees to Target</li><li class="ml-4">200 Meter Run</li><li class="ml-4">5 Burpees to Target</li><br><p class="mb-2">**Weights:**</p><li class="ml-4">Sweat: 20/15 lbs</li><li class="ml-4">Train: 22.5/17.5 lbs</li><li class="ml-4">Compete: 25/20 lbs</li>
+<p class="mb-2">**Workout of the Day (30.07.2025)**</p><br><p class="mb-2">**1. Power Snatch**</p><li class="ml-4">On the 2:00 x 6</li><li class="ml-4">3-3-2-2-1-1 Power Snatches</li><li class="ml-4">*Start at 50-60% and build to 90% of 1 RM*</li><br><p class="mb-2">**2. Conditioning**</p><li class="ml-4">In a 4:00 Window x 4 Sets:</li><li class="ml-4">3 Rounds:</li><li class="ml-4">25 Double Unders</li><li class="ml-4">5 Toes to Bar</li><li class="ml-4">After 3 Rounds: Max Alternating Dumbbell Snatches</li><li class="ml-4">Rest 1 Minute Between Sets</li><br><p class="mb-2">**Sweat:** 15/10; 50 Single Unders; Knee/Straight Leg Raises</p><p class="mb-2">**Train:** 17.5/12.5</p><p class="mb-2">**Compete:** 22.5/15</p>
 
 ### Expert Explanation
-## Workout Overview
-Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your overall fitness. We’ll kick things off with a strength segment focusing on Deadstop Deadlifts, which will help you build a solid foundation and improve your pulling strength. After that, we’ll dive into a 16-minute AMRAP (As Many Rounds As Possible) that combines Double Dumbbell Deadlifts, Burpees to Target, and a 200-meter run. This workout is designed to boost your endurance, power, and overall grit. Let’s break it down!
+# Workout Overview
+Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really test your power and endurance. We’ll kick things off with a power snatch segment, where we’ll focus on building strength and technique. Then, we’ll dive into a conditioning piece that will challenge your cardiovascular fitness and muscular endurance. The goal here is to maintain good form while pushing your limits, so let’s break it down step by step!
 
 ## Strength Segment
-1. **Deadstop Deadlifts**
-   - **Technique Steps:**
-     - Start with your feet hip-width apart and the barbell over the middle of your feet.
-     - Bend at the hips and knees to grip the barbell with both hands, keeping your back straight and chest up.
-     - Set your shoulders back and engage your core.
-     - From a dead stop (the bar should be resting on the ground), push through your heels, extend your hips and knees simultaneously to lift the barbell.
-     - Stand tall at the top, squeezing your glutes, then lower the bar back to the ground with control.
-   - **Form Tips:**
-     - Keep the bar close to your body throughout the lift.
-     - Avoid rounding your back; maintain a neutral spine.
-     - Focus on driving through your heels, not your toes.
-   - **Scaling/Modifications:**
-     - If you’re new to deadlifts, consider using a lighter weight or even a kettlebell to practice the movement.
-     - You can also perform the deadlift from a raised platform if you have mobility issues.
-   - **Loading:**
-     - Start at 50% of your 1RM and gradually build up to 85-90%. This is a great opportunity to focus on form and control, so don’t rush the weight increase.
+### 1. Power Snatch
+- **Structure:** On the 2:00 x 6, you’ll perform 3-3-2-2-1-1 Power Snatches. Start at 50-60% of your one-rep max (1RM) and build up to 90% by the end.
+  
+#### Technique Steps:
+1. **Setup:** Stand with your feet hip-width apart, barbell over the midfoot. Grip the bar with a wide grip (just outside your knees).
+2. **First Pull:** Hinge at the hips and bend your knees to lower your body, keeping your back flat. Pull the bar off the ground, extending your knees and hips simultaneously.
+3. **Second Pull:** As the bar passes your knees, explosively extend your hips and shrug your shoulders, pulling the bar upwards.
+4. **Catch:** Drop under the bar by bending your knees into a partial squat, catching the bar overhead with arms fully extended.
+5. **Stand Up:** Stand tall, ensuring the bar is stable overhead before lowering it back to the ground.
 
-## Conditioning Segment [AMRAP 16 minutes]
-2. **15 Double Dumbbell Deadlifts**
-   - **Technique Steps:**
-     - Stand with your feet hip-width apart, holding a dumbbell in each hand at your sides.
-     - Hinge at the hips, lowering the dumbbells toward the ground while keeping your back straight.
-     - Push through your heels to lift the dumbbells back up, standing tall at the top.
-   - **Form Tips:**
-     - Keep your chest up and shoulders back throughout the movement.
-     - Ensure the dumbbells stay close to your body as you lift.
-   - **Scaling/Modifications:**
-     - Use lighter dumbbells if needed, or perform single-arm dumbbell deadlifts if you’re still mastering the movement.
-   
-3. **5 Burpees to Target**
-   - **Technique Steps:**
-     - Start standing, then drop into a squat position and place your hands on the ground.
-     - Jump your feet back into a plank position, perform a push-up (optional), and jump your feet back to your hands.
-     - Explode upwards, reaching for a target (like a pull-up bar or a set height).
-   - **Form Tips:**
-     - Keep your core engaged to maintain a strong plank position.
-     - Land softly when jumping to reduce impact on your joints.
-   - **Scaling/Modifications:**
-     - Step back instead of jumping if you’re not comfortable with the explosive movement.
-     - You can also perform a burpee without the push-up for a lower intensity.
+#### Form Tips:
+- Keep the bar close to your body throughout the lift.
+- Focus on driving through your heels and using your legs to generate power, not just your arms.
+- Maintain a neutral spine and engaged core to protect your back.
 
-4. **200 Meter Run**
-   - **Technique Steps:**
-     - Start with a light jog to warm up your legs.
-     - Maintain a steady pace, focusing on your breathing and form.
-     - Keep your arms relaxed and swing them naturally as you run.
-   - **Form Tips:**
-     - Land softly on your feet and avoid overstriding.
-     - Keep your head up and look forward, not down at your feet.
-   - **Scaling/Modifications:**
-     - If running isn’t an option, consider substituting with a 250-meter row or a 1-minute bike sprint.
+#### Scaling/Modifications:
+- If you’re new to this movement, consider using a lighter barbell or a PVC pipe to practice the technique.
+- You can also perform Hang Power Snatches if you’re not comfortable with the full movement yet.
 
-## Weights
-- **Sweat:** 20/15 lbs
-- **Train:** 22.5/17.5 lbs
-- **Compete:** 25/20 lbs
-
-## Strategy Advice
-- **Pacing:** For the AMRAP, find a sustainable pace that allows you to keep moving without burning out too quickly. It’s better to break up the Double Dumbbell Deadlifts into smaller sets if needed.
-- **Transitions:** Minimize your rest time between movements to keep your heart rate up. Plan your transitions so you can move smoothly from one exercise to the next.
-- **Focus on Form:** Remember, quality over quantity! It’s better to perform fewer reps with good form than to rush through and risk injury.
-
-Alright team, let’s get after it! Remember to listen to your body, stay hydrated, and most importantly, have fun! You’ve got this! 💪
+#### Loading:
+- **Sweat:** Start with a lighter load (around 50% of your 1RM).
+- **Train:** Use 17.5/12.5 kg.
+- **Compete:** Aim for 22.5/15 kg, focusing on maintaining form as you increase weight.
 
 ---
-*Generated on 2025-07-28T06:10:03.503Z using AI assistance*
+
+## Conditioning Segment [In a 4:00 Window x 4 Sets]
+### 2. Conditioning
+- **Structure:** You’ll complete 3 rounds of 25 Double Unders and 5 Toes to Bar, followed by max Alternating Dumbbell Snatches. Rest for 1 minute between sets.
+
+#### Movement Breakdown:
+1. **Double Unders:**
+   - **Technique Steps:**
+     - Start with the rope behind your heels, jump slightly off the ground, and swing the rope under your feet twice before landing.
+   - **Form Tips:**
+     - Keep your elbows close to your sides and use your wrists to control the rope.
+     - Stay light on your feet and jump only a few inches off the ground.
+   - **Scaling/Modifications:**
+     - If you’re still working on double unders, perform 50 Single Unders instead.
+
+2. **Toes to Bar:**
+   - **Technique Steps:**
+     - Hang from the bar with an overhand grip, engage your core, and lift your legs to touch the bar with your toes.
+   - **Form Tips:**
+     - Keep your shoulders engaged and avoid swinging too much.
+     - Use a kipping motion to generate momentum if needed.
+   - **Scaling/Modifications:**
+     - If toes to bar are challenging, try Knee Raises or Straight Leg Raises instead.
+
+3. **Alternating Dumbbell Snatches:**
+   - **Technique Steps:**
+     - Start with the dumbbell between your feet, hinge at the hips, and explosively drive the dumbbell overhead, switching hands at the top.
+   - **Form Tips:**
+     - Keep your back flat and engage your core throughout the movement.
+     - Use your legs to help drive the dumbbell up, not just your arms.
+   - **Scaling/Modifications:**
+     - Use a lighter dumbbell if needed or reduce the number of reps.
+
+#### Loading Options:
+- **Sweat:** 15/10 kg dumbbells, with 50 Single Unders and Knee/Straight Leg Raises.
+- **Train:** 17.5/12.5 kg dumbbells.
+- **Compete:** 22.5/15 kg dumbbells.
+
+#### Strategy Advice:
+- Aim for a steady pace throughout the conditioning piece. It’s better to break up your sets early rather than hitting a wall later on.
+- Focus on your breathing and try to maintain a rhythm, especially during the double unders and toes to bar.
+
+---
+
+### Summary
+Alright team, remember that today’s workout is all about building strength and endurance while maintaining good form. Focus on your technique during the power snatches, and don’t hesitate to scale movements to ensure you’re getting the most out of your workout. Let’s have some fun, push our limits, and support each other through this WOD! You’ve got this! 💪
+
+---
+*Generated on 2025-07-30T06:09:29.289Z using AI assistance*
