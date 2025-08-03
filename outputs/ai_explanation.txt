@@ -1,71 +1,80 @@
 ## Workout Overview
-Hey everyone! Today we have a fantastic WOD that combines strength and conditioning to really challenge your legs and cardiovascular endurance. We’ll kick things off with some Back Squats, focusing on building strength and technique. Then, we’ll dive into a 16-minute EMOM (Every Minute on the Minute) that will keep your heart rate up and your muscles working hard. The goal here is to build strength, improve your endurance, and have a great time while doing it!
+Hey team! Today we have a fun and challenging AMRAP (As Many Rounds As Possible) workout set for 35 minutes. This WOD is designed to test your strength, endurance, and overall fitness. We’ll be hitting some upper body pressing, pulling, core work, and lower body movements, all while keeping your heart rate up. The goal is to maintain a steady pace and focus on form throughout the workout. Let’s break down each movement so you know exactly what to do!
 
----
+## Step-by-Step Breakdown
 
-## Strength Segment: Back Squats
-1. **Back Squats (On the 2:00 x 6)**
+### 1. **Handstand Push Ups**
    - **Technique Steps:**
-     - Start by setting the barbell on your upper traps, standing tall with your feet shoulder-width apart.
-     - Take a deep breath, brace your core, and lower yourself by bending at the hips and knees, keeping your chest up and back straight.
-     - Aim to get your thighs parallel to the ground or lower, depending on your mobility.
-     - Push through your heels to return to standing, fully extending your hips at the top.
+     - Start in a handstand position against a wall, with your hands shoulder-width apart.
+     - Engage your core and keep your body straight from head to heels.
+     - Lower your head towards the ground by bending your elbows, keeping them close to your body.
+     - Press back up to the starting position.
    - **Form Tips:**
-     - Keep your knees tracking over your toes; avoid letting them cave inward.
-     - Maintain a neutral spine throughout the movement; don’t let your back round.
+     - Keep your head neutral and look slightly forward, not down.
+     - Maintain a tight core to avoid arching your back.
    - **Scaling/Modifications:**
-     - If you’re new to squats, you can use a lighter barbell or even a bodyweight squat to focus on form.
-     - Consider using a box or bench to help gauge your depth.
+     - **Pike Push Ups:** Feet on the ground, hips elevated, perform push-ups with your head lowering towards the ground.
+     - **Z-Press:** Seated on the ground, press dumbbells overhead while keeping your back straight.
    - **Loading:**
-     - Start at 50% of your 1RM and aim to build to 75-80%. Listen to your body and adjust as needed.
+     - Focus on bodyweight for handstand push-ups. For pike push-ups, use a lighter weight if needed.
 
----
-
-## Conditioning Segment: EMOM x 16 (4 Rounds)
-### Minute 1: X Calories Ski Erg
+### 2. **Pull Ups**
    - **Technique Steps:**
-     - Sit on the Ski Erg with your feet secured and hands on the handles.
-     - Engage your core and initiate the movement by pulling down with your arms while driving your knees up slightly.
-     - Use your legs to push off the ground, allowing your arms to follow through in a fluid motion.
+     - Hang from the pull-up bar with an overhand grip, hands slightly wider than shoulder-width.
+     - Engage your shoulders and pull your body up until your chin is above the bar.
+     - Lower yourself back down with control.
    - **Form Tips:**
-     - Keep your back straight and avoid leaning too far forward or backward.
-     - Focus on a smooth rhythm; it’s about efficiency, not just speed.
+     - Avoid swinging; keep your body straight.
+     - Use your lats to pull, not just your arms.
    - **Scaling/Modifications:**
-     - If you don’t have access to a Ski Erg, you can substitute with a rower or a bike for calories.
-   - **Caloric Targets:**
-     - Sweat: 11/8 Cal.; Train: 13/10 Cal.; Compete: 15/12 Cal.
+     - **Banded Pull Ups:** Use a resistance band for assistance.
+     - **Ring Rows:** Set rings at waist height and pull your body towards them.
+   - **Loading:**
+     - Bodyweight for pull-ups; use bands or rings for scaling.
 
-### Minute 2: 16 Alternating Kettlebell Goblet Reverse Lunges
+### 3. **Burpees**
    - **Technique Steps:**
-     - Hold a kettlebell close to your chest with both hands, elbows tucked in.
-     - Step back with one leg, lowering your back knee toward the ground while keeping your front knee aligned over your ankle.
-     - Push through your front heel to return to standing and switch legs.
+     - Start standing, drop into a squat, placing your hands on the ground.
+     - Jump your feet back into a plank position.
+     - Perform a push-up (optional).
+     - Jump your feet back to your hands and explosively jump up, reaching your arms overhead.
    - **Form Tips:**
-     - Keep your torso upright and avoid leaning forward.
-     - Ensure your front knee doesn’t extend past your toes.
+     - Keep your core engaged throughout the movement.
+     - Land softly on your feet when jumping.
    - **Scaling/Modifications:**
-     - Use a lighter kettlebell or perform bodyweight lunges if needed.
-     - If balance is an issue, you can hold onto a wall or rack for support.
+     - **Step Back Burpees:** Step back instead of jumping for a lower-impact option.
+   - **Loading:**
+     - Bodyweight for burpees; focus on speed and form.
 
-### Minute 3: X Calories Ski Erg (Repeat)
-   - Same as Minute 1.
-
-### Minute 4: 16 Kettlebell Goblet Squats
+### 4. **Double Dumbbell Box Step Over (24"/20")**
    - **Technique Steps:**
-     - Hold the kettlebell at your chest, elbows pointing down.
-     - Stand with your feet shoulder-width apart and squat down, keeping your chest up and back straight.
-     - Push through your heels to stand back up.
+     - Hold a dumbbell in each hand at your sides.
+     - Step up onto the box with one foot, then bring the other foot up.
+     - Step down one foot at a time, alternating legs.
    - **Form Tips:**
-     - Keep your weight in your heels and your knees tracking over your toes.
-     - Aim to get your thighs parallel to the ground or lower.
+     - Keep your chest up and core engaged.
+     - Use your legs to drive up, not your back.
    - **Scaling/Modifications:**
-     - Use a lighter kettlebell or perform bodyweight squats if necessary.
+     - Use lighter dumbbells or perform step-ups without weights.
+   - **Loading:**
+     - **Sweat:** 15/10 lbs; **Train:** 17.5/12.5 lbs; **Compete:** 22.5/15 lbs.
 
----
+### 5. **V-Ups**
+   - **Technique Steps:**
+     - Lie flat on your back with arms extended overhead and legs straight.
+     - Simultaneously lift your legs and upper body, reaching for your toes to form a "V" shape.
+     - Lower back down with control.
+   - **Form Tips:**
+     - Keep your lower back pressed into the ground.
+     - Move in a controlled manner to avoid straining your back.
+   - **Scaling/Modifications:**
+     - **Tuck-Ups:** Bend your knees and bring them towards your chest instead of reaching for your toes.
+   - **Loading:**
+     - Bodyweight for V-ups; focus on form and control.
 
 ## Strategy Advice
-- **Pacing:** For the EMOM, find a pace that allows you to complete the work without burning out. It’s better to start conservatively and build up your intensity as you go.
-- **Breaking Up Sets:** If you find the kettlebell movements challenging, feel free to break them into smaller sets (like 8 reps at a time) to maintain good form.
-- **Hydration:** Don’t forget to hydrate before, during, and after your workout!
+- **Pacing:** Start at a steady pace that you can maintain throughout the 35 minutes. It’s better to go slower and maintain form than to burn out early.
+- **Breaks:** Don’t be afraid to take short breaks between movements, especially on the pull-ups and handstand push-ups. 
+- **Hydration:** Keep water nearby and stay hydrated throughout the workout.
 
-Remember, focus on your form and listen to your body. Let’s have a great workout today!
+Remember, the goal is to challenge yourself while maintaining good form. Let’s have fun and crush this WOD together!
