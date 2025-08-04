@@ -1,80 +1,81 @@
-## Workout Overview
-Hey team! Today we have a fun and challenging AMRAP (As Many Rounds As Possible) workout set for 35 minutes. This WOD is designed to test your strength, endurance, and overall fitness. We’ll be hitting some upper body pressing, pulling, core work, and lower body movements, all while keeping your heart rate up. The goal is to maintain a steady pace and focus on form throughout the workout. Let’s break down each movement so you know exactly what to do!
+# Workout Overview
+Hey everyone! Today we’ve got a fantastic WOD lined up that’s going to challenge your strength and conditioning. We’ll kick things off with a strength segment focusing on the **Power Snatch**, where we’ll work on technique and build up to heavier weights. Then, we’ll dive into a classic benchmark workout called **"ISABEL,"** which is all about speed and efficiency with snatches. Finally, we’ll finish strong with a giant set of accessory movements to round out our session. Let’s break it down step by step!
 
-## Step-by-Step Breakdown
-
-### 1. **Handstand Push Ups**
+## Strength Segment: Power Snatch
+1. **Power Snatch (On the 1:30 x 7)**
    - **Technique Steps:**
-     - Start in a handstand position against a wall, with your hands shoulder-width apart.
-     - Engage your core and keep your body straight from head to heels.
-     - Lower your head towards the ground by bending your elbows, keeping them close to your body.
-     - Press back up to the starting position.
+     - Start with the barbell on the ground. Stand with your feet hip-width apart and grip the bar just outside your knees.
+     - Set your back by hinging at the hips and lowering your torso while keeping your chest up.
+     - Pull the bar off the ground, extending your hips and knees simultaneously.
+     - As the bar passes your knees, explosively extend your hips and shrug your shoulders.
+     - Pull yourself under the bar, catching it overhead in a partial squat position.
+     - Stand tall to finish the lift, then lower the bar back to the ground.
    - **Form Tips:**
-     - Keep your head neutral and look slightly forward, not down.
-     - Maintain a tight core to avoid arching your back.
+     - Keep the bar close to your body throughout the lift.
+     - Focus on driving through your heels and using your legs to generate power.
+     - Maintain a strong core to stabilize the weight overhead.
    - **Scaling/Modifications:**
-     - **Pike Push Ups:** Feet on the ground, hips elevated, perform push-ups with your head lowering towards the ground.
-     - **Z-Press:** Seated on the ground, press dumbbells overhead while keeping your back straight.
+     - If you’re new to this movement, start with a PVC pipe or a lighter barbell to focus on form.
+     - You can also practice the movement with a Hang Power Snatch if the full lift feels too challenging.
    - **Loading:**
-     - Focus on bodyweight for handstand push-ups. For pike push-ups, use a lighter weight if needed.
+     - Start at 50% of your one-rep max (1RM) and aim to build up to 80-85% over the seven sets. Focus on maintaining good form rather than just lifting heavy.
 
-### 2. **Pull Ups**
-   - **Technique Steps:**
-     - Hang from the pull-up bar with an overhand grip, hands slightly wider than shoulder-width.
-     - Engage your shoulders and pull your body up until your chin is above the bar.
-     - Lower yourself back down with control.
-   - **Form Tips:**
-     - Avoid swinging; keep your body straight.
-     - Use your lats to pull, not just your arms.
-   - **Scaling/Modifications:**
-     - **Banded Pull Ups:** Use a resistance band for assistance.
-     - **Ring Rows:** Set rings at waist height and pull your body towards them.
-   - **Loading:**
-     - Bodyweight for pull-ups; use bands or rings for scaling.
+## Conditioning Segment: "ISABEL"
+2. **"ISABEL" (For Time, Time Cap: 5 minutes)**
+   - **30 Snatches**
+     - **Technique Steps:**
+       - Start with the barbell on the ground, just like in the strength segment.
+       - Use the same setup as before, ensuring your grip is secure.
+       - Perform a snatch by pulling the bar off the ground, extending your hips, and catching it overhead in one fluid motion.
+       - Return the bar to the ground and repeat until you complete 30 reps.
+     - **Form Tips:**
+       - Keep your movements quick and efficient; this is a race against the clock!
+       - Focus on your breathing; exhale as you lift the bar overhead.
+       - Maintain a strong core and keep your eyes forward to help with balance.
+     - **Scaling/Modifications:**
+       - If the full snatch is too challenging, you can scale to a Hang Snatch or use a lighter weight.
+       - Alternatively, you can perform Snatch Pulls to work on the movement without going overhead.
+   - **Loading Options:**
+     - **Sweat:** 30/20 lbs (lightweight to focus on form and speed)
+     - **Train:** 45/30 lbs (moderate weight for a good challenge)
+     - **Compete:** 60/40 lbs (heavy for those looking to push their limits)
+   - **Strategy Advice:**
+     - Break the reps into manageable sets if needed (e.g., 10 sets of 3) to avoid burnout.
+     - Keep a steady pace and focus on your technique, especially as fatigue sets in.
 
-### 3. **Burpees**
-   - **Technique Steps:**
-     - Start standing, drop into a squat, placing your hands on the ground.
-     - Jump your feet back into a plank position.
-     - Perform a push-up (optional).
-     - Jump your feet back to your hands and explosively jump up, reaching your arms overhead.
-   - **Form Tips:**
-     - Keep your core engaged throughout the movement.
-     - Land softly on your feet when jumping.
-   - **Scaling/Modifications:**
-     - **Step Back Burpees:** Step back instead of jumping for a lower-impact option.
-   - **Loading:**
-     - Bodyweight for burpees; focus on speed and form.
+## Finisher: Giant Sets
+3. **Finisher (4 Giant Sets, Time Cap: 15 minutes)**
+   - **10 Banded Triceps Extensions**
+     - **Technique Steps:**
+       - Attach a resistance band overhead. Stand with your feet shoulder-width apart.
+       - Grip the band with both hands and extend your arms overhead.
+       - Bend your elbows to lower the band behind your head, then extend back to the starting position.
+     - **Form Tips:**
+       - Keep your elbows close to your head throughout the movement.
+       - Engage your core to maintain stability.
+     - **Scaling/Modifications:**
+       - Use a lighter band or perform the movement with a dumbbell if bands are not available.
+   - **10/10 Single Leg Romanian Deadlift**
+     - **Technique Steps:**
+       - Stand on one leg with a slight bend in the knee.
+       - Hinge at the hips, lowering your torso while extending the opposite leg behind you.
+       - Keep your back straight and return to standing.
+     - **Form Tips:**
+       - Focus on balance; use a wall or a partner for support if needed.
+       - Keep your core engaged to protect your lower back.
+     - **Scaling/Modifications:**
+       - Use a light dumbbell or perform the movement without weight to focus on balance.
+   - **10/10 Wood Chopper**
+     - **Technique Steps:**
+       - Stand with your feet shoulder-width apart, holding a dumbbell or medicine ball.
+       - Start with the weight at one hip and twist your torso to bring it up and across your body to the opposite shoulder.
+       - Return to the starting position and repeat.
+     - **Form Tips:**
+       - Keep your movements controlled and focus on your core engagement.
+       - Use your legs to help generate power in the twist.
+     - **Scaling/Modifications:**
+       - Use a lighter weight or perform the movement without weight to focus on form.
+   - **Rest:** 1 Minute between sets to recover.
 
-### 4. **Double Dumbbell Box Step Over (24"/20")**
-   - **Technique Steps:**
-     - Hold a dumbbell in each hand at your sides.
-     - Step up onto the box with one foot, then bring the other foot up.
-     - Step down one foot at a time, alternating legs.
-   - **Form Tips:**
-     - Keep your chest up and core engaged.
-     - Use your legs to drive up, not your back.
-   - **Scaling/Modifications:**
-     - Use lighter dumbbells or perform step-ups without weights.
-   - **Loading:**
-     - **Sweat:** 15/10 lbs; **Train:** 17.5/12.5 lbs; **Compete:** 22.5/15 lbs.
-
-### 5. **V-Ups**
-   - **Technique Steps:**
-     - Lie flat on your back with arms extended overhead and legs straight.
-     - Simultaneously lift your legs and upper body, reaching for your toes to form a "V" shape.
-     - Lower back down with control.
-   - **Form Tips:**
-     - Keep your lower back pressed into the ground.
-     - Move in a controlled manner to avoid straining your back.
-   - **Scaling/Modifications:**
-     - **Tuck-Ups:** Bend your knees and bring them towards your chest instead of reaching for your toes.
-   - **Loading:**
-     - Bodyweight for V-ups; focus on form and control.
-
-## Strategy Advice
-- **Pacing:** Start at a steady pace that you can maintain throughout the 35 minutes. It’s better to go slower and maintain form than to burn out early.
-- **Breaks:** Don’t be afraid to take short breaks between movements, especially on the pull-ups and handstand push-ups. 
-- **Hydration:** Keep water nearby and stay hydrated throughout the workout.
-
-Remember, the goal is to challenge yourself while maintaining good form. Let’s have fun and crush this WOD together!
+### Summary
+Alright, team! Today’s workout is designed to build your strength and improve your conditioning through the Power Snatch and the benchmark workout "ISABEL." Remember to focus on your form, scale as needed, and push yourself while maintaining good technique. Let’s have fun, work hard, and crush this WOD together!
