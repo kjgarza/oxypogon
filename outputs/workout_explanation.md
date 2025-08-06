@@ -1,92 +1,84 @@
-# CrossFit MINS Workout - 2025-08-04
+# CrossFit MINS Workout - 2025-08-06
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">**Workout of the Day (WOD) - 04.08.2025**</p><br><li class="ml-4">**Strength**: Power Snatch</li><li class="ml-4">On the 1:30 x 7</li><li class="ml-4">2 Touch and Go Power Snatches</li><li class="ml-4">*Start at 50% and build to 80-85% of 1 RM</li><br><li class="ml-4">**Conditioning**: "ISABEL"</li><li class="ml-4">For Time (Time Cap: 5 minutes)</li><li class="ml-4">30 Snatches</li><li class="ml-4">Sweat: 30/20 lbs</li><li class="ml-4">Train: 45/30 lbs</li><li class="ml-4">Compete: 60/40 lbs</li><br><li class="ml-4">**Finisher**:</li><li class="ml-4">4 Giant Sets (Time Cap: 15 minutes)</li><li class="ml-4">10 Banded Triceps Extensions</li><li class="ml-4">10/10 Single Leg Romanian Deadlift</li><li class="ml-4">10/10 Wood Chopper</li><li class="ml-4">Rest 1 Minute between sets.</li>
+<p class="mb-2">**Workout of the Day (WOD) - 06.08.2025**</p><br><p class="mb-2">**Benchmark Workout: "BADGER"**</p><br><p class="mb-2">**Format:** 3 Rounds for Time</p><li class="ml-4">30 Squat Cleans</li><li class="ml-4">30 Pull-Ups</li><li class="ml-4">800 meter Run</li><br><p class="mb-2">**Scaling Options:**</p><li class="ml-4">**Sweat:** 20/10; Banded Pull-Ups / Ring Rows; 600 Meter Run</li><li class="ml-4">**Train:** 30/20; 20 Pull-Ups</li><li class="ml-4">**Compete:** 40/30</li>
 
 ### Expert Explanation
-# Workout Overview
-Hey everyone! Today we’ve got a fantastic WOD lined up that’s going to challenge your strength and conditioning. We’ll kick things off with a strength segment focusing on the **Power Snatch**, where we’ll work on technique and build up to heavier weights. Then, we’ll dive into a classic benchmark workout called **"ISABEL,"** which is all about speed and efficiency with snatches. Finally, we’ll finish strong with a giant set of accessory movements to round out our session. Let’s break it down step by step!
+## Workout Overview
+Hey team! Today we’re tackling a classic benchmark workout known as "BADGER." This WOD is structured as three rounds for time, which means we’re looking to complete all the movements as quickly as possible while maintaining good form. The goal here is to build strength and endurance, particularly in the legs and upper body, while also testing our cardiovascular fitness with that 800-meter run. 
 
-## Strength Segment: Power Snatch
-1. **Power Snatch (On the 1:30 x 7)**
-   - **Technique Steps:**
-     - Start with the barbell on the ground. Stand with your feet hip-width apart and grip the bar just outside your knees.
-     - Set your back by hinging at the hips and lowering your torso while keeping your chest up.
-     - Pull the bar off the ground, extending your hips and knees simultaneously.
-     - As the bar passes your knees, explosively extend your hips and shrug your shoulders.
-     - Pull yourself under the bar, catching it overhead in a partial squat position.
-     - Stand tall to finish the lift, then lower the bar back to the ground.
-   - **Form Tips:**
-     - Keep the bar close to your body throughout the lift.
-     - Focus on driving through your heels and using your legs to generate power.
-     - Maintain a strong core to stabilize the weight overhead.
-   - **Scaling/Modifications:**
-     - If you’re new to this movement, start with a PVC pipe or a lighter barbell to focus on form.
-     - You can also practice the movement with a Hang Power Snatch if the full lift feels too challenging.
-   - **Loading:**
-     - Start at 50% of your one-rep max (1RM) and aim to build up to 80-85% over the seven sets. Focus on maintaining good form rather than just lifting heavy.
+Let’s break down each component so you know exactly what to expect and how to approach it!
 
-## Conditioning Segment: "ISABEL"
-2. **"ISABEL" (For Time, Time Cap: 5 minutes)**
-   - **30 Snatches**
-     - **Technique Steps:**
-       - Start with the barbell on the ground, just like in the strength segment.
-       - Use the same setup as before, ensuring your grip is secure.
-       - Perform a snatch by pulling the bar off the ground, extending your hips, and catching it overhead in one fluid motion.
-       - Return the bar to the ground and repeat until you complete 30 reps.
-     - **Form Tips:**
-       - Keep your movements quick and efficient; this is a race against the clock!
-       - Focus on your breathing; exhale as you lift the bar overhead.
-       - Maintain a strong core and keep your eyes forward to help with balance.
-     - **Scaling/Modifications:**
-       - If the full snatch is too challenging, you can scale to a Hang Snatch or use a lighter weight.
-       - Alternatively, you can perform Snatch Pulls to work on the movement without going overhead.
-   - **Loading Options:**
-     - **Sweat:** 30/20 lbs (lightweight to focus on form and speed)
-     - **Train:** 45/30 lbs (moderate weight for a good challenge)
-     - **Compete:** 60/40 lbs (heavy for those looking to push their limits)
-   - **Strategy Advice:**
-     - Break the reps into manageable sets if needed (e.g., 10 sets of 3) to avoid burnout.
-     - Keep a steady pace and focus on your technique, especially as fatigue sets in.
+## Workout Components
 
-## Finisher: Giant Sets
-3. **Finisher (4 Giant Sets, Time Cap: 15 minutes)**
-   - **10 Banded Triceps Extensions**
-     - **Technique Steps:**
-       - Attach a resistance band overhead. Stand with your feet shoulder-width apart.
-       - Grip the band with both hands and extend your arms overhead.
-       - Bend your elbows to lower the band behind your head, then extend back to the starting position.
-     - **Form Tips:**
-       - Keep your elbows close to your head throughout the movement.
-       - Engage your core to maintain stability.
-     - **Scaling/Modifications:**
-       - Use a lighter band or perform the movement with a dumbbell if bands are not available.
-   - **10/10 Single Leg Romanian Deadlift**
-     - **Technique Steps:**
-       - Stand on one leg with a slight bend in the knee.
-       - Hinge at the hips, lowering your torso while extending the opposite leg behind you.
-       - Keep your back straight and return to standing.
-     - **Form Tips:**
-       - Focus on balance; use a wall or a partner for support if needed.
-       - Keep your core engaged to protect your lower back.
-     - **Scaling/Modifications:**
-       - Use a light dumbbell or perform the movement without weight to focus on balance.
-   - **10/10 Wood Chopper**
-     - **Technique Steps:**
-       - Stand with your feet shoulder-width apart, holding a dumbbell or medicine ball.
-       - Start with the weight at one hip and twist your torso to bring it up and across your body to the opposite shoulder.
-       - Return to the starting position and repeat.
-     - **Form Tips:**
-       - Keep your movements controlled and focus on your core engagement.
-       - Use your legs to help generate power in the twist.
-     - **Scaling/Modifications:**
-       - Use a lighter weight or perform the movement without weight to focus on form.
-   - **Rest:** 1 Minute between sets to recover.
+### 1. **Squat Clean**
+- **Technique Steps:**
+    1. Start with your feet hip-width apart, barbell over your midfoot.
+    2. Bend at the hips and knees to grip the barbell with an overhand grip, just outside your knees.
+    3. Initiate the lift by pushing through your heels, extending your hips and knees simultaneously.
+    4. As the bar passes your knees, pull yourself under the bar by dropping into a squat position, catching the bar on your shoulders.
+    5. Stand up to finish the rep.
+  
+- **Form Tips:**
+    - Keep your chest up and back straight throughout the lift.
+    - Ensure the bar stays close to your body; it should almost graze your thighs.
+    - Focus on a smooth transition into the squat; don’t let the bar drift away from you.
 
-### Summary
-Alright, team! Today’s workout is designed to build your strength and improve your conditioning through the Power Snatch and the benchmark workout "ISABEL." Remember to focus on your form, scale as needed, and push yourself while maintaining good technique. Let’s have fun, work hard, and crush this WOD together!
+- **Scaling/Modifications:**
+    - Use a lighter barbell (20/10 kg) or a PVC pipe to practice the movement.
+    - If you’re still working on your squat clean, consider doing front squats or power cleans instead.
+
+### 2. **Pull-Ups**
+- **Technique Steps:**
+    1. Start by hanging from the pull-up bar with your palms facing away from you, hands shoulder-width apart.
+    2. Engage your shoulders and core, then pull your body up until your chin is above the bar.
+    3. Lower yourself back down with control to the starting position.
+
+- **Form Tips:**
+    - Avoid swinging; keep your body straight and engage your core.
+    - Focus on pulling with your back rather than just your arms.
+    - Use a full range of motion—start from a dead hang and finish with your chin above the bar.
+
+- **Scaling/Modifications:**
+    - Use bands for assistance or perform ring rows if pull-ups are too challenging.
+    - If you’re still building strength, consider doing jumping pull-ups or negative pull-ups.
+
+### 3. **800 Meter Run**
+- **Technique Steps:**
+    1. Start with a steady pace; find a rhythm that feels sustainable.
+    2. Keep your arms at a 90-degree angle and swing them forward and back to help with momentum.
+    3. Focus on your breathing; try to maintain a steady inhale and exhale pattern.
+
+- **Form Tips:**
+    - Keep your head up and look ahead, not down at your feet.
+    - Land softly on your feet to reduce impact and conserve energy.
+
+- **Scaling/Modifications:**
+    - If running isn’t an option, consider rowing or biking for a similar distance.
+    - For those who need to scale down, reduce the distance to 600 meters.
+
+## Loading and Rep-Modification Options
+- **Sweat:** 
+    - Barbell: 20/10 kg
+    - Pull-Ups: Banded or Ring Rows
+    - Run: 600 meters
+- **Train:** 
+    - Barbell: 30/20 kg
+    - Pull-Ups: 20 reps (unassisted)
+    - Run: 800 meters
+- **Compete:** 
+    - Barbell: 40/30 kg
+    - Pull-Ups: 30 reps (unassisted)
+    - Run: 800 meters
+
+## Strategy Advice
+- **Pacing:** Start with a steady pace on the run; it’s easy to go out too fast and burn out. 
+- **Breaking Up Sets:** For the squat cleans and pull-ups, consider breaking them into smaller sets to maintain form and avoid fatigue. For example, you might do 10 squat cleans, rest, then do another 10.
+- **Stay Focused:** Keep your mind in the game. Remember, it’s about quality over quantity. Focus on your form, and the speed will come!
+
+Alright, team! Let’s get after it and crush this WOD! Remember to listen to your body, scale as needed, and most importantly, have fun!
 
 ---
-*Generated on 2025-08-04T06:12:09.262Z using AI assistance*
+*Generated on 2025-08-06T06:09:54.893Z using AI assistance*
