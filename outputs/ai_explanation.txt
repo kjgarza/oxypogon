@@ -1,73 +1,88 @@
 ## Workout Overview
-Hey team! Today we’re tackling a classic benchmark workout known as "BADGER." This WOD is structured as three rounds for time, which means we’re looking to complete all the movements as quickly as possible while maintaining good form. The goal here is to build strength and endurance, particularly in the legs and upper body, while also testing our cardiovascular fitness with that 800-meter run. 
+Hey team! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your entire body. We’re kicking things off with a strength segment focusing on the Sumo Deadlift, which is great for building posterior chain strength and improving your overall lifting mechanics. After that, we’ll dive into an 18-minute AMRAP (As Many Rounds As Possible) that combines kettlebell swings, box jumps, kettlebell sumo deadlift high pulls, and straight leg sit-ups. This workout is designed to boost your muscular endurance and cardiovascular fitness while keeping things fun and engaging!
 
-Let’s break down each component so you know exactly what to expect and how to approach it!
+## Strength Segment
+1. **Sumo Deadlift**
+   - **Technique Steps:**
+     - Start by standing with your feet wider than shoulder-width apart, toes pointed slightly out.
+     - Grip the barbell with both hands inside your knees, using a mixed grip (one palm facing you, one palm facing away) for stability.
+     - Keep your chest up and back flat as you hinge at the hips and lower your body to grab the bar.
+     - Drive through your heels, engage your core, and stand up tall, pulling the bar up along your shins and thighs.
+     - Lower the bar back down in a controlled manner, maintaining that flat back and engaged core.
+   - **Form Tips:**
+     - Keep your knees tracking over your toes; don’t let them cave in.
+     - Focus on pushing through your heels rather than your toes to engage your glutes and hamstrings.
+   - **Scaling/Modifications:**
+     - If you’re new to deadlifting or have mobility issues, you can use a lighter barbell or even a kettlebell.
+     - Consider elevating the bar on plates to reduce the range of motion if necessary.
+   - **Loading:**
+     - Start at 50-55% of your 1RM and aim to build up to 75-80% over the six sets. Remember, quality over quantity!
 
-## Workout Components
-
-### 1. **Squat Clean**
-- **Technique Steps:**
-    1. Start with your feet hip-width apart, barbell over your midfoot.
-    2. Bend at the hips and knees to grip the barbell with an overhand grip, just outside your knees.
-    3. Initiate the lift by pushing through your heels, extending your hips and knees simultaneously.
-    4. As the bar passes your knees, pull yourself under the bar by dropping into a squat position, catching the bar on your shoulders.
-    5. Stand up to finish the rep.
+## Conditioning Segment [AMRAP 18]
+2. **10 Kettlebell Swings**
+   - **Technique Steps:**
+     - Stand with your feet shoulder-width apart, holding the kettlebell with both hands in front of you.
+     - Hinge at your hips, letting the kettlebell swing back between your legs while keeping your back flat.
+     - Drive your hips forward explosively, swinging the kettlebell up to shoulder height or higher, depending on your comfort and technique.
+     - Let the kettlebell swing back down, maintaining control and keeping your core engaged.
+   - **Form Tips:**
+     - Focus on using your hips to generate power, not your arms.
+     - Keep your arms relaxed and straight; they should act as a connection between your body and the kettlebell.
+   - **Scaling/Modifications:**
+     - Use a lighter kettlebell if you’re still mastering the movement.
+     - If kettlebells are not available, you can substitute with dumbbell swings.
   
-- **Form Tips:**
-    - Keep your chest up and back straight throughout the lift.
-    - Ensure the bar stays close to your body; it should almost graze your thighs.
-    - Focus on a smooth transition into the squat; don’t let the bar drift away from you.
+3. **20 Box Jumps (24"/20")**
+   - **Technique Steps:**
+     - Stand in front of the box with your feet shoulder-width apart.
+     - Bend your knees slightly and swing your arms back as you prepare to jump.
+     - Explode upward, swinging your arms forward and jumping onto the box, landing softly with your knees slightly bent.
+     - Stand tall at the top of the box before stepping or jumping back down.
+   - **Form Tips:**
+     - Focus on landing softly to absorb the impact; this will help protect your joints.
+     - Keep your core engaged throughout the jump to maintain balance.
+   - **Scaling/Modifications:**
+     - If jumping is too challenging, you can step up onto the box instead.
+     - Lower the height of the box if needed to ensure safety and confidence.
 
-- **Scaling/Modifications:**
-    - Use a lighter barbell (20/10 kg) or a PVC pipe to practice the movement.
-    - If you’re still working on your squat clean, consider doing front squats or power cleans instead.
+4. **10 Kettlebell Sumo Deadlift High Pulls**
+   - **Technique Steps:**
+     - Start with the kettlebell on the ground between your feet, standing in a wide stance.
+     - Grip the kettlebell with both hands, hinge at the hips, and pull it up while keeping your elbows high.
+     - As you pull the kettlebell up, keep it close to your body, and finish with your elbows above your wrists at shoulder height.
+     - Lower the kettlebell back down in a controlled manner.
+   - **Form Tips:**
+     - Maintain a flat back and engaged core throughout the movement.
+     - Focus on the hip drive to generate power rather than just using your arms.
+   - **Scaling/Modifications:**
+     - Use a lighter kettlebell or perform the movement with a dumbbell if needed.
+     - If you’re new to this movement, you can practice the high pull without weight to get comfortable with the mechanics.
 
-### 2. **Pull-Ups**
-- **Technique Steps:**
-    1. Start by hanging from the pull-up bar with your palms facing away from you, hands shoulder-width apart.
-    2. Engage your shoulders and core, then pull your body up until your chin is above the bar.
-    3. Lower yourself back down with control to the starting position.
+5. **20 Straight Leg Sit-Ups**
+   - **Technique Steps:**
+     - Lie flat on your back with your legs extended and feet together.
+     - Place your arms overhead or across your chest.
+     - Engage your core and lift your upper body towards your legs, keeping your legs straight and your feet on the ground.
+     - Lower back down with control and repeat.
+   - **Form Tips:**
+     - Keep your chin tucked to avoid straining your neck.
+     - Focus on using your core to lift your torso rather than pulling with your arms.
+   - **Scaling/Modifications:**
+     - If straight leg sit-ups are too challenging, you can bend your knees or perform regular sit-ups.
+     - Consider using an ab mat for added support.
 
-- **Form Tips:**
-    - Avoid swinging; keep your body straight and engage your core.
-    - Focus on pulling with your back rather than just your arms.
-    - Use a full range of motion—start from a dead hang and finish with your chin above the bar.
-
-- **Scaling/Modifications:**
-    - Use bands for assistance or perform ring rows if pull-ups are too challenging.
-    - If you’re still building strength, consider doing jumping pull-ups or negative pull-ups.
-
-### 3. **800 Meter Run**
-- **Technique Steps:**
-    1. Start with a steady pace; find a rhythm that feels sustainable.
-    2. Keep your arms at a 90-degree angle and swing them forward and back to help with momentum.
-    3. Focus on your breathing; try to maintain a steady inhale and exhale pattern.
-
-- **Form Tips:**
-    - Keep your head up and look ahead, not down at your feet.
-    - Land softly on your feet to reduce impact and conserve energy.
-
-- **Scaling/Modifications:**
-    - If running isn’t an option, consider rowing or biking for a similar distance.
-    - For those who need to scale down, reduce the distance to 600 meters.
-
-## Loading and Rep-Modification Options
+## Loading Options
 - **Sweat:** 
-    - Barbell: 20/10 kg
-    - Pull-Ups: Banded or Ring Rows
-    - Run: 600 meters
+  - Kettlebell: 16/12 kg; Box: 14"/8"
+  - Focus on form and technique; aim for steady pacing.
+  
 - **Train:** 
-    - Barbell: 30/20 kg
-    - Pull-Ups: 20 reps (unassisted)
-    - Run: 800 meters
+  - Kettlebell: 24/16 kg; Box: 20"/14"
+  - Push your limits while maintaining good form; break up sets if needed.
+
 - **Compete:** 
-    - Barbell: 40/30 kg
-    - Pull-Ups: 30 reps (unassisted)
-    - Run: 800 meters
+  - Kettlebell: 32/24 kg; Box: 24"/20"
+  - Go for broke! Aim for unbroken sets but listen to your body.
 
 ## Strategy Advice
-- **Pacing:** Start with a steady pace on the run; it’s easy to go out too fast and burn out. 
-- **Breaking Up Sets:** For the squat cleans and pull-ups, consider breaking them into smaller sets to maintain form and avoid fatigue. For example, you might do 10 squat cleans, rest, then do another 10.
-- **Stay Focused:** Keep your mind in the game. Remember, it’s about quality over quantity. Focus on your form, and the speed will come!
-
-Alright, team! Let’s get after it and crush this WOD! Remember to listen to your body, scale as needed, and most importantly, have fun!
+As you tackle this WOD, remember to pace yourself, especially
