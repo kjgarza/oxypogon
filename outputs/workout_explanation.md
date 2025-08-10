@@ -1,99 +1,106 @@
-# CrossFit MINS Workout - 2025-08-08
+# CrossFit MINS Workout - 2025-08-10
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">**Workout of the Day (WOD) - 08.08.2025**</p><br><li class="ml-4">**Strength: Sumo Deadlift**</li><li class="ml-4">On the 2:00 x 6</li><li class="ml-4">5 Sumo Deadlifts</li><li class="ml-4">*Start at 50-55% and build to 75-80% of 1 RM*</li><br><li class="ml-4">**Conditioning: AMRAP 18**</li><li class="ml-4">10 Kettlebell Swings</li><li class="ml-4">20 Box Jumps (24"/20")</li><li class="ml-4">10 Kettlebell Sumo Deadlift High Pulls</li><li class="ml-4">20 Straight Leg Sit Ups</li><br><p class="mb-2">**Weights:**</p><li class="ml-4">Sweat: 16/12; 14/8</li><li class="ml-4">Train: 24/16</li><li class="ml-4">Compete: 32/24; 20/14</li>
+<p class="mb-2">**Workout of the Day (WOD) - 10.08.2025**</p><br><p class="mb-2">**Buy In:**</p><li class="ml-4">2000 Meter Ski / Row</li><br><p class="mb-2">**6 Rounds of:**</p><li class="ml-4">50 Double Unders</li><li class="ml-4">20 Single Dumbbell Hang Snatch / Single Dumbbell Hang Clean and Jerk (alternate each round)</li><li class="ml-4">10 Ring Dips</li><br><p class="mb-2">**Cash Out:**</p><li class="ml-4">2000 Meter Ski / Row</li><br><p class="mb-2">**Additional Options:**</p><li class="ml-4">Sweat: 15/10; 100 Single Unders; Banded Ring Dips / Box Dips</li><li class="ml-4">Train: 17.5/12.5</li><li class="ml-4">Compete: 22.5/15</li>
 
 ### Expert Explanation
 ## Workout Overview
-Hey team! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your entire body. We’re kicking things off with a strength segment focusing on the Sumo Deadlift, which is great for building posterior chain strength and improving your overall lifting mechanics. After that, we’ll dive into an 18-minute AMRAP (As Many Rounds As Possible) that combines kettlebell swings, box jumps, kettlebell sumo deadlift high pulls, and straight leg sit-ups. This workout is designed to boost your muscular endurance and cardiovascular fitness while keeping things fun and engaging!
+Hey everyone! Today’s WOD is a fun and challenging mix of cardio and strength work designed to test your endurance and skill. We’ll kick things off with a 2000-meter ski or row to get our heart rates up and our muscles warmed. Then, we’ll dive into 6 rounds of high-rep movements that will really get your sweat on! We’ll finish with another 2000-meter ski or row to cash out. The goal here is to maintain a steady pace and focus on form throughout the workout, especially as fatigue sets in.
 
-## Strength Segment
-1. **Sumo Deadlift**
-   - **Technique Steps:**
-     - Start by standing with your feet wider than shoulder-width apart, toes pointed slightly out.
-     - Grip the barbell with both hands inside your knees, using a mixed grip (one palm facing you, one palm facing away) for stability.
-     - Keep your chest up and back flat as you hinge at the hips and lower your body to grab the bar.
-     - Drive through your heels, engage your core, and stand up tall, pulling the bar up along your shins and thighs.
-     - Lower the bar back down in a controlled manner, maintaining that flat back and engaged core.
-   - **Form Tips:**
-     - Keep your knees tracking over your toes; don’t let them cave in.
-     - Focus on pushing through your heels rather than your toes to engage your glutes and hamstrings.
-   - **Scaling/Modifications:**
-     - If you’re new to deadlifting or have mobility issues, you can use a lighter barbell or even a kettlebell.
-     - Consider elevating the bar on plates to reduce the range of motion if necessary.
-   - **Loading:**
-     - Start at 50-55% of your 1RM and aim to build up to 75-80% over the six sets. Remember, quality over quantity!
-
-## Conditioning Segment [AMRAP 18]
-2. **10 Kettlebell Swings**
-   - **Technique Steps:**
-     - Stand with your feet shoulder-width apart, holding the kettlebell with both hands in front of you.
-     - Hinge at your hips, letting the kettlebell swing back between your legs while keeping your back flat.
-     - Drive your hips forward explosively, swinging the kettlebell up to shoulder height or higher, depending on your comfort and technique.
-     - Let the kettlebell swing back down, maintaining control and keeping your core engaged.
-   - **Form Tips:**
-     - Focus on using your hips to generate power, not your arms.
-     - Keep your arms relaxed and straight; they should act as a connection between your body and the kettlebell.
-   - **Scaling/Modifications:**
-     - Use a lighter kettlebell if you’re still mastering the movement.
-     - If kettlebells are not available, you can substitute with dumbbell swings.
+## Buy In: 2000 Meter Ski / Row
+1. **Technique Steps:**
+    - For the ski: Stand with feet shoulder-width apart, grip the handles, and engage your core. Use your legs to drive down while pulling the handles towards your chest, keeping your elbows close.
+    - For the row: Sit down, strap your feet in, and start with your knees bent. Push through your heels, extend your legs, lean back slightly, and pull the handle towards your chest.
   
-3. **20 Box Jumps (24"/20")**
-   - **Technique Steps:**
-     - Stand in front of the box with your feet shoulder-width apart.
-     - Bend your knees slightly and swing your arms back as you prepare to jump.
-     - Explode upward, swinging your arms forward and jumping onto the box, landing softly with your knees slightly bent.
-     - Stand tall at the top of the box before stepping or jumping back down.
-   - **Form Tips:**
-     - Focus on landing softly to absorb the impact; this will help protect your joints.
-     - Keep your core engaged throughout the jump to maintain balance.
-   - **Scaling/Modifications:**
-     - If jumping is too challenging, you can step up onto the box instead.
-     - Lower the height of the box if needed to ensure safety and confidence.
+2. **Form Tips:**
+    - Keep your back straight and core engaged to avoid rounding your spine.
+    - Use your legs to generate power; your arms should follow through the motion.
+  
+3. **Scaling/Modifications:**
+    - If 2000 meters feels daunting, scale down to 1000 meters or adjust the intensity to a steady pace.
+  
+4. **Summary/Instruction:**
+    - Focus on a consistent rhythm and breathing. This is your warm-up, so aim for a moderate pace that you can sustain.
 
-4. **10 Kettlebell Sumo Deadlift High Pulls**
+## Conditioning Segment: 6 Rounds of
+### 1. **50 Double Unders**
    - **Technique Steps:**
-     - Start with the kettlebell on the ground between your feet, standing in a wide stance.
-     - Grip the kettlebell with both hands, hinge at the hips, and pull it up while keeping your elbows high.
-     - As you pull the kettlebell up, keep it close to your body, and finish with your elbows above your wrists at shoulder height.
-     - Lower the kettlebell back down in a controlled manner.
+       - Start with the rope behind your heels, jump slightly off the ground, and swing the rope under your feet twice before landing.
+  
    - **Form Tips:**
-     - Maintain a flat back and engaged core throughout the movement.
-     - Focus on the hip drive to generate power rather than just using your arms.
+       - Keep your elbows close to your body and use your wrists to control the rope.
+       - Stay light on your feet and jump only high enough to clear the rope.
+  
    - **Scaling/Modifications:**
-     - Use a lighter kettlebell or perform the movement with a dumbbell if needed.
-     - If you’re new to this movement, you can practice the high pull without weight to get comfortable with the mechanics.
+       - If you’re still working on double unders, switch to 100 single unders or practice double under attempts.
+  
+   - **Summary/Instruction:**
+       - Focus on rhythm and timing. If you trip, take a breath, reset, and keep going!
 
-5. **20 Straight Leg Sit-Ups**
+### 2. **20 Single Dumbbell Hang Snatch / Single Dumbbell Hang Clean and Jerk (alternate each round)**
+   - **Technique Steps for Hang Snatch:**
+       - Start with the dumbbell in one hand, hinge at the hips to bring the dumbbell to just above your knees. Explode upwards, pulling the dumbbell overhead in one motion, catching it in a partial squat.
+  
+   - **Technique Steps for Hang Clean and Jerk:**
+       - Similar setup, but as you pull the dumbbell up, drop into a squat to catch it at shoulder height, then stand and press overhead.
+  
+   - **Form Tips:**
+       - Keep the dumbbell close to your body during the lift.
+       - Use your legs to drive the movement, not just your arms.
+  
+   - **Scaling/Modifications:**
+       - Use a lighter dumbbell or perform the movements with a kettlebell if needed.
+  
+   - **Summary/Instruction:**
+       - Alternate between the two movements each round, focusing on explosive power and control.
+
+### 3. **10 Ring Dips**
    - **Technique Steps:**
-     - Lie flat on your back with your legs extended and feet together.
-     - Place your arms overhead or across your chest.
-     - Engage your core and lift your upper body towards your legs, keeping your legs straight and your feet on the ground.
-     - Lower back down with control and repeat.
+       - Start by gripping the rings with your palms facing inward. Lower your body by bending your elbows while keeping your body straight, then push back up to the starting position.
+  
    - **Form Tips:**
-     - Keep your chin tucked to avoid straining your neck.
-     - Focus on using your core to lift your torso rather than pulling with your arms.
+       - Keep your shoulders down and away from your ears.
+       - Maintain a strong core to avoid swinging.
+  
    - **Scaling/Modifications:**
-     - If straight leg sit-ups are too challenging, you can bend your knees or perform regular sit-ups.
-     - Consider using an ab mat for added support.
+       - If ring dips are too challenging, use a band for assistance or perform box dips instead.
+  
+   - **Summary/Instruction:**
+       - Focus on controlled movement; it’s better to do fewer reps with good form than to rush through.
 
-## Loading Options
+## Cash Out: 2000 Meter Ski / Row
+1. **Technique Steps:**
+    - Repeat the same technique as the buy-in, but this time focus on cooling down and maintaining a steady pace.
+  
+2. **Form Tips:**
+    - Keep your breathing steady and try to maintain the same rhythm you established during the buy-in.
+  
+3. **Scaling/Modifications:**
+    - If you’re feeling fatigued, consider scaling to 1000 meters or adjusting the intensity.
+  
+4. **Summary/Instruction:**
+    - This is your time to recover and reflect on the workout. Keep moving and finish strong!
+
+## Loading and Rep-Modification Options
 - **Sweat:** 
-  - Kettlebell: 16/12 kg; Box: 14"/8"
-  - Focus on form and technique; aim for steady pacing.
+    - Use a 15/10 kg dumbbell, perform 100 single unders, and substitute with banded ring dips or box dips.
   
 - **Train:** 
-  - Kettlebell: 24/16 kg; Box: 20"/14"
-  - Push your limits while maintaining good form; break up sets if needed.
-
+    - Use a 17.5/12.5 kg dumbbell for the hang snatches and clean and jerks.
+  
 - **Compete:** 
-  - Kettlebell: 32/24 kg; Box: 24"/20"
-  - Go for broke! Aim for unbroken sets but listen to your body.
+    - Use a 22.5/15 kg dumbbell and aim to complete the workout as prescribed.
 
 ## Strategy Advice
-As you tackle this WOD, remember to pace yourself, especially
+- **Pacing:** 
+    - Start at a steady pace, especially on the ski/row. For the double unders, break them into manageable sets if needed. For the dumbbell movements, focus on form over speed, and for the ring dips, don’t hesitate to take small breaks to maintain quality reps.
+  
+- **Mindset:** 
+    - Remember, this is a challenging workout, but it’s also a chance to push your limits. Stay focused, keep your form sharp, and enjoy the process!
+
+Let’s crush this WOD together! 💪
 
 ---
-*Generated on 2025-08-08T06:09:24.738Z using AI assistance*
+*Generated on 2025-08-10T06:07:47.986Z using AI assistance*
