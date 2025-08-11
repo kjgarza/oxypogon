@@ -1,106 +1,108 @@
-# CrossFit MINS Workout - 2025-08-10
+# CrossFit MINS Workout - 2025-08-11
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">**Workout of the Day (WOD) - 10.08.2025**</p><br><p class="mb-2">**Buy In:**</p><li class="ml-4">2000 Meter Ski / Row</li><br><p class="mb-2">**6 Rounds of:**</p><li class="ml-4">50 Double Unders</li><li class="ml-4">20 Single Dumbbell Hang Snatch / Single Dumbbell Hang Clean and Jerk (alternate each round)</li><li class="ml-4">10 Ring Dips</li><br><p class="mb-2">**Cash Out:**</p><li class="ml-4">2000 Meter Ski / Row</li><br><p class="mb-2">**Additional Options:**</p><li class="ml-4">Sweat: 15/10; 100 Single Unders; Banded Ring Dips / Box Dips</li><li class="ml-4">Train: 17.5/12.5</li><li class="ml-4">Compete: 22.5/15</li>
+<p class="mb-2">**Workout of the Day (WOD) - 11.08.2025**</p><br><li class="ml-4">**Tempo Bench Press**</li><li class="ml-4">On the 3:00 x 4</li><li class="ml-4">4 Tempo Bench Presses (3 seconds down, 1 second pause on chest)</li><li class="ml-4">Start at 40-50% and build to 65-70% of 1 RM</li><br><li class="ml-4">**Conditioning**</li><li class="ml-4">3 Rounds for Time:</li><li class="ml-4">20 Double Dumbbell Box Step Ups (24"/20")</li><li class="ml-4">15 Dumbbell Push-ups</li><li class="ml-4">1 Big Hill Farmer's Carry</li><li class="ml-4">15 Dumbbell Push-ups</li><br><p class="mb-2">**Weights:**</p><li class="ml-4">Sweat: 15/10 kg; Kneeling Push Ups</li><li class="ml-4">Train: 17.5/12.5 kg</li><li class="ml-4">Compete: 22.5/15 kg</li>
 
 ### Expert Explanation
 ## Workout Overview
-Hey everyone! Today’s WOD is a fun and challenging mix of cardio and strength work designed to test your endurance and skill. We’ll kick things off with a 2000-meter ski or row to get our heart rates up and our muscles warmed. Then, we’ll dive into 6 rounds of high-rep movements that will really get your sweat on! We’ll finish with another 2000-meter ski or row to cash out. The goal here is to maintain a steady pace and focus on form throughout the workout, especially as fatigue sets in.
+Hey everyone! Today’s WOD is a fantastic mix of strength and conditioning that will really challenge your upper body and lower body endurance. We’ll kick things off with a **Tempo Bench Press** to focus on strength and control, followed by a conditioning piece that includes some fun movements like **Double Dumbbell Box Step Ups** and **Dumbbell Push-ups**. The goal here is to build strength while also pushing your cardiovascular limits. Let’s break it down step by step!
 
-## Buy In: 2000 Meter Ski / Row
-1. **Technique Steps:**
-    - For the ski: Stand with feet shoulder-width apart, grip the handles, and engage your core. Use your legs to drive down while pulling the handles towards your chest, keeping your elbows close.
-    - For the row: Sit down, strap your feet in, and start with your knees bent. Push through your heels, extend your legs, lean back slightly, and pull the handle towards your chest.
-  
-2. **Form Tips:**
-    - Keep your back straight and core engaged to avoid rounding your spine.
-    - Use your legs to generate power; your arms should follow through the motion.
-  
-3. **Scaling/Modifications:**
-    - If 2000 meters feels daunting, scale down to 1000 meters or adjust the intensity to a steady pace.
-  
-4. **Summary/Instruction:**
-    - Focus on a consistent rhythm and breathing. This is your warm-up, so aim for a moderate pace that you can sustain.
+## Strength Segment
+### 1. **Tempo Bench Press**
+- **Overview:** The Tempo Bench Press is all about control and time under tension. By slowing down the eccentric (lowering) phase, we’re working on strength and stability in the chest, shoulders, and triceps. This is crucial for building a solid foundation for heavier lifts in the future.
 
-## Conditioning Segment: 6 Rounds of
-### 1. **50 Double Unders**
-   - **Technique Steps:**
-       - Start with the rope behind your heels, jump slightly off the ground, and swing the rope under your feet twice before landing.
-  
-   - **Form Tips:**
-       - Keep your elbows close to your body and use your wrists to control the rope.
-       - Stay light on your feet and jump only high enough to clear the rope.
-  
-   - **Scaling/Modifications:**
-       - If you’re still working on double unders, switch to 100 single unders or practice double under attempts.
-  
-   - **Summary/Instruction:**
-       - Focus on rhythm and timing. If you trip, take a breath, reset, and keep going!
+- **Technique Steps:**
+  1. **Setup:** Lie flat on a bench with your feet firmly planted on the ground. Grip the barbell slightly wider than shoulder-width apart.
+  2. **Unrack the Bar:** With a spotter if needed, lift the bar off the rack and hold it above your chest with arms fully extended.
+  3. **Lowering Phase:** Slowly lower the bar to your chest over a count of three seconds. Focus on keeping your elbows at about a 45-degree angle to your body.
+  4. **Pause:** Once the bar touches your chest, pause for one second. This is where you build stability.
+  5. **Press Up:** Drive through your feet and push the bar back up to the starting position, fully extending your arms.
 
-### 2. **20 Single Dumbbell Hang Snatch / Single Dumbbell Hang Clean and Jerk (alternate each round)**
-   - **Technique Steps for Hang Snatch:**
-       - Start with the dumbbell in one hand, hinge at the hips to bring the dumbbell to just above your knees. Explode upwards, pulling the dumbbell overhead in one motion, catching it in a partial squat.
-  
-   - **Technique Steps for Hang Clean and Jerk:**
-       - Similar setup, but as you pull the dumbbell up, drop into a squat to catch it at shoulder height, then stand and press overhead.
-  
-   - **Form Tips:**
-       - Keep the dumbbell close to your body during the lift.
-       - Use your legs to drive the movement, not just your arms.
-  
-   - **Scaling/Modifications:**
-       - Use a lighter dumbbell or perform the movements with a kettlebell if needed.
-  
-   - **Summary/Instruction:**
-       - Alternate between the two movements each round, focusing on explosive power and control.
+- **Form Tips:**
+  - Keep your shoulder blades retracted and pressed into the bench.
+  - Maintain a neutral wrist position; don’t let your wrists bend back excessively.
+  - Engage your core throughout the movement to protect your lower back.
 
-### 3. **10 Ring Dips**
-   - **Technique Steps:**
-       - Start by gripping the rings with your palms facing inward. Lower your body by bending your elbows while keeping your body straight, then push back up to the starting position.
-  
-   - **Form Tips:**
-       - Keep your shoulders down and away from your ears.
-       - Maintain a strong core to avoid swinging.
-  
-   - **Scaling/Modifications:**
-       - If ring dips are too challenging, use a band for assistance or perform box dips instead.
-  
-   - **Summary/Instruction:**
-       - Focus on controlled movement; it’s better to do fewer reps with good form than to rush through.
+- **Scaling/Modifications:**
+  - If you’re new to bench pressing, consider using a lighter weight or performing the movement with dumbbells.
+  - If you have shoulder issues, you can substitute with a floor press or use a lighter weight.
 
-## Cash Out: 2000 Meter Ski / Row
-1. **Technique Steps:**
-    - Repeat the same technique as the buy-in, but this time focus on cooling down and maintaining a steady pace.
-  
-2. **Form Tips:**
-    - Keep your breathing steady and try to maintain the same rhythm you established during the buy-in.
-  
-3. **Scaling/Modifications:**
-    - If you’re feeling fatigued, consider scaling to 1000 meters or adjusting the intensity.
-  
-4. **Summary/Instruction:**
-    - This is your time to recover and reflect on the workout. Keep moving and finish strong!
+- **Loading:**
+  - **Sweat:** Start at 40% of your 1RM, aiming for 40-50% of your max.
+  - **Train:** Build to 65% of your 1RM.
+  - **Compete:** Aim for 70% of your 1RM.
 
-## Loading and Rep-Modification Options
-- **Sweat:** 
-    - Use a 15/10 kg dumbbell, perform 100 single unders, and substitute with banded ring dips or box dips.
-  
-- **Train:** 
-    - Use a 17.5/12.5 kg dumbbell for the hang snatches and clean and jerks.
-  
-- **Compete:** 
-    - Use a 22.5/15 kg dumbbell and aim to complete the workout as prescribed.
+## Conditioning Segment [For Time]
+### 2. **3 Rounds for Time:**
+- **20 Double Dumbbell Box Step Ups (24"/20")**
+- **15 Dumbbell Push-ups**
+- **1 Big Hill Farmer's Carry**
+- **15 Dumbbell Push-ups**
 
-## Strategy Advice
-- **Pacing:** 
-    - Start at a steady pace, especially on the ski/row. For the double unders, break them into manageable sets if needed. For the dumbbell movements, focus on form over speed, and for the ring dips, don’t hesitate to take small breaks to maintain quality reps.
-  
-- **Mindset:** 
-    - Remember, this is a challenging workout, but it’s also a chance to push your limits. Stay focused, keep your form sharp, and enjoy the process!
+### Breakdown of Each Movement
 
-Let’s crush this WOD together! 💪
+#### **20 Double Dumbbell Box Step Ups**
+- **Overview:** This movement is great for building leg strength and stability while also getting your heart rate up. It’s functional and mimics everyday movements.
+
+- **Technique Steps:**
+  1. Stand in front of a sturdy box with a dumbbell in each hand, arms at your sides.
+  2. Step up onto the box with one foot, driving through your heel.
+  3. Bring your other foot up to meet the first on top of the box.
+  4. Step back down one foot at a time and repeat.
+
+- **Form Tips:**
+  - Keep your chest up and core engaged throughout the movement.
+  - Ensure your entire foot is on the box before stepping down.
+  - Alternate legs with each rep for balance.
+
+- **Scaling/Modifications:**
+  - Use a lower box if you’re new to this movement.
+  - If dumbbells are too challenging, you can perform step-ups without weights.
+
+#### **15 Dumbbell Push-ups**
+- **Overview:** This variation of push-ups adds an extra challenge by elevating your hands, which increases the range of motion and engages your chest and triceps more.
+
+- **Technique Steps:**
+  1. Start in a plank position with a dumbbell in each hand, shoulder-width apart.
+  2. Lower your body until your chest nearly touches the ground, keeping elbows close to your body.
+  3. Push back up to the starting position.
+
+- **Form Tips:**
+  - Keep your body in a straight line from head to heels.
+  - Engage your core and avoid sagging your hips.
+  - If you feel strain in your wrists, adjust your grip or switch to kneeling push-ups.
+
+- **Scaling/Modifications:**
+  - Perform push-ups from your knees if needed.
+  - Use lighter dumbbells or perform standard push-ups on the floor.
+
+#### **1 Big Hill Farmer's Carry**
+- **Overview:** This is a great way to build grip strength and core stability while also working your legs and cardiovascular system.
+
+- **Technique Steps:**
+  1. Grab a heavy dumbbell in each hand and stand tall.
+  2. Walk a designated distance uphill, keeping your shoulders back and core engaged.
+  3. Maintain a steady pace and focus on your breathing.
+
+- **Form Tips:**
+  - Keep your arms straight at your sides, don’t let them swing.
+  - Maintain an upright posture; avoid leaning forward.
+
+- **Scaling/Modifications:**
+  - Use lighter dumbbells if the weight is too challenging.
+  - Shorten the distance if you’re new to this movement.
+
+### Loading Options
+- **Sweat:** 15/10 kg dumbbells; consider kneeling push-ups for scaling.
+- **Train:** 17.5/12.5 kg dumbbells.
+- **Compete:** 22.5/15 kg dumbbells.
+
+### Strategy Advice
+- For the conditioning piece, aim for a steady pace. It’s better to break up the push-ups into smaller sets than to burn out early. Focus on maintaining good form throughout, especially as you get tired. Remember, it’s not just about finishing fast; it’s about finishing strong!
+
+Alright team, let’s get after it today! Remember to listen to your body, scale as needed, and most importantly, have fun! Let’s crush this WOD together! 💪
 
 ---
-*Generated on 2025-08-10T06:07:47.986Z using AI assistance*
+*Generated on 2025-08-11T06:09:40.711Z using AI assistance*
