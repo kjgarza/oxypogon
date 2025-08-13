@@ -1,108 +1,105 @@
-# CrossFit MINS Workout - 2025-08-11
+# CrossFit MINS Workout - 2025-08-13
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">**Workout of the Day (WOD) - 11.08.2025**</p><br><li class="ml-4">**Tempo Bench Press**</li><li class="ml-4">On the 3:00 x 4</li><li class="ml-4">4 Tempo Bench Presses (3 seconds down, 1 second pause on chest)</li><li class="ml-4">Start at 40-50% and build to 65-70% of 1 RM</li><br><li class="ml-4">**Conditioning**</li><li class="ml-4">3 Rounds for Time:</li><li class="ml-4">20 Double Dumbbell Box Step Ups (24"/20")</li><li class="ml-4">15 Dumbbell Push-ups</li><li class="ml-4">1 Big Hill Farmer's Carry</li><li class="ml-4">15 Dumbbell Push-ups</li><br><p class="mb-2">**Weights:**</p><li class="ml-4">Sweat: 15/10 kg; Kneeling Push Ups</li><li class="ml-4">Train: 17.5/12.5 kg</li><li class="ml-4">Compete: 22.5/15 kg</li>
+<p class="mb-2">**Workout of the Day (WOD) - 13.08.2025**</p><br><li class="ml-4">**Strength: Overhead Squats**</li><li class="ml-4">6 sets of 3 reps</li><li class="ml-4">On the 1:45 interval</li><li class="ml-4">Start at 40-50% of 1 RM and build to 70-75% of 1 RM</li><br><li class="ml-4">**Conditioning: AMRAP 16 minutes**</li><li class="ml-4">Reps: 2, 4, 6, 8, 10...</li><li class="ml-4">Single Dumbbell Overhead Lunges</li><li class="ml-4">Lateral Burpees Over Dumbbell</li><li class="ml-4">After each round, perform 40 Double Unders</li><br><p class="mb-2">**Weights:**</p><li class="ml-4">Sweat: 15/10 kg; 80 Single Unders</li><li class="ml-4">Train: 17.5/12.5 kg</li><li class="ml-4">Compete: 22.5/15 kg</li>
 
 ### Expert Explanation
-## Workout Overview
-Hey everyone! Today’s WOD is a fantastic mix of strength and conditioning that will really challenge your upper body and lower body endurance. We’ll kick things off with a **Tempo Bench Press** to focus on strength and control, followed by a conditioning piece that includes some fun movements like **Double Dumbbell Box Step Ups** and **Dumbbell Push-ups**. The goal here is to build strength while also pushing your cardiovascular limits. Let’s break it down step by step!
+# Workout Overview
+Hey everyone! Today’s WOD is going to be a great mix of strength and conditioning. We’ll kick things off with some Overhead Squats to build strength and stability, and then we’ll dive into a 16-minute AMRAP (As Many Rounds As Possible) that will really test your endurance and grit. The conditioning piece features Single Dumbbell Overhead Lunges and Lateral Burpees over the dumbbell, with some Double Unders thrown in to keep your heart rate up. Let’s break it down step by step!
 
 ## Strength Segment
-### 1. **Tempo Bench Press**
-- **Overview:** The Tempo Bench Press is all about control and time under tension. By slowing down the eccentric (lowering) phase, we’re working on strength and stability in the chest, shoulders, and triceps. This is crucial for building a solid foundation for heavier lifts in the future.
+### 1. **Overhead Squats**
+- **Structure:** 6 sets of 3 reps on the 1:45 interval. Start at 40-50% of your 1 Rep Max (1RM) and aim to build to 70-75% by the end.
+  
+#### Technique Steps:
+1. **Setup:** Stand with your feet shoulder-width apart, grip the barbell slightly wider than shoulder-width, and press it overhead.
+2. **Engage Core:** Brace your core and keep your chest up.
+3. **Squat Down:** Initiate the squat by pushing your hips back and bending your knees, keeping the bar directly over your midfoot.
+4. **Depth:** Aim to squat down until your hips are below your knees while maintaining a stable overhead position.
+5. **Stand Up:** Drive through your heels to return to standing, keeping the bar overhead.
 
-- **Technique Steps:**
-  1. **Setup:** Lie flat on a bench with your feet firmly planted on the ground. Grip the barbell slightly wider than shoulder-width apart.
-  2. **Unrack the Bar:** With a spotter if needed, lift the bar off the rack and hold it above your chest with arms fully extended.
-  3. **Lowering Phase:** Slowly lower the bar to your chest over a count of three seconds. Focus on keeping your elbows at about a 45-degree angle to your body.
-  4. **Pause:** Once the bar touches your chest, pause for one second. This is where you build stability.
-  5. **Press Up:** Drive through your feet and push the bar back up to the starting position, fully extending your arms.
+#### Form Tips:
+- Keep your elbows locked out and your shoulders engaged to stabilize the bar.
+- Maintain a neutral spine throughout the movement.
+- Your knees should track over your toes, not caving inward.
 
-- **Form Tips:**
-  - Keep your shoulder blades retracted and pressed into the bench.
-  - Maintain a neutral wrist position; don’t let your wrists bend back excessively.
-  - Engage your core throughout the movement to protect your lower back.
+#### Scaling/Modifications:
+- If you’re new to this movement, you can use a PVC pipe or a lighter barbell to focus on form.
+- If you have mobility issues, consider performing Front Squats instead.
 
-- **Scaling/Modifications:**
-  - If you’re new to bench pressing, consider using a lighter weight or performing the movement with dumbbells.
-  - If you have shoulder issues, you can substitute with a floor press or use a lighter weight.
+#### Loading:
+- **Sweat:** Start with 20-25 kg (40-50% of 1RM).
+- **Train:** 30-35 kg.
+- **Compete:** 40-50 kg.
+  
+### Summary:
+Focus on maintaining good form throughout your sets. It’s better to lift lighter and perfect your technique than to go heavy and risk injury. 
 
-- **Loading:**
-  - **Sweat:** Start at 40% of your 1RM, aiming for 40-50% of your max.
-  - **Train:** Build to 65% of your 1RM.
-  - **Compete:** Aim for 70% of your 1RM.
+## Conditioning Segment [AMRAP 16 minutes]
+### **Movement Breakdown:**
+1. **Single Dumbbell Overhead Lunges**
+   - **Reps:** Start with 2, then increase by 2 each round (2, 4, 6, 8, 10...).
 
-## Conditioning Segment [For Time]
-### 2. **3 Rounds for Time:**
-- **20 Double Dumbbell Box Step Ups (24"/20")**
-- **15 Dumbbell Push-ups**
-- **1 Big Hill Farmer's Carry**
-- **15 Dumbbell Push-ups**
+#### Technique Steps:
+1. **Start Position:** Hold a dumbbell overhead with one arm, standing tall.
+2. **Lunge:** Step forward with the opposite leg, lowering your back knee toward the ground while keeping the dumbbell overhead.
+3. **Return:** Push through the front heel to return to standing, keeping the dumbbell stable overhead.
 
-### Breakdown of Each Movement
+#### Form Tips:
+- Keep your core engaged to prevent arching your back.
+- Ensure your front knee stays aligned with your ankle.
+- Switch arms after each round to balance the load.
 
-#### **20 Double Dumbbell Box Step Ups**
-- **Overview:** This movement is great for building leg strength and stability while also getting your heart rate up. It’s functional and mimics everyday movements.
+#### Scaling/Modifications:
+- Use a lighter dumbbell or perform the lunges without weight if you’re still mastering the movement.
+- If lunges are challenging, you can do step-ups instead.
 
-- **Technique Steps:**
-  1. Stand in front of a sturdy box with a dumbbell in each hand, arms at your sides.
-  2. Step up onto the box with one foot, driving through your heel.
-  3. Bring your other foot up to meet the first on top of the box.
-  4. Step back down one foot at a time and repeat.
+2. **Lateral Burpees Over Dumbbell**
+   - **Reps:** Same increasing pattern as the lunges.
 
-- **Form Tips:**
-  - Keep your chest up and core engaged throughout the movement.
-  - Ensure your entire foot is on the box before stepping down.
-  - Alternate legs with each rep for balance.
+#### Technique Steps:
+1. **Start Position:** Stand next to the dumbbell.
+2. **Burpee Down:** Drop into a squat, place your hands on the ground, and jump back into a plank position.
+3. **Push-Up (optional):** Perform a push-up if you’re able.
+4. **Jump Forward:** Jump your feet back to your hands, then explode up and jump laterally over the dumbbell.
 
-- **Scaling/Modifications:**
-  - Use a lower box if you’re new to this movement.
-  - If dumbbells are too challenging, you can perform step-ups without weights.
+#### Form Tips:
+- Keep your core tight during the plank to avoid sagging hips.
+- Use your arms to help propel you up during the jump.
 
-#### **15 Dumbbell Push-ups**
-- **Overview:** This variation of push-ups adds an extra challenge by elevating your hands, which increases the range of motion and engages your chest and triceps more.
+#### Scaling/Modifications:
+- Step back instead of jumping if you need to modify.
+- You can also perform regular burpees if lateral movement is too challenging.
 
-- **Technique Steps:**
-  1. Start in a plank position with a dumbbell in each hand, shoulder-width apart.
-  2. Lower your body until your chest nearly touches the ground, keeping elbows close to your body.
-  3. Push back up to the starting position.
+3. **Double Unders**
+   - **Reps:** 40 after each round.
 
-- **Form Tips:**
-  - Keep your body in a straight line from head to heels.
-  - Engage your core and avoid sagging your hips.
-  - If you feel strain in your wrists, adjust your grip or switch to kneeling push-ups.
+#### Technique Steps:
+1. **Setup:** Hold the jump rope handles with a relaxed grip.
+2. **Jump:** Jump slightly higher than normal, allowing the rope to pass under your feet twice before landing.
+3. **Wrist Movement:** Use your wrists to spin the rope, keeping your elbows close to your body.
 
-- **Scaling/Modifications:**
-  - Perform push-ups from your knees if needed.
-  - Use lighter dumbbells or perform standard push-ups on the floor.
+#### Form Tips:
+- Keep your jumps low and quick to maintain rhythm.
+- Practice single unders if you’re still working on double unders.
 
-#### **1 Big Hill Farmer's Carry**
-- **Overview:** This is a great way to build grip strength and core stability while also working your legs and cardiovascular system.
+#### Scaling/Modifications:
+- If double unders are too challenging, perform single unders or do 80 single unders instead.
 
-- **Technique Steps:**
-  1. Grab a heavy dumbbell in each hand and stand tall.
-  2. Walk a designated distance uphill, keeping your shoulders back and core engaged.
-  3. Maintain a steady pace and focus on your breathing.
+## Loading Options:
+- **Sweat:** 15/10 kg dumbbell; 80 single unders.
+- **Train:** 17.5/12.5 kg dumbbell.
+- **Compete:** 22.5/15 kg dumbbell.
 
-- **Form Tips:**
-  - Keep your arms straight at your sides, don’t let them swing.
-  - Maintain an upright posture; avoid leaning forward.
+## Strategy Advice:
+- Start at a steady pace; don’t burn out too quickly. 
+- Break up the lunges and burpees into manageable sets if needed.
+- Focus on maintaining good form throughout the 16 minutes; it’s a marathon, not a sprint!
 
-- **Scaling/Modifications:**
-  - Use lighter dumbbells if the weight is too challenging.
-  - Shorten the distance if you’re new to this movement.
-
-### Loading Options
-- **Sweat:** 15/10 kg dumbbells; consider kneeling push-ups for scaling.
-- **Train:** 17.5/12.5 kg dumbbells.
-- **Compete:** 22.5/15 kg dumbbells.
-
-### Strategy Advice
-- For the conditioning piece, aim for a steady pace. It’s better to break up the push-ups into smaller sets than to burn out early. Focus on maintaining good form throughout, especially as you get tired. Remember, it’s not just about finishing fast; it’s about finishing strong!
-
-Alright team, let’s get after it today! Remember to listen to your body, scale as needed, and most importantly, have fun! Let’s crush this WOD together! 💪
+### Summary:
+This WOD is designed to challenge your strength and endurance while keeping your heart rate up. Remember to listen to your body, scale as needed, and most importantly, have fun! Let’s get after it!
 
 ---
-*Generated on 2025-08-11T06:09:40.711Z using AI assistance*
+*Generated on 2025-08-13T06:08:47.514Z using AI assistance*
