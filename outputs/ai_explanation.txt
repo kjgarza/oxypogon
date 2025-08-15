@@ -1,94 +1,89 @@
-# Workout Overview
-Hey everyone! Today’s WOD is going to be a great mix of strength and conditioning. We’ll kick things off with some Overhead Squats to build strength and stability, and then we’ll dive into a 16-minute AMRAP (As Many Rounds As Possible) that will really test your endurance and grit. The conditioning piece features Single Dumbbell Overhead Lunges and Lateral Burpees over the dumbbell, with some Double Unders thrown in to keep your heart rate up. Let’s break it down step by step!
+## Workout Overview
+Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really test your power and endurance. We’ll kick things off with a power clean segment, where you’ll have the chance to focus on your technique and gradually increase your load. After that, we’ll dive into a conditioning piece that combines box jumps, power cleans, and a 200-meter run. This workout is designed to build explosive strength and cardiovascular endurance, so let’s break it down step by step!
+
+---
 
 ## Strength Segment
-### 1. **Overhead Squats**
-- **Structure:** 6 sets of 3 reps on the 1:45 interval. Start at 40-50% of your 1 Rep Max (1RM) and aim to build to 70-75% by the end.
-  
-#### Technique Steps:
-1. **Setup:** Stand with your feet shoulder-width apart, grip the barbell slightly wider than shoulder-width, and press it overhead.
-2. **Engage Core:** Brace your core and keep your chest up.
-3. **Squat Down:** Initiate the squat by pushing your hips back and bending your knees, keeping the bar directly over your midfoot.
-4. **Depth:** Aim to squat down until your hips are below your knees while maintaining a stable overhead position.
-5. **Stand Up:** Drive through your heels to return to standing, keeping the bar overhead.
 
-#### Form Tips:
-- Keep your elbows locked out and your shoulders engaged to stabilize the bar.
-- Maintain a neutral spine throughout the movement.
-- Your knees should track over your toes, not caving inward.
+### 1. **Power Clean**
+   - **Structure:** On the 2:15 x 7, you’ll perform 5 Power Cleans. Start at 50% of your one-rep max (1RM) and aim to build up to 70-75% by the end of the segment.
 
-#### Scaling/Modifications:
-- If you’re new to this movement, you can use a PVC pipe or a lighter barbell to focus on form.
-- If you have mobility issues, consider performing Front Squats instead.
+   - **Technique Steps:**
+     1. **Starting Position:** Stand with your feet hip-width apart, barbell over the midfoot. Grip the bar just outside your knees.
+     2. **Setup:** Hinge at your hips and bend your knees to lower your body, keeping your back straight and chest up.
+     3. **First Pull:** Drive through your heels to lift the bar off the ground, keeping it close to your body.
+     4. **Second Pull:** As the bar passes your knees, explosively extend your hips and knees, shrugging your shoulders to generate upward momentum.
+     5. **Catch:** Pull yourself under the bar, rotating your elbows around it, and catch it in a quarter squat position.
+     6. **Stand Up:** Stand tall to finish the lift, then lower the bar back to the ground.
 
-#### Loading:
-- **Sweat:** Start with 20-25 kg (40-50% of 1RM).
-- **Train:** 30-35 kg.
-- **Compete:** 40-50 kg.
-  
-### Summary:
-Focus on maintaining good form throughout your sets. It’s better to lift lighter and perfect your technique than to go heavy and risk injury. 
+   - **Form Tips:**
+     - Keep your core engaged throughout the lift to maintain stability.
+     - Focus on keeping the bar close to your body to minimize distance and maximize efficiency.
+     - Ensure your elbows are high in the catch position to support the bar.
 
-## Conditioning Segment [AMRAP 16 minutes]
-### **Movement Breakdown:**
-1. **Single Dumbbell Overhead Lunges**
-   - **Reps:** Start with 2, then increase by 2 each round (2, 4, 6, 8, 10...).
+   - **Scaling/Modifications:**
+     - If you’re new to power cleans, consider using a lighter barbell or even a kettlebell to practice the movement.
+     - You can also perform the movement as a hang power clean if you’re still mastering the full lift.
 
-#### Technique Steps:
-1. **Start Position:** Hold a dumbbell overhead with one arm, standing tall.
-2. **Lunge:** Step forward with the opposite leg, lowering your back knee toward the ground while keeping the dumbbell overhead.
-3. **Return:** Push through the front heel to return to standing, keeping the dumbbell stable overhead.
+   - **Loading:**
+     - **Sweat:** Start with a lighter load, around 30/20 kg.
+     - **Train:** Aim for 45/30 kg.
+     - **Compete:** Push yourself to 60/40 kg.
+   - **Strategy Advice:** Focus on quality over quantity. It’s better to lift lighter with perfect form than to risk injury with heavier weights.
 
-#### Form Tips:
-- Keep your core engaged to prevent arching your back.
-- Ensure your front knee stays aligned with your ankle.
-- Switch arms after each round to balance the load.
+---
 
-#### Scaling/Modifications:
-- Use a lighter dumbbell or perform the lunges without weight if you’re still mastering the movement.
-- If lunges are challenging, you can do step-ups instead.
+## Conditioning Segment [On the 5:00 x 3 Rounds]
 
-2. **Lateral Burpees Over Dumbbell**
-   - **Reps:** Same increasing pattern as the lunges.
+### 2. **20 Box Jumps (24"/20")**
+   - **Technique Steps:**
+     1. Stand facing the box with your feet shoulder-width apart.
+     2. Bend your knees slightly and swing your arms back to generate momentum.
+     3. Explode upward, driving through your heels and swinging your arms forward.
+     4. Land softly on the box with your knees slightly bent, standing tall at the top.
 
-#### Technique Steps:
-1. **Start Position:** Stand next to the dumbbell.
-2. **Burpee Down:** Drop into a squat, place your hands on the ground, and jump back into a plank position.
-3. **Push-Up (optional):** Perform a push-up if you’re able.
-4. **Jump Forward:** Jump your feet back to your hands, then explode up and jump laterally over the dumbbell.
+   - **Form Tips:**
+     - Focus on landing softly to reduce impact on your joints.
+     - Use your arms to help propel you upward.
 
-#### Form Tips:
-- Keep your core tight during the plank to avoid sagging hips.
-- Use your arms to help propel you up during the jump.
+   - **Scaling/Modifications:**
+     - If you’re not comfortable jumping, step-ups are a great alternative. Just step up onto the box one foot at a time.
+     - Lower the height of the box if needed.
 
-#### Scaling/Modifications:
-- Step back instead of jumping if you need to modify.
-- You can also perform regular burpees if lateral movement is too challenging.
+### 3. **20 Power Cleans**
+   - **Technique Steps:** (Refer back to the strength segment for detailed steps on the power clean.)
+   - **Form Tips:** Maintain the same form as in the strength segment, focusing on speed and efficiency.
+   - **Scaling/Modifications:** Use a lighter barbell or perform the movement with dumbbells if needed.
 
-3. **Double Unders**
-   - **Reps:** 40 after each round.
+### 4. **200 Meter Run**
+   - **Technique Steps:**
+     1. Start with a strong, steady pace.
+     2. Keep your arms at a 90-degree angle and pump them to help drive your legs.
+     3. Focus on breathing steadily and maintaining good posture.
 
-#### Technique Steps:
-1. **Setup:** Hold the jump rope handles with a relaxed grip.
-2. **Jump:** Jump slightly higher than normal, allowing the rope to pass under your feet twice before landing.
-3. **Wrist Movement:** Use your wrists to spin the rope, keeping your elbows close to your body.
+   - **Form Tips:**
+     - Land softly on your feet and avoid overstriding.
+     - Keep your head up and eyes forward.
 
-#### Form Tips:
-- Keep your jumps low and quick to maintain rhythm.
-- Practice single unders if you’re still working on double unders.
+   - **Scaling/Modifications:**
+     - If running isn’t an option, consider rowing or biking for a similar distance.
 
-#### Scaling/Modifications:
-- If double unders are too challenging, perform single unders or do 80 single unders instead.
+---
 
-## Loading Options:
-- **Sweat:** 15/10 kg dumbbell; 80 single unders.
-- **Train:** 17.5/12.5 kg dumbbell.
-- **Compete:** 22.5/15 kg dumbbell.
+## Loading Options
+- **Sweat:** 
+  - Box Jumps: 20”/16”
+  - Power Cleans: 30/20 kg
+- **Train:** 
+  - Box Jumps: 24”/20”
+  - Power Cleans: 45/30 kg
+- **Compete:** 
+  - Box Jumps: 30”/24”
+  - Power Cleans: 60/40 kg
 
-## Strategy Advice:
-- Start at a steady pace; don’t burn out too quickly. 
-- Break up the lunges and burpees into manageable sets if needed.
-- Focus on maintaining good form throughout the 16 minutes; it’s a marathon, not a sprint!
+## Strategy Advice
+For the conditioning piece, aim for a steady pace. It’s easy to go out too fast, especially on the box jumps, but remember that you’ll need energy for the power cleans and the run. Break up the power cleans into manageable sets if needed, and don’t hesitate to take a quick breather between movements to maintain your form.
 
-### Summary:
-This WOD is designed to challenge your strength and endurance while keeping your heart rate up. Remember to listen to your body, scale as needed, and most importantly, have fun! Let’s get after it!
+---
+
+Alright, team! Let’s get after it today. Focus on your form, push your limits, and most importantly, have fun! Let’s crush this WOD together! 💪
