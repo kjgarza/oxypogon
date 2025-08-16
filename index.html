@@ -61,16 +61,20 @@
           const explanationSection = document.createElement('div');
           explanationSection.className = 'border-t pt-6';
           explanationSection.innerHTML = `
-            <h3 class="text-xl font-semibold mb-4 text-gray-800 flex items-center">
-              <span class="bg-purple-100 text-purple-700 px-2 py-1 rounded text-sm mr-2">AI</span>
-              Exercise Explanations
-            </h3>
-            <div class="bg-purple-50 p-4 rounded-lg">
-              <div class="prose prose-sm max-w-none text-gray-700">
+            <main>
+              <article>
+                <h3 class="text-xl font-semibold mb-4 text-gray-800 flex items-center">
+                  <span class="bg-purple-100 text-purple-700 px-2 py-1 rounded text-sm mr-2">AI</span>
+                  Exercise Explanations
+                </h3>
+                <div class="bg-purple-50 p-4 rounded-lg">
+                  <div class="prose prose-sm max-w-none text-gray-700">
 
-                ${marked.parse(data.ai_explanation.explanation)}
-              </div>
-            </div>
+                    ${marked.parse(data.ai_explanation.explanation)}
+                  </div>
+                </div>
+              </article>
+            </main>
           `;
           workoutContent.appendChild(explanationSection);
         }
