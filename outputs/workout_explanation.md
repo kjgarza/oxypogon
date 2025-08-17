@@ -1,100 +1,109 @@
-# CrossFit MINS Workout - 2025-08-15
+# CrossFit MINS Workout - 2025-08-17
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">**Workout of the Day (WOD) - 15.08.2025**</p><br><li class="ml-4">**Power Clean**</li><li class="ml-4">On the 2:15 x 7</li><li class="ml-4">5 Power Cleans</li><li class="ml-4">*Start at 50% and build to 70-75% of 1 RM*</li><br><li class="ml-4">**Conditioning**</li><li class="ml-4">On the 5:00 x 3 Rounds</li><li class="ml-4">20 Box Jumps (24"/20")</li><li class="ml-4">20 Power Cleans</li><li class="ml-4">200 Meter Run</li><br><p class="mb-2">**Sweat:** 30/20</p><p class="mb-2">**Train:** 45/30</p><p class="mb-2">**Compete:** 60/40</p>
+<p class="mb-2">**Workout of the Day (WOD) - 17.08.2025**</p><br><p class="mb-2">**Format:** 3:00 x 10 Intervals</p><br><p class="mb-2">**Even Intervals:**</p><li class="ml-4">3 Rope Climbs</li><li class="ml-4">20 Lateral Jumps over Kettlebell (L+R = 1)</li><li class="ml-4">Max Reps Kettlebell Swing</li><br><p class="mb-2">**Odd Intervals:**</p><li class="ml-4">15 Burpees</li><li class="ml-4">20 Lateral Jumps over D-Ball (L+R = 1)</li><li class="ml-4">Max Reps Slam Balls</li><br><p class="mb-2">**Additional Notes:**</p><li class="ml-4">Sweat: 16/8; 15/10; 3 Negative Rope Climbs</li><li class="ml-4">Train: 20/12; 20/15; 2 Rope Climbs</li><li class="ml-4">Compete: 24/16; 20/15</li>
 
 ### Expert Explanation
-## Workout Overview
-Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really test your power and endurance. We’ll kick things off with a power clean segment, where you’ll have the chance to focus on your technique and gradually increase your load. After that, we’ll dive into a conditioning piece that combines box jumps, power cleans, and a 200-meter run. This workout is designed to build explosive strength and cardiovascular endurance, so let’s break it down step by step!
+# Workout Overview
+Hey everyone! Today’s WOD is structured as a series of 10 intervals, alternating between even and odd rounds. The goal here is to build strength and endurance while keeping your heart rate up. We’ll be tackling some challenging movements, but don’t worry—we’ll break it down step by step. Remember, the focus is on quality movement and pushing your limits safely!
 
----
-
-## Strength Segment
-
-### 1. **Power Clean**
-   - **Structure:** On the 2:15 x 7, you’ll perform 5 Power Cleans. Start at 50% of your one-rep max (1RM) and aim to build up to 70-75% by the end of the segment.
-
+## Even Intervals
+1. **3 Rope Climbs**
    - **Technique Steps:**
-     1. **Starting Position:** Stand with your feet hip-width apart, barbell over the midfoot. Grip the bar just outside your knees.
-     2. **Setup:** Hinge at your hips and bend your knees to lower your body, keeping your back straight and chest up.
-     3. **First Pull:** Drive through your heels to lift the bar off the ground, keeping it close to your body.
-     4. **Second Pull:** As the bar passes your knees, explosively extend your hips and knees, shrugging your shoulders to generate upward momentum.
-     5. **Catch:** Pull yourself under the bar, rotating your elbows around it, and catch it in a quarter squat position.
-     6. **Stand Up:** Stand tall to finish the lift, then lower the bar back to the ground.
-
+     - Start by sitting on the ground with the rope above you.
+     - Use your legs to push off the ground and pull with your arms, wrapping your feet around the rope for support.
+     - Alternate between pulling with your arms and pushing with your legs to climb efficiently.
+     - At the top, control your descent back down.
    - **Form Tips:**
-     - Keep your core engaged throughout the lift to maintain stability.
-     - Focus on keeping the bar close to your body to minimize distance and maximize efficiency.
-     - Ensure your elbows are high in the catch position to support the bar.
-
+     - Keep your core engaged to maintain stability.
+     - Use your legs as much as possible to reduce the load on your arms.
    - **Scaling/Modifications:**
-     - If you’re new to power cleans, consider using a lighter barbell or even a kettlebell to practice the movement.
-     - You can also perform the movement as a hang power clean if you’re still mastering the full lift.
-
-   - **Loading:**
-     - **Sweat:** Start with a lighter load, around 30/20 kg.
-     - **Train:** Aim for 45/30 kg.
-     - **Compete:** Push yourself to 60/40 kg.
-   - **Strategy Advice:** Focus on quality over quantity. It’s better to lift lighter with perfect form than to risk injury with heavier weights.
-
----
-
-## Conditioning Segment [On the 5:00 x 3 Rounds]
-
-### 2. **20 Box Jumps (24"/20")**
+     - If you’re new to rope climbs, try 3 negative rope climbs (slowly lowering yourself down).
+     - Alternatively, use a low bar for pull-ups or a rope pull from a seated position.
+  
+2. **20 Lateral Jumps over Kettlebell (L+R = 1)**
    - **Technique Steps:**
-     1. Stand facing the box with your feet shoulder-width apart.
-     2. Bend your knees slightly and swing your arms back to generate momentum.
-     3. Explode upward, driving through your heels and swinging your arms forward.
-     4. Land softly on the box with your knees slightly bent, standing tall at the top.
-
+     - Stand with your feet shoulder-width apart next to the kettlebell.
+     - Bend your knees slightly and jump laterally over the kettlebell, landing softly on the other side.
+     - Immediately jump back to the starting position.
    - **Form Tips:**
-     - Focus on landing softly to reduce impact on your joints.
-     - Use your arms to help propel you upward.
-
+     - Keep your chest up and land softly to absorb the impact.
+     - Use your arms to help with momentum and balance.
    - **Scaling/Modifications:**
-     - If you’re not comfortable jumping, step-ups are a great alternative. Just step up onto the box one foot at a time.
-     - Lower the height of the box if needed.
+     - Reduce the number of jumps if you’re new to this movement.
+     - Step over the kettlebell instead of jumping if needed.
 
-### 3. **20 Power Cleans**
-   - **Technique Steps:** (Refer back to the strength segment for detailed steps on the power clean.)
-   - **Form Tips:** Maintain the same form as in the strength segment, focusing on speed and efficiency.
-   - **Scaling/Modifications:** Use a lighter barbell or perform the movement with dumbbells if needed.
-
-### 4. **200 Meter Run**
+3. **Max Reps Kettlebell Swing**
    - **Technique Steps:**
-     1. Start with a strong, steady pace.
-     2. Keep your arms at a 90-degree angle and pump them to help drive your legs.
-     3. Focus on breathing steadily and maintaining good posture.
-
+     - Stand with your feet slightly wider than shoulder-width, holding the kettlebell with both hands.
+     - Hinge at your hips, allowing the kettlebell to swing back between your legs.
+     - Drive your hips forward to swing the kettlebell up to shoulder height, keeping your arms straight.
    - **Form Tips:**
-     - Land softly on your feet and avoid overstriding.
-     - Keep your head up and eyes forward.
-
+     - Focus on using your hips, not your arms, to generate power.
+     - Keep your back flat and core engaged throughout the movement.
    - **Scaling/Modifications:**
-     - If running isn’t an option, consider rowing or biking for a similar distance.
+     - Use a lighter kettlebell or perform swings with a dumbbell.
+     - If you’re still mastering the swing, try doing Russian swings (kettlebell swings to waist height).
 
----
+## Odd Intervals
+1. **15 Burpees**
+   - **Technique Steps:**
+     - Start standing tall, then drop into a squat and place your hands on the ground.
+     - Jump your feet back into a plank position, perform a push-up, and jump your feet back to your hands.
+     - Explode upwards into a jump, reaching your arms overhead.
+   - **Form Tips:**
+     - Keep your core tight during the plank to prevent sagging hips.
+     - Land softly on your feet to minimize impact.
+   - **Scaling/Modifications:**
+     - Step back instead of jumping if you’re still working on your burpee.
+     - Perform a burpee without the push-up for a modified version.
 
-## Loading Options
+2. **20 Lateral Jumps over D-Ball (L+R = 1)**
+   - **Technique Steps:**
+     - Stand next to the D-Ball with feet shoulder-width apart.
+     - Bend your knees slightly and jump laterally over the D-Ball, landing softly on the other side.
+     - Jump back to the starting position.
+   - **Form Tips:**
+     - Keep your chest up and land softly to absorb the impact.
+     - Use your arms for balance and momentum.
+   - **Scaling/Modifications:**
+     - Reduce the number of jumps if necessary.
+     - Step over the D-Ball instead of jumping if you need to.
+
+3. **Max Reps Slam Balls**
+   - **Technique Steps:**
+     - Stand with your feet shoulder-width apart, holding the slam ball at chest level.
+     - Squat down slightly, then lift the ball overhead and slam it down to the ground with force.
+     - Catch the ball on the bounce and repeat.
+   - **Form Tips:**
+     - Engage your core and use your legs to generate power for the slam.
+     - Keep your back straight and avoid rounding your shoulders.
+   - **Scaling/Modifications:**
+     - Use a lighter slam ball or perform the movement with a medicine ball if needed.
+     - If you’re new to this, focus on controlled slams rather than max reps.
+
+## Loading and Rep-Modification Options
 - **Sweat:** 
-  - Box Jumps: 20”/16”
-  - Power Cleans: 30/20 kg
+  - Rope Climbs: 3 Negative Rope Climbs
+  - Kettlebell: 16/8 kg
+  - D-Ball: 15/10 kg
 - **Train:** 
-  - Box Jumps: 24”/20”
-  - Power Cleans: 45/30 kg
+  - Rope Climbs: 2 Rope Climbs
+  - Kettlebell: 20/12 kg
+  - D-Ball: 20/15 kg
 - **Compete:** 
-  - Box Jumps: 30”/24”
-  - Power Cleans: 60/40 kg
+  - Rope Climbs: 24/16 kg
+  - Kettlebell: 20/15 kg
+  - D-Ball: 20/15 kg
 
 ## Strategy Advice
-For the conditioning piece, aim for a steady pace. It’s easy to go out too fast, especially on the box jumps, but remember that you’ll need energy for the power cleans and the run. Break up the power cleans into manageable sets if needed, and don’t hesitate to take a quick breather between movements to maintain your form.
+- **Pacing:** Start each interval strong but find a sustainable pace. It’s better to break up your reps early than to burn out halfway through.
+- **Transitions:** Keep your transitions quick between movements to maximize your work time.
+- **Breathing:** Focus on your breathing, especially during the burpees and max rep movements. Controlled breathing will help you maintain your energy.
+
+Alright team, let’s get after it today! Remember to listen to your body, focus on your form, and most importantly, have fun! Let’s crush this WOD! 💪
 
 ---
-
-Alright, team! Let’s get after it today. Focus on your form, push your limits, and most importantly, have fun! Let’s crush this WOD together! 💪
-
----
-*Generated on 2025-08-15T06:08:46.557Z using AI assistance*
+*Generated on 2025-08-17T06:07:37.932Z using AI assistance*
