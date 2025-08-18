@@ -1,109 +1,91 @@
-# CrossFit MINS Workout - 2025-08-17
+# CrossFit MINS Workout - 2025-08-18
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">**Workout of the Day (WOD) - 17.08.2025**</p><br><p class="mb-2">**Format:** 3:00 x 10 Intervals</p><br><p class="mb-2">**Even Intervals:**</p><li class="ml-4">3 Rope Climbs</li><li class="ml-4">20 Lateral Jumps over Kettlebell (L+R = 1)</li><li class="ml-4">Max Reps Kettlebell Swing</li><br><p class="mb-2">**Odd Intervals:**</p><li class="ml-4">15 Burpees</li><li class="ml-4">20 Lateral Jumps over D-Ball (L+R = 1)</li><li class="ml-4">Max Reps Slam Balls</li><br><p class="mb-2">**Additional Notes:**</p><li class="ml-4">Sweat: 16/8; 15/10; 3 Negative Rope Climbs</li><li class="ml-4">Train: 20/12; 20/15; 2 Rope Climbs</li><li class="ml-4">Compete: 24/16; 20/15</li>
+<p class="mb-2">**Workout of the Day (WOD) - 18.08.2025**</p><br><li class="ml-4">**Strength: Strict Press**</li><li class="ml-4">On the 2:15 x 6</li><li class="ml-4">Reps: 10-8-6-4-2-1</li><li class="ml-4">*Start at a weight and build to 1RM*</li><br><li class="ml-4">**Conditioning:**</li><li class="ml-4">On the 2:00 x 4 Sets:</li><li class="ml-4">15 Double Dumbbell Floor Press</li><li class="ml-4">Max Double Dumbbell Bent Over Rows</li><li class="ml-4">Directly Into...</li><li class="ml-4">On the 2:00 x 4 Sets:</li><li class="ml-4">20 Dumbbell Reverse Lunges</li><li class="ml-4">Max Sit Ups</li><br><p class="mb-2">**Weights:**</p><li class="ml-4">Sweat: 15/10 kg</li><li class="ml-4">Train: 17.5/12.5 kg</li><li class="ml-4">Compete: 22.5/15 kg</li>
 
 ### Expert Explanation
 # Workout Overview
-Hey everyone! Today’s WOD is structured as a series of 10 intervals, alternating between even and odd rounds. The goal here is to build strength and endurance while keeping your heart rate up. We’ll be tackling some challenging movements, but don’t worry—we’ll break it down step by step. Remember, the focus is on quality movement and pushing your limits safely!
+Hey everyone! Today’s WOD is designed to build upper body strength and endurance while also hitting those legs and core. We’ll start with a strength segment focusing on the Strict Press, where we’ll gradually build up to a heavy single. Then, we’ll dive into a conditioning piece that combines some dumbbell work with bodyweight movements. The goal here is to challenge your muscular endurance and keep your heart rate up. Let’s break it down!
 
-## Even Intervals
-1. **3 Rope Climbs**
+## Strength Segment: Strict Press
+1. **Strict Press**
    - **Technique Steps:**
-     - Start by sitting on the ground with the rope above you.
-     - Use your legs to push off the ground and pull with your arms, wrapping your feet around the rope for support.
-     - Alternate between pulling with your arms and pushing with your legs to climb efficiently.
-     - At the top, control your descent back down.
+     - Start with your feet shoulder-width apart and the barbell resting on your shoulders, elbows slightly in front.
+     - Engage your core and glutes to maintain a strong, stable base.
+     - Press the bar directly overhead, keeping it close to your face and moving in a straight line.
+     - Lock out your arms overhead, ensuring your shoulders are active and not shrugging up.
+     - Lower the bar back to your shoulders with control.
    - **Form Tips:**
-     - Keep your core engaged to maintain stability.
-     - Use your legs as much as possible to reduce the load on your arms.
+     - Keep your ribcage down and avoid arching your back.
+     - Your head should move slightly back as the bar passes, then return to neutral as you lock out.
    - **Scaling/Modifications:**
-     - If you’re new to rope climbs, try 3 negative rope climbs (slowly lowering yourself down).
-     - Alternatively, use a low bar for pull-ups or a rope pull from a seated position.
-  
-2. **20 Lateral Jumps over Kettlebell (L+R = 1)**
-   - **Technique Steps:**
-     - Stand with your feet shoulder-width apart next to the kettlebell.
-     - Bend your knees slightly and jump laterally over the kettlebell, landing softly on the other side.
-     - Immediately jump back to the starting position.
-   - **Form Tips:**
-     - Keep your chest up and land softly to absorb the impact.
-     - Use your arms to help with momentum and balance.
-   - **Scaling/Modifications:**
-     - Reduce the number of jumps if you’re new to this movement.
-     - Step over the kettlebell instead of jumping if needed.
+     - If you’re new to the movement, use a lighter barbell or even a PVC pipe to focus on form.
+     - You can also perform the Strict Press seated if standing is uncomfortable.
+   - **Loading:**
+     - Start at a weight you can comfortably lift for 10 reps, then gradually increase the weight for each set, aiming to find your 1RM by the end of the session.
 
-3. **Max Reps Kettlebell Swing**
+## Conditioning Segment
+### Set 1: Double Dumbbell Floor Press & Bent Over Rows
+2. **15 Double Dumbbell Floor Press**
    - **Technique Steps:**
-     - Stand with your feet slightly wider than shoulder-width, holding the kettlebell with both hands.
-     - Hinge at your hips, allowing the kettlebell to swing back between your legs.
-     - Drive your hips forward to swing the kettlebell up to shoulder height, keeping your arms straight.
+     - Lie on your back with a dumbbell in each hand, elbows resting on the floor.
+     - Press the dumbbells up until your arms are fully extended, then lower them back down.
    - **Form Tips:**
-     - Focus on using your hips, not your arms, to generate power.
-     - Keep your back flat and core engaged throughout the movement.
+     - Keep your elbows at a 45-degree angle to your body.
+     - Engage your core to prevent your back from arching.
    - **Scaling/Modifications:**
-     - Use a lighter kettlebell or perform swings with a dumbbell.
-     - If you’re still mastering the swing, try doing Russian swings (kettlebell swings to waist height).
+     - Use lighter dumbbells if needed, or perform a single-arm floor press if you need to reduce the load.
+   - **Loading:**
+     - Sweat: 15/10 kg, Train: 17.5/12.5 kg, Compete: 22.5/15 kg.
 
-## Odd Intervals
-1. **15 Burpees**
+3. **Max Double Dumbbell Bent Over Rows**
    - **Technique Steps:**
-     - Start standing tall, then drop into a squat and place your hands on the ground.
-     - Jump your feet back into a plank position, perform a push-up, and jump your feet back to your hands.
-     - Explode upwards into a jump, reaching your arms overhead.
+     - Hinge at your hips, keeping your back flat and knees slightly bent.
+     - Hold a dumbbell in each hand, arms extended towards the floor.
+     - Pull the dumbbells towards your hips, squeezing your shoulder blades together at the top.
    - **Form Tips:**
-     - Keep your core tight during the plank to prevent sagging hips.
-     - Land softly on your feet to minimize impact.
+     - Keep your elbows close to your body and avoid rounding your back.
+     - Focus on controlled movements rather than rushing through the reps.
    - **Scaling/Modifications:**
-     - Step back instead of jumping if you’re still working on your burpee.
-     - Perform a burpee without the push-up for a modified version.
+     - If you’re struggling with the weight, reduce the dumbbell load or perform the rows one arm at a time.
+   - **Loading:**
+     - Same as above for the floor press.
 
-2. **20 Lateral Jumps over D-Ball (L+R = 1)**
+### Set 2: Dumbbell Reverse Lunges & Sit-Ups
+4. **20 Dumbbell Reverse Lunges**
    - **Technique Steps:**
-     - Stand next to the D-Ball with feet shoulder-width apart.
-     - Bend your knees slightly and jump laterally over the D-Ball, landing softly on the other side.
-     - Jump back to the starting position.
+     - Stand tall with a dumbbell in each hand at your sides.
+     - Step back with one leg, lowering your back knee towards the ground while keeping your front knee over your ankle.
+     - Push through your front heel to return to standing, alternating legs.
    - **Form Tips:**
-     - Keep your chest up and land softly to absorb the impact.
-     - Use your arms for balance and momentum.
+     - Keep your chest up and core engaged throughout the movement.
+     - Ensure your front knee doesn’t extend past your toes.
    - **Scaling/Modifications:**
-     - Reduce the number of jumps if necessary.
-     - Step over the D-Ball instead of jumping if you need to.
+     - If lunges are tough, you can perform them without weights or do step-ups instead.
+   - **Loading:**
+     - Same as above.
 
-3. **Max Reps Slam Balls**
+5. **Max Sit-Ups**
    - **Technique Steps:**
-     - Stand with your feet shoulder-width apart, holding the slam ball at chest level.
-     - Squat down slightly, then lift the ball overhead and slam it down to the ground with force.
-     - Catch the ball on the bounce and repeat.
+     - Lie on your back with your knees bent and feet flat on the ground.
+     - Cross your arms over your chest or place your hands behind your head.
+     - Engage your core and lift your upper body towards your knees, then lower back down.
    - **Form Tips:**
-     - Engage your core and use your legs to generate power for the slam.
-     - Keep your back straight and avoid rounding your shoulders.
+     - Avoid pulling on your neck; keep your chin tucked.
+     - Focus on using your core to lift rather than momentum.
    - **Scaling/Modifications:**
-     - Use a lighter slam ball or perform the movement with a medicine ball if needed.
-     - If you’re new to this, focus on controlled slams rather than max reps.
-
-## Loading and Rep-Modification Options
-- **Sweat:** 
-  - Rope Climbs: 3 Negative Rope Climbs
-  - Kettlebell: 16/8 kg
-  - D-Ball: 15/10 kg
-- **Train:** 
-  - Rope Climbs: 2 Rope Climbs
-  - Kettlebell: 20/12 kg
-  - D-Ball: 20/15 kg
-- **Compete:** 
-  - Rope Climbs: 24/16 kg
-  - Kettlebell: 20/15 kg
-  - D-Ball: 20/15 kg
+     - If sit-ups are challenging, you can do crunches or even use an ab mat for support.
+   - **Loading:**
+     - No weights needed here, just focus on quality reps.
 
 ## Strategy Advice
-- **Pacing:** Start each interval strong but find a sustainable pace. It’s better to break up your reps early than to burn out halfway through.
-- **Transitions:** Keep your transitions quick between movements to maximize your work time.
-- **Breathing:** Focus on your breathing, especially during the burpees and max rep movements. Controlled breathing will help you maintain your energy.
+- **Pacing:** For the conditioning sets, aim for a steady pace. It’s better to break up your reps into manageable sets rather than going all out and burning out early.
+- **Rest:** Use the rest between sets wisely. Hydrate and mentally prepare for the next round.
+- **Focus on Form:** Remember, quality over quantity! It’s better to do fewer reps with good form than to rush through and risk injury.
 
-Alright team, let’s get after it today! Remember to listen to your body, focus on your form, and most importantly, have fun! Let’s crush this WOD! 💪
+Alright team, let’s get after it! Remember to listen to your body, scale as needed, and most importantly, have fun! Let’s crush this WOD together! 💪
 
 ---
-*Generated on 2025-08-17T06:07:37.932Z using AI assistance*
+*Generated on 2025-08-18T06:09:23.284Z using AI assistance*
