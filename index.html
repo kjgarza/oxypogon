@@ -15,10 +15,15 @@
   </script>
 
 </head>
-<body class="min-h-screen">
-  <div class="container mx-auto p-6 max-w-4xl">
-    <h1 class="text-4xl font-bold mb-8 text-center text-primary">CrossFit Workout Viewer</h1>
-    <div id="output" class="space-y-6"></div>
+<body class="min-h-screen bg-base-50/30">
+  <div class="container mx-auto px-6 py-12 max-w-5xl">
+    <!-- <header class="text-center mb-12">
+      <h1 class="text-5xl font-bold mb-4 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
+        CrossFit Workout Viewer
+      </h1>
+      <p class="text-base-content/70 text-lg">Your complete workout guide with AI-powered insights</p>
+    </header> -->
+    <main id="output" class="space-y-8"></main>
   </div>
 
   <script>
@@ -27,94 +32,104 @@
       .then(data => {
         const output = document.getElementById('output');
 
-        // Create main workout card
-        const workoutCard = document.createElement('div');
-        workoutCard.className = 'card bg-base-100 shadow-lg';
-
-        // Header section
-        const header = document.createElement('div');
-        header.className = 'card-header bg-primary text-primary-content p-6 rounded-t-2xl';
-        header.innerHTML = `
-          <h2 class="card-title text-2xl">${data.combined_content.title}</h2>
-          <p class="opacity-80 mt-2">Date: ${data.combined_content.date}</p>
-          <p class="opacity-70 text-sm">Generated: ${new Date(data.timestamp).toLocaleString()}</p>
-        `;
-
-        // Workout content section
-        const workoutContent = document.createElement('div');
-        workoutContent.className = 'card-body p-6';
-
-        // Extract workout structure from the text
-        const workoutText = data.combined_content.workout_text;
-        const workoutLines = workoutText.split(/\s+/);
-
-        // Create workout text card
-        const workoutTextCard = document.createElement('div');
-        workoutTextCard.className = 'card bg-base-200 mb-6';
-        workoutTextCard.innerHTML = `
-            <div class="card-body">
-              <h3 class="card-title text-base-content mb-3">Workout</h3>
-              <div class="mockup-code bg-success/10 border border-success/20">
-                <pre class="text-success"><code>${marked.parse(workoutText)}</code></pre>
+        // Hero Section with workout title and date
+        const heroSection = document.createElement('div');
+        heroSection.className = 'bg-gradient-to-r from-primary to-secondary text-primary-content p-8 rounded-2xl mb-8 shadow-lg';
+        heroSection.innerHTML = `
+          <div class="text-center">
+            <h2 class="text-4xl font-bold mb-4">${data.combined_content.title}</h2>
+            <div class="flex flex-wrap justify-center items-center gap-4 text-lg">
+              <div class="flex items-center gap-2">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M19 3h-1V1h-2v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zM7 10h5v5H7z"/></svg>
+                <span>${data.combined_content.date}</span>
               </div>
-            </div>
-          `;
-        workoutContent.appendChild(workoutTextCard);
-
-        // AI Explanation section
-        if (data.ai_explanation && data.ai_explanation.explanation) {
-          const explanationSection = document.createElement('div');
-          explanationSection.className = 'divider-start mt-6';
-          explanationSection.innerHTML = `
-            <div class="card bg-base-200">
-              <div class="card-body">
-                <h3 class="card-title text-base-content mb-4">
-                  <div class="badge badge-secondary badge-lg">AI</div>
-                  Exercise Explanations
-                </h3>
-                <div class="bg-base-300 p-4 rounded-lg">
-                  <div class="prose prose-sm max-w-none text-base-content">
-                    ${marked.parse(data.ai_explanation.explanation)}
-                  </div>
-                </div>
-              </div>
-            </div>
-          `;
-          workoutContent.appendChild(explanationSection);
-        }
-
-        // Assemble the card
-        workoutCard.appendChild(header);
-        workoutCard.appendChild(workoutContent);
-        output.appendChild(workoutCard);
-
-        // Add metadata card
-        const metadataCard = document.createElement('div');
-        metadataCard.className = 'card bg-base-100 shadow-lg mt-6';
-        metadataCard.innerHTML = `
-          <div class="card-body">
-            <h3 class="card-title text-base-content mb-4">Workout Details</h3>
-            <div class="grid md:grid-cols-2 gap-4 text-sm">
-              <div>
-                <p class="text-base-content/70 font-semibold">Source URL:</p>
-                <p class="text-primary break-all">${data.original_data.source_url}</p>
-              </div>
-              <div>
-                <p class="text-base-content/70 font-semibold">Data Retrieved:</p>
-                <p class="text-base-content">${new Date(data.original_data.timestamp).toLocaleString()}</p>
-              </div>
-              <div>
-                <p class="text-base-content/70 font-semibold">AI Model:</p>
-                <p class="text-base-content">${data.ai_explanation?.model || 'N/A'}</p>
-              </div>
-              <div>
-                <p class="text-base-content/70 font-semibold">Status:</p>
-                <div class="badge ${data.success ? 'badge-success' : 'badge-error'}">${data.success ? 'Success' : 'Failed'}</div>
+              <div class="divider divider-horizontal"></div>
+              <div class="flex items-center gap-2">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+                <span class="text-sm opacity-90">Generated ${new Date(data.timestamp).toLocaleString()}</span>
               </div>
             </div>
           </div>
         `;
-        output.appendChild(metadataCard);
+        output.appendChild(heroSection);
+
+        // Workout Section - Clean and spacious
+        const workoutSection = document.createElement('div');
+        workoutSection.className = 'mb-12';
+        workoutSection.innerHTML = `
+          <div class="mb-6">
+            <h3 class="text-2xl font-bold text-base-content flex items-center gap-3 mb-6">
+              <div class="w-8 h-8 bg-primary text-primary-content rounded-lg flex items-center justify-center">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M15.5 5.5c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zM5 12c-2.8 0-5 2.2-5 5s2.2 5 5 5 5-2.2 5-5-2.2-5-5-5zM5 20.5c-1.9 0-3.5-1.6-3.5-3.5S3.1 13.5 5 13.5s3.5 1.6 3.5 3.5S6.9 20.5 5 20.5zM10.8 10.5l2.4-2.4.8.8c1.3 1.3 3.1 2.1 5.1 2.1V9c-1.5 0-2.7-.6-3.6-1.5L13.4 5.4c-.4-.4-.9-.6-1.4-.6s-1 .2-1.4.6L8.8 7.3c-.4.4-.6.9-.6 1.4 0 .5.2 1 .6 1.4l2.4 2.4zM19 12c-2.8 0-5 2.2-5 5s2.2 5 5 5 5-2.2 5-5-2.2-5-5-5zM19 20.5c-1.9 0-3.5-1.6-3.5-3.5s1.6-3.5 3.5-3.5 3.5 1.6 3.5 3.5S20.9 20.5 19 20.5z"/></svg>
+              </div>
+              Today's Workout
+            </h3>
+          </div>
+          <div class="bg-base-100 border border-base-300 rounded-2xl p-8 shadow-sm">
+            <div class="prose prose-lg max-w-none text-base-content">
+              ${marked.parse(data.combined_content.workout_text)}
+            </div>
+          </div>
+        `;
+        output.appendChild(workoutSection);
+
+        // AI Explanation Section - Separate and well-spaced
+        if (data.ai_explanation && data.ai_explanation.explanation) {
+          const aiSection = document.createElement('div');
+          aiSection.className = 'mb-12';
+          aiSection.innerHTML = `
+            <div class="mb-6">
+              <h3 class="text-2xl font-bold text-base-content flex items-center gap-3 mb-6">
+                <div class="w-8 h-8 bg-secondary text-secondary-content rounded-lg flex items-center justify-center">
+                  <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M9 21c0 .5.4 1 1 1h4c.6 0 1-.5 1-1v-1H9v1zm3-19C8.1 2 5 5.1 5 9c0 2.4 1.2 4.5 3 5.7V17c0 .5.4 1 1 1h6c.6 0 1-.5 1-1v-2.3c1.8-1.3 3-3.4 3-5.7 0-3.9-3.1-7-7-7z"/></svg>
+                </div>
+                Exercise Guide & Tips
+                <div class="badge badge-secondary badge-lg ml-2">AI</div>
+              </h3>
+            </div>
+            <div class="bg-gradient-to-br from-base-100 to-base-200 border border-base-300 rounded-2xl p-8 shadow-sm">
+              <div class="prose prose-base max-w-none text-base-content">
+                ${marked.parse(data.ai_explanation.explanation)}
+              </div>
+            </div>
+          `;
+          output.appendChild(aiSection);
+        }
+
+        // Metadata Section - Clean footer-style layout
+        const metadataSection = document.createElement('div');
+        metadataSection.className = 'mt-16 pt-8 border-t border-base-300';
+        metadataSection.innerHTML = `
+          <div class="mb-6">
+            <h3 class="text-xl font-semibold text-base-content flex items-center gap-3 mb-6">
+              <div class="w-6 h-6 bg-base-300 text-base-content rounded flex items-center justify-center">
+                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+              </div>
+              Workout Details
+            </h3>
+          </div>
+          <div class="bg-base-50/50 rounded-xl p-6 border border-base-200">
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+              <div class="space-y-2">
+                <p class="text-sm font-medium text-base-content/60 uppercase tracking-wider">Source</p>
+                <p class="text-base-content break-all text-sm">${data.original_data.source_url}</p>
+              </div>
+              <div class="space-y-2">
+                <p class="text-sm font-medium text-base-content/60 uppercase tracking-wider">Retrieved</p>
+                <p class="text-base-content text-sm">${new Date(data.original_data.timestamp).toLocaleString()}</p>
+              </div>
+              <div class="space-y-2">
+                <p class="text-sm font-medium text-base-content/60 uppercase tracking-wider">AI Model</p>
+                <p class="text-base-content text-sm">${data.ai_explanation?.model || 'N/A'}</p>
+              </div>
+              <div class="space-y-2">
+                <p class="text-sm font-medium text-base-content/60 uppercase tracking-wider">Status</p>
+                <div class="badge ${data.success ? 'badge-success' : 'badge-error'} badge-outline">${data.success ? 'Success' : 'Failed'}</div>
+              </div>
+            </div>
+          </div>
+        `;
+        output.appendChild(metadataSection);
       })
       .catch(error => {
         console.error('Error loading JSON:', error);
