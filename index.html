@@ -1,20 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="fantasy">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>CrossFit Workout Viewer</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
     tailwind.config = {
+      plugins: [],
+
     }
   </script>
 
 </head>
-<body class="bg-gray-100 text-gray-900 min-h-screen">
+<body class="min-h-screen">
   <div class="container mx-auto p-6 max-w-4xl">
-    <h1 class="text-4xl font-bold mb-8 text-center text-blue-600">CrossFit Workout Viewer</h1>
+    <h1 class="text-4xl font-bold mb-8 text-center text-primary">CrossFit Workout Viewer</h1>
     <div id="output" class="space-y-6"></div>
   </div>
 
@@ -26,20 +29,20 @@
 
         // Create main workout card
         const workoutCard = document.createElement('div');
-        workoutCard.className = 'bg-white shadow-lg rounded-lg overflow-hidden';
+        workoutCard.className = 'card bg-base-100 shadow-lg';
 
         // Header section
         const header = document.createElement('div');
-        header.className = 'bg-blue-600 text-white p-6';
+        header.className = 'card-header bg-primary text-primary-content p-6 rounded-t-2xl';
         header.innerHTML = `
-          <h2 class="text-2xl font-bold">${data.combined_content.title}</h2>
-          <p class="text-blue-100 mt-2">Date: ${data.combined_content.date}</p>
-          <p class="text-blue-100 text-sm">Generated: ${new Date(data.timestamp).toLocaleString()}</p>
+          <h2 class="card-title text-2xl">${data.combined_content.title}</h2>
+          <p class="opacity-80 mt-2">Date: ${data.combined_content.date}</p>
+          <p class="opacity-70 text-sm">Generated: ${new Date(data.timestamp).toLocaleString()}</p>
         `;
 
         // Workout content section
         const workoutContent = document.createElement('div');
-        workoutContent.className = 'p-6';
+        workoutContent.className = 'card-body p-6';
 
         // Extract workout structure from the text
         const workoutText = data.combined_content.workout_text;
@@ -47,11 +50,13 @@
 
         // Create workout text card
         const workoutTextCard = document.createElement('div');
-        workoutTextCard.className = 'bg-gray-50 p-4 rounded-lg mb-6';
+        workoutTextCard.className = 'card bg-base-200 mb-6';
         workoutTextCard.innerHTML = `
-            <h3 class="text-lg font-semibold mb-3 text-gray-800">Workout</h3>
-            <div class="bg-gradient-to-br from-green-50 to-green-100 border-2 border-green-200 p-4 rounded-lg shadow-sm">
-            <pre class="whitespace-pre-wrap text-green-800 font-mono text-sm">${marked.parse(workoutText)}</pre>
+            <div class="card-body">
+              <h3 class="card-title text-base-content mb-3">Workout</h3>
+              <div class="mockup-code bg-success/10 border border-success/20">
+                <pre class="text-success"><code>${marked.parse(workoutText)}</code></pre>
+              </div>
             </div>
           `;
         workoutContent.appendChild(workoutTextCard);
@@ -59,22 +64,21 @@
         // AI Explanation section
         if (data.ai_explanation && data.ai_explanation.explanation) {
           const explanationSection = document.createElement('div');
-          explanationSection.className = 'border-t pt-6';
+          explanationSection.className = 'divider-start mt-6';
           explanationSection.innerHTML = `
-            <main>
-              <article>
-                <h3 class="text-xl font-semibold mb-4 text-gray-800 flex items-center">
-                  <span class="bg-purple-100 text-purple-700 px-2 py-1 rounded text-sm mr-2">AI</span>
+            <div class="card bg-base-200">
+              <div class="card-body">
+                <h3 class="card-title text-base-content mb-4">
+                  <div class="badge badge-secondary badge-lg">AI</div>
                   Exercise Explanations
                 </h3>
-                <div class="bg-purple-50 p-4 rounded-lg">
-                  <div class="prose prose-sm max-w-none text-gray-700">
-
+                <div class="bg-base-300 p-4 rounded-lg">
+                  <div class="prose prose-sm max-w-none text-base-content">
                     ${marked.parse(data.ai_explanation.explanation)}
                   </div>
                 </div>
-              </article>
-            </main>
+              </div>
+            </div>
           `;
           workoutContent.appendChild(explanationSection);
         }
@@ -86,25 +90,27 @@
 
         // Add metadata card
         const metadataCard = document.createElement('div');
-        metadataCard.className = 'bg-white shadow-lg rounded-lg p-6 mt-6';
+        metadataCard.className = 'card bg-base-100 shadow-lg mt-6';
         metadataCard.innerHTML = `
-          <h3 class="text-lg font-semibold mb-4 text-gray-800">Workout Details</h3>
-          <div class="grid md:grid-cols-2 gap-4 text-sm">
-            <div>
-              <p class="text-gray-600">Source URL:</p>
-              <p class="text-blue-600 break-all">${data.original_data.source_url}</p>
-            </div>
-            <div>
-              <p class="text-gray-600">Data Retrieved:</p>
-              <p class="text-gray-800">${new Date(data.original_data.timestamp).toLocaleString()}</p>
-            </div>
-            <div>
-              <p class="text-gray-600">AI Model:</p>
-              <p class="text-gray-800">${data.ai_explanation?.model || 'N/A'}</p>
-            </div>
-            <div>
-              <p class="text-gray-600">Status:</p>
-              <p class="text-green-600 font-medium">${data.success ? 'Success' : 'Failed'}</p>
+          <div class="card-body">
+            <h3 class="card-title text-base-content mb-4">Workout Details</h3>
+            <div class="grid md:grid-cols-2 gap-4 text-sm">
+              <div>
+                <p class="text-base-content/70 font-semibold">Source URL:</p>
+                <p class="text-primary break-all">${data.original_data.source_url}</p>
+              </div>
+              <div>
+                <p class="text-base-content/70 font-semibold">Data Retrieved:</p>
+                <p class="text-base-content">${new Date(data.original_data.timestamp).toLocaleString()}</p>
+              </div>
+              <div>
+                <p class="text-base-content/70 font-semibold">AI Model:</p>
+                <p class="text-base-content">${data.ai_explanation?.model || 'N/A'}</p>
+              </div>
+              <div>
+                <p class="text-base-content/70 font-semibold">Status:</p>
+                <div class="badge ${data.success ? 'badge-success' : 'badge-error'}">${data.success ? 'Success' : 'Failed'}</div>
+              </div>
             </div>
           </div>
         `;
@@ -114,10 +120,13 @@
         console.error('Error loading JSON:', error);
         const output = document.getElementById('output');
         output.innerHTML = `
-          <div class="bg-red-50 border border-red-200 rounded-lg p-6">
-            <h3 class="text-red-700 font-bold mb-2">Error Loading Workout Data</h3>
-            <p class="text-red-600">Could not load workout_with_explanation.json</p>
-            <p class="text-sm text-gray-600 mt-2">Make sure the file exists in the same directory as this HTML file.</p>
+          <div class="alert alert-error">
+            <svg xmlns="http://www.w3.org/2000/svg" class="stroke-current shrink-0 h-6 w-6" fill="none" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+            <div>
+              <h3 class="font-bold">Error Loading Workout Data</h3>
+              <div class="text-xs">Could not load workout_with_explanation.json</div>
+              <div class="text-xs opacity-70">Make sure the file exists in the same directory as this HTML file.</div>
+            </div>
           </div>
         `;
       });
