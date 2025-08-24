@@ -1,108 +1,89 @@
-# CrossFit MINS Workout - 2025-08-22
+# CrossFit MINS Workout - 2025-08-24
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">**Workout of the Day (WOD) - 22.08.2025**</p><br><li class="ml-4">**Strength: Hang Power Clean**</li><li class="ml-4">On the 2:30 x 5</li><li class="ml-4">6 Hang Power Cleans</li><li class="ml-4">Start at 40-50% and build to 65-70% of 1 RM</li><br><li class="ml-4">**Conditioning:**</li><li class="ml-4">6 x 1:30 Intervals:</li><li class="ml-4">10 Hang Power Cleans</li><li class="ml-4">Max Calorie Row</li><li class="ml-4">Rest 1:30 Minutes Between Intervals</li><li class="ml-4">Sweat: 30/20</li><li class="ml-4">Train: 45/30</li><li class="ml-4">Compete: 60/40</li><br><li class="ml-4">**Finisher (Time Cap: 5 minutes):**</li><li class="ml-4">1 Round:</li><li class="ml-4">40 Banded Face Pulls</li><li class="ml-4">25/25 Single Leg Glute Bridges</li>
+<p class="mb-2">**Workout of the Day (WOD) - 24.08.2025**</p><br><p class="mb-2">**For Time:**</p><li class="ml-4">50 Ring Dips</li><li class="ml-4">50 Double Kettlebell Deadlifts</li><li class="ml-4">50 Toes to Bar</li><li class="ml-4">50 Double Kettlebell Deadlifts</li><li class="ml-4">50 Strict Pull-Ups</li><li class="ml-4">50 Double Kettlebell Deadlifts</li><br><p class="mb-2">**Scaling Options:**</p><li class="ml-4">Sweat: 16/12; Banded Dips / Pull-Ups; Knee Raises</li><li class="ml-4">Train: 24/16</li><li class="ml-4">Compete: 32/24</li>
 
 ### Expert Explanation
 ## Workout Overview
-Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your power and endurance. We’ll kick things off with a strength segment focusing on the Hang Power Clean, where we’ll work on technique and gradually increase our load. Then, we’ll dive into a conditioning piece that combines high-rep Hang Power Cleans with a rowing challenge, pushing your cardiovascular limits. Finally, we’ll finish strong with a quick finisher to target the upper back and glutes. Let’s break it down step by step!
+Hey everyone! Today’s WOD is a challenging but rewarding workout designed to test your strength, endurance, and overall fitness. We’ll be tackling a series of movements that will really get your heart pumping and your muscles working. The structure is straightforward: we have a total of 300 reps to complete, with a mix of ring dips, kettlebell deadlifts, toes to bar, and strict pull-ups. The goal here is to maintain good form throughout while pushing your limits. Let’s break it down step by step!
+
+## Step-by-Step Breakdown
+
+### 1. **Ring Dips**
+   - **Technique Steps**:
+     - Start by gripping the rings with your palms facing inward and arms fully extended.
+     - Engage your core and lean slightly forward as you lower your body by bending your elbows.
+     - Keep your elbows close to your body and descend until your upper arms are parallel to the ground.
+     - Press back up to the starting position, fully extending your arms.
+   - **Form Tips**:
+     - Keep your body straight and avoid swinging or kipping.
+     - Focus on controlling the movement both down and up.
+   - **Scaling/Modifications**:
+     - Use a band for assistance or perform bench dips if rings are too challenging.
+   - **Loading**:
+     - For Sweat: Banded Dips.
+     - For Train: Bodyweight Dips.
+     - For Compete: Strict Ring Dips.
+   - **Strategy Advice**:
+     - Break these into manageable sets to avoid burnout early on. Aim for sets of 10-15.
+
+### 2. **Double Kettlebell Deadlifts**
+   - **Technique Steps**:
+     - Stand with your feet hip-width apart, kettlebells placed between your feet.
+     - Hinge at the hips and bend your knees to grasp the kettlebells with both hands.
+     - Keep your chest up and back flat as you lift the kettlebells by extending your hips and knees simultaneously.
+     - Lower the kettlebells back to the ground with control.
+   - **Form Tips**:
+     - Keep the kettlebells close to your body throughout the lift.
+     - Avoid rounding your back; maintain a neutral spine.
+   - **Scaling/Modifications**:
+     - Use a single kettlebell or lighter weights if needed.
+   - **Loading**:
+     - For Sweat: 16/12 kg.
+     - For Train: 24/16 kg.
+     - For Compete: 32/24 kg.
+   - **Strategy Advice**:
+     - Focus on maintaining a steady pace. These should feel strong but not overly taxing.
+
+### 3. **Toes to Bar**
+   - **Technique Steps**:
+     - Hang from a pull-up bar with a grip slightly wider than shoulder-width.
+     - Engage your core and initiate the movement by bringing your knees up towards your chest.
+     - From there, extend your legs and swing them up to touch the bar with your toes.
+     - Lower back down with control to a full hang.
+   - **Form Tips**:
+     - Keep your shoulders engaged and avoid swinging excessively.
+     - Use a controlled motion rather than relying on momentum.
+   - **Scaling/Modifications**:
+     - Perform knee raises or hanging leg raises if toes to bar are too challenging.
+   - **Loading**:
+     - For Sweat: Knee Raises.
+     - For Train: Toes to Bar.
+     - For Compete: Toes to Bar.
+   - **Strategy Advice**:
+     - Break these into smaller sets to maintain form and avoid fatigue.
+
+### 4. **Strict Pull-Ups**
+   - **Technique Steps**:
+     - Hang from the bar with an overhand grip, arms fully extended.
+     - Engage your shoulders and pull your body up until your chin is above the bar.
+     - Lower yourself back down with control to a full hang.
+   - **Form Tips**:
+     - Keep your body straight; avoid swinging or using your legs.
+     - Focus on pulling with your back and arms, not just your biceps.
+   - **Scaling/Modifications**:
+     - Use a band for assistance or perform jumping pull-ups if needed.
+   - **Loading**:
+     - For Sweat: Banded Pull-Ups.
+     - For Train: Bodyweight Pull-Ups.
+     - For Compete: Strict Pull-Ups.
+   - **Strategy Advice**:
+     - Similar to the dips, break these into manageable sets. Aim for sets of 5-10.
+
+## Summary
+Today’s WOD is a fantastic opportunity to challenge yourself while focusing on form and technique. Remember to listen to your body and scale as needed. Keep a steady pace, break up the reps into manageable sets, and most importantly, have fun with it! Let’s get after it, team! 💪
 
 ---
-
-## Strength Segment
-### 1. **Hang Power Clean**
-- **Structure:** We’ll perform 6 Hang Power Cleans every 2:30 for 5 sets, starting at 40-50% of your 1 Rep Max (1RM) and building up to 65-70%.
-
-#### Technique Steps:
-1. **Starting Position:** Stand tall with your feet hip-width apart, barbell resting on your thighs.
-2. **Hinge:** Push your hips back while keeping your chest up, allowing the bar to slide down to just above your knees.
-3. **Explosive Pull:** Drive through your legs, extending your hips and knees, and pull the bar up while shrugging your shoulders.
-4. **Catch Position:** As the bar reaches its peak, drop under it into a quarter squat, catching it on your shoulders with elbows high.
-5. **Stand Up:** Stand tall to finish the rep, then reset for the next one.
-
-#### Form Tips:
-- Keep the bar close to your body throughout the movement.
-- Focus on using your legs to drive the bar up rather than just your arms.
-- Maintain a strong core to stabilize your body during the catch.
-
-#### Scaling/Modifications:
-- If you’re new to this movement, practice with a PVC pipe or lighter weights to focus on form.
-- You can also perform the Hang Clean with dumbbells if a barbell isn’t available.
-
-#### Loading:
-- **Sweat:** Start with 40-50% of your 1RM.
-- **Train:** Aim for 55-65% of your 1RM.
-- **Compete:** Work up to 65-70% of your 1RM.
-
----
-
-## Conditioning Segment [6 x 1:30 Intervals]
-### 2. **Interval Workout:**
-- **Structure:** You’ll perform 10 Hang Power Cleans followed by max calorie row for the remaining time in each 1:30 interval, resting for 1:30 between intervals.
-
-#### Hang Power Cleans:
-- **Technique:** Same as above, focusing on maintaining form even as you fatigue.
-  
-#### Max Calorie Row:
-1. **Set Up:** Sit on the rower with your feet secured and grab the handle.
-2. **Start Position:** Push through your legs, lean back slightly, and pull the handle to your chest.
-3. **Drive:** Use your legs to initiate the pull, then lean back and pull with your arms.
-4. **Finish:** Extend your arms and lean forward to reset for the next stroke.
-
-#### Form Tips:
-- Keep your back straight and core engaged during the row.
-- Aim for a smooth, powerful stroke rather than rushing through.
-
-#### Scaling/Modifications:
-- If you’re not comfortable with the Hang Power Clean, reduce the weight or perform a different pulling movement like kettlebell swings.
-- For the row, you can adjust the intensity by rowing at a slower pace or reducing the time to 1 minute.
-
-#### Loading Options:
-- **Sweat:** 30/20 kg (lighter weights).
-- **Train:** 45/30 kg (moderate weights).
-- **Compete:** 60/40 kg (heavier weights).
-
-#### Strategy Advice:
-- Focus on maintaining a steady pace throughout the intervals. Don’t go all out on the first round; save some energy for the later rounds. Break up the Hang Power Cleans if needed to maintain good form.
-
----
-
-## Finisher (Time Cap: 5 minutes)
-### 3. **1 Round:**
-- **40 Banded Face Pulls**
-- **25/25 Single Leg Glute Bridges**
-
-#### Banded Face Pulls:
-1. **Set Up:** Attach a resistance band at chest height.
-2. **Grip:** Hold the band with both hands, arms extended in front of you.
-3. **Pull:** Pull the band towards your face, keeping your elbows high and squeezing your shoulder blades together.
-4. **Return:** Slowly return to the starting position.
-
-#### Form Tips:
-- Keep your core engaged and avoid leaning back.
-- Focus on the contraction in your upper back.
-
-#### Scaling/Modifications:
-- Use a lighter band or perform seated rows if you don’t have access to bands.
-
-#### Single Leg Glute Bridges:
-1. **Starting Position:** Lie on your back with knees bent and feet flat on the floor.
-2. **Lift:** Extend one leg and push through the heel of the other foot to lift your hips towards the ceiling.
-3. **Squeeze:** At the top, squeeze your glutes before lowering back down.
-
-#### Form Tips:
-- Keep your shoulders and head on the ground.
-- Avoid overarching your lower back; focus on using your glutes.
-
-#### Scaling/Modifications:
-- If single-leg is too challenging, perform regular glute bridges with both feet on the ground.
-
----
-
-### Summary
-Today’s WOD is designed to build your strength and endurance while focusing on technique. Remember to listen to your body and scale as needed. Keep your form sharp, especially as you fatigue, and enjoy the challenge! Let’s get after it! 💪
-
----
-*Generated on 2025-08-22T06:08:06.652Z using AI assistance*
+*Generated on 2025-08-24T06:07:32.677Z using AI assistance*
