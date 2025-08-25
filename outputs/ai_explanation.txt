@@ -1,78 +1,73 @@
-## Workout Overview
-Hey everyone! Today’s WOD is a challenging but rewarding workout designed to test your strength, endurance, and overall fitness. We’ll be tackling a series of movements that will really get your heart pumping and your muscles working. The structure is straightforward: we have a total of 300 reps to complete, with a mix of ring dips, kettlebell deadlifts, toes to bar, and strict pull-ups. The goal here is to maintain good form throughout while pushing your limits. Let’s break it down step by step!
+# Workout Overview
+Hey everyone! Today we have an exciting WOD that combines strength and conditioning. We’ll kick things off with some Back Squats to build strength, and then we’ll dive into an 18-minute AMRAP (As Many Rounds As Possible) that will really test your endurance and grit. The goal here is to focus on form during the strength segment and then push your limits in the conditioning piece while maintaining good technique. Let’s break it down!
 
-## Step-by-Step Breakdown
-
-### 1. **Ring Dips**
+## Strength Segment
+1. **Back Squat**
    - **Technique Steps**:
-     - Start by gripping the rings with your palms facing inward and arms fully extended.
-     - Engage your core and lean slightly forward as you lower your body by bending your elbows.
-     - Keep your elbows close to your body and descend until your upper arms are parallel to the ground.
-     - Press back up to the starting position, fully extending your arms.
+     - Start by setting the barbell on your upper back, just below your neck. Make sure your grip is comfortable and your elbows are pointing down.
+     - Stand tall, take a deep breath, and brace your core.
+     - Initiate the squat by pushing your hips back and bending your knees. Keep your chest up and your back straight.
+     - Lower yourself until your thighs are at least parallel to the ground, or lower if your mobility allows.
+     - Drive through your heels to stand back up, fully extending your hips and knees at the top.
    - **Form Tips**:
-     - Keep your body straight and avoid swinging or kipping.
-     - Focus on controlling the movement both down and up.
+     - Keep your weight in your heels and your knees tracking over your toes.
+     - Maintain a neutral spine throughout the movement; avoid rounding your back.
+     - Don’t rush; focus on controlled movements to build strength effectively.
    - **Scaling/Modifications**:
-     - Use a band for assistance or perform bench dips if rings are too challenging.
+     - If you’re new to squatting, you can use a lighter barbell or even a PVC pipe to practice the movement.
+     - Consider box squats to help with depth and form if you struggle with balance.
    - **Loading**:
-     - For Sweat: Banded Dips.
-     - For Train: Bodyweight Dips.
-     - For Compete: Strict Ring Dips.
-   - **Strategy Advice**:
-     - Break these into manageable sets to avoid burnout early on. Aim for sets of 10-15.
+     - Start at 60% of your 1RM and aim to build in weight over the 7 sets. Listen to your body and adjust as needed.
 
-### 2. **Double Kettlebell Deadlifts**
+## Conditioning Segment [AMRAP 18]
+2. **15 Back Squats**
    - **Technique Steps**:
-     - Stand with your feet hip-width apart, kettlebells placed between your feet.
-     - Hinge at the hips and bend your knees to grasp the kettlebells with both hands.
-     - Keep your chest up and back flat as you lift the kettlebells by extending your hips and knees simultaneously.
-     - Lower the kettlebells back to the ground with control.
-   - **Form Tips**:
-     - Keep the kettlebells close to your body throughout the lift.
-     - Avoid rounding your back; maintain a neutral spine.
+     - Use the same technique as the strength segment, but remember to keep your pace steady.
    - **Scaling/Modifications**:
-     - Use a single kettlebell or lighter weights if needed.
-   - **Loading**:
-     - For Sweat: 16/12 kg.
-     - For Train: 24/16 kg.
-     - For Compete: 32/24 kg.
-   - **Strategy Advice**:
-     - Focus on maintaining a steady pace. These should feel strong but not overly taxing.
-
-### 3. **Toes to Bar**
+     - Use a lighter weight or perform air squats if you need to focus on form.
+  
+3. **2 Wall Walks**
    - **Technique Steps**:
-     - Hang from a pull-up bar with a grip slightly wider than shoulder-width.
-     - Engage your core and initiate the movement by bringing your knees up towards your chest.
-     - From there, extend your legs and swing them up to touch the bar with your toes.
-     - Lower back down with control to a full hang.
+     - Start in a plank position with your feet against the wall.
+     - Walk your feet up the wall while simultaneously walking your hands closer to the wall until your chest touches the wall.
+     - Reverse the movement to return to the starting position.
    - **Form Tips**:
-     - Keep your shoulders engaged and avoid swinging excessively.
-     - Use a controlled motion rather than relying on momentum.
+     - Keep your core tight to maintain a straight line from your head to your heels.
+     - Move slowly and deliberately; don’t rush the movement.
    - **Scaling/Modifications**:
-     - Perform knee raises or hanging leg raises if toes to bar are too challenging.
-   - **Loading**:
-     - For Sweat: Knee Raises.
-     - For Train: Toes to Bar.
-     - For Compete: Toes to Bar.
-   - **Strategy Advice**:
-     - Break these into smaller sets to maintain form and avoid fatigue.
-
-### 4. **Strict Pull-Ups**
+     - If wall walks are too challenging, try a pike push-up or a shoulder tap in a plank position.
+  
+4. **15 Double Dumbbell Box Step Ups (24”/20”)**
    - **Technique Steps**:
-     - Hang from the bar with an overhand grip, arms fully extended.
-     - Engage your shoulders and pull your body up until your chin is above the bar.
-     - Lower yourself back down with control to a full hang.
+     - Hold a dumbbell in each hand at your sides.
+     - Step up onto the box with one foot, driving through your heel to lift your body up.
+     - Step down carefully and alternate legs.
    - **Form Tips**:
-     - Keep your body straight; avoid swinging or using your legs.
-     - Focus on pulling with your back and arms, not just your biceps.
+     - Keep your chest up and engage your core throughout the movement.
+     - Ensure your entire foot is on the box before stepping down.
    - **Scaling/Modifications**:
-     - Use a band for assistance or perform jumping pull-ups if needed.
-   - **Loading**:
-     - For Sweat: Banded Pull-Ups.
-     - For Train: Bodyweight Pull-Ups.
-     - For Compete: Strict Pull-Ups.
-   - **Strategy Advice**:
-     - Similar to the dips, break these into manageable sets. Aim for sets of 5-10.
+     - Use a lower box or perform single-leg step-ups without weights if needed.
 
-## Summary
-Today’s WOD is a fantastic opportunity to challenge yourself while focusing on form and technique. Remember to listen to your body and scale as needed. Keep a steady pace, break up the reps into manageable sets, and most importantly, have fun with it! Let’s get after it, team! 💪
+5. **2 Wall Walks** (Repeat)
+   - Same as above.
+
+### Loading Options
+- **Sweat**: 
+  - Back Squats: 40/20 kg
+  - Dumbbell Step Ups: 15/10 kg
+  - Wall Walks: As Heavy As Possible (AHAP)
+  
+- **Train**: 
+  - Back Squats: 50/30 kg
+  - Dumbbell Step Ups: 17.5/12.5 kg
+  
+- **Compete**: 
+  - Back Squats: 60/40 kg
+  - Dumbbell Step Ups: 22.5/15 kg
+
+### Strategy Advice
+- For the conditioning piece, aim for a steady pace. It’s better to break up the sets early rather than go all out and burn out quickly.
+- Focus on maintaining good form, especially during the Wall Walks and Step Ups, as fatigue sets in.
+- Keep an eye on the clock and manage your energy wisely; you want to be able to keep moving for the full 18 minutes!
+
+Alright team, let’s get warmed up and ready to crush this WOD! Remember, focus on your form, listen to your body, and most importantly, have fun! Let’s do this! 💪
