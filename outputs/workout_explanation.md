@@ -1,84 +1,90 @@
-# CrossFit MINS Workout - 2025-08-25
+# CrossFit MINS Workout - 2025-08-27
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">**Workout of the Day (WOD) - 25.08.2025**</p><br><li class="ml-4">**Strength: Back Squat**</li><li class="ml-4">1 Back Squat every 1:30 for 7 sets</li><li class="ml-4">Start at 60% of 1RM and build in weight</li><br><li class="ml-4">**Conditioning: AMRAP 18**</li><li class="ml-4">15 Back Squats</li><li class="ml-4">2 Wall Walks</li><li class="ml-4">15 Double Dumbbell Box Step Ups (24”/20”)</li><li class="ml-4">2 Wall Walks</li><br><p class="mb-2">**Weights:**</p><li class="ml-4">Sweat: 40/20; 15/10; Wall Walks AHAP</li><li class="ml-4">Train: 50/30; 17.5/12.5</li><li class="ml-4">Compete: 60/40; 22.5/15</li>
+<p class="mb-2">**Workout of the Day (WOD) - 27.08.2025**</p><br><p class="mb-2">**1. Strength: Power Clean**</p><li class="ml-4">On the 1:45 x 6</li><li class="ml-4">2 Power Cleans</li><li class="ml-4">Start at 45-55% and build to 80-85% of 1 RM</li><br><p class="mb-2">**2. Conditioning: 20 Rounds for Time**</p><li class="ml-4">2 Power Cleans</li><li class="ml-4">4 Toes to Bar</li><li class="ml-4">20 Double Unders</li><br><p class="mb-2">**Options:**</p><li class="ml-4">Sweat: 40/25; Knee Raises / Straight Leg Raises; 40 Single Unders</li><li class="ml-4">Train: 60/40</li><li class="ml-4">Compete: 80/55</li>
 
 ### Expert Explanation
-# Workout Overview
-Hey everyone! Today we have an exciting WOD that combines strength and conditioning. We’ll kick things off with some Back Squats to build strength, and then we’ll dive into an 18-minute AMRAP (As Many Rounds As Possible) that will really test your endurance and grit. The goal here is to focus on form during the strength segment and then push your limits in the conditioning piece while maintaining good technique. Let’s break it down!
-
-## Strength Segment
-1. **Back Squat**
-   - **Technique Steps**:
-     - Start by setting the barbell on your upper back, just below your neck. Make sure your grip is comfortable and your elbows are pointing down.
-     - Stand tall, take a deep breath, and brace your core.
-     - Initiate the squat by pushing your hips back and bending your knees. Keep your chest up and your back straight.
-     - Lower yourself until your thighs are at least parallel to the ground, or lower if your mobility allows.
-     - Drive through your heels to stand back up, fully extending your hips and knees at the top.
-   - **Form Tips**:
-     - Keep your weight in your heels and your knees tracking over your toes.
-     - Maintain a neutral spine throughout the movement; avoid rounding your back.
-     - Don’t rush; focus on controlled movements to build strength effectively.
-   - **Scaling/Modifications**:
-     - If you’re new to squatting, you can use a lighter barbell or even a PVC pipe to practice the movement.
-     - Consider box squats to help with depth and form if you struggle with balance.
-   - **Loading**:
-     - Start at 60% of your 1RM and aim to build in weight over the 7 sets. Listen to your body and adjust as needed.
-
-## Conditioning Segment [AMRAP 18]
-2. **15 Back Squats**
-   - **Technique Steps**:
-     - Use the same technique as the strength segment, but remember to keep your pace steady.
-   - **Scaling/Modifications**:
-     - Use a lighter weight or perform air squats if you need to focus on form.
-  
-3. **2 Wall Walks**
-   - **Technique Steps**:
-     - Start in a plank position with your feet against the wall.
-     - Walk your feet up the wall while simultaneously walking your hands closer to the wall until your chest touches the wall.
-     - Reverse the movement to return to the starting position.
-   - **Form Tips**:
-     - Keep your core tight to maintain a straight line from your head to your heels.
-     - Move slowly and deliberately; don’t rush the movement.
-   - **Scaling/Modifications**:
-     - If wall walks are too challenging, try a pike push-up or a shoulder tap in a plank position.
-  
-4. **15 Double Dumbbell Box Step Ups (24”/20”)**
-   - **Technique Steps**:
-     - Hold a dumbbell in each hand at your sides.
-     - Step up onto the box with one foot, driving through your heel to lift your body up.
-     - Step down carefully and alternate legs.
-   - **Form Tips**:
-     - Keep your chest up and engage your core throughout the movement.
-     - Ensure your entire foot is on the box before stepping down.
-   - **Scaling/Modifications**:
-     - Use a lower box or perform single-leg step-ups without weights if needed.
-
-5. **2 Wall Walks** (Repeat)
-   - Same as above.
-
-### Loading Options
-- **Sweat**: 
-  - Back Squats: 40/20 kg
-  - Dumbbell Step Ups: 15/10 kg
-  - Wall Walks: As Heavy As Possible (AHAP)
-  
-- **Train**: 
-  - Back Squats: 50/30 kg
-  - Dumbbell Step Ups: 17.5/12.5 kg
-  
-- **Compete**: 
-  - Back Squats: 60/40 kg
-  - Dumbbell Step Ups: 22.5/15 kg
-
-### Strategy Advice
-- For the conditioning piece, aim for a steady pace. It’s better to break up the sets early rather than go all out and burn out quickly.
-- Focus on maintaining good form, especially during the Wall Walks and Step Ups, as fatigue sets in.
-- Keep an eye on the clock and manage your energy wisely; you want to be able to keep moving for the full 18 minutes!
-
-Alright team, let’s get warmed up and ready to crush this WOD! Remember, focus on your form, listen to your body, and most importantly, have fun! Let’s do this! 💪
+## Workout Overview
+Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your power and endurance. We’ll kick things off with a strength segment focusing on Power Cleans, where we’ll work on technique and gradually increase the weight. Then, we’ll dive into a conditioning piece that consists of 20 rounds for time, combining Power Cleans, Toes to Bar, and Double Unders. This workout is designed to build your strength and stamina while keeping your heart rate up!
 
 ---
-*Generated on 2025-08-25T06:09:06.561Z using AI assistance*
+
+## Strength Segment: Power Clean
+1. **Power Clean**
+   - **Technique Steps**:
+     - Start with your feet hip-width apart, barbell over the midfoot.
+     - Grip the bar just outside your knees, with a hook grip (thumbs wrapped around the bar).
+     - Set your back by engaging your lats and keeping your chest up.
+     - Initiate the lift by driving through your heels, extending your hips and knees simultaneously.
+     - As the bar passes your knees, pull yourself under the bar, rotating your elbows around and catching it on your shoulders in a quarter squat.
+     - Stand tall to finish the lift.
+   - **Form Tips**:
+     - Keep the bar close to your body throughout the lift.
+     - Focus on a strong hip extension; this is where your power comes from!
+     - Ensure your elbows are high and in front of the bar when you catch it.
+   - **Scaling/Modifications**:
+     - If you’re new to this movement, start with a PVC pipe or a lighter barbell to focus on form.
+     - You can also practice the movement with dumbbells if a barbell isn’t available.
+   - **Loading**:
+     - Start at 45-55% of your 1RM and gradually build up to 80-85% over the six sets. Listen to your body and prioritize form over weight.
+
+---
+
+## Conditioning Segment: 20 Rounds for Time
+Now, let’s get into the conditioning part! This is going to be a grind, but it’s all about pacing and maintaining good form throughout.
+
+1. **2 Power Cleans**
+   - **Technique Steps**:
+     - Same as above! Remember to focus on your form, especially as you get tired.
+   - **Scaling**: 
+     - Use a lighter weight or perform the movement with dumbbells if needed.
+
+2. **4 Toes to Bar**
+   - **Technique Steps**:
+     - Hang from the pull-up bar with a grip slightly wider than shoulder-width.
+     - Engage your core and initiate the movement by bringing your knees up towards your chest.
+     - As your knees rise, extend your legs and reach your toes towards the bar.
+     - Control the descent back to the starting position.
+   - **Form Tips**:
+     - Keep your shoulders engaged and avoid swinging too much.
+     - Focus on using your core to lift your legs rather than just momentum.
+   - **Scaling/Modifications**:
+     - If you can’t reach the bar yet, try Knee Raises or Straight Leg Raises instead.
+     - You can also perform Hanging Leg Raises if you’re comfortable with that.
+  
+3. **20 Double Unders**
+   - **Technique Steps**:
+     - Start with the jump rope behind your heels.
+     - Jump slightly higher than a single under, and flick your wrists to spin the rope twice before landing.
+     - Keep your elbows close to your sides and use your wrists to control the rope.
+   - **Form Tips**:
+     - Stay relaxed and don’t overthink it; focus on timing your jumps with the rope.
+     - If you feel fatigued, it’s okay to switch to single unders.
+   - **Scaling/Modifications**:
+     - If you’re still mastering double unders, do 40 Single Unders instead.
+
+---
+
+## Loading Options
+- **Sweat**: 
+  - Power Clean: 40/25 lbs
+  - Toes to Bar: Knee Raises / Straight Leg Raises
+  - Double Unders: 40 Single Unders
+- **Train**: 
+  - Power Clean: 60/40 lbs
+- **Compete**: 
+  - Power Clean: 80/55 lbs
+
+---
+
+## Strategy Advice
+- **Pacing**: With 20 rounds, it’s crucial to find a sustainable pace. Don’t go all out in the first few rounds; instead, aim for consistency.
+- **Break it Up**: If you find yourself getting fatigued, break up the Power Cleans into smaller sets (like 1+1) and take short rests.
+- **Transitions**: Keep your transitions quick between movements to maintain your heart rate and keep the workout flowing.
+
+Remember, focus on your form, listen to your body, and most importantly, have fun with it! Let’s crush this WOD together! 💪
+
+---
+*Generated on 2025-08-27T06:07:57.147Z using AI assistance*
