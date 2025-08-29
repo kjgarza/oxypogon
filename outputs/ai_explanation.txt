@@ -1,79 +1,109 @@
 ## Workout Overview
-Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your power and endurance. We’ll kick things off with a strength segment focusing on Power Cleans, where we’ll work on technique and gradually increase the weight. Then, we’ll dive into a conditioning piece that consists of 20 rounds for time, combining Power Cleans, Toes to Bar, and Double Unders. This workout is designed to build your strength and stamina while keeping your heart rate up!
+Hey everyone! Today’s WOD is a great mix of strength and conditioning that will really challenge your stability and endurance. We’ll kick things off with an isometric deadlift hold to build strength in the posterior chain, then move into a conditioning piece that combines kettlebell swings and ski erg calories for a solid cardio workout. Finally, we’ll wrap things up with a quick finisher focusing on core and upper body strength. Let’s dive in!
 
 ---
 
-## Strength Segment: Power Clean
-1. **Power Clean**
-   - **Technique Steps**:
-     - Start with your feet hip-width apart, barbell over the midfoot.
-     - Grip the bar just outside your knees, with a hook grip (thumbs wrapped around the bar).
-     - Set your back by engaging your lats and keeping your chest up.
-     - Initiate the lift by driving through your heels, extending your hips and knees simultaneously.
-     - As the bar passes your knees, pull yourself under the bar, rotating your elbows around and catching it on your shoulders in a quarter squat.
-     - Stand tall to finish the lift.
-   - **Form Tips**:
-     - Keep the bar close to your body throughout the lift.
-     - Focus on a strong hip extension; this is where your power comes from!
-     - Ensure your elbows are high and in front of the bar when you catch it.
-   - **Scaling/Modifications**:
-     - If you’re new to this movement, start with a PVC pipe or a lighter barbell to focus on form.
-     - You can also practice the movement with dumbbells if a barbell isn’t available.
-   - **Loading**:
-     - Start at 45-55% of your 1RM and gradually build up to 80-85% over the six sets. Listen to your body and prioritize form over weight.
-
----
-
-## Conditioning Segment: 20 Rounds for Time
-Now, let’s get into the conditioning part! This is going to be a grind, but it’s all about pacing and maintaining good form throughout.
-
-1. **2 Power Cleans**
-   - **Technique Steps**:
-     - Same as above! Remember to focus on your form, especially as you get tired.
-   - **Scaling**: 
-     - Use a lighter weight or perform the movement with dumbbells if needed.
-
-2. **4 Toes to Bar**
-   - **Technique Steps**:
-     - Hang from the pull-up bar with a grip slightly wider than shoulder-width.
-     - Engage your core and initiate the movement by bringing your knees up towards your chest.
-     - As your knees rise, extend your legs and reach your toes towards the bar.
-     - Control the descent back to the starting position.
-   - **Form Tips**:
-     - Keep your shoulders engaged and avoid swinging too much.
-     - Focus on using your core to lift your legs rather than just momentum.
-   - **Scaling/Modifications**:
-     - If you can’t reach the bar yet, try Knee Raises or Straight Leg Raises instead.
-     - You can also perform Hanging Leg Raises if you’re comfortable with that.
+## Strength Segment
+### 1. **Isometric Deadlift Hold**
+- **Structure**: Every 2:30 for 5 sets, hold for 20 seconds at knee height in the rack.
   
-3. **20 Double Unders**
-   - **Technique Steps**:
-     - Start with the jump rope behind your heels.
-     - Jump slightly higher than a single under, and flick your wrists to spin the rope twice before landing.
-     - Keep your elbows close to your sides and use your wrists to control the rope.
-   - **Form Tips**:
-     - Stay relaxed and don’t overthink it; focus on timing your jumps with the rope.
-     - If you feel fatigued, it’s okay to switch to single unders.
-   - **Scaling/Modifications**:
-     - If you’re still mastering double unders, do 40 Single Unders instead.
+#### Technique Steps:
+1. **Setup**: Position the barbell in a squat rack at knee height. Stand with your feet hip-width apart, and grip the bar just outside your knees.
+2. **Engage**: Take a deep breath, brace your core, and pull your shoulders back.
+3. **Lift**: Stand up with the barbell, keeping it close to your body until your knees are fully extended.
+4. **Hold**: Once at knee height, maintain tension in your body and hold the position for 20 seconds.
+
+#### Form Tips:
+- Keep your back straight and chest up throughout the hold.
+- Engage your lats to stabilize the bar and prevent rounding of the back.
+- Focus on your breathing; don’t hold your breath!
+
+#### Scaling/Modifications:
+- If you’re new to this movement, you can reduce the weight to around 70-80% of your 1RM.
+- Alternatively, you can perform the hold with a lighter kettlebell or dumbbell if the barbell feels too heavy.
+
+#### Loading:
+- **Sweat**: 70-80% of 1RM
+- **Train**: 90-95% of 1RM
+- **Compete**: 95% of 1RM
 
 ---
 
-## Loading Options
-- **Sweat**: 
-  - Power Clean: 40/25 lbs
-  - Toes to Bar: Knee Raises / Straight Leg Raises
-  - Double Unders: 40 Single Unders
-- **Train**: 
-  - Power Clean: 60/40 lbs
-- **Compete**: 
-  - Power Clean: 80/55 lbs
+## Conditioning Segment
+### 2. **1:30 Minutes On / 1:30 Off x 5**
+- **Movements**: 15 Kettlebell Swings followed by Max Calories on the Ski Erg.
+
+#### Kettlebell Swings
+##### Technique Steps:
+1. **Setup**: Stand with your feet shoulder-width apart, kettlebell on the ground in front of you.
+2. **Hinge**: Push your hips back, bend your knees slightly, and grab the kettlebell with both hands.
+3. **Swing**: Drive through your hips to swing the kettlebell up to shoulder height, keeping your arms straight.
+4. **Control**: Let the kettlebell swing back down between your legs, maintaining a strong core.
+
+##### Form Tips:
+- Keep your back flat and chest up during the hinge.
+- Use your hips to generate power, not your arms.
+- Ensure the kettlebell is controlled throughout the swing.
+
+##### Scaling/Modifications:
+- Use a lighter kettlebell if you’re new to the movement.
+- If kettlebells are not available, you can substitute with dumbbell swings or even bodyweight squats.
+
+#### Ski Erg
+##### Technique Steps:
+1. **Setup**: Adjust the Ski Erg to your height and ensure the foot straps are secure.
+2. **Grip**: Hold the handles with both hands, standing tall.
+3. **Pull**: Engage your core and pull the handles down towards your hips, using your legs and arms in a coordinated motion.
+4. **Drive**: Focus on a smooth, powerful pull while keeping your core engaged.
+
+##### Scaling/Modifications:
+- If you’re unfamiliar with the Ski Erg, you can substitute with rowing or a bike for calories.
+- Adjust the resistance on the Ski Erg to make it easier or harder based on your fitness level.
+
+#### Loading Options:
+- **Sweat**: 16/8 kg DB for swings, use a lower resistance on the Ski Erg.
+- **Train**: 20/12 kg DB for swings, moderate resistance on the Ski Erg.
+- **Compete**: 24/16 kg DB for swings, higher resistance on the Ski Erg.
+
+#### Strategy Advice:
+- Aim for a steady pace during the kettlebell swings; breaking them into manageable sets can help maintain form.
+- On the Ski Erg, focus on consistent pulls rather than going all out; you want to maximize your calories without burning out too quickly.
 
 ---
 
-## Strategy Advice
-- **Pacing**: With 20 rounds, it’s crucial to find a sustainable pace. Don’t go all out in the first few rounds; instead, aim for consistency.
-- **Break it Up**: If you find yourself getting fatigued, break up the Power Cleans into smaller sets (like 1+1) and take short rests.
-- **Transitions**: Keep your transitions quick between movements to maintain your heart rate and keep the workout flowing.
+## Finisher
+### 3. **3 Rounds (Time Cap: 6 minutes)**
+- **Movements**: 30 Russian Twists and 15 Banded Face Pulls.
 
-Remember, focus on your form, listen to your body, and most importantly, have fun with it! Let’s crush this WOD together! 💪
+#### Russian Twists
+##### Technique Steps:
+1. **Setup**: Sit on the ground with your knees bent and feet flat.
+2. **Lean Back**: Lean back slightly while keeping your back straight, and lift your feet off the ground if you can.
+3. **Twist**: Hold a weight or just clasp your hands together, and rotate your torso to touch the ground beside you, alternating sides.
+
+##### Form Tips:
+- Keep your core engaged to maintain balance.
+- Move slowly and with control to avoid straining your back.
+
+##### Scaling/Modifications:
+- Keep your feet on the ground if you’re struggling with balance.
+- Use a lighter weight or no weight at all to focus on form.
+
+#### Banded Face Pulls
+##### Technique Steps:
+1. **Setup**: Attach a resistance band at chest height. Stand facing the band, holding it with both hands.
+2. **Pull**: Step back to create tension, then pull the band towards your face, keeping your elbows high.
+3. **Squeeze**: At the end of the movement, squeeze your shoulder blades together before returning to the start.
+
+##### Form Tips:
+- Keep your shoulders down and away from your ears.
+- Focus on using your upper back muscles to pull the band.
+
+##### Scaling/Modifications:
+- Use a lighter band if you’re new to this movement.
+- If bands are not available, you can substitute with dumbbell rear delt flies.
+
+---
+
+### Summary
+Today’s WOD is designed to build strength and endurance while also focusing on form and technique. Remember, it’s always better to scale down and maintain good form than to push through with poor technique. Stay focused, listen to your body
