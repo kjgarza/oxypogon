@@ -4,6 +4,7 @@ Your task is to explain the provided Workout of the Day (WOD) step by step in a 
 Be thorough and approachable in your explanations, as if speaking directly to a diverse group of athletes during an in-gym whiteboard briefing.
 
 **Output Format**:
+
 - Use markdown formatting for easy readability.
 - Structure your output as an ordered list, delineating:
     1. Overview of the workout structure and intended goals.
@@ -20,38 +21,50 @@ Be thorough and approachable in your explanations, as if speaking directly to a 
 **Example**
 
 *Output: (this is an illustrative snapshot, not exhaustive)*:
+
 ## Workout Overview
+
    This WOD starts with a strength/skill segment focusing on Hang Power Snatches, prioritizing smooth technique and progressive loading. After, it transitions to a grindy conditioning piece with big, manageable sets intended to challenge muscular endurance and grit.
 
 ## Strength Segment
-1. **Hang Power Snatch (Barbell):
-    - **Technique Steps**:
-        - Begin by deadlifting the bar and standing tall.
-        - Hinge at the hips to reach the hang position (bar just above the knees).
-        - From here, explosively extend and pull the bar overhead, catching it in a partial squat.
-        - Stand tall, reset, and repeat.
-    - **Form Tips**:
-        - Keep the bar close to your body; elbows high on the pull.
-        - Drive through your hips, not just your arms.
-    - **Scaling/Modifications**:
-        - Use a lighter barbell or PVC pipe to focus on form.
-        - Dumbbell Snatches from hang if barbell not available.
-    - **Loading**:
-        - Build from 50% to 85% of your tested 1RM.
+
+### Hang Power Snatch (Barbell):
+
+- Technique Steps:
+    - Begin by deadlifting the bar and standing tall.
+    - Hinge at the hips to reach the hang position (bar just above the knees).
+    - From here, explosively extend and pull the bar overhead, catching it in a partial squat.
+    - Stand tall, reset, and repeat.
+- Form Tips:
+    - Keep the bar close to your body; elbows high on the pull.
+    - Drive through your hips, not just your arms.
+- Scaling/Modifications:
+    - Use a lighter barbell or PVC pipe to focus on form.
+    - Dumbbell Snatches from hang if barbell not available.
+- Loading:
+    - Build from 50% to 85% of your tested 1RM.
 
 ## Conditioning Segment [For Time]
-    - **100 Alternating Dumbbell Hang Snatches**:
-        - Hinge at your hips, hold the dumbbell in one hand between your legs, and explosively drive it overhead, switching hands each rep.
-        - *Scaling*: Use lighter dumbbell, or fewer reps if new.
-    - **100 V-Ups**:
-        - Lie flat, arms overhead. Initiate each rep by raising legs and arms at the same time, aiming to touch toes.
-        - *Modification*: Tuck-ups: bring knees to chest instead.
-    - **Loading Options**:
-        - Sweat: 10kg/5kg DB, use tuck ups
-        - Train: 12.5kg/7.5kg DB
-        - Compete: 15kg/10kg DB
-    - **Strategy Advice**:
-        - Aim for steady pace; break up big sets early, especially on core and grip-intensive moves.
+
+### 100 Alternating Dumbbell Hang Snatches:
+
+    - Hinge at your hips, hold the dumbbell in one hand between your legs, and explosively drive it overhead, switching hands each rep.
+    - *Scaling*: Use lighter dumbbell, or fewer reps if new.
+
+### 100 V-Ups:
+
+    - Lie flat, arms overhead. Initiate each rep by raising legs and arms at the same time, aiming to touch toes.
+    - *Modification*: Tuck-ups: bring knees to chest instead.
+
+### Loading Options:
+
+    - Sweat: 10kg/5kg DB, use tuck ups
+    - Train: 12.5kg/7.5kg DB
+    - Compete: 15kg/10kg DB
+
+### Strategy Advice:
+
+    - Aim for steady pace; break up big sets early, especially on core and grip-intensive moves.
 
 
 **WOD**:\n
@@ -62,5 +75,5 @@ export const SYSTEM_PROMPT =
 
 
 export const EXTRACT_PROMPT =
-"Given the provided workout text, extracct the workout in a succinct format. " +
+"Given the provided workout text, extracct the workout in a succinct format. using plain text " +
 "WOD:\n";
