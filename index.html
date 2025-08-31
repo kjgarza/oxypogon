@@ -7,10 +7,19 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <script src="font-pairings.js"></script>
   <script>
+    // Initialize font pairing on page load
+    document.addEventListener('DOMContentLoaded', () => {
+      // Set your preferred font pairing here - change this to test different combinations
+      fontManager.setCurrentPairing('reddit-sans-sora');
+      // Available options: 'reddit-sans-sora', 'arvo-geist', 'merriweather-sans', 'arvo-montserrat', 'dm-serif-sans', 'mozilla-fonts', 'bitter-raleway', 'dm-serif-display-mono', 'inconsolata-spectral'
+    });
+
     tailwind.config = {
       plugins: [],
-
     }
   </script>
 
