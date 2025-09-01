@@ -1,97 +1,117 @@
-# CrossFit MINS Workout - 2025-08-31
+# CrossFit MINS Workout - 2025-09-01
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">**Workout of the Day (WOD) - 31.08.2025**</p><br><p class="mb-2">**Format:** Outdoor Team Workout</p><p class="mb-2">**Teams:** 2</p><p class="mb-2">**Duration:** AMRAP 40 minutes</p><br><p class="mb-2">**Exercises:**</p><li class="ml-4">30 Slam Balls</li><li class="ml-4">40 V-Ups</li><li class="ml-4">50 Lateral Jumps over D-Ball</li><li class="ml-4">600 Meter Run</li><br><p class="mb-2">**Additional Options:**</p><li class="ml-4">**Sweat:** 15/10; Tuck Ups; 400 Meter Run</li><li class="ml-4">**Train:**</li><li class="ml-4">**Compete:** 20/15</li>
+<p class="mb-2">WOD:</p><br><li class="ml-4">**Strength**: Bench Press</li><li class="ml-4">On the 2:30 x 5</li><li class="ml-4">5 Bench Presses with 1 Sec. pause on chest</li><li class="ml-4">*Start at 50% and build to 70-75% of 1 RM</li><br><li class="ml-4">**Conditioning**: For Time</li><li class="ml-4">60 Burpee Box Jumps (24"/20")</li><li class="ml-4">Every 2 Minutes [Starting at 0:00]: 50 Double Unders</li><br><li class="ml-4">**Finisher**:</li><li class="ml-4">4 Sets of:</li><li class="ml-4">8/8 Single Dumbbell Rows</li><li class="ml-4">8/8 Weighted Single Leg Glute Bridges</li>
 
 ### Expert Explanation
 # Workout Overview
-Hey everyone! Today’s WOD is an outdoor team workout designed to build endurance, coordination, and teamwork. We’ll be working in pairs for 40 minutes, aiming to complete as many rounds as possible (AMRAP) of the following exercises: Slam Balls, V-Ups, Lateral Jumps over a D-Ball, and a 600-meter run. This workout is all about pushing your limits while supporting your partner, so let’s dive into each movement!
 
-## Step-by-Step Breakdown
+Hey everyone! Today’s WOD is packed with strength, conditioning, and a little finisher to round things off. We’ll start with a strength segment focusing on the Bench Press, where we’ll work on our technique and build strength with a pause at the chest. Then, we’ll dive into a conditioning piece that combines Burpee Box Jumps and Double Unders, which will really get your heart pumping. Finally, we’ll finish strong with some accessory work to target our back and glutes. Let’s break it down step by step!
 
-### 1. **Slam Balls (30 reps)**
-- **Technique Steps**:
-    - Start with your feet shoulder-width apart, holding the slam ball at chest level.
-    - Squat down, keeping your back straight and core engaged, and lower the ball between your legs.
-    - Explode up from your squat, using your legs and core to lift the ball overhead.
-    - As you reach the top, slam the ball down to the ground with force, following through with your arms.
-    - Catch the ball on the bounce and repeat.
+## Strength Segment
+
+### Bench Press (Barbell):
+
+- **Technique Steps:**
+    1. **Setup**: Lie flat on a bench with your feet firmly planted on the ground. Grip the barbell slightly wider than shoulder-width apart.
+    2. **Unrack**: Lift the bar off the rack and position it directly above your chest with arms fully extended.
+    3. **Lowering**: Slowly lower the bar to your chest while keeping your elbows at about a 45-degree angle from your body.
+    4. **Pause**: Hold the bar on your chest for 1 second—this is crucial for building strength and control.
+    5. **Press**: Drive through your feet and push the bar back up to the starting position, fully extending your arms.
   
-- **Form Tips**:
-    - Keep your core tight throughout the movement to protect your back.
-    - Use your legs to generate power; don’t just rely on your arms.
-    - Aim for a controlled slam to avoid injury.
+- **Form Tips:**
+    - Keep your shoulder blades retracted and your back flat against the bench.
+    - Don’t let your elbows flare out too much; keep them tucked in.
+    - Engage your core throughout the lift to maintain stability.
 
-- **Scaling/Modifications**:
-    - Use a lighter slam ball if you’re new to the movement or need to focus on form.
-    - If you don’t have a slam ball, you can substitute with a medicine ball or even a heavy backpack.
+- **Scaling/Modifications:**
+    - If you’re new to the bench press, you can use a lighter barbell or even a dumbbell bench press.
+    - If you have shoulder issues, consider doing floor presses instead.
 
-### 2. **V-Ups (40 reps)**
-- **Technique Steps**:
-    - Lie flat on your back with your arms extended overhead and legs straight.
-    - Simultaneously lift your legs and upper body off the ground, reaching for your toes with your hands.
-    - Keep your core engaged and avoid using momentum; focus on controlled movement.
-    - Lower back down with control and repeat.
+- **Loading:**
+    - Start at 50% of your 1RM and aim to build up to 70-75% over the 5 sets. Focus on maintaining good form rather than just lifting heavy.
 
-- **Form Tips**:
-    - Keep your legs straight and avoid bending your knees to maximize core engagement.
-    - If you find it hard to reach your toes, aim for your shins or knees instead.
+## Conditioning Segment [For Time]
 
-- **Scaling/Modifications**:
-    - If V-Ups are too challenging, perform tuck-ups by bringing your knees to your chest instead.
-    - You can also do sit-ups as a simpler alternative.
+### 60 Burpee Box Jumps (24"/20"):
 
-### 3. **Lateral Jumps over D-Ball (50 reps)**
-- **Technique Steps**:
-    - Stand next to the D-Ball with your feet shoulder-width apart.
-    - Bend your knees slightly and jump laterally over the D-Ball, landing softly on the other side.
-    - Immediately jump back over to the starting side.
-    - Keep your core engaged and land with soft knees to absorb the impact.
+- **Technique Steps:**
+    1. **Burpee**: Start standing, drop into a squat, place your hands on the ground, jump your feet back into a plank position.
+    2. **Push-Up**: Perform a push-up (optional, depending on your fitness level).
+    3. **Jump Forward**: Jump your feet back towards your hands.
+    4. **Jump**: Explode upwards onto the box, landing softly with your knees slightly bent.
 
-- **Form Tips**:
-    - Focus on a quick and controlled jump rather than a high jump.
-    - Keep your chest up and eyes forward to maintain balance.
+- **Form Tips:**
+    - Keep your core engaged during the plank to prevent sagging hips.
+    - Use your arms to help propel you up during the jump.
+    - Land softly on the box to reduce impact on your joints.
 
-- **Scaling/Modifications**:
-    - If jumping is difficult, step over the D-Ball instead of jumping.
-    - Reduce the number of reps if needed, especially if you’re new to lateral movements.
+- **Scaling/Modifications:**
+    - Step up instead of jumping if you’re not comfortable with the jump.
+    - Reduce the number of reps to 30 or 40 if you’re newer to this movement.
 
-### 4. **600 Meter Run**
-- **Technique Steps**:
-    - Start with a light jog to warm up your muscles.
-    - Maintain a steady pace, focusing on your breathing and form.
-    - Keep your shoulders relaxed and arms at a 90-degree angle, swinging them naturally as you run.
-  
-- **Form Tips**:
-    - Land softly on your midfoot to reduce impact.
-    - Keep your head up and eyes looking forward, not down at your feet.
+### 50 Double Unders:
 
-- **Scaling/Modifications**:
-    - If running is too challenging, consider a brisk walk or a shorter distance (like 400 meters).
-    - You can also substitute with a bike or rower for a cardio option.
+- **Technique Steps:**
+    1. **Setup**: Stand tall with the jump rope behind you.
+    2. **Jump**: Jump slightly higher than normal, allowing the rope to pass under your feet twice.
+    3. **Wrist Movement**: Use your wrists to control the rope speed rather than your arms.
 
-## Loading and Rep-Modification Options
-- **Sweat**: 
-    - Slam Ball: 15/10 lbs
-    - V-Ups: Tuck-ups
-    - Run: 400 meters
-- **Train**: 
-    - Slam Ball: 20/15 lbs
-    - Standard V-Ups
-    - Run: 600 meters
-- **Compete**: 
-    - Slam Ball: 20/15 lbs
-    - Standard V-Ups
-    - Run: 600 meters
+- **Form Tips:**
+    - Keep your elbows close to your body and your hands at hip level.
+    - Focus on a consistent rhythm and avoid overthinking the jump.
 
-## Strategy Advice
-- **Pacing**: Start at a steady pace and communicate with your partner. It’s better to break up the reps early rather than burning out.
-- **Teamwork**: Encourage each other throughout the workout. If one of you needs to take a breather, that’s okay! Just keep moving.
-- **Hydration**: Since we’re outdoors, make sure to stay hydrated before and after the workout.
+- **Scaling/Modifications:**
+    - If you’re still working on double unders, do single unders instead (aim for 100).
+    - You can also do a 30-second max effort of double unders if you’re still learning.
 
-Alright, team! Let’s get out there, have some fun, and crush this WOD together! Remember, it’s all about teamwork and pushing each other to be better. Let’s do this! 💪
+## Finisher
+
+### 4 Sets of:
+
+#### 8/8 Single Dumbbell Rows:
+
+- **Technique Steps:**
+    1. **Setup**: Place one knee and hand on a bench for support, with the other foot on the ground.
+    2. **Row**: With the opposite hand, pull the dumbbell towards your hip, keeping your elbow close to your body.
+    3. **Lower**: Slowly lower the dumbbell back to the starting position.
+
+- **Form Tips:**
+    - Keep your back flat and avoid twisting your torso.
+    - Focus on squeezing your shoulder blade at the top of the movement.
+
+- **Scaling/Modifications:**
+    - Use a lighter dumbbell if needed or perform the rows without weight to focus on form.
+
+#### 8/8 Weighted Single Leg Glute Bridges:
+
+- **Technique Steps:**
+    1. **Setup**: Lie on your back with one foot flat on the ground and the other leg extended straight up.
+    2. **Lift**: Press through the heel of the grounded foot to lift your hips towards the ceiling.
+    3. **Lower**: Slowly lower your hips back down without touching the ground.
+
+- **Form Tips:**
+    - Keep your core engaged and avoid arching your lower back.
+    - Squeeze your glutes at the top of the movement for maximum engagement.
+
+- **Scaling/Modifications:**
+    - Perform the movement without weight or do both legs at the same time if single-leg is too challenging.
+
+## Loading Options
+
+- **Sweat**: Use lighter weights for the bench press (40-50% of 1RM), and consider doing step-ups instead of box jumps.
+- **Train**: Moderate weights (60-70% of 1RM) for the bench press, and stick with the prescribed movements.
+- **Compete**: Go for heavier weights (75-85% of 1RM) and aim to complete all movements as prescribed.
+
+### Strategy Advice:
+
+- For the conditioning piece, pace yourself! It’s easy to burn out quickly, especially with the burpees. Break them into manageable sets if needed.
+- Focus on maintaining a steady rhythm during the double unders; it’s better to keep moving than to trip up and lose momentum.
+- For the finisher, keep your rest minimal between sets to maximize the burn and build endurance.
+
+Alright team, let’s
 
 ---
-*Generated on 2025-08-31T06:07:20.031Z using AI assistance*
+*Generated on 2025-09-01T06:09:13.334Z using AI assistance*
