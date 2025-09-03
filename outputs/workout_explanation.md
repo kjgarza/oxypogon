@@ -1,117 +1,99 @@
-# CrossFit MINS Workout - 2025-09-01
+# CrossFit MINS Workout - 2025-09-03
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><br><li class="ml-4">**Strength**: Bench Press</li><li class="ml-4">On the 2:30 x 5</li><li class="ml-4">5 Bench Presses with 1 Sec. pause on chest</li><li class="ml-4">*Start at 50% and build to 70-75% of 1 RM</li><br><li class="ml-4">**Conditioning**: For Time</li><li class="ml-4">60 Burpee Box Jumps (24"/20")</li><li class="ml-4">Every 2 Minutes [Starting at 0:00]: 50 Double Unders</li><br><li class="ml-4">**Finisher**:</li><li class="ml-4">4 Sets of:</li><li class="ml-4">8/8 Single Dumbbell Rows</li><li class="ml-4">8/8 Weighted Single Leg Glute Bridges</li>
+<p class="mb-2">WOD:</p><p class="mb-2">“JIMMY”</p><p class="mb-2">AMRAP in 30 minutes:</p><li class="ml-4">5 Deadlifts</li><li class="ml-4">7 Pull-Ups</li><li class="ml-4">9 Push-Ups</li><br><p class="mb-2">Sweat: 60/30; Ring Rows or Banded Pull Ups</p><p class="mb-2">Train: 90/60</p><p class="mb-2">Compete: 120/90</p>
 
 ### Expert Explanation
-# Workout Overview
+## Workout Overview
 
-Hey everyone! Today’s WOD is packed with strength, conditioning, and a little finisher to round things off. We’ll start with a strength segment focusing on the Bench Press, where we’ll work on our technique and build strength with a pause at the chest. Then, we’ll dive into a conditioning piece that combines Burpee Box Jumps and Double Unders, which will really get your heart pumping. Finally, we’ll finish strong with some accessory work to target our back and glutes. Let’s break it down step by step!
+Hey everyone! Today’s WOD is called “JIMMY,” and it’s an AMRAP (As Many Rounds As Possible) in 30 minutes. The goal here is to build strength and endurance while keeping a steady pace throughout the workout. We’ll be tackling three fundamental movements: Deadlifts, Pull-Ups, and Push-Ups. This combination will challenge your posterior chain, upper body pulling strength, and chest/tricep endurance. Let’s break it down step by step!
+
+---
 
 ## Strength Segment
 
-### Bench Press (Barbell):
+### 1. Deadlifts
 
 - **Technique Steps:**
-    1. **Setup**: Lie flat on a bench with your feet firmly planted on the ground. Grip the barbell slightly wider than shoulder-width apart.
-    2. **Unrack**: Lift the bar off the rack and position it directly above your chest with arms fully extended.
-    3. **Lowering**: Slowly lower the bar to your chest while keeping your elbows at about a 45-degree angle from your body.
-    4. **Pause**: Hold the bar on your chest for 1 second—this is crucial for building strength and control.
-    5. **Press**: Drive through your feet and push the bar back up to the starting position, fully extending your arms.
-  
-- **Form Tips:**
-    - Keep your shoulder blades retracted and your back flat against the bench.
-    - Don’t let your elbows flare out too much; keep them tucked in.
-    - Engage your core throughout the lift to maintain stability.
-
-- **Scaling/Modifications:**
-    - If you’re new to the bench press, you can use a lighter barbell or even a dumbbell bench press.
-    - If you have shoulder issues, consider doing floor presses instead.
-
-- **Loading:**
-    - Start at 50% of your 1RM and aim to build up to 70-75% over the 5 sets. Focus on maintaining good form rather than just lifting heavy.
-
-## Conditioning Segment [For Time]
-
-### 60 Burpee Box Jumps (24"/20"):
-
-- **Technique Steps:**
-    1. **Burpee**: Start standing, drop into a squat, place your hands on the ground, jump your feet back into a plank position.
-    2. **Push-Up**: Perform a push-up (optional, depending on your fitness level).
-    3. **Jump Forward**: Jump your feet back towards your hands.
-    4. **Jump**: Explode upwards onto the box, landing softly with your knees slightly bent.
+    1. Stand with your feet hip-width apart, barbell over the midfoot.
+    2. Bend at the hips and knees to grip the bar with both hands, just outside your knees.
+    3. Keep your chest up and back flat, engaging your core.
+    4. Push through your heels, extend your hips and knees simultaneously to lift the bar.
+    5. Stand tall at the top, then hinge at the hips to lower the bar back down.
 
 - **Form Tips:**
-    - Keep your core engaged during the plank to prevent sagging hips.
-    - Use your arms to help propel you up during the jump.
-    - Land softly on the box to reduce impact on your joints.
+    - Keep the bar close to your body throughout the lift.
+    - Avoid rounding your back; think about keeping your chest proud.
+    - Engage your lats to stabilize your upper body.
 
 - **Scaling/Modifications:**
-    - Step up instead of jumping if you’re not comfortable with the jump.
-    - Reduce the number of reps to 30 or 40 if you’re newer to this movement.
-
-### 50 Double Unders:
-
-- **Technique Steps:**
-    1. **Setup**: Stand tall with the jump rope behind you.
-    2. **Jump**: Jump slightly higher than normal, allowing the rope to pass under your feet twice.
-    3. **Wrist Movement**: Use your wrists to control the rope speed rather than your arms.
-
-- **Form Tips:**
-    - Keep your elbows close to your body and your hands at hip level.
-    - Focus on a consistent rhythm and avoid overthinking the jump.
-
-- **Scaling/Modifications:**
-    - If you’re still working on double unders, do single unders instead (aim for 100).
-    - You can also do a 30-second max effort of double unders if you’re still learning.
-
-## Finisher
-
-### 4 Sets of:
-
-#### 8/8 Single Dumbbell Rows:
-
-- **Technique Steps:**
-    1. **Setup**: Place one knee and hand on a bench for support, with the other foot on the ground.
-    2. **Row**: With the opposite hand, pull the dumbbell towards your hip, keeping your elbow close to your body.
-    3. **Lower**: Slowly lower the dumbbell back to the starting position.
-
-- **Form Tips:**
-    - Keep your back flat and avoid twisting your torso.
-    - Focus on squeezing your shoulder blade at the top of the movement.
-
-- **Scaling/Modifications:**
-    - Use a lighter dumbbell if needed or perform the rows without weight to focus on form.
-
-#### 8/8 Weighted Single Leg Glute Bridges:
-
-- **Technique Steps:**
-    1. **Setup**: Lie on your back with one foot flat on the ground and the other leg extended straight up.
-    2. **Lift**: Press through the heel of the grounded foot to lift your hips towards the ceiling.
-    3. **Lower**: Slowly lower your hips back down without touching the ground.
-
-- **Form Tips:**
-    - Keep your core engaged and avoid arching your lower back.
-    - Squeeze your glutes at the top of the movement for maximum engagement.
-
-- **Scaling/Modifications:**
-    - Perform the movement without weight or do both legs at the same time if single-leg is too challenging.
-
-## Loading Options
-
-- **Sweat**: Use lighter weights for the bench press (40-50% of 1RM), and consider doing step-ups instead of box jumps.
-- **Train**: Moderate weights (60-70% of 1RM) for the bench press, and stick with the prescribed movements.
-- **Compete**: Go for heavier weights (75-85% of 1RM) and aim to complete all movements as prescribed.
-
-### Strategy Advice:
-
-- For the conditioning piece, pace yourself! It’s easy to burn out quickly, especially with the burpees. Break them into manageable sets if needed.
-- Focus on maintaining a steady rhythm during the double unders; it’s better to keep moving than to trip up and lose momentum.
-- For the finisher, keep your rest minimal between sets to maximize the burn and build endurance.
-
-Alright team, let’s
+    - Use a lighter barbell or kettlebell if you’re new to deadlifts.
+    - You can also perform the movement with a PVC pipe to focus on form.
 
 ---
-*Generated on 2025-09-01T06:09:13.334Z using AI assistance*
+
+### 2. Pull-Ups
+
+- **Technique Steps:**
+    1. Start by hanging from the pull-up bar with an overhand grip, hands slightly wider than shoulder-width.
+    2. Engage your shoulders and core, then pull your chin above the bar by driving your elbows down.
+    3. Lower yourself back to the starting position with control.
+
+- **Form Tips:**
+    - Keep your body straight; avoid swinging or kipping unless you’re proficient.
+    - Focus on pulling with your back, not just your arms.
+
+- **Scaling/Modifications:**
+    - If you can’t do strict pull-ups, use a resistance band for assistance or perform ring rows.
+    - You can also do jumping pull-ups, where you use your legs to help you get above the bar.
+
+---
+
+### 3. Push-Ups
+
+- **Technique Steps:**
+    1. Start in a plank position with your hands slightly wider than shoulder-width apart.
+    2. Lower your body by bending your elbows, keeping them at about a 45-degree angle.
+    3. Go down until your chest nearly touches the ground, then push back up to the starting position.
+
+- **Form Tips:**
+    - Keep your body in a straight line from head to heels; avoid sagging hips or raised butts.
+    - Engage your core and glutes throughout the movement.
+
+- **Scaling/Modifications:**
+    - If regular push-ups are too challenging, drop to your knees for knee push-ups.
+    - You can also perform incline push-ups with your hands on a box or bench.
+
+---
+
+## Loading and Rep-Modification Options
+
+### Sweat:
+- **Deadlifts:** 60/30 kg
+- **Pull-Ups:** Ring Rows or Banded Pull-Ups
+- **Push-Ups:** Knee Push-Ups or Incline Push-Ups
+
+### Train:
+- **Deadlifts:** 90/60 kg
+- **Pull-Ups:** Strict Pull-Ups or Banded Pull-Ups
+- **Push-Ups:** Regular Push-Ups
+
+### Compete:
+- **Deadlifts:** 120/90 kg
+- **Pull-Ups:** Strict Pull-Ups
+- **Push-Ups:** Regular Push-Ups
+
+---
+
+## Strategy Advice
+
+- **Pacing:** Since this is a 30-minute AMRAP, find a sustainable pace. It’s better to start slow and maintain your energy than to burn out early.
+- **Break it up:** Don’t be afraid to break up your sets, especially on the Pull-Ups and Push-Ups. It’s better to do smaller sets with good form than to struggle through larger sets.
+- **Stay focused:** Keep your transitions quick but controlled. Use the time between movements to catch your breath and mentally prepare for the next round.
+
+Alright, team! Let’s get ready to tackle “JIMMY.” Remember to focus on your form, listen to your body, and most importantly, have fun! Let’s crush this workout together! 💪
+
+---
+*Generated on 2025-09-03T06:08:10.308Z using AI assistance*
