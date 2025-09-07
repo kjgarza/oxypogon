@@ -1,98 +1,129 @@
-# CrossFit MINS Workout - 2025-09-05
+# CrossFit MINS Workout - 2025-09-07
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><br><li class="ml-4">3-Position Power Snatch</li><li class="ml-4">On the 1:45 x 7</li><li class="ml-4">1 High Hang + Hang + Power Snatch</li><li class="ml-4">Start at 50% and build to 85-90% of 1 RM</li><br><li class="ml-4">Conditioning</li><li class="ml-4">4x 2:00 Minutes On / 2:00 Off</li><li class="ml-4">12 Power Snatch</li><li class="ml-4">Max Calories Bike</li><br><p class="mb-2">Sweat: 20/10</p><p class="mb-2">Train: 30/20</p><p class="mb-2">Compete: 40/30</p>
+<p class="mb-2">WOD:</p><p class="mb-2">5 Rounds for Time:</p><li class="ml-4">80 Double Unders</li><li class="ml-4">40 Sit-Ups</li><li class="ml-4">20 Alt. D-Ball Box Step Ups</li><li class="ml-4">15 Ring Dips</li><li class="ml-4">1 Double Dumbbell Farmers Carry</li><br><p class="mb-2">Options:</p><li class="ml-4">Sweat: 16/12; 15/10; Banded Ring Dips or Box Dips; 160 Single Unders</li><li class="ml-4">Train: 24/16; 20/15; 50 Double Unders</li><li class="ml-4">Compete: 32/24; 20/15</li>
 
 ### Expert Explanation
 ## Workout Overview
 
-Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that’s going to challenge your technique and endurance. We’ll kick things off with a skill segment focusing on the **3-Position Power Snatch**, which is all about mastering your form and building strength. Then, we’ll dive into a conditioning piece that will really get your heart rate up with some power snatches and calorie-burning on the bike. Let’s break it down step by step!
+Hey team! Today’s WOD is a fun and challenging 5 Rounds for Time workout that’s going to test your endurance, core strength, and upper body stability. We’ll be tackling a mix of cardio, core work, and strength movements that will keep your heart rate up and your muscles engaged. The goal here is to maintain a steady pace while focusing on form and efficiency. Let’s break it down step by step!
 
 ---
 
-## Strength Segment
+## Workout Components
 
-### 3-Position Power Snatch
+### 1. Double Unders (80 reps)
 
-**Structure:**
-- You’ll perform this on a 1:45 timer for 7 sets.
-- Each set consists of:
-  - 1 High Hang Snatch
-  - 1 Hang Snatch
-  - 1 Power Snatch
+- **Technique Steps:**
+    - Start with the jump rope behind your heels.
+    - Grip the handles firmly but not too tight, keeping your elbows close to your sides.
+    - Jump slightly higher than a regular jump, and flick your wrists to spin the rope twice under your feet before landing.
+    - Keep your body straight and land softly on the balls of your feet.
 
-**Technique Steps:**
-1. **High Hang Snatch:**
-   - Start with the barbell at your hips, feet shoulder-width apart.
-   - Hinge slightly at the hips while keeping your chest up.
-   - Explosively extend your hips and pull the barbell overhead, catching it in a quarter squat.
-   - Stand tall to finish the rep.
+- **Form Tips:**
+    - Focus on using your wrists to control the rope, not your arms.
+    - Keep your jumps low and quick; you don’t need to jump too high.
+    - Maintain a steady rhythm; practice makes perfect!
 
-2. **Hang Snatch:**
-   - Start from the hang position (bar just above the knees).
-   - Hinge at the hips, keeping your back flat and core engaged.
-   - Extend your hips and pull the barbell overhead, catching it in a full squat.
-   - Stand tall to complete the rep.
+- **Scaling/Modifications:**
+    - If you’re new to double unders, switch to 160 Single Unders.
+    - Use a lighter rope or practice with a partner’s rope to find the right length.
 
-3. **Power Snatch:**
-   - Start from the floor with your feet hip-width apart.
-   - Perform a deadlift to bring the bar to your hips, then initiate the snatch.
-   - Pull the barbell overhead, catching it in a partial squat.
-   - Stand tall to finish.
+### 2. Sit-Ups (40 reps)
 
-**Form Tips:**
-- Keep the bar close to your body throughout all movements.
-- Focus on explosive hip extension; this is where your power comes from!
-- Maintain a neutral spine and engaged core to protect your back.
+- **Technique Steps:**
+    - Lie on your back with your knees bent and feet flat on the floor, hip-width apart.
+    - Place your hands behind your head or crossed over your chest.
+    - Engage your core and lift your upper body towards your knees, keeping your feet planted.
+    - Lower back down with control, ensuring your shoulder blades touch the ground.
 
-**Scaling/Modifications:**
-- If you’re new to the snatch, consider using a lighter barbell or a PVC pipe to focus on form.
-- You can also perform the movement with dumbbells if that feels more comfortable.
+- **Form Tips:**
+    - Avoid pulling on your neck; keep your elbows wide.
+    - Focus on using your core to lift, not momentum.
+    - Keep your feet anchored to the ground for stability.
 
-**Loading:**
-- Start at 50% of your 1RM and aim to build to 85-90% by the last set. 
-- **Sweat:** 30-40% of your 1RM
-- **Train:** 50-70% of your 1RM
-- **Compete:** 75-90% of your 1RM
+- **Scaling/Modifications:**
+    - If full sit-ups are challenging, try Ab Mat Sit-Ups or even Crunches.
+    - You can also perform them with your feet elevated on a bench for a different angle.
+
+### 3. Alternating D-Ball Box Step Ups (20 reps)
+
+- **Technique Steps:**
+    - Start with a D-Ball at your chest or on your shoulder.
+    - Step up onto the box with one foot, driving through your heel.
+    - Bring your other foot up to meet the first on top of the box, then step back down one foot at a time.
+    - Alternate legs with each rep.
+
+- **Form Tips:**
+    - Keep your chest up and core engaged throughout the movement.
+    - Use a box height that challenges you but allows for safe stepping.
+    - Ensure your entire foot is on the box before stepping down.
+
+- **Scaling/Modifications:**
+    - Use a lighter D-Ball or a lower box if needed.
+    - If you don’t have a D-Ball, you can use a kettlebell or dumbbell.
+
+### 4. Ring Dips (15 reps)
+
+- **Technique Steps:**
+    - Start by gripping the rings with your palms facing inward and arms fully extended.
+    - Lower your body by bending your elbows, keeping them close to your sides.
+    - Go down until your upper arms are parallel to the ground, then push back up to the starting position.
+
+- **Form Tips:**
+    - Keep your body straight and avoid swinging.
+    - Engage your shoulders and core to maintain stability.
+    - If you feel shaky, focus on controlled movements rather than speed.
+
+- **Scaling/Modifications:**
+    - Use a band for assistance or perform Box Dips if rings are too challenging.
+    - You can also do bench dips as an alternative.
+
+### 5. Double Dumbbell Farmers Carry (1 round)
+
+- **Technique Steps:**
+    - Stand tall with a dumbbell in each hand, arms at your sides.
+    - Engage your core and keep your shoulders back.
+    - Walk forward for a set distance or time, maintaining a strong posture.
+
+- **Form Tips:**
+    - Keep your head up and look straight ahead.
+    - Avoid leaning to one side; distribute the weight evenly.
+    - Take small, controlled steps to maintain balance.
+
+- **Scaling/Modifications:**
+    - Use lighter dumbbells if needed or perform a single-arm carry.
+    - If you don’t have dumbbells, you can use kettlebells or any weighted object.
 
 ---
 
-## Conditioning Segment [4 Rounds for Time]
+## Loading and Rep-Modification Options
 
-### 12 Power Snatch + Max Calories on the Bike
+- **Sweat:**
+    - Dumbbells: 16/12 kg
+    - Ring Dips: Banded or Box Dips
+    - Double Unders: 160 Single Unders
 
-**Structure:**
-- You’ll work for 2 minutes, then rest for 2 minutes, repeating this for 4 rounds.
+- **Train:**
+    - Dumbbells: 24/16 kg
+    - Ring Dips: 20/15 reps
+    - Double Unders: 50 reps
 
-**Technique Steps for Power Snatch:**
-- Start with the barbell on the ground, feet hip-width apart.
-- Grip the bar just outside your knees.
-- Initiate the lift by driving through your heels, extending your hips and knees simultaneously.
-- Pull the barbell up and overhead, catching it in a partial squat.
-- Stand tall to complete the rep.
-
-**Form Tips:**
-- Keep your elbows high and the bar close to your body during the pull.
-- Focus on a smooth transition from the ground to overhead; don’t rush it!
-
-**Scaling/Modifications:**
-- If the barbell feels too heavy, reduce the weight or switch to dumbbells.
-- For the bike, you can adjust the resistance or aim for fewer calories if you’re newer to this.
-
-**Loading Options:**
-- **Sweat:** 20/10 kg for the barbell, aim for a moderate pace on the bike.
-- **Train:** 30/20 kg for the barbell, push for a challenging pace.
-- **Compete:** 40/30 kg for the barbell, go all out on the bike!
+- **Compete:**
+    - Dumbbells: 32/24 kg
+    - Ring Dips: 20/15 reps
 
 ### Strategy Advice:
-- During the power snatches, focus on maintaining a steady pace. It’s better to break up the reps into smaller sets if needed rather than going all out and burning out quickly.
-- On the bike, push hard during the work intervals, but be mindful of your energy for the next round. 
+
+- **Pacing:** Start steady and find a rhythm. It’s better to break up the sets early rather than burn out.
+- **Transitions:** Keep your transitions quick but controlled; this will save you time overall.
+- **Breathing:** Focus on your breathing, especially during the sit-ups and ring dips, to maintain endurance.
 
 ---
 
-Alright team, let’s get after it! Remember, focus on your form, listen to your body, and have fun with it! You've got this! 💪
+Alright, team! Let’s get after it today. Remember to listen to your body, focus on your form, and most importantly, have fun! Let’s crush this WOD together! 💪
 
 ---
-*Generated on 2025-09-05T06:08:23.778Z using AI assistance*
+*Generated on 2025-09-07T06:07:04.784Z using AI assistance*
