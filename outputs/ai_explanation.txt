@@ -1,118 +1,102 @@
-## Workout Overview
+# Workout Overview
 
-Hey team! Today’s WOD is a fun and challenging 5 Rounds for Time workout that’s going to test your endurance, core strength, and upper body stability. We’ll be tackling a mix of cardio, core work, and strength movements that will keep your heart rate up and your muscles engaged. The goal here is to maintain a steady pace while focusing on form and efficiency. Let’s break it down step by step!
+Hey everyone! Today’s WOD is going to be a fantastic mix of strength and conditioning. We’ll kick things off with a strength segment focusing on the **Power Clean**, where we’ll work on our technique and build up to a challenging weight. Then, we’ll dive into a conditioning piece that will test our endurance and coordination with a series of power cleans, lateral barbell burpees, and toes to bar. This workout is designed to improve your overall strength and metabolic conditioning, so let’s break it down step by step!
 
----
+## Strength Segment
 
-## Workout Components
+### Power Clean (Paused)
 
-### 1. Double Unders (80 reps)
+**Overview**: The Power Clean is a dynamic movement that requires explosive power and good technique. We’ll be pausing at knee height to reinforce proper positioning and control.
 
-- **Technique Steps:**
-    - Start with the jump rope behind your heels.
-    - Grip the handles firmly but not too tight, keeping your elbows close to your sides.
-    - Jump slightly higher than a regular jump, and flick your wrists to spin the rope twice under your feet before landing.
-    - Keep your body straight and land softly on the balls of your feet.
+- **Technique Steps**:
+    1. Start with your feet hip-width apart, barbell over the midfoot.
+    2. Grip the bar just outside your knees, keeping your back flat and chest up.
+    3. Initiate the lift by driving through your heels, extending your hips and knees simultaneously.
+    4. As the bar passes your knees, pull yourself under the bar, catching it on your shoulders in a quarter squat.
+    5. Hold for a 3-second pause just below knee height before standing tall and resetting for the next rep.
 
-- **Form Tips:**
-    - Focus on using your wrists to control the rope, not your arms.
-    - Keep your jumps low and quick; you don’t need to jump too high.
-    - Maintain a steady rhythm; practice makes perfect!
+- **Form Tips**:
+    - Keep the bar close to your body throughout the lift.
+    - Focus on a strong hip extension; this is where your power comes from!
+    - Maintain a neutral spine; avoid rounding your back.
 
-- **Scaling/Modifications:**
-    - If you’re new to double unders, switch to 160 Single Unders.
-    - Use a lighter rope or practice with a partner’s rope to find the right length.
+- **Scaling/Modifications**:
+    - If you’re new to this movement, consider using a lighter barbell or even a PVC pipe to focus on form.
+    - You can also perform the movement without the pause if you’re still mastering the clean.
 
-### 2. Sit-Ups (40 reps)
+- **Loading**:
+    - Start at 40-50% of your 1RM and gradually build up to 75-85% by the last set.
+    - **Sweat**: 40% of 1RM
+    - **Train**: 60-70% of 1RM
+    - **Compete**: 75-85% of 1RM
 
-- **Technique Steps:**
-    - Lie on your back with your knees bent and feet flat on the floor, hip-width apart.
-    - Place your hands behind your head or crossed over your chest.
-    - Engage your core and lift your upper body towards your knees, keeping your feet planted.
-    - Lower back down with control, ensuring your shoulder blades touch the ground.
+## Conditioning Segment [For Time]
 
-- **Form Tips:**
-    - Avoid pulling on your neck; keep your elbows wide.
-    - Focus on using your core to lift, not momentum.
-    - Keep your feet anchored to the ground for stability.
+### 6-5-4-3-2-1 Ladder
 
-- **Scaling/Modifications:**
-    - If full sit-ups are challenging, try Ab Mat Sit-Ups or even Crunches.
-    - You can also perform them with your feet elevated on a bench for a different angle.
+**Movements**:
+1. Power Clean
+2. Lateral Barbell Burpees
+3. Toes to Bar
 
-### 3. Alternating D-Ball Box Step Ups (20 reps)
+**Overview**: This part of the workout is a descending ladder format, which means you’ll do 6 reps of each movement, then 5, and so on down to 1. This format keeps the intensity high and helps with pacing.
 
-- **Technique Steps:**
-    - Start with a D-Ball at your chest or on your shoulder.
-    - Step up onto the box with one foot, driving through your heel.
-    - Bring your other foot up to meet the first on top of the box, then step back down one foot at a time.
-    - Alternate legs with each rep.
+### 1. Power Clean
 
-- **Form Tips:**
-    - Keep your chest up and core engaged throughout the movement.
-    - Use a box height that challenges you but allows for safe stepping.
-    - Ensure your entire foot is on the box before stepping down.
+- **Technique Steps**:
+    - Same as the strength segment, but focus on speed and efficiency.
+    - Aim to catch the bar in a stable position and stand up quickly.
 
-- **Scaling/Modifications:**
-    - Use a lighter D-Ball or a lower box if needed.
-    - If you don’t have a D-Ball, you can use a kettlebell or dumbbell.
+- **Form Tips**:
+    - Keep your elbows high and your core engaged.
+    - Use your legs to drive the bar up rather than relying solely on your arms.
 
-### 4. Ring Dips (15 reps)
+- **Scaling/Modifications**:
+    - Use a lighter weight if needed, or perform a hang power clean if you’re still working on the full movement.
 
-- **Technique Steps:**
-    - Start by gripping the rings with your palms facing inward and arms fully extended.
-    - Lower your body by bending your elbows, keeping them close to your sides.
-    - Go down until your upper arms are parallel to the ground, then push back up to the starting position.
+### 2. Lateral Barbell Burpees
 
-- **Form Tips:**
-    - Keep your body straight and avoid swinging.
-    - Engage your shoulders and core to maintain stability.
-    - If you feel shaky, focus on controlled movements rather than speed.
+- **Technique Steps**:
+    1. Start standing next to the barbell.
+    2. Drop into a squat and place your hands on the bar.
+    3. Jump your feet back into a plank position.
+    4. Perform a push-up (optional).
+    5. Jump your feet back to your hands, stand up, and jump laterally over the barbell.
+    
+- **Form Tips**:
+    - Keep your core tight to maintain stability during the plank.
+    - Land softly when jumping over the bar to avoid injury.
 
-- **Scaling/Modifications:**
-    - Use a band for assistance or perform Box Dips if rings are too challenging.
-    - You can also do bench dips as an alternative.
+- **Scaling/Modifications**:
+    - Step back instead of jumping if you need to reduce impact.
+    - You can also perform the burpees without the push-up if you’re still building strength.
 
-### 5. Double Dumbbell Farmers Carry (1 round)
+### 3. Toes to Bar
 
-- **Technique Steps:**
-    - Stand tall with a dumbbell in each hand, arms at your sides.
-    - Engage your core and keep your shoulders back.
-    - Walk forward for a set distance or time, maintaining a strong posture.
+- **Technique Steps**:
+    1. Hang from the pull-up bar with an overhand grip.
+    2. Engage your core and pull your knees up towards your chest.
+    3. From there, extend your legs and bring your toes to the bar.
+    4. Lower back down with control.
 
-- **Form Tips:**
-    - Keep your head up and look straight ahead.
-    - Avoid leaning to one side; distribute the weight evenly.
-    - Take small, controlled steps to maintain balance.
+- **Form Tips**:
+    - Keep your shoulders engaged and avoid swinging.
+    - Use a kipping motion if you’re comfortable to generate momentum.
 
-- **Scaling/Modifications:**
-    - Use lighter dumbbells if needed or perform a single-arm carry.
-    - If you don’t have dumbbells, you can use kettlebells or any weighted object.
+- **Scaling/Modifications**:
+    - If toes to bar are too challenging, you can scale to knee raises or hanging knee tucks.
+    - If hanging is difficult, perform the movement on a low bar or use a box for support.
 
----
+### Loading Options:
 
-## Loading and Rep-Modification Options
-
-- **Sweat:**
-    - Dumbbells: 16/12 kg
-    - Ring Dips: Banded or Box Dips
-    - Double Unders: 160 Single Unders
-
-- **Train:**
-    - Dumbbells: 24/16 kg
-    - Ring Dips: 20/15 reps
-    - Double Unders: 50 reps
-
-- **Compete:**
-    - Dumbbells: 32/24 kg
-    - Ring Dips: 20/15 reps
+- **Sweat**: 50/35 lbs for Power Cleans; 15 Knee Raises instead of Toes to Bar.
+- **Train**: 70/50 lbs for Power Cleans; 10 Toes to Bar.
+- **Compete**: 90/65 lbs for Power Cleans; standard Toes to Bar.
 
 ### Strategy Advice:
 
-- **Pacing:** Start steady and find a rhythm. It’s better to break up the sets early rather than burn out.
-- **Transitions:** Keep your transitions quick but controlled; this will save you time overall.
-- **Breathing:** Focus on your breathing, especially during the sit-ups and ring dips, to maintain endurance.
+- For the ladder, aim to maintain a steady pace. It’s better to break up the sets early rather than going all out and burning out quickly.
+- Focus on your breathing, especially during the burpees and toes to bar, to keep your heart rate manageable.
+- Remember to hydrate and listen to your body—if you need to scale or take a break, that’s perfectly okay!
 
----
-
-Alright, team! Let’s get after it today. Remember to listen to your body, focus on your form, and most importantly, have fun! Let’s crush this WOD together! 💪
+Alright team, let’s get after it! Focus on your form, push your limits, and most importantly, have fun!
