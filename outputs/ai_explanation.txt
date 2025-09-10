@@ -1,102 +1,115 @@
 # Workout Overview
 
-Hey everyone! Today’s WOD is going to be a fantastic mix of strength and conditioning. We’ll kick things off with a strength segment focusing on the **Power Clean**, where we’ll work on our technique and build up to a challenging weight. Then, we’ll dive into a conditioning piece that will test our endurance and coordination with a series of power cleans, lateral barbell burpees, and toes to bar. This workout is designed to improve your overall strength and metabolic conditioning, so let’s break it down step by step!
+Hey everyone! Today’s WOD is a great mix of strength and conditioning that’s going to challenge your legs and cardiovascular endurance. We’ll start with a strength segment focusing on Back Squats, where we’ll progressively build our load. After that, we’ll dive into a 16-minute AMRAP (As Many Rounds As Possible) that includes box jumps, front rack reverse lunges, and double unders. This workout is designed to improve your strength, power, and stamina, so let’s break it down step by step!
 
 ## Strength Segment
 
-### Power Clean (Paused)
+### Back Squats
 
-**Overview**: The Power Clean is a dynamic movement that requires explosive power and good technique. We’ll be pausing at knee height to reinforce proper positioning and control.
+**Overview**: The Back Squat is a foundational movement that targets your quads, hamstrings, glutes, and core. Proper form is crucial to prevent injury and maximize strength gains.
 
 - **Technique Steps**:
-    1. Start with your feet hip-width apart, barbell over the midfoot.
-    2. Grip the bar just outside your knees, keeping your back flat and chest up.
-    3. Initiate the lift by driving through your heels, extending your hips and knees simultaneously.
-    4. As the bar passes your knees, pull yourself under the bar, catching it on your shoulders in a quarter squat.
-    5. Hold for a 3-second pause just below knee height before standing tall and resetting for the next rep.
+    1. Start with the barbell resting on your upper traps, feet shoulder-width apart.
+    2. Engage your core and take a deep breath.
+    3. Initiate the squat by pushing your hips back and bending your knees.
+    4. Keep your chest up and back straight as you lower down until your thighs are at least parallel to the ground.
+    5. Drive through your heels to stand back up, fully extending your hips and knees at the top.
 
 - **Form Tips**:
-    - Keep the bar close to your body throughout the lift.
-    - Focus on a strong hip extension; this is where your power comes from!
-    - Maintain a neutral spine; avoid rounding your back.
+    - Keep your knees tracking over your toes; avoid letting them cave inward.
+    - Maintain a neutral spine throughout the movement.
+    - Use a spotter or squat rack if you’re lifting heavy.
 
 - **Scaling/Modifications**:
-    - If you’re new to this movement, consider using a lighter barbell or even a PVC pipe to focus on form.
-    - You can also perform the movement without the pause if you’re still mastering the clean.
+    - If you’re new to squats, start with bodyweight squats or a lighter barbell.
+    - Use a box or bench to help gauge depth if you’re unsure about your range of motion.
 
 - **Loading**:
-    - Start at 40-50% of your 1RM and gradually build up to 75-85% by the last set.
-    - **Sweat**: 40% of 1RM
-    - **Train**: 60-70% of 1RM
-    - **Compete**: 75-85% of 1RM
+    - **Sweat**: Start at 50% of your 1RM and aim for 50-60% for the working sets.
+    - **Train**: Build up to 70-75% of your 1RM.
+    - **Compete**: Aim for 75-80% of your 1RM for the final sets.
 
-## Conditioning Segment [For Time]
+## Conditioning Segment [AMRAP 16]
 
-### 6-5-4-3-2-1 Ladder
+### Buy-in: 60 Box Jumps (24"/20")
 
-**Movements**:
-1. Power Clean
-2. Lateral Barbell Burpees
-3. Toes to Bar
-
-**Overview**: This part of the workout is a descending ladder format, which means you’ll do 6 reps of each movement, then 5, and so on down to 1. This format keeps the intensity high and helps with pacing.
-
-### 1. Power Clean
+**Overview**: Box jumps are a fantastic way to build explosive power and improve your cardiovascular fitness. 
 
 - **Technique Steps**:
-    - Same as the strength segment, but focus on speed and efficiency.
-    - Aim to catch the bar in a stable position and stand up quickly.
+    1. Stand facing the box with your feet shoulder-width apart.
+    2. Bend your knees and swing your arms back to generate momentum.
+    3. Jump onto the box, landing softly with your knees slightly bent.
+    4. Stand up fully on the box before stepping or jumping back down.
 
 - **Form Tips**:
-    - Keep your elbows high and your core engaged.
-    - Use your legs to drive the bar up rather than relying solely on your arms.
+    - Focus on landing softly to absorb the impact.
+    - Use your arms to help propel you upward.
+    - Keep your core engaged to maintain balance.
 
 - **Scaling/Modifications**:
-    - Use a lighter weight if needed, or perform a hang power clean if you’re still working on the full movement.
+    - Step-ups can be a great alternative if jumping is too challenging.
+    - Use a lower box height if you’re not comfortable with the standard height.
 
-### 2. Lateral Barbell Burpees
+### AMRAP: 8 Alternating Front Rack Reverse Lunges
+
+**Overview**: This movement targets your legs and core while also challenging your balance and stability.
 
 - **Technique Steps**:
-    1. Start standing next to the barbell.
-    2. Drop into a squat and place your hands on the bar.
-    3. Jump your feet back into a plank position.
-    4. Perform a push-up (optional).
-    5. Jump your feet back to your hands, stand up, and jump laterally over the barbell.
-    
+    1. Hold a barbell or dumbbells in the front rack position (across your shoulders).
+    2. Step back with one leg into a lunge, keeping your front knee over your ankle.
+    3. Lower your back knee toward the ground without touching it.
+    4. Push through your front heel to return to standing and switch legs.
+
 - **Form Tips**:
-    - Keep your core tight to maintain stability during the plank.
-    - Land softly when jumping over the bar to avoid injury.
+    - Keep your torso upright and core engaged.
+    - Ensure your front knee doesn’t extend past your toes.
+    - Control your movement to maintain balance.
 
 - **Scaling/Modifications**:
-    - Step back instead of jumping if you need to reduce impact.
-    - You can also perform the burpees without the push-up if you’re still building strength.
+    - Use lighter weights or perform the lunges without weights to focus on form.
+    - If lunges are difficult, you can substitute with bodyweight lunges or split squats.
 
-### 3. Toes to Bar
+### 50 Double Unders
+
+**Overview**: Double unders are a high-intensity cardio movement that also improves coordination and timing.
 
 - **Technique Steps**:
-    1. Hang from the pull-up bar with an overhand grip.
-    2. Engage your core and pull your knees up towards your chest.
-    3. From there, extend your legs and bring your toes to the bar.
-    4. Lower back down with control.
+    1. Start with the jump rope behind your heels.
+    2. Jump slightly higher than a single under and swing the rope twice under your feet before landing.
+    3. Keep your elbows close to your body and use your wrists to control the rope.
 
 - **Form Tips**:
-    - Keep your shoulders engaged and avoid swinging.
-    - Use a kipping motion if you’re comfortable to generate momentum.
+    - Stay light on your feet and keep your jumps quick and controlled.
+    - Practice single unders if you’re still mastering double unders.
 
 - **Scaling/Modifications**:
-    - If toes to bar are too challenging, you can scale to knee raises or hanging knee tucks.
-    - If hanging is difficult, perform the movement on a low bar or use a box for support.
+    - If you’re not comfortable with double unders, do single unders instead.
+    - You can also reduce the number of reps to manage fatigue.
 
-### Loading Options:
+## Loading Options
 
-- **Sweat**: 50/35 lbs for Power Cleans; 15 Knee Raises instead of Toes to Bar.
-- **Train**: 70/50 lbs for Power Cleans; 10 Toes to Bar.
-- **Compete**: 90/65 lbs for Power Cleans; standard Toes to Bar.
+- **Sweat**: 
+    - Back Squats: 50% of 1RM
+    - Box Jumps: 20” for women, 24” for men
+    - Lunges: Bodyweight or light weights
+    - Double Unders: 100 Single Unders
 
-### Strategy Advice:
+- **Train**: 
+    - Back Squats: 70% of 1RM
+    - Box Jumps: 20” for women, 24” for men
+    - Lunges: Moderate weights
+    - Double Unders: 35 Double Unders
 
-- For the ladder, aim to maintain a steady pace. It’s better to break up the sets early rather than going all out and burning out quickly.
-- Focus on your breathing, especially during the burpees and toes to bar, to keep your heart rate manageable.
-- Remember to hydrate and listen to your body—if you need to scale or take a break, that’s perfectly okay!
+- **Compete**: 
+    - Back Squats: 75-80% of 1RM
+    - Box Jumps: 24” for women, 30” for men
+    - Lunges: Heavier weights
+    - Double Unders: 50 Double Unders
 
-Alright team, let’s get after it! Focus on your form, push your limits, and most importantly, have fun!
+## Strategy Advice
+
+- For the Back Squats, focus on maintaining good form and building up to your working weight gradually.
+- During the conditioning piece, pace yourself on the box jumps to avoid burning out early. Break the lunges into manageable sets if needed, and keep a steady rhythm on the double unders.
+- Remember, it’s about quality over quantity, so prioritize your form and technique throughout the workout.
+
+Let’s get after it today, everyone! Remember to hydrate, listen to your body, and most importantly, have fun! 💪
