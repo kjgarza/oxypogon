@@ -1,126 +1,126 @@
-# CrossFit MINS Workout - 2025-09-10
+# CrossFit MINS Workout - 2025-09-12
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><br><li class="ml-4">Back Squats</li><p class="mb-2">On the 2:30 x 6</p><p class="mb-2">8-8-6-6-4-4</p><p class="mb-2">*start at 50% and build to 75-80% of 1 RM</p><br><li class="ml-4">Conditioning</li><p class="mb-2">AMRAP 16</p><p class="mb-2">Buy-in: 60 Box Jumps (24"/20")</p><p class="mb-2">Directly into:</p><p class="mb-2">AMRAP:</p><p class="mb-2">8 Alt. Front Rack Reverse Lunges</p><p class="mb-2">50 Double Unders</p><br><p class="mb-2">Sweat: 30/20; 100 Single Unders</p><p class="mb-2">Train: 40/30; 35 Double Unders</p><p class="mb-2">Compete: 50/40</p>
+<p class="mb-2">WOD:</p><br><li class="ml-4">Bench Press</li><li class="ml-4">On the 2:45 x 5 Sets</li><li class="ml-4">Reps: 10-8-6-4-2</li><li class="ml-4">*Start at 40-50% and build to 85-90% of 1 RM</li><br><li class="ml-4">Conditioning</li><li class="ml-4">For Time:</li><li class="ml-4">80 Push Ups</li><li class="ml-4">400 Meter Double KB Farmers Carry</li><li class="ml-4">60 Push Press</li><li class="ml-4">400 Meter Double KB Farmers Carry</li><br><p class="mb-2">Weights:</p><li class="ml-4">Sweat: 30/20; 16/8</li><li class="ml-4">Train: 40/27.5; 20/12</li><li class="ml-4">Compete: 50/35; 24/16</li>
 
 ### Expert Explanation
-# Workout Overview
+## Workout Overview
 
-Hey everyone! Today’s WOD is a great mix of strength and conditioning that’s going to challenge your legs and cardiovascular endurance. We’ll start with a strength segment focusing on Back Squats, where we’ll progressively build our load. After that, we’ll dive into a 16-minute AMRAP (As Many Rounds As Possible) that includes box jumps, front rack reverse lunges, and double unders. This workout is designed to improve your strength, power, and stamina, so let’s break it down step by step!
+Hey team! Today’s WOD is structured into two main segments: a strength portion focusing on the Bench Press and a conditioning piece that will really get your heart pumping. The goal here is to build upper body strength and endurance while also challenging your core and grip with the Farmers Carry. Let’s break it down step by step!
+
+---
 
 ## Strength Segment
 
-### Back Squats
+### Bench Press
 
-**Overview**: The Back Squat is a foundational movement that targets your quads, hamstrings, glutes, and core. Proper form is crucial to prevent injury and maximize strength gains.
+**Overview**: The Bench Press is a fantastic compound movement that targets your chest, shoulders, and triceps. We’ll be working in a descending rep scheme, which allows you to focus on building strength while gradually increasing the load.
 
-- **Technique Steps**:
-    1. Start with the barbell resting on your upper traps, feet shoulder-width apart.
-    2. Engage your core and take a deep breath.
-    3. Initiate the squat by pushing your hips back and bending your knees.
-    4. Keep your chest up and back straight as you lower down until your thighs are at least parallel to the ground.
-    5. Drive through your heels to stand back up, fully extending your hips and knees at the top.
+#### Technique Steps:
+1. **Setup**: Lie flat on the bench with your feet firmly planted on the ground. Your eyes should be directly under the bar.
+2. **Grip**: Grab the bar with a grip slightly wider than shoulder-width. Your wrists should be straight and aligned with your elbows.
+3. **Unrack**: Take a deep breath, engage your core, and lift the bar off the rack, holding it above your chest with arms fully extended.
+4. **Lowering the Bar**: Slowly lower the bar to your chest, keeping your elbows at about a 45-degree angle from your body.
+5. **Pressing Up**: Push the bar back up explosively while maintaining control, fully extending your arms at the top.
 
-- **Form Tips**:
-    - Keep your knees tracking over your toes; avoid letting them cave inward.
-    - Maintain a neutral spine throughout the movement.
-    - Use a spotter or squat rack if you’re lifting heavy.
+#### Form Tips:
+- Keep your shoulder blades retracted and pressed into the bench.
+- Avoid lifting your feet off the ground; this helps maintain stability.
+- Focus on a smooth, controlled motion rather than rushing through the reps.
 
-- **Scaling/Modifications**:
-    - If you’re new to squats, start with bodyweight squats or a lighter barbell.
-    - Use a box or bench to help gauge depth if you’re unsure about your range of motion.
+#### Scaling/Modifications:
+- If you’re new to the Bench Press, consider using a lighter weight or performing the movement with dumbbells.
+- You can also use a spotter or the safety bars for added security.
 
-- **Loading**:
-    - **Sweat**: Start at 50% of your 1RM and aim for 50-60% for the working sets.
-    - **Train**: Build up to 70-75% of your 1RM.
-    - **Compete**: Aim for 75-80% of your 1RM for the final sets.
-
-## Conditioning Segment [AMRAP 16]
-
-### Buy-in: 60 Box Jumps (24"/20")
-
-**Overview**: Box jumps are a fantastic way to build explosive power and improve your cardiovascular fitness. 
-
-- **Technique Steps**:
-    1. Stand facing the box with your feet shoulder-width apart.
-    2. Bend your knees and swing your arms back to generate momentum.
-    3. Jump onto the box, landing softly with your knees slightly bent.
-    4. Stand up fully on the box before stepping or jumping back down.
-
-- **Form Tips**:
-    - Focus on landing softly to absorb the impact.
-    - Use your arms to help propel you upward.
-    - Keep your core engaged to maintain balance.
-
-- **Scaling/Modifications**:
-    - Step-ups can be a great alternative if jumping is too challenging.
-    - Use a lower box height if you’re not comfortable with the standard height.
-
-### AMRAP: 8 Alternating Front Rack Reverse Lunges
-
-**Overview**: This movement targets your legs and core while also challenging your balance and stability.
-
-- **Technique Steps**:
-    1. Hold a barbell or dumbbells in the front rack position (across your shoulders).
-    2. Step back with one leg into a lunge, keeping your front knee over your ankle.
-    3. Lower your back knee toward the ground without touching it.
-    4. Push through your front heel to return to standing and switch legs.
-
-- **Form Tips**:
-    - Keep your torso upright and core engaged.
-    - Ensure your front knee doesn’t extend past your toes.
-    - Control your movement to maintain balance.
-
-- **Scaling/Modifications**:
-    - Use lighter weights or perform the lunges without weights to focus on form.
-    - If lunges are difficult, you can substitute with bodyweight lunges or split squats.
-
-### 50 Double Unders
-
-**Overview**: Double unders are a high-intensity cardio movement that also improves coordination and timing.
-
-- **Technique Steps**:
-    1. Start with the jump rope behind your heels.
-    2. Jump slightly higher than a single under and swing the rope twice under your feet before landing.
-    3. Keep your elbows close to your body and use your wrists to control the rope.
-
-- **Form Tips**:
-    - Stay light on your feet and keep your jumps quick and controlled.
-    - Practice single unders if you’re still mastering double unders.
-
-- **Scaling/Modifications**:
-    - If you’re not comfortable with double unders, do single unders instead.
-    - You can also reduce the number of reps to manage fatigue.
-
-## Loading Options
-
-- **Sweat**: 
-    - Back Squats: 50% of 1RM
-    - Box Jumps: 20” for women, 24” for men
-    - Lunges: Bodyweight or light weights
-    - Double Unders: 100 Single Unders
-
-- **Train**: 
-    - Back Squats: 70% of 1RM
-    - Box Jumps: 20” for women, 24” for men
-    - Lunges: Moderate weights
-    - Double Unders: 35 Double Unders
-
-- **Compete**: 
-    - Back Squats: 75-80% of 1RM
-    - Box Jumps: 24” for women, 30” for men
-    - Lunges: Heavier weights
-    - Double Unders: 50 Double Unders
-
-## Strategy Advice
-
-- For the Back Squats, focus on maintaining good form and building up to your working weight gradually.
-- During the conditioning piece, pace yourself on the box jumps to avoid burning out early. Break the lunges into manageable sets if needed, and keep a steady rhythm on the double unders.
-- Remember, it’s about quality over quantity, so prioritize your form and technique throughout the workout.
-
-Let’s get after it today, everyone! Remember to hydrate, listen to your body, and most importantly, have fun! 💪
+#### Loading:
+- **Sweat**: Start at 40-50% of your 1RM and build to around 85-90%.
+- **Train**: Aim for a moderate weight that challenges you but allows for good form.
+- **Compete**: Push towards your max effort while maintaining technique.
 
 ---
-*Generated on 2025-09-10T06:08:17.753Z using AI assistance*
+
+## Conditioning Segment [For Time]
+
+### 80 Push-Ups
+
+**Overview**: Push-Ups are a classic bodyweight exercise that builds upper body strength and endurance. We’ll be doing a total of 80 reps, so pace yourself!
+
+#### Technique Steps:
+1. **Starting Position**: Begin in a plank position with your hands slightly wider than shoulder-width apart.
+2. **Lowering**: Lower your body until your chest nearly touches the ground, keeping your elbows at a 45-degree angle.
+3. **Pressing Up**: Push through your palms to return to the starting position, keeping your body in a straight line.
+
+#### Form Tips:
+- Keep your core tight to avoid sagging hips.
+- If you struggle with full push-ups, feel free to drop to your knees.
+
+#### Scaling/Modifications:
+- Perform push-ups on your knees or elevate your hands on a bench to make it easier.
+- Reduce the total number of reps if needed.
+
+---
+
+### 400 Meter Double KB Farmers Carry
+
+**Overview**: This movement challenges your grip strength and core stability while also providing a great cardiovascular workout.
+
+#### Technique Steps:
+1. **Setup**: Stand tall with a kettlebell in each hand, arms at your sides.
+2. **Walking**: Engage your core and walk forward, keeping your shoulders back and chest up.
+3. **Maintain Control**: Focus on keeping the kettlebells stable and your posture upright.
+
+#### Form Tips:
+- Avoid leaning forward; keep your head up and eyes looking straight ahead.
+- Take shorter, controlled steps to maintain balance.
+
+#### Scaling/Modifications:
+- Use lighter kettlebells if needed, or reduce the distance to 200 meters.
+- You can also perform a single-arm carry if you’re still building grip strength.
+
+---
+
+### 60 Push Press
+
+**Overview**: The Push Press is a dynamic movement that combines strength and power, targeting the shoulders and triceps.
+
+#### Technique Steps:
+1. **Setup**: Stand with your feet shoulder-width apart, holding a barbell or dumbbells at shoulder height.
+2. **Dip**: Bend your knees slightly and lower your body into a quarter squat.
+3. **Drive**: Explosively extend your legs and press the weight overhead, locking out your arms at the top.
+4. **Lowering**: Bring the weight back down to shoulder height in a controlled manner.
+
+#### Form Tips:
+- Keep your core engaged throughout the movement.
+- Avoid overextending your back; maintain a neutral spine.
+
+#### Scaling/Modifications:
+- Use lighter weights or perform the movement seated if you have shoulder issues.
+- You can also substitute with a strict press if you’re still mastering the dip drive.
+
+---
+
+### 400 Meter Double KB Farmers Carry (Repeat)
+
+Just like before, you’ll finish with another round of the Farmers Carry to really challenge your endurance!
+
+---
+
+## Loading Options:
+
+- **Sweat**: 30/20 kg for KBs; 16/8 kg for Push Press.
+- **Train**: 40/27.5 kg for KBs; 20/12 kg for Push Press.
+- **Compete**: 50/35 kg for KBs; 24/16 kg for Push Press.
+
+### Strategy Advice:
+- For the Push-Ups, break them into manageable sets to avoid burnout.
+- During the Farmers Carry, focus on maintaining a steady pace rather than sprinting.
+- For the Push Press, aim for consistent breathing and rhythm to keep your energy up.
+
+---
+
+Alright, team! Let’s get after it today. Remember to listen to your body, focus on your form, and most importantly, have fun! Let’s crush this WOD together! 💪
+
+---
+*Generated on 2025-09-12T06:08:10.372Z using AI assistance*
