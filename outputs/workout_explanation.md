@@ -1,126 +1,126 @@
-# CrossFit MINS Workout - 2025-09-12
+# CrossFit MINS Workout - 2025-09-14
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><br><li class="ml-4">Bench Press</li><li class="ml-4">On the 2:45 x 5 Sets</li><li class="ml-4">Reps: 10-8-6-4-2</li><li class="ml-4">*Start at 40-50% and build to 85-90% of 1 RM</li><br><li class="ml-4">Conditioning</li><li class="ml-4">For Time:</li><li class="ml-4">80 Push Ups</li><li class="ml-4">400 Meter Double KB Farmers Carry</li><li class="ml-4">60 Push Press</li><li class="ml-4">400 Meter Double KB Farmers Carry</li><br><p class="mb-2">Weights:</p><li class="ml-4">Sweat: 30/20; 16/8</li><li class="ml-4">Train: 40/27.5; 20/12</li><li class="ml-4">Compete: 50/35; 24/16</li>
+<p class="mb-2">WOD:</p><p class="mb-2">For Max Reps</p><p class="mb-2">35 x 45 Seconds On / 15 Off (7 Rounds)</p><p class="mb-2">1: Burpee to Target</p><p class="mb-2">2: Wall Balls</p><p class="mb-2">3: V-Ups</p><p class="mb-2">4: Bike</p><p class="mb-2">5: Wall Walk</p><br><p class="mb-2">Sweat: 14/8; Wall Walk AHAP; Tuck Ups</p><p class="mb-2">Train:</p><p class="mb-2">Compete: 20/14</p>
 
 ### Expert Explanation
 ## Workout Overview
 
-Hey team! Today’s WOD is structured into two main segments: a strength portion focusing on the Bench Press and a conditioning piece that will really get your heart pumping. The goal here is to build upper body strength and endurance while also challenging your core and grip with the Farmers Carry. Let’s break it down step by step!
+Hey everyone! Today’s WOD is a high-intensity interval workout designed to push your limits and build endurance across multiple movements. We’ll be working through **7 rounds** of **5 different exercises**, each for **45 seconds of work** followed by **15 seconds of rest**. The goal here is to maximize your reps while maintaining good form. This workout will challenge your cardiovascular fitness, muscular endurance, and core stability. Let’s break it down!
+
+## Workout Components
+
+### 1. Burpee to Target
+
+- **Technique Steps:**
+    1. Start standing tall with your feet shoulder-width apart.
+    2. Drop into a squat, placing your hands on the ground.
+    3. Jump your feet back into a plank position, keeping your body in a straight line.
+    4. Perform a push-up (optional, depending on your fitness level).
+    5. Jump your feet back towards your hands.
+    6. Explode up, reaching your hands to touch a target (like a wall or a bar) above your head.
+  
+- **Form Tips:**
+    - Keep your core engaged throughout to maintain a straight body line.
+    - Land softly on your feet to reduce impact on your joints.
+  
+- **Scaling/Modifications:**
+    - Step back instead of jumping if you need to reduce intensity.
+    - Remove the push-up for a simpler version, or just perform a squat thrust.
+
+### 2. Wall Balls
+
+- **Technique Steps:**
+    1. Stand with your feet shoulder-width apart, holding a medicine ball at chest level.
+    2. Squat down, keeping your chest up and weight in your heels.
+    3. As you rise from the squat, throw the ball up to a target on the wall (aim for 9-10 feet).
+    4. Catch the ball as it comes down and immediately go into the next squat.
+  
+- **Form Tips:**
+    - Use your legs to drive the ball up, not just your arms.
+    - Keep your elbows high to maintain control of the ball.
+  
+- **Scaling/Modifications:**
+    - Use a lighter medicine ball or perform air squats if you’re new to this movement.
+    - If you don’t have a wall, you can do thrusters with a dumbbell.
+
+### 3. V-Ups
+
+- **Technique Steps:**
+    1. Lie flat on your back with your arms extended overhead and legs straight.
+    2. Simultaneously lift your legs and upper body off the ground, reaching your hands towards your feet.
+    3. Lower back down with control and repeat.
+  
+- **Form Tips:**
+    - Keep your core tight to avoid straining your lower back.
+    - Aim to touch your toes at the top of the movement for maximum engagement.
+  
+- **Scaling/Modifications:**
+    - If V-Ups are too challenging, perform tuck-ups by bringing your knees to your chest instead.
+    - You can also do sit-ups as a simpler alternative.
+
+### 4. Bike
+
+- **Technique Steps:**
+    1. Adjust the bike to fit your height and ensure the seat is at hip level.
+    2. Start pedaling at a steady pace, focusing on smooth, controlled movements.
+    3. Engage your core and keep your back straight as you pedal.
+  
+- **Form Tips:**
+    - Use a full range of motion with your legs, pushing down and pulling up.
+    - Keep your hands relaxed on the handlebars.
+  
+- **Scaling/Modifications:**
+    - If you don’t have a bike, you can substitute with a jump rope or run in place.
+
+### 5. Wall Walk
+
+- **Technique Steps:**
+    1. Start in a plank position with your feet against the wall.
+    2. Walk your feet up the wall while simultaneously walking your hands closer to the wall.
+    3. Aim to get your chest as close to the wall as possible.
+    4. Reverse the movement to return to the starting position.
+  
+- **Form Tips:**
+    - Keep your core engaged to maintain stability.
+    - Move slowly and with control to avoid falling.
+  
+- **Scaling/Modifications:**
+    - If wall walks are too challenging, perform shoulder taps in a plank position instead.
+    - You can also do a downward dog hold against the wall.
+
+## Loading and Rep-Modification Options
+
+- **Sweat:** 
+    - Burpee to Target: Bodyweight
+    - Wall Balls: 14/8 lbs
+    - V-Ups: Tuck-ups
+    - Bike: Moderate pace
+    - Wall Walk: As many as possible (AHAP)
+
+- **Train:** 
+    - Burpee to Target: Bodyweight
+    - Wall Balls: 20/14 lbs
+    - V-Ups: Standard
+    - Bike: Moderate to high pace
+    - Wall Walk: Standard
+
+- **Compete:** 
+    - Burpee to Target: Bodyweight
+    - Wall Balls: 20/14 lbs
+    - V-Ups: Standard
+    - Bike: High pace
+    - Wall Walk: Standard
+
+### Strategy Advice
+
+- **Pacing:** Start strong but find a sustainable pace. Remember, you have 7 rounds, so don’t burn out in the first few.
+- **Breaks:** Use your 15 seconds of rest wisely. Catch your breath and mentally prepare for the next round.
+- **Form First:** Always prioritize form over speed. It’s better to do fewer reps correctly than to rush and risk injury.
+
+Alright team, let’s get after it! Remember to listen to your body, have fun, and push your limits. You've got this! 💪
 
 ---
-
-## Strength Segment
-
-### Bench Press
-
-**Overview**: The Bench Press is a fantastic compound movement that targets your chest, shoulders, and triceps. We’ll be working in a descending rep scheme, which allows you to focus on building strength while gradually increasing the load.
-
-#### Technique Steps:
-1. **Setup**: Lie flat on the bench with your feet firmly planted on the ground. Your eyes should be directly under the bar.
-2. **Grip**: Grab the bar with a grip slightly wider than shoulder-width. Your wrists should be straight and aligned with your elbows.
-3. **Unrack**: Take a deep breath, engage your core, and lift the bar off the rack, holding it above your chest with arms fully extended.
-4. **Lowering the Bar**: Slowly lower the bar to your chest, keeping your elbows at about a 45-degree angle from your body.
-5. **Pressing Up**: Push the bar back up explosively while maintaining control, fully extending your arms at the top.
-
-#### Form Tips:
-- Keep your shoulder blades retracted and pressed into the bench.
-- Avoid lifting your feet off the ground; this helps maintain stability.
-- Focus on a smooth, controlled motion rather than rushing through the reps.
-
-#### Scaling/Modifications:
-- If you’re new to the Bench Press, consider using a lighter weight or performing the movement with dumbbells.
-- You can also use a spotter or the safety bars for added security.
-
-#### Loading:
-- **Sweat**: Start at 40-50% of your 1RM and build to around 85-90%.
-- **Train**: Aim for a moderate weight that challenges you but allows for good form.
-- **Compete**: Push towards your max effort while maintaining technique.
-
----
-
-## Conditioning Segment [For Time]
-
-### 80 Push-Ups
-
-**Overview**: Push-Ups are a classic bodyweight exercise that builds upper body strength and endurance. We’ll be doing a total of 80 reps, so pace yourself!
-
-#### Technique Steps:
-1. **Starting Position**: Begin in a plank position with your hands slightly wider than shoulder-width apart.
-2. **Lowering**: Lower your body until your chest nearly touches the ground, keeping your elbows at a 45-degree angle.
-3. **Pressing Up**: Push through your palms to return to the starting position, keeping your body in a straight line.
-
-#### Form Tips:
-- Keep your core tight to avoid sagging hips.
-- If you struggle with full push-ups, feel free to drop to your knees.
-
-#### Scaling/Modifications:
-- Perform push-ups on your knees or elevate your hands on a bench to make it easier.
-- Reduce the total number of reps if needed.
-
----
-
-### 400 Meter Double KB Farmers Carry
-
-**Overview**: This movement challenges your grip strength and core stability while also providing a great cardiovascular workout.
-
-#### Technique Steps:
-1. **Setup**: Stand tall with a kettlebell in each hand, arms at your sides.
-2. **Walking**: Engage your core and walk forward, keeping your shoulders back and chest up.
-3. **Maintain Control**: Focus on keeping the kettlebells stable and your posture upright.
-
-#### Form Tips:
-- Avoid leaning forward; keep your head up and eyes looking straight ahead.
-- Take shorter, controlled steps to maintain balance.
-
-#### Scaling/Modifications:
-- Use lighter kettlebells if needed, or reduce the distance to 200 meters.
-- You can also perform a single-arm carry if you’re still building grip strength.
-
----
-
-### 60 Push Press
-
-**Overview**: The Push Press is a dynamic movement that combines strength and power, targeting the shoulders and triceps.
-
-#### Technique Steps:
-1. **Setup**: Stand with your feet shoulder-width apart, holding a barbell or dumbbells at shoulder height.
-2. **Dip**: Bend your knees slightly and lower your body into a quarter squat.
-3. **Drive**: Explosively extend your legs and press the weight overhead, locking out your arms at the top.
-4. **Lowering**: Bring the weight back down to shoulder height in a controlled manner.
-
-#### Form Tips:
-- Keep your core engaged throughout the movement.
-- Avoid overextending your back; maintain a neutral spine.
-
-#### Scaling/Modifications:
-- Use lighter weights or perform the movement seated if you have shoulder issues.
-- You can also substitute with a strict press if you’re still mastering the dip drive.
-
----
-
-### 400 Meter Double KB Farmers Carry (Repeat)
-
-Just like before, you’ll finish with another round of the Farmers Carry to really challenge your endurance!
-
----
-
-## Loading Options:
-
-- **Sweat**: 30/20 kg for KBs; 16/8 kg for Push Press.
-- **Train**: 40/27.5 kg for KBs; 20/12 kg for Push Press.
-- **Compete**: 50/35 kg for KBs; 24/16 kg for Push Press.
-
-### Strategy Advice:
-- For the Push-Ups, break them into manageable sets to avoid burnout.
-- During the Farmers Carry, focus on maintaining a steady pace rather than sprinting.
-- For the Push Press, aim for consistent breathing and rhythm to keep your energy up.
-
----
-
-Alright, team! Let’s get after it today. Remember to listen to your body, focus on your form, and most importantly, have fun! Let’s crush this WOD together! 💪
-
----
-*Generated on 2025-09-12T06:08:10.372Z using AI assistance*
+*Generated on 2025-09-14T06:07:36.410Z using AI assistance*
