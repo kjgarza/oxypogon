@@ -1,98 +1,152 @@
-# CrossFit MINS Workout - 2025-09-15
+# CrossFit MINS Workout - 2025-09-17
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><br><li class="ml-4">Strict Press</li><p class="mb-2">On the 2:00 x 6</p><p class="mb-2">10-8-6-4-2-1</p><p class="mb-2">*start at 50% and build to 85-90% of 1 RM</p><br><li class="ml-4">Conditioning</li><p class="mb-2">2:00 Minutes On / 2:00 Off x 4</p><li class="ml-4">X Ring Dips</li><li class="ml-4">Max Calories Row</li><br><p class="mb-2">Sweat: 12 Banded or Box Dips</p><p class="mb-2">Train: 9 Ring Dips</p><p class="mb-2">Compete: 12 Ring Dips</p>
+<p class="mb-2">WOD:</p><br><p class="mb-2">"ADDERALL"</p><br><p class="mb-2">AMRAP 10:</p><li class="ml-4">1600 Meter Run</li><li class="ml-4">Max Clean and Jerks (W1)</li><br><li class="ml-4">Rest 3 Minutes -</li><br><p class="mb-2">AMRAP 7:</p><li class="ml-4">800 Meter Run</li><li class="ml-4">Max Power Snatches (W2)</li><br><li class="ml-4">Rest 3 Minutes -</li><br><p class="mb-2">AMRAP 4:</p><li class="ml-4">400 Meter Run</li><li class="ml-4">Max Thrusters (W3)</li><br><p class="mb-2">Weights:</p><li class="ml-4">Sweat: 40/30; 35/25; 30/20</li><li class="ml-4">Train: 50/35; 40/30; 30/25</li><li class="ml-4">Compete: 60/40; 50/35; 40/30</li>
 
 ### Expert Explanation
 ## Workout Overview
 
-Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your upper body strength and endurance. We’ll kick things off with a strict press segment, where we’ll focus on building strength through controlled movements. Then, we’ll dive into a conditioning piece that combines ring dips and rowing for calories, which will test your muscular endurance and cardiovascular fitness. Let’s break it down step by step!
+Hey everyone! Today’s WOD is called "ADDERALL," and it’s designed to test your cardiovascular endurance and strength under fatigue. We’ll be doing three AMRAP (As Many Rounds As Possible) segments, each with a running component followed by a strength movement. The goal here is to push your limits while maintaining good form, so let’s break it down step by step!
 
 ---
 
-## Strength Segment
+## AMRAP 10: 1600 Meter Run + Max Clean and Jerks (W1)
 
-### Strict Press
+### 1. 1600 Meter Run
 
-**Overview**: The strict press is a fundamental movement that helps develop shoulder strength and stability. It’s crucial to maintain proper form to avoid injury and maximize efficiency.
+- **Technique Steps:**
+  - Start with a steady pace; find a rhythm that you can maintain for the full distance.
+  - Focus on your breathing; inhale through your nose and exhale through your mouth.
+  - Keep your shoulders relaxed and arms at a 90-degree angle, swinging them naturally as you run.
 
-- **Technique Steps**:
-    1. Start with your feet shoulder-width apart and the barbell resting on your shoulders, just above your collarbone.
-    2. Grip the bar with your hands slightly wider than shoulder-width, ensuring your elbows are slightly in front of the bar.
-    3. Engage your core and glutes to create a stable base.
-    4. Press the bar straight up overhead, keeping it close to your face and moving in a straight line.
-    5. Lock out your elbows at the top, then lower the bar back to your shoulders in a controlled manner.
+- **Form Tips:**
+  - Land softly on your feet to reduce impact.
+  - Keep your head up and look ahead, not down at your feet.
 
-- **Form Tips**:
-    - Keep your ribcage down and avoid arching your back.
-    - Your head should move slightly back as the bar passes your face, then return to neutral as you lock out overhead.
-    - Focus on a strong, stable base; your feet should remain planted throughout the movement.
+- **Scaling/Modifications:**
+  - If you're new to running or have any injuries, consider scaling to a 1200-meter run or a brisk walk.
+  - You can also substitute with a row or bike for a similar cardio effect.
 
-- **Scaling/Modifications**:
-    - If you’re new to the strict press, start with a lighter barbell or even a PVC pipe to master the movement.
-    - You can also perform seated strict presses to reduce the demand on your core stability.
+### 2. Max Clean and Jerks
 
-- **Loading**:
-    - Start at 50% of your 1RM for the first set and aim to build up to 85-90% by the final set.
-    - **Sweat**: Use a lighter barbell or PVC pipe.
-    - **Train**: Use 60-75% of your 1RM.
-    - **Compete**: Aim for 80-90% of your 1RM.
+- **Technique Steps:**
+  - Start with the barbell on the ground; set your feet hip-width apart.
+  - Grip the bar just outside your knees, keeping your back flat and chest up.
+  - Initiate the lift by driving through your heels, extending your hips and knees simultaneously.
+  - Pull the bar up to your shoulders (the clean), then dip slightly and drive the bar overhead (the jerk).
+  - Catch the bar in a partial squat, then stand tall to finish.
+
+- **Form Tips:**
+  - Keep the bar close to your body throughout the lift.
+  - Ensure your elbows are high during the clean to create a strong shelf for the bar.
+
+- **Scaling/Modifications:**
+  - Use a lighter barbell or a pair of dumbbells if you're still mastering the technique.
+  - If you’re not comfortable with the full clean and jerk, you can do a power clean followed by a push press.
+
+### Loading Options:
+- **Sweat:** 40/30 kg
+- **Train:** 50/35 kg
+- **Compete:** 60/40 kg
 
 ---
 
-## Conditioning Segment [2:00 Minutes On / 2:00 Off x 4]
+## Rest 3 Minutes
 
-### X Ring Dips
+Take this time to hydrate and mentally prepare for the next segment. Focus on your breathing and shake out any tension in your muscles.
 
-**Overview**: Ring dips are a challenging upper body movement that targets the chest, shoulders, and triceps. They require stability and strength, so focus on form to get the most out of each rep.
+---
 
-- **Technique Steps**:
-    1. Start by gripping the rings with your palms facing inward and your arms fully extended.
-    2. Engage your core and lean slightly forward as you lower your body by bending your elbows.
-    3. Keep your elbows close to your body and lower until your shoulders are below your elbows.
-    4. Press back up to the starting position, fully extending your arms.
+## AMRAP 7: 800 Meter Run + Max Power Snatches (W2)
 
-- **Form Tips**:
-    - Maintain a straight line from your head to your heels; avoid sagging your hips.
-    - Keep your shoulders down and away from your ears throughout the movement.
-    - Control your descent to avoid swinging or losing stability.
+### 1. 800 Meter Run
 
-- **Scaling/Modifications**:
-    - If you’re not yet comfortable with ring dips, use bands for assistance or perform box dips as an alternative.
-    - **Sweat**: 12 Banded or Box Dips.
-    - **Train**: 9 Ring Dips.
-    - **Compete**: 12 Ring Dips.
+- **Technique Steps:**
+  - Similar to the 1600m run, but you can push a bit harder since it’s a shorter distance.
+  - Maintain a steady pace but feel free to pick it up towards the end if you have energy left.
 
-### Max Calories Row
+- **Form Tips:**
+  - Keep your arms relaxed and your stride efficient.
+  - Focus on your foot placement; aim for a mid-foot strike.
 
-**Overview**: The rowing machine is a fantastic way to build cardiovascular endurance while also engaging your upper body. The goal here is to maximize your calorie output in the allotted time.
+- **Scaling/Modifications:**
+  - Scale to a 600-meter run or substitute with a row or bike if needed.
 
-- **Technique Steps**:
-    1. Sit on the rower with your feet secured in the foot straps and your knees bent.
-    2. Grab the handle with both hands, keeping your arms straight and your back tall.
-    3. Initiate the row by pushing through your legs, then lean back slightly while pulling the handle towards your chest.
-    4. Reverse the motion by extending your arms, leaning forward, and bending your knees to return to the starting position.
+### 2. Max Power Snatches
 
-- **Form Tips**:
-    - Keep your back straight and avoid rounding your shoulders.
-    - Focus on a strong leg drive; your arms should only engage after your legs have pushed off.
-    - Maintain a consistent rhythm to maximize your calorie output.
+- **Technique Steps:**
+  - Start with the barbell on the ground, feet hip-width apart.
+  - Grip the bar just outside your knees, keeping your back flat.
+  - Explosively extend your hips and pull the bar overhead in one fluid motion.
+  - Catch the bar in a quarter squat, then stand tall.
 
-- **Scaling/Modifications**:
-    - If you’re new to rowing, focus on shorter intervals or lower intensity to build your confidence.
-    - Adjust the damper setting on the rower to find a resistance level that feels comfortable yet challenging.
+- **Form Tips:**
+  - Keep the bar close to your body and use your legs to drive the weight up.
+  - Focus on a strong catch position to stabilize the bar overhead.
+
+- **Scaling/Modifications:**
+  - Use lighter weights or a dumbbell for single-arm snatches if needed.
+  - If you’re not comfortable with the full snatch, consider doing a hang power snatch.
+
+### Loading Options:
+- **Sweat:** 35/25 kg
+- **Train:** 40/30 kg
+- **Compete:** 50/35 kg
+
+---
+
+## Rest 3 Minutes
+
+Use this time to recover, hydrate, and mentally prepare for the final segment. Focus on your breathing and visualize your success.
+
+---
+
+## AMRAP 4: 400 Meter Run + Max Thrusters (W3)
+
+### 1. 400 Meter Run
+
+- **Technique Steps:**
+  - This is a sprint! Push yourself but maintain good form.
+  - Keep your pace strong and focus on your breathing.
+
+- **Form Tips:**
+  - Maintain a forward lean and drive your knees up.
+  - Use your arms to help propel you forward.
+
+- **Scaling/Modifications:**
+  - Scale to a 300-meter run or substitute with a row or bike.
+
+### 2. Max Thrusters
+
+- **Technique Steps:**
+  - Start with the barbell at your shoulders, feet shoulder-width apart.
+  - Squat down, keeping your chest up and weight in your heels.
+  - As you stand up, drive the bar overhead in one fluid motion.
+
+- **Form Tips:**
+  - Keep your core tight throughout the movement.
+  - Ensure your elbows are forward and your wrists are straight.
+
+- **Scaling/Modifications:**
+  - Use a lighter barbell or dumbbells if needed.
+  - If you’re not comfortable with the full thruster, consider doing front squats or push presses.
+
+### Loading Options:
+- **Sweat:** 30/20 kg
+- **Train:** 30/25 kg
+- **Compete:** 40/30 kg
 
 ---
 
 ## Strategy Advice
 
-- **Sweat**: Focus on maintaining a steady pace during the ring dips and rowing. Use the band or box dips to ensure you can keep moving without burning out.
-- **Train**: Aim for consistent effort in both movements. Break up the ring dips into manageable sets if needed.
-- **Compete**: Push for max effort on the ring dips and row hard during the calorie row. Keep track of your calories and aim to improve each round.
+- **Pacing:** Start each run at a manageable pace, and save some energy for the strength movements. 
+- **Breaks:** For the strength components, break your sets into manageable chunks to avoid burnout.
+- **Focus on Form:** As you get tired, it’s easy to let form slip. Remember, quality over quantity!
 
-Remember, the key to today’s workout is to focus on form and control, especially during the strict press and ring dips. Let’s have a great session, and don’t hesitate to ask questions if you need help with any of the movements!
+Alright, team! Let’s get after it and have some fun with this workout. Remember to listen to your body, and let’s crush "
 
 ---
-*Generated on 2025-09-15T06:08:52.948Z using AI assistance*
+*Generated on 2025-09-17T06:08:29.146Z using AI assistance*
