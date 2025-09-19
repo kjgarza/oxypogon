@@ -1,141 +1,104 @@
-## Workout Overview
+# Workout Overview
 
-Hey everyone! Today’s WOD is called "ADDERALL," and it’s designed to test your cardiovascular endurance and strength under fatigue. We’ll be doing three AMRAP (As Many Rounds As Possible) segments, each with a running component followed by a strength movement. The goal here is to push your limits while maintaining good form, so let’s break it down step by step!
+Hey team! Today’s WOD is structured to build strength and endurance while also incorporating some cardio. We’ll kick things off with a strength segment focusing on Back Rack Lunges, where you’ll have the opportunity to build in weight. Then, we’ll dive into a conditioning piece that combines running with double dumbbell lunges, followed by a finisher to really burn out those muscles. Let’s break it down step by step!
 
----
+## Strength Segment
 
-## AMRAP 10: 1600 Meter Run + Max Clean and Jerks (W1)
-
-### 1. 1600 Meter Run
+### Back Rack Lunges
 
 - **Technique Steps:**
-  - Start with a steady pace; find a rhythm that you can maintain for the full distance.
-  - Focus on your breathing; inhale through your nose and exhale through your mouth.
-  - Keep your shoulders relaxed and arms at a 90-degree angle, swinging them naturally as you run.
-
+    1. Start by setting the barbell on your upper back, ensuring it’s resting comfortably on your traps.
+    2. Stand tall with your feet shoulder-width apart and engage your core.
+    3. Step back with one leg, lowering your back knee towards the ground while keeping your front knee over your ankle.
+    4. Push through your front heel to return to the starting position.
+    5. Alternate legs for a total of 10 lunges (5 per leg).
+  
 - **Form Tips:**
-  - Land softly on your feet to reduce impact.
-  - Keep your head up and look ahead, not down at your feet.
+    - Keep your chest up and your core tight throughout the movement.
+    - Ensure your front knee doesn’t extend past your toes to protect your joints.
+    - Maintain a stable stance; your back knee should aim to touch the ground lightly.
 
 - **Scaling/Modifications:**
-  - If you're new to running or have any injuries, consider scaling to a 1200-meter run or a brisk walk.
-  - You can also substitute with a row or bike for a similar cardio effect.
+    - If you’re new to this movement, you can perform the lunges without weight or use a lighter barbell.
+    - Alternatively, you can do forward lunges or bodyweight lunges to focus on form.
 
-### 2. Max Clean and Jerks
+- **Loading:**
+    - **Sweat:** Start with just the barbell (20kg/15kg).
+    - **Train:** Gradually build up to 50-60% of your 1RM.
+    - **Compete:** Aim for 70-80% of your 1RM, focusing on maintaining form as you increase weight.
+
+## Conditioning Segment [On the 2:00 x 7 Rounds]
+
+### 200 Meter Run
 
 - **Technique Steps:**
-  - Start with the barbell on the ground; set your feet hip-width apart.
-  - Grip the bar just outside your knees, keeping your back flat and chest up.
-  - Initiate the lift by driving through your heels, extending your hips and knees simultaneously.
-  - Pull the bar up to your shoulders (the clean), then dip slightly and drive the bar overhead (the jerk).
-  - Catch the bar in a partial squat, then stand tall to finish.
+    1. Start with a light jog to warm up your muscles.
+    2. As you begin your run, focus on maintaining a steady pace.
+    3. Keep your arms bent at 90 degrees and drive them back and forth to help propel your body forward.
+    4. Maintain a relaxed posture, with your head up and eyes forward.
 
 - **Form Tips:**
-  - Keep the bar close to your body throughout the lift.
-  - Ensure your elbows are high during the clean to create a strong shelf for the bar.
+    - Land softly on your feet to reduce impact on your joints.
+    - Keep your breathing steady and rhythmic throughout the run.
 
 - **Scaling/Modifications:**
-  - Use a lighter barbell or a pair of dumbbells if you're still mastering the technique.
-  - If you’re not comfortable with the full clean and jerk, you can do a power clean followed by a push press.
+    - If running isn’t an option, you can substitute with a 250-meter row or a 1-minute bike.
+
+### 16 Alternating Double Dumbbell Lunges
+
+- **Technique Steps:**
+    1. Hold a dumbbell in each hand at your sides.
+    2. Step back into a lunge with one leg, lowering your back knee toward the ground.
+    3. Push through your front heel to return to standing, then switch legs.
+    4. Alternate legs for a total of 16 lunges.
+
+- **Form Tips:**
+    - Keep your torso upright and your core engaged.
+    - Ensure your front knee stays aligned over your ankle.
+
+- **Scaling/Modifications:**
+    - Use lighter dumbbells or perform bodyweight lunges if needed.
+    - If you find the alternating too challenging, you can do all lunges on one leg before switching.
 
 ### Loading Options:
-- **Sweat:** 40/30 kg
-- **Train:** 50/35 kg
-- **Compete:** 60/40 kg
+- **Sweat:** 15/10 kg dumbbells; consider a hill run for added challenge.
+- **Train:** 17.5/12.5 kg dumbbells.
+- **Compete:** 22.5/15 kg dumbbells.
 
----
+### Strategy Advice:
+- Focus on maintaining a steady pace throughout the run and lunges. It’s better to break up the lunges into smaller sets if you start to feel fatigued, especially since you have 7 rounds to complete!
 
-## Rest 3 Minutes
+## Finisher
 
-Take this time to hydrate and mentally prepare for the next segment. Focus on your breathing and shake out any tension in your muscles.
+### 3 Sets of:
 
----
-
-## AMRAP 7: 800 Meter Run + Max Power Snatches (W2)
-
-### 1. 800 Meter Run
+#### 15 Banded Pull Aparts
 
 - **Technique Steps:**
-  - Similar to the 1600m run, but you can push a bit harder since it’s a shorter distance.
-  - Maintain a steady pace but feel free to pick it up towards the end if you have energy left.
+    1. Stand tall with your feet shoulder-width apart and hold a resistance band with both hands in front of you at shoulder height.
+    2. Keeping your arms straight, pull the band apart by moving your hands out to the sides.
+    3. Squeeze your shoulder blades together at the end of the movement before returning to the starting position.
 
 - **Form Tips:**
-  - Keep your arms relaxed and your stride efficient.
-  - Focus on your foot placement; aim for a mid-foot strike.
+    - Keep your core engaged and avoid arching your back.
+    - Focus on using your upper back muscles to pull the band apart.
 
 - **Scaling/Modifications:**
-  - Scale to a 600-meter run or substitute with a row or bike if needed.
+    - Use a lighter resistance band or perform the movement without a band if necessary.
 
-### 2. Max Power Snatches
+#### 45 Seconds Wall Sit (weighted if possible)
 
 - **Technique Steps:**
-  - Start with the barbell on the ground, feet hip-width apart.
-  - Grip the bar just outside your knees, keeping your back flat.
-  - Explosively extend your hips and pull the bar overhead in one fluid motion.
-  - Catch the bar in a quarter squat, then stand tall.
+    1. Find a wall and lean against it with your back.
+    2. Slide down until your thighs are parallel to the ground, as if sitting in an invisible chair.
+    3. Keep your feet flat on the ground and your knees directly above your ankles.
 
 - **Form Tips:**
-  - Keep the bar close to your body and use your legs to drive the weight up.
-  - Focus on a strong catch position to stabilize the bar overhead.
+    - Maintain a straight back against the wall and keep your core tight.
+    - If using weight, hold it close to your chest or rest it on your thighs.
 
 - **Scaling/Modifications:**
-  - Use lighter weights or a dumbbell for single-arm snatches if needed.
-  - If you’re not comfortable with the full snatch, consider doing a hang power snatch.
+    - If you’re unable to hold a wall sit, you can perform a seated hold on the ground or reduce the time to 30 seconds.
 
-### Loading Options:
-- **Sweat:** 35/25 kg
-- **Train:** 40/30 kg
-- **Compete:** 50/35 kg
-
----
-
-## Rest 3 Minutes
-
-Use this time to recover, hydrate, and mentally prepare for the final segment. Focus on your breathing and visualize your success.
-
----
-
-## AMRAP 4: 400 Meter Run + Max Thrusters (W3)
-
-### 1. 400 Meter Run
-
-- **Technique Steps:**
-  - This is a sprint! Push yourself but maintain good form.
-  - Keep your pace strong and focus on your breathing.
-
-- **Form Tips:**
-  - Maintain a forward lean and drive your knees up.
-  - Use your arms to help propel you forward.
-
-- **Scaling/Modifications:**
-  - Scale to a 300-meter run or substitute with a row or bike.
-
-### 2. Max Thrusters
-
-- **Technique Steps:**
-  - Start with the barbell at your shoulders, feet shoulder-width apart.
-  - Squat down, keeping your chest up and weight in your heels.
-  - As you stand up, drive the bar overhead in one fluid motion.
-
-- **Form Tips:**
-  - Keep your core tight throughout the movement.
-  - Ensure your elbows are forward and your wrists are straight.
-
-- **Scaling/Modifications:**
-  - Use a lighter barbell or dumbbells if needed.
-  - If you’re not comfortable with the full thruster, consider doing front squats or push presses.
-
-### Loading Options:
-- **Sweat:** 30/20 kg
-- **Train:** 30/25 kg
-- **Compete:** 40/30 kg
-
----
-
-## Strategy Advice
-
-- **Pacing:** Start each run at a manageable pace, and save some energy for the strength movements. 
-- **Breaks:** For the strength components, break your sets into manageable chunks to avoid burnout.
-- **Focus on Form:** As you get tired, it’s easy to let form slip. Remember, quality over quantity!
-
-Alright, team! Let’s get after it and have some fun with this workout. Remember to listen to your body, and let’s crush "
+### Summary
+Today’s WOD is designed to challenge your strength and endurance while keeping things fun! Remember to focus on your form throughout each movement, scale as needed, and listen to your body. Let’s crush this workout together!
