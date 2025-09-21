@@ -1,115 +1,98 @@
-# CrossFit MINS Workout - 2025-09-19
+# CrossFit MINS Workout - 2025-09-21
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><br><li class="ml-4">Back Rack Lunges</li><li class="ml-4">On the 2:30 x 5</li><li class="ml-4">10 Alt. Back Rack Lunges</li><li class="ml-4">*build in weight</li><br><li class="ml-4">Conditioning</li><li class="ml-4">On the 2:00 x 7 Rounds</li><li class="ml-4">200 Meter Run</li><li class="ml-4">16 Alt. Double Dumbbell Lunges</li><li class="ml-4">Sweat: 15/10; Hill Run</li><li class="ml-4">Train: 17.5/12.5</li><li class="ml-4">Compete: 22.5/15</li><br><li class="ml-4">Finisher</li><li class="ml-4">3 Sets of</li><li class="ml-4">15 Banded Pull Aparts</li><li class="ml-4">45 Seconds Wall Sit (weighted if possible)</li>
+<p class="mb-2">WOD:</p><br><p class="mb-2">Every 5:00 x 6 Rounds:</p><li class="ml-4">1 Hill Double Kettlebell Farmers Carry</li><li class="ml-4">15 Tuck Ups</li><li class="ml-4">10 Burpees</li><li class="ml-4">10 Renegade Rows</li><br><p class="mb-2">Weights:</p><li class="ml-4">Sweat: 16/12 kg; 15/10 kg</li><li class="ml-4">Train: 24/16 kg; 17.5/12.5 kg</li><li class="ml-4">Compete: 32/24 kg; 22.5/15 kg</li>
 
 ### Expert Explanation
-# Workout Overview
+## Workout Overview
 
-Hey team! Today’s WOD is structured to build strength and endurance while also incorporating some cardio. We’ll kick things off with a strength segment focusing on Back Rack Lunges, where you’ll have the opportunity to build in weight. Then, we’ll dive into a conditioning piece that combines running with double dumbbell lunges, followed by a finisher to really burn out those muscles. Let’s break it down step by step!
+Hey everyone! Today’s WOD is structured as a 6-round workout where you’ll be working every 5 minutes. This format is great for building strength and endurance while also keeping your heart rate up. The goal here is to challenge your grip strength, core stability, and overall conditioning. We’ll be tackling a mix of carries, core work, and bodyweight movements that will push you to your limits. Let’s break it down!
 
-## Strength Segment
+## Workout Components
 
-### Back Rack Lunges
-
-- **Technique Steps:**
-    1. Start by setting the barbell on your upper back, ensuring it’s resting comfortably on your traps.
-    2. Stand tall with your feet shoulder-width apart and engage your core.
-    3. Step back with one leg, lowering your back knee towards the ground while keeping your front knee over your ankle.
-    4. Push through your front heel to return to the starting position.
-    5. Alternate legs for a total of 10 lunges (5 per leg).
-  
-- **Form Tips:**
-    - Keep your chest up and your core tight throughout the movement.
-    - Ensure your front knee doesn’t extend past your toes to protect your joints.
-    - Maintain a stable stance; your back knee should aim to touch the ground lightly.
-
-- **Scaling/Modifications:**
-    - If you’re new to this movement, you can perform the lunges without weight or use a lighter barbell.
-    - Alternatively, you can do forward lunges or bodyweight lunges to focus on form.
-
-- **Loading:**
-    - **Sweat:** Start with just the barbell (20kg/15kg).
-    - **Train:** Gradually build up to 50-60% of your 1RM.
-    - **Compete:** Aim for 70-80% of your 1RM, focusing on maintaining form as you increase weight.
-
-## Conditioning Segment [On the 2:00 x 7 Rounds]
-
-### 200 Meter Run
+### 1. Hill Double Kettlebell Farmers Carry
 
 - **Technique Steps:**
-    1. Start with a light jog to warm up your muscles.
-    2. As you begin your run, focus on maintaining a steady pace.
-    3. Keep your arms bent at 90 degrees and drive them back and forth to help propel your body forward.
-    4. Maintain a relaxed posture, with your head up and eyes forward.
+    - Start by picking up two kettlebells, one in each hand, with a neutral grip (palms facing your body).
+    - Stand tall with your shoulders back and core engaged.
+    - Begin walking forward, keeping the kettlebells at your sides, and focus on maintaining a strong posture.
+    - As you walk, keep your head up and eyes forward, and avoid leaning too far forward or backward.
 
 - **Form Tips:**
-    - Land softly on your feet to reduce impact on your joints.
-    - Keep your breathing steady and rhythmic throughout the run.
+    - Keep your elbows locked and avoid letting the kettlebells swing away from your body.
+    - Engage your lats to stabilize your shoulders.
+    - Maintain a steady pace; don’t rush, as this can lead to poor form.
 
 - **Scaling/Modifications:**
-    - If running isn’t an option, you can substitute with a 250-meter row or a 1-minute bike.
+    - If you’re new to this movement, consider using lighter kettlebells or even just one kettlebell to start.
+    - Alternatively, you can perform a single-arm carry, switching arms halfway through.
 
-### 16 Alternating Double Dumbbell Lunges
+### 2. Tuck Ups
 
 - **Technique Steps:**
-    1. Hold a dumbbell in each hand at your sides.
-    2. Step back into a lunge with one leg, lowering your back knee toward the ground.
-    3. Push through your front heel to return to standing, then switch legs.
-    4. Alternate legs for a total of 16 lunges.
+    - Start by lying flat on your back with your arms extended overhead and legs straight.
+    - Engage your core and simultaneously lift your legs and arms, bringing them together in a “tuck” position.
+    - Aim to touch your knees with your hands at the top of the movement.
+    - Lower back down to the starting position with control.
 
 - **Form Tips:**
-    - Keep your torso upright and your core engaged.
-    - Ensure your front knee stays aligned over your ankle.
+    - Keep your lower back pressed into the ground to avoid straining your back.
+    - Move in a controlled manner; avoid using momentum to swing up.
 
 - **Scaling/Modifications:**
-    - Use lighter dumbbells or perform bodyweight lunges if needed.
-    - If you find the alternating too challenging, you can do all lunges on one leg before switching.
+    - If tuck-ups are too challenging, try bent-knee tuck-ups or simply perform sit-ups instead.
 
-### Loading Options:
-- **Sweat:** 15/10 kg dumbbells; consider a hill run for added challenge.
-- **Train:** 17.5/12.5 kg dumbbells.
-- **Compete:** 22.5/15 kg dumbbells.
-
-### Strategy Advice:
-- Focus on maintaining a steady pace throughout the run and lunges. It’s better to break up the lunges into smaller sets if you start to feel fatigued, especially since you have 7 rounds to complete!
-
-## Finisher
-
-### 3 Sets of:
-
-#### 15 Banded Pull Aparts
+### 3. Burpees
 
 - **Technique Steps:**
-    1. Stand tall with your feet shoulder-width apart and hold a resistance band with both hands in front of you at shoulder height.
-    2. Keeping your arms straight, pull the band apart by moving your hands out to the sides.
-    3. Squeeze your shoulder blades together at the end of the movement before returning to the starting position.
+    - Start standing tall, then drop into a squat position with your hands on the floor.
+    - Kick your feet back into a plank position, ensuring your body is in a straight line.
+    - Perform a push-up (optional, depending on your fitness level).
+    - Jump your feet back to your hands and explosively jump up, reaching your arms overhead.
 
 - **Form Tips:**
-    - Keep your core engaged and avoid arching your back.
-    - Focus on using your upper back muscles to pull the band apart.
+    - Keep your core tight during the plank to avoid sagging hips.
+    - Land softly on your feet when jumping up to minimize impact.
 
 - **Scaling/Modifications:**
-    - Use a lighter resistance band or perform the movement without a band if necessary.
+    - Step back instead of jumping if you need to reduce intensity.
+    - You can also perform a burpee without the push-up for a modified version.
 
-#### 45 Seconds Wall Sit (weighted if possible)
+### 4. Renegade Rows
 
 - **Technique Steps:**
-    1. Find a wall and lean against it with your back.
-    2. Slide down until your thighs are parallel to the ground, as if sitting in an invisible chair.
-    3. Keep your feet flat on the ground and your knees directly above your ankles.
+    - Start in a high plank position with a dumbbell in each hand.
+    - Keep your feet shoulder-width apart for stability.
+    - Row one dumbbell towards your hip while stabilizing your body with the other arm.
+    - Alternate sides, ensuring your hips stay level throughout the movement.
 
 - **Form Tips:**
-    - Maintain a straight back against the wall and keep your core tight.
-    - If using weight, hold it close to your chest or rest it on your thighs.
+    - Avoid rotating your hips; keep your core engaged to maintain stability.
+    - Focus on a controlled movement rather than rushing through the rows.
 
 - **Scaling/Modifications:**
-    - If you’re unable to hold a wall sit, you can perform a seated hold on the ground or reduce the time to 30 seconds.
+    - If you’re new to this, you can perform the rows from your knees.
+    - Alternatively, use lighter weights or perform the movement without weights to focus on form.
 
-### Summary
-Today’s WOD is designed to challenge your strength and endurance while keeping things fun! Remember to focus on your form throughout each movement, scale as needed, and listen to your body. Let’s crush this workout together!
+## Loading and Rep-Modification Options
+
+- **Sweat:** 
+    - Kettlebell weights: 16/12 kg; 15/10 kg
+    - Focus on form and technique, using tuck-ups and stepping back for burpees if needed.
+
+- **Train:** 
+    - Kettlebell weights: 24/16 kg; 17.5/12.5 kg
+    - Aim for a steady pace, breaking up the tuck-ups and burpees if needed to maintain form.
+
+- **Compete:** 
+    - Kettlebell weights: 32/24 kg; 22.5/15 kg
+    - Push yourself, but listen to your body. It’s okay to take short breaks if you need to maintain intensity.
+
+### Strategy Advice
+
+As you tackle this WOD, remember to pace yourself. The 5-minute intervals give you a chance to recover slightly between rounds, but don’t waste too much time! Break up the tuck-ups and burpees into manageable sets if you start to feel fatigued. Keep your core engaged during the carries and rows to maintain stability and form. Most importantly, have fun and challenge yourself! Let’s crush this workout together! 💪
 
 ---
-*Generated on 2025-09-19T06:08:25.390Z using AI assistance*
+*Generated on 2025-09-21T06:07:48.028Z using AI assistance*
