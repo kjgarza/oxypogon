@@ -1,98 +1,102 @@
-# CrossFit MINS Workout - 2025-09-21
+# CrossFit MINS Workout - 2025-09-22
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><br><p class="mb-2">Every 5:00 x 6 Rounds:</p><li class="ml-4">1 Hill Double Kettlebell Farmers Carry</li><li class="ml-4">15 Tuck Ups</li><li class="ml-4">10 Burpees</li><li class="ml-4">10 Renegade Rows</li><br><p class="mb-2">Weights:</p><li class="ml-4">Sweat: 16/12 kg; 15/10 kg</li><li class="ml-4">Train: 24/16 kg; 17.5/12.5 kg</li><li class="ml-4">Compete: 32/24 kg; 22.5/15 kg</li>
+<p class="mb-2">WOD:</p><br><li class="ml-4">Barbell Floor Press</li><li class="ml-4">On the 2:00 x 6</li><li class="ml-4">10-10-8-8-6-6</li><li class="ml-4">*Build in Weight</li><br><li class="ml-4">Conditioning</li><li class="ml-4">18 x 45 Seconds On / 15 Seconds Off</li><li class="ml-4">Interval 1: Max Wall Walks</li><li class="ml-4">Interval 2: Max Calories Ski Erg</li><br><p class="mb-2">Sweat: Wall Walk AHAP</p><p class="mb-2">Train:</p><p class="mb-2">Compete:</p>
 
 ### Expert Explanation
 ## Workout Overview
 
-Hey everyone! Today’s WOD is structured as a 6-round workout where you’ll be working every 5 minutes. This format is great for building strength and endurance while also keeping your heart rate up. The goal here is to challenge your grip strength, core stability, and overall conditioning. We’ll be tackling a mix of carries, core work, and bodyweight movements that will push you to your limits. Let’s break it down!
-
-## Workout Components
-
-### 1. Hill Double Kettlebell Farmers Carry
-
-- **Technique Steps:**
-    - Start by picking up two kettlebells, one in each hand, with a neutral grip (palms facing your body).
-    - Stand tall with your shoulders back and core engaged.
-    - Begin walking forward, keeping the kettlebells at your sides, and focus on maintaining a strong posture.
-    - As you walk, keep your head up and eyes forward, and avoid leaning too far forward or backward.
-
-- **Form Tips:**
-    - Keep your elbows locked and avoid letting the kettlebells swing away from your body.
-    - Engage your lats to stabilize your shoulders.
-    - Maintain a steady pace; don’t rush, as this can lead to poor form.
-
-- **Scaling/Modifications:**
-    - If you’re new to this movement, consider using lighter kettlebells or even just one kettlebell to start.
-    - Alternatively, you can perform a single-arm carry, switching arms halfway through.
-
-### 2. Tuck Ups
-
-- **Technique Steps:**
-    - Start by lying flat on your back with your arms extended overhead and legs straight.
-    - Engage your core and simultaneously lift your legs and arms, bringing them together in a “tuck” position.
-    - Aim to touch your knees with your hands at the top of the movement.
-    - Lower back down to the starting position with control.
-
-- **Form Tips:**
-    - Keep your lower back pressed into the ground to avoid straining your back.
-    - Move in a controlled manner; avoid using momentum to swing up.
-
-- **Scaling/Modifications:**
-    - If tuck-ups are too challenging, try bent-knee tuck-ups or simply perform sit-ups instead.
-
-### 3. Burpees
-
-- **Technique Steps:**
-    - Start standing tall, then drop into a squat position with your hands on the floor.
-    - Kick your feet back into a plank position, ensuring your body is in a straight line.
-    - Perform a push-up (optional, depending on your fitness level).
-    - Jump your feet back to your hands and explosively jump up, reaching your arms overhead.
-
-- **Form Tips:**
-    - Keep your core tight during the plank to avoid sagging hips.
-    - Land softly on your feet when jumping up to minimize impact.
-
-- **Scaling/Modifications:**
-    - Step back instead of jumping if you need to reduce intensity.
-    - You can also perform a burpee without the push-up for a modified version.
-
-### 4. Renegade Rows
-
-- **Technique Steps:**
-    - Start in a high plank position with a dumbbell in each hand.
-    - Keep your feet shoulder-width apart for stability.
-    - Row one dumbbell towards your hip while stabilizing your body with the other arm.
-    - Alternate sides, ensuring your hips stay level throughout the movement.
-
-- **Form Tips:**
-    - Avoid rotating your hips; keep your core engaged to maintain stability.
-    - Focus on a controlled movement rather than rushing through the rows.
-
-- **Scaling/Modifications:**
-    - If you’re new to this, you can perform the rows from your knees.
-    - Alternatively, use lighter weights or perform the movement without weights to focus on form.
-
-## Loading and Rep-Modification Options
-
-- **Sweat:** 
-    - Kettlebell weights: 16/12 kg; 15/10 kg
-    - Focus on form and technique, using tuck-ups and stepping back for burpees if needed.
-
-- **Train:** 
-    - Kettlebell weights: 24/16 kg; 17.5/12.5 kg
-    - Aim for a steady pace, breaking up the tuck-ups and burpees if needed to maintain form.
-
-- **Compete:** 
-    - Kettlebell weights: 32/24 kg; 22.5/15 kg
-    - Push yourself, but listen to your body. It’s okay to take short breaks if you need to maintain intensity.
-
-### Strategy Advice
-
-As you tackle this WOD, remember to pace yourself. The 5-minute intervals give you a chance to recover slightly between rounds, but don’t waste too much time! Break up the tuck-ups and burpees into manageable sets if you start to feel fatigued. Keep your core engaged during the carries and rows to maintain stability and form. Most importantly, have fun and challenge yourself! Let’s crush this workout together! 💪
+Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your upper body and cardiovascular endurance. We’ll kick things off with a Barbell Floor Press, focusing on building strength in our chest, shoulders, and triceps. After that, we’ll dive into a high-intensity conditioning piece with intervals of Wall Walks and Ski Erg, designed to push your limits and improve your overall fitness. Let’s break it down step by step!
 
 ---
-*Generated on 2025-09-21T06:07:48.028Z using AI assistance*
+
+## Strength Segment
+
+### Barbell Floor Press
+
+**Overview**: The Barbell Floor Press is a great way to build upper body strength while minimizing shoulder strain. It allows you to focus on pressing strength without the need for a full range of motion, which can be beneficial for those with shoulder issues.
+
+#### Technique Steps:
+1. **Setup**: Lie on your back on the floor with your knees bent and feet flat. Position the barbell over your chest, gripping it slightly wider than shoulder-width.
+2. **Starting Position**: Keep your elbows on the floor and your wrists straight. Your arms should be perpendicular to the floor.
+3. **Press**: Engage your core, press the barbell up until your arms are fully extended. Focus on squeezing your chest at the top.
+4. **Lower**: Slowly lower the barbell back down until your elbows touch the floor, maintaining control throughout the movement.
+5. **Repeat**: Reset and repeat for the prescribed reps.
+
+#### Form Tips:
+- Keep your shoulder blades retracted and your back flat against the floor.
+- Avoid flaring your elbows out too much; they should be at about a 45-degree angle from your body.
+- Focus on a controlled tempo to maximize muscle engagement.
+
+#### Scaling/Modifications:
+- If you’re new to this movement, you can start with a lighter barbell or even a pair of dumbbells.
+- If you have limited range of motion, consider doing a floor press with a resistance band instead.
+
+#### Loading Options:
+- **Sweat**: Use a light barbell (20-30% of your body weight) or dumbbells.
+- **Train**: Moderate loading (50-70% of your 1RM).
+- **Compete**: Heavier loading (75-85% of your 1RM), focusing on maintaining perfect form.
+
+---
+
+## Conditioning Segment [For Time]
+
+### 18 x 45 Seconds On / 15 Seconds Off
+
+This conditioning piece is all about maximizing your effort in short bursts. You’ll alternate between Wall Walks and Ski Erg, which will challenge your strength and aerobic capacity.
+
+#### Interval 1: Max Wall Walks
+
+**Overview**: Wall Walks are a fantastic way to build shoulder strength and stability while also engaging your core.
+
+##### Technique Steps:
+1. **Start Position**: Begin in a plank position with your feet against the wall.
+2. **Walk Up**: Slowly walk your feet up the wall while simultaneously walking your hands closer to the wall. Aim to get your chest as close to the wall as possible.
+3. **Hold**: At the top position, hold for a moment, engaging your core and keeping your body straight.
+4. **Walk Down**: Reverse the movement, walking your hands back out and your feet down.
+
+##### Form Tips:
+- Keep your core tight throughout the movement to prevent sagging in your lower back.
+- Focus on controlled movements; don’t rush through the wall walks.
+- If you feel unstable, take your time and don’t push too hard.
+
+##### Scaling/Modifications:
+- If Wall Walks are too challenging, you can perform an elevated push-up against the wall instead.
+- Alternatively, practice shoulder taps in a plank position to build strength.
+
+#### Interval 2: Max Calories Ski Erg
+
+**Overview**: The Ski Erg is a great way to get your heart rate up and work on your endurance.
+
+##### Technique Steps:
+1. **Setup**: Sit on the Ski Erg with your feet secured and hands on the handles.
+2. **Start Pulling**: Engage your core and pull the handles down towards your hips, using your legs and arms in a coordinated motion.
+3. **Return**: Allow the handles to return to the starting position while maintaining a steady rhythm.
+4. **Maximize Output**: Focus on generating power from your legs and maintaining a strong pull with your arms.
+
+##### Form Tips:
+- Keep your back straight and avoid leaning too far forward or backward.
+- Use your legs to drive the movement, not just your arms.
+
+##### Scaling/Modifications:
+- If you don’t have access to a Ski Erg, you can substitute with a rowing machine or even burpees for a similar cardio effect.
+
+---
+
+### Loading Options:
+- **Sweat**: Focus on form and technique; aim for a moderate pace.
+- **Train**: Push for a higher intensity; try to maximize calories in the time frame.
+- **Compete**: Go all out! Aim for maximum effort in each interval.
+
+### Strategy Advice:
+- During the Wall Walks, pace yourself; it’s easy to burn out quickly. Focus on quality over quantity.
+- For the Ski Erg, find a rhythm that allows you to maintain a steady output without burning out too early.
+
+---
+
+Alright team, let’s get after it! Remember to focus on your form, listen to your body, and most importantly, have fun! Let’s crush this WOD together! 💪
+
+---
+*Generated on 2025-09-22T06:09:04.723Z using AI assistance*
