@@ -36,6 +36,14 @@
   </div>
 
   <script>
+    const author = {
+      name: "Kristian Garza",
+      email: "kj.garza+kjgarza@gmail.com",
+      figma: "https://www.figma.com/@kristiangarza",
+      github: "https://github.com/kristiangarza",
+      linkedin: "https://www.linkedin.com/in/kjgarza?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=website",
+    };
+
     fetch('outputs/workout_with_explanation.json')
       .then(response => response.json())
       .then(data => {
@@ -139,6 +147,39 @@
           </div>
         `;
         output.appendChild(metadataSection);
+
+        // Footer Section
+        const footerSection = document.createElement('footer');
+        footerSection.className = 'text-primary flex w-full max-w-4xl flex-col items-center justify-between gap-1 px-4 pt-8 pb-24 font-mono font-medium sm:pb-8 md:px-12 xl:px-8';
+        footerSection.innerHTML = `
+          <div class="flex flex-wrap items-center gap-4">
+            <div class="flex items-center gap-4">
+              <a class="hover:text-accent hover:underline" target="_blank" href="${author.figma}">
+                Figma
+              </a>
+            </div>
+            <div class="flex items-center gap-4">
+              <span class="text-neutral-400">·</span>
+              <a class="hover:text-accent hover:underline" target="_blank" href="${author.github}">
+                Github
+              </a>
+            </div>
+            <div class="flex items-center gap-4">
+              <span class="text-neutral-400">·</span>
+              <a class="hover:text-accent hover:underline" target="_blank" href="${author.linkedin}">
+                LinkedIn
+              </a>
+            </div>
+            <div class="flex items-center gap-4">
+              <span class="text-neutral-400">·</span>
+              <a class="hover:text-accent hover:underline" target="_blank" href="mailto:${author.email}">
+                Email
+              </a>
+            </div>
+          </div>
+          <p class="text-secondary text-sm">Copyright © ${new Date().getFullYear()} ${author.name}</p>
+        `;
+        output.appendChild(footerSection);
       })
       .catch(error => {
         console.error('Error loading JSON:', error);
