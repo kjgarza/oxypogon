@@ -1,91 +1,79 @@
-## Workout Overview
+# Workout Overview
 
-Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your upper body and cardiovascular endurance. We’ll kick things off with a Barbell Floor Press, focusing on building strength in our chest, shoulders, and triceps. After that, we’ll dive into a high-intensity conditioning piece with intervals of Wall Walks and Ski Erg, designed to push your limits and improve your overall fitness. Let’s break it down step by step!
-
----
+Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that’s going to challenge your technique and endurance. We’ll kick things off with a Clean Complex to refine our lifting skills and build strength, followed by a conditioning piece that will really get your heart pumping. The goal here is to focus on form, build confidence in your lifts, and maintain a steady pace during the conditioning rounds.
 
 ## Strength Segment
 
-### Barbell Floor Press
+### Clean Complex (On the 2:00 x 6)
 
-**Overview**: The Barbell Floor Press is a great way to build upper body strength while minimizing shoulder strain. It allows you to focus on pressing strength without the need for a full range of motion, which can be beneficial for those with shoulder issues.
+**Movement Breakdown:**
+- **2 Deadlifts**
+- **2 Hang Power Cleans**
 
 #### Technique Steps:
-1. **Setup**: Lie on your back on the floor with your knees bent and feet flat. Position the barbell over your chest, gripping it slightly wider than shoulder-width.
-2. **Starting Position**: Keep your elbows on the floor and your wrists straight. Your arms should be perpendicular to the floor.
-3. **Press**: Engage your core, press the barbell up until your arms are fully extended. Focus on squeezing your chest at the top.
-4. **Lower**: Slowly lower the barbell back down until your elbows touch the floor, maintaining control throughout the movement.
-5. **Repeat**: Reset and repeat for the prescribed reps.
+1. **Deadlift:**
+   - Start with your feet hip-width apart, barbell over the mid-foot.
+   - Grip the bar just outside your knees, keeping your back flat and chest up.
+   - Engage your core, push through your heels, and lift the bar by extending your hips and knees simultaneously.
+   - Stand tall at the top, then reverse the movement to lower the bar back down.
+
+2. **Hang Power Clean:**
+   - From standing, hinge at your hips to lower the bar to just above your knees (the hang position).
+   - Keep your chest up and back flat.
+   - Explosively extend through your hips, shrug your shoulders, and pull the bar up, keeping it close to your body.
+   - Drop under the bar into a partial squat, catching it on your shoulders with elbows high.
+   - Stand up to finish the rep.
 
 #### Form Tips:
-- Keep your shoulder blades retracted and your back flat against the floor.
-- Avoid flaring your elbows out too much; they should be at about a 45-degree angle from your body.
-- Focus on a controlled tempo to maximize muscle engagement.
+- **Deadlift:** Keep your back straight and avoid rounding your shoulders. Engage your lats to keep the bar close.
+- **Hang Power Clean:** Focus on a strong hip extension and keep the bar path vertical. Your elbows should be high and outside as you catch the bar.
 
 #### Scaling/Modifications:
-- If you’re new to this movement, you can start with a lighter barbell or even a pair of dumbbells.
-- If you have limited range of motion, consider doing a floor press with a resistance band instead.
+- Use a lighter barbell or a PVC pipe if you’re new to the movements or focusing on form.
+- If you struggle with the hang position, you can perform the cleans from the floor.
 
-#### Loading Options:
-- **Sweat**: Use a light barbell (20-30% of your body weight) or dumbbells.
-- **Train**: Moderate loading (50-70% of your 1RM).
-- **Compete**: Heavier loading (75-85% of your 1RM), focusing on maintaining perfect form.
+#### Loading:
+- Start at 50% of your 1RM Hang Power Clean and aim to build up to 85% over the six sets. Focus on maintaining good form rather than just lifting heavy.
 
----
+## Conditioning Segment [5 Rounds]
 
-## Conditioning Segment [For Time]
+### Part 1: 5 Rounds
+- **12 Deadlifts**
+- **10/8 Calories on the Bike or 13/11 Calories on the Row**
 
-### 18 x 45 Seconds On / 15 Seconds Off
+#### Movement Breakdown:
+1. **Deadlifts:**
+   - Same as above, focus on maintaining form and a steady pace.
 
-This conditioning piece is all about maximizing your effort in short bursts. You’ll alternate between Wall Walks and Ski Erg, which will challenge your strength and aerobic capacity.
+2. **Calories on Bike/Row:**
+   - For the bike, adjust the seat height so your legs can extend fully.
+   - For the row, sit tall, engage your core, and drive with your legs while pulling the handle towards your chest.
 
-#### Interval 1: Max Wall Walks
+#### Scaling/Modifications:
+- Reduce the number of deadlifts to 8 if needed.
+- Use a lighter weight for the deadlifts if you’re feeling fatigued.
 
-**Overview**: Wall Walks are a fantastic way to build shoulder strength and stability while also engaging your core.
+### Part 2: Directly Into 5 Rounds
+- **9 Hang Power Cleans**
+- **10/8 Calories on the Bike or 13/11 Calories on the Row**
 
-##### Technique Steps:
-1. **Start Position**: Begin in a plank position with your feet against the wall.
-2. **Walk Up**: Slowly walk your feet up the wall while simultaneously walking your hands closer to the wall. Aim to get your chest as close to the wall as possible.
-3. **Hold**: At the top position, hold for a moment, engaging your core and keeping your body straight.
-4. **Walk Down**: Reverse the movement, walking your hands back out and your feet down.
+#### Movement Breakdown:
+1. **Hang Power Cleans:**
+   - Same as above, focus on technique and speed.
 
-##### Form Tips:
-- Keep your core tight throughout the movement to prevent sagging in your lower back.
-- Focus on controlled movements; don’t rush through the wall walks.
-- If you feel unstable, take your time and don’t push too hard.
+2. **Calories on Bike/Row:**
+   - Same as above, maintain a steady effort.
 
-##### Scaling/Modifications:
-- If Wall Walks are too challenging, you can perform an elevated push-up against the wall instead.
-- Alternatively, practice shoulder taps in a plank position to build strength.
+#### Scaling/Modifications:
+- If you’re new to the hang power clean, reduce the reps to 6.
+- Use lighter weights or perform the movement with dumbbells if necessary.
 
-#### Interval 2: Max Calories Ski Erg
-
-**Overview**: The Ski Erg is a great way to get your heart rate up and work on your endurance.
-
-##### Technique Steps:
-1. **Setup**: Sit on the Ski Erg with your feet secured and hands on the handles.
-2. **Start Pulling**: Engage your core and pull the handles down towards your hips, using your legs and arms in a coordinated motion.
-3. **Return**: Allow the handles to return to the starting position while maintaining a steady rhythm.
-4. **Maximize Output**: Focus on generating power from your legs and maintaining a strong pull with your arms.
-
-##### Form Tips:
-- Keep your back straight and avoid leaning too far forward or backward.
-- Use your legs to drive the movement, not just your arms.
-
-##### Scaling/Modifications:
-- If you don’t have access to a Ski Erg, you can substitute with a rowing machine or even burpees for a similar cardio effect.
-
----
-
-### Loading Options:
-- **Sweat**: Focus on form and technique; aim for a moderate pace.
-- **Train**: Push for a higher intensity; try to maximize calories in the time frame.
-- **Compete**: Go all out! Aim for maximum effort in each interval.
+## Loading Options:
+- **Sweat:** 30/20 kg for the deadlifts and hang power cleans, use tuck-ups if needed for the conditioning.
+- **Train:** 45/30 kg for the deadlifts and hang power cleans.
+- **Compete:** 60/40 kg for the deadlifts and hang power cleans.
 
 ### Strategy Advice:
-- During the Wall Walks, pace yourself; it’s easy to burn out quickly. Focus on quality over quantity.
-- For the Ski Erg, find a rhythm that allows you to maintain a steady output without burning out too early.
+- For the conditioning piece, aim for a steady pace. Break up the deadlifts into manageable sets if needed, especially as you transition into the hang power cleans. Stay focused on your breathing and maintain a rhythm on the bike or rower to keep your heart rate steady.
 
----
-
-Alright team, let’s get after it! Remember to focus on your form, listen to your body, and most importantly, have fun! Let’s crush this WOD together! 💪
+Remember, form is key throughout this workout. Prioritize technique over weight, and don’t hesitate to scale if you need to. Let’s have a great session today!
