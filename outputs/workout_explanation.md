@@ -1,90 +1,97 @@
-# CrossFit MINS Workout - 2025-09-24
+# CrossFit MINS Workout - 2025-09-26
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><br><li class="ml-4">Clean Complex</li><p class="mb-2">On the 2:00 x 6</p><p class="mb-2">2 Deadlifts + 2 Hang Power Cleans</p><p class="mb-2">*start at 50% and build to 85% of 1 RM Hang Power Clean.</p><br><li class="ml-4">Conditioning</li><p class="mb-2">5 Rounds:</p><li class="ml-4">12 Deadlifts</li><li class="ml-4">10/8 Calories Bike or 13/11 Calories Row</li><br><p class="mb-2">Directly Into..</p><br><p class="mb-2">5 Rounds:</p><li class="ml-4">9 Hang Power Cleans</li><li class="ml-4">10/8 Calories Bike or 13/11 Calories Row</li><br><p class="mb-2">Sweat: 30/20</p><p class="mb-2">Train: 45/30</p><p class="mb-2">Compete: 60/40</p>
+<p class="mb-2">WOD:</p><br><li class="ml-4">Power Snatch</li><li class="ml-4">Every 30 Seconds x 20 Intervals</li><li class="ml-4">1 Power Snatch @ working weight at 80%-85% of 1 RM</li><br><li class="ml-4">Conditioning</li><li class="ml-4">5 Rounds For Total Reps:</li><li class="ml-4">1 Minute Toes to Bar</li><li class="ml-4">1 Minute Power Snatches</li><li class="ml-4">1 Minute High Box Jump Overs (30"/24")</li><li class="ml-4">1 Minute Rest</li><br><p class="mb-2">Sweat: 20/10; Box (24"/20")</p><p class="mb-2">Train: 30/20</p><p class="mb-2">Compete: 40/30</p>
 
 ### Expert Explanation
-# Workout Overview
+## Workout Overview
 
-Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that’s going to challenge your technique and endurance. We’ll kick things off with a Clean Complex to refine our lifting skills and build strength, followed by a conditioning piece that will really get your heart pumping. The goal here is to focus on form, build confidence in your lifts, and maintain a steady pace during the conditioning rounds.
+Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your power output and endurance. We’ll start with a strength segment focusing on the Power Snatch, where you’ll be working at 80-85% of your one-rep max (1RM). This is all about refining your technique and building strength. Then, we’ll dive into a conditioning piece that’s structured as a 5-round workout, where you’ll be tackling Toes to Bar, Power Snatches, and High Box Jump Overs. The goal here is to maximize your reps while maintaining good form and pacing yourself effectively.
+
+Let’s break it down step by step!
 
 ## Strength Segment
 
-### Clean Complex (On the 2:00 x 6)
+### Power Snatch
 
-**Movement Breakdown:**
-- **2 Deadlifts**
-- **2 Hang Power Cleans**
+- **Technique Steps:**
+    1. **Setup**: Start with your feet hip-width apart, barbell over the midfoot. Grip the bar just outside your knees.
+    2. **First Pull**: Engage your lats and lift the bar off the ground by extending your knees while keeping your back straight.
+    3. **Hips and Knees**: As the bar passes your knees, hinge at your hips and prepare for the explosive second pull.
+    4. **Second Pull**: Drive through your heels, extend your hips, and pull the bar up close to your body. 
+    5. **Catch**: As the bar reaches its peak, drop under it into a partial squat, catching it overhead with arms locked out.
+    6. **Stand Up**: Stand tall, ensuring the bar is stable overhead before lowering it back down.
 
-#### Technique Steps:
-1. **Deadlift:**
-   - Start with your feet hip-width apart, barbell over the mid-foot.
-   - Grip the bar just outside your knees, keeping your back flat and chest up.
-   - Engage your core, push through your heels, and lift the bar by extending your hips and knees simultaneously.
-   - Stand tall at the top, then reverse the movement to lower the bar back down.
+- **Form Tips:**
+    - Keep the bar close to your body throughout the lift.
+    - Your elbows should be high during the pull phase.
+    - Focus on driving through your heels and using your legs to generate power.
 
-2. **Hang Power Clean:**
-   - From standing, hinge at your hips to lower the bar to just above your knees (the hang position).
-   - Keep your chest up and back flat.
-   - Explosively extend through your hips, shrug your shoulders, and pull the bar up, keeping it close to your body.
-   - Drop under the bar into a partial squat, catching it on your shoulders with elbows high.
-   - Stand up to finish the rep.
+- **Scaling/Modifications:**
+    - If you’re new to this movement, consider using a lighter barbell or a PVC pipe to practice the technique.
+    - You can also perform a Dumbbell Power Snatch if a barbell isn’t available.
 
-#### Form Tips:
-- **Deadlift:** Keep your back straight and avoid rounding your shoulders. Engage your lats to keep the bar close.
-- **Hang Power Clean:** Focus on a strong hip extension and keep the bar path vertical. Your elbows should be high and outside as you catch the bar.
+- **Loading:**
+    - **Sweat**: 20% of your 1RM
+    - **Train**: 30% of your 1RM
+    - **Compete**: 40% of your 1RM
 
-#### Scaling/Modifications:
-- Use a lighter barbell or a PVC pipe if you’re new to the movements or focusing on form.
-- If you struggle with the hang position, you can perform the cleans from the floor.
+## Conditioning Segment [5 Rounds For Total Reps]
 
-#### Loading:
-- Start at 50% of your 1RM Hang Power Clean and aim to build up to 85% over the six sets. Focus on maintaining good form rather than just lifting heavy.
+### 1. Toes to Bar
 
-## Conditioning Segment [5 Rounds]
+- **Technique Steps:**
+    1. Hang from the bar with a grip slightly wider than shoulder-width.
+    2. Engage your core and initiate the movement by bringing your knees up towards your chest.
+    3. As your knees rise, extend your legs and aim to touch your toes to the bar.
+    4. Lower back down with control, maintaining tension in your shoulders.
 
-### Part 1: 5 Rounds
-- **12 Deadlifts**
-- **10/8 Calories on the Bike or 13/11 Calories on the Row**
+- **Form Tips:**
+    - Keep your shoulders engaged and avoid swinging.
+    - Use a kipping motion if you’re comfortable, but focus on core engagement.
 
-#### Movement Breakdown:
-1. **Deadlifts:**
-   - Same as above, focus on maintaining form and a steady pace.
+- **Scaling/Modifications:**
+    - If you can’t reach the bar, try Knee Raises or Hanging Knee Tucks.
+    - You can also perform Toes to Bar on a lower bar or use a band for assistance.
 
-2. **Calories on Bike/Row:**
-   - For the bike, adjust the seat height so your legs can extend fully.
-   - For the row, sit tall, engage your core, and drive with your legs while pulling the handle towards your chest.
+### 2. Power Snatches (same as strength segment)
 
-#### Scaling/Modifications:
-- Reduce the number of deadlifts to 8 if needed.
-- Use a lighter weight for the deadlifts if you’re feeling fatigued.
+- **Technique Steps:** (Refer to the Power Snatch section above)
 
-### Part 2: Directly Into 5 Rounds
-- **9 Hang Power Cleans**
-- **10/8 Calories on the Bike or 13/11 Calories on the Row**
+- **Form Tips:** (Refer to the Power Snatch section above)
 
-#### Movement Breakdown:
-1. **Hang Power Cleans:**
-   - Same as above, focus on technique and speed.
+- **Scaling/Modifications:**
+    - Use lighter weights or Dumbbell Power Snatches if needed.
 
-2. **Calories on Bike/Row:**
-   - Same as above, maintain a steady effort.
+### 3. High Box Jump Overs
 
-#### Scaling/Modifications:
-- If you’re new to the hang power clean, reduce the reps to 6.
-- Use lighter weights or perform the movement with dumbbells if necessary.
+- **Technique Steps:**
+    1. Stand facing the box with your feet shoulder-width apart.
+    2. Bend your knees and swing your arms back to generate momentum.
+    3. Jump onto the box, landing softly with your knees slightly bent.
+    4. Step or jump off the other side and repeat.
 
-## Loading Options:
-- **Sweat:** 30/20 kg for the deadlifts and hang power cleans, use tuck-ups if needed for the conditioning.
-- **Train:** 45/30 kg for the deadlifts and hang power cleans.
-- **Compete:** 60/40 kg for the deadlifts and hang power cleans.
+- **Form Tips:**
+    - Focus on a soft landing to absorb the impact.
+    - Keep your core engaged throughout the jump.
+
+- **Scaling/Modifications:**
+    - If jumping is too challenging, step-ups are a great alternative.
+    - Use a lower box if needed.
+
+### Loading Options:
+
+- **Sweat**: 20/10 lbs for Power Snatches, Box Height 24"/20"
+- **Train**: 30/20 lbs for Power Snatches
+- **Compete**: 40/30 lbs for Power Snatches
 
 ### Strategy Advice:
-- For the conditioning piece, aim for a steady pace. Break up the deadlifts into manageable sets if needed, especially as you transition into the hang power cleans. Stay focused on your breathing and maintain a rhythm on the bike or rower to keep your heart rate steady.
 
-Remember, form is key throughout this workout. Prioritize technique over weight, and don’t hesitate to scale if you need to. Let’s have a great session today!
+- For the conditioning piece, aim for a steady pace. It’s better to break up your sets early rather than hitting a wall later on. Focus on maintaining good form throughout each movement, especially as fatigue sets in. Remember, quality over quantity! 
+
+That’s it, folks! Let’s get warmed up and ready to crush this WOD together. Keep your energy up, stay focused on your form, and have fun!
 
 ---
-*Generated on 2025-09-24T06:08:22.937Z using AI assistance*
+*Generated on 2025-09-26T06:08:25.071Z using AI assistance*
