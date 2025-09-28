@@ -1,97 +1,98 @@
-# CrossFit MINS Workout - 2025-09-26
+# CrossFit MINS Workout - 2025-09-28
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><br><li class="ml-4">Power Snatch</li><li class="ml-4">Every 30 Seconds x 20 Intervals</li><li class="ml-4">1 Power Snatch @ working weight at 80%-85% of 1 RM</li><br><li class="ml-4">Conditioning</li><li class="ml-4">5 Rounds For Total Reps:</li><li class="ml-4">1 Minute Toes to Bar</li><li class="ml-4">1 Minute Power Snatches</li><li class="ml-4">1 Minute High Box Jump Overs (30"/24")</li><li class="ml-4">1 Minute Rest</li><br><p class="mb-2">Sweat: 20/10; Box (24"/20")</p><p class="mb-2">Train: 30/20</p><p class="mb-2">Compete: 40/30</p>
+<p class="mb-2">WOD:</p><p class="mb-2">8 Rounds for Time:</p><li class="ml-4">20 Russian Kettlebell Swings</li><li class="ml-4">40 Double Unders</li><li class="ml-4">10 Slam Balls</li><li class="ml-4">10 V-Ups</li><br><p class="mb-2">Weights:</p><li class="ml-4">Sweat: 16/12; 15/10; Tuck Ups</li><li class="ml-4">Train: 24/16; 20/15</li><li class="ml-4">Compete: 32/24; 20/15</li>
 
 ### Expert Explanation
 ## Workout Overview
 
-Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your power output and endurance. We’ll start with a strength segment focusing on the Power Snatch, where you’ll be working at 80-85% of your one-rep max (1RM). This is all about refining your technique and building strength. Then, we’ll dive into a conditioning piece that’s structured as a 5-round workout, where you’ll be tackling Toes to Bar, Power Snatches, and High Box Jump Overs. The goal here is to maximize your reps while maintaining good form and pacing yourself effectively.
+Hey everyone! Today’s WOD is an 8-round for time challenge that’s going to test your endurance, coordination, and core strength. We’ll be tackling a combination of kettlebell swings, double unders, slam balls, and V-ups. This workout is designed to keep your heart rate up while also focusing on your technique and efficiency. Remember, the goal is to maintain good form throughout all rounds, so listen to your body and scale as needed!
 
-Let’s break it down step by step!
+## Workout Components Breakdown
 
-## Strength Segment
-
-### Power Snatch
+### 1. Russian Kettlebell Swings
 
 - **Technique Steps:**
-    1. **Setup**: Start with your feet hip-width apart, barbell over the midfoot. Grip the bar just outside your knees.
-    2. **First Pull**: Engage your lats and lift the bar off the ground by extending your knees while keeping your back straight.
-    3. **Hips and Knees**: As the bar passes your knees, hinge at your hips and prepare for the explosive second pull.
-    4. **Second Pull**: Drive through your heels, extend your hips, and pull the bar up close to your body. 
-    5. **Catch**: As the bar reaches its peak, drop under it into a partial squat, catching it overhead with arms locked out.
-    6. **Stand Up**: Stand tall, ensuring the bar is stable overhead before lowering it back down.
+    1. Start with your feet shoulder-width apart, kettlebell on the ground in front of you.
+    2. Hinge at your hips and bend your knees slightly to grab the kettlebell with both hands.
+    3. Pull the kettlebell back between your legs, keeping your back straight and chest up.
+    4. Drive through your heels, extend your hips, and swing the kettlebell up to shoulder height.
+    5. Let the kettlebell fall back down, maintaining control, and repeat.
 
 - **Form Tips:**
-    - Keep the bar close to your body throughout the lift.
-    - Your elbows should be high during the pull phase.
-    - Focus on driving through your heels and using your legs to generate power.
+    - Keep your core engaged throughout the movement.
+    - Use your hips to generate power, not your arms.
+    - Ensure the kettlebell is close to your body during the swing.
 
 - **Scaling/Modifications:**
-    - If you’re new to this movement, consider using a lighter barbell or a PVC pipe to practice the technique.
-    - You can also perform a Dumbbell Power Snatch if a barbell isn’t available.
+    - Use a lighter kettlebell if you’re new to the movement or still building strength.
+    - If kettlebells are not available, you can perform bodyweight squats or dumbbell swings.
 
-- **Loading:**
-    - **Sweat**: 20% of your 1RM
-    - **Train**: 30% of your 1RM
-    - **Compete**: 40% of your 1RM
-
-## Conditioning Segment [5 Rounds For Total Reps]
-
-### 1. Toes to Bar
+### 2. Double Unders
 
 - **Technique Steps:**
-    1. Hang from the bar with a grip slightly wider than shoulder-width.
-    2. Engage your core and initiate the movement by bringing your knees up towards your chest.
-    3. As your knees rise, extend your legs and aim to touch your toes to the bar.
-    4. Lower back down with control, maintaining tension in your shoulders.
+    1. Start with the jump rope behind your heels.
+    2. Jump slightly higher than a regular jump, keeping your feet together.
+    3. Use your wrists to turn the rope quickly, aiming for two rotations per jump.
+    4. Land softly on the balls of your feet and prepare for the next jump.
 
 - **Form Tips:**
-    - Keep your shoulders engaged and avoid swinging.
-    - Use a kipping motion if you’re comfortable, but focus on core engagement.
+    - Keep your elbows close to your sides and wrists relaxed.
+    - Focus on a consistent rhythm rather than jumping too high.
 
 - **Scaling/Modifications:**
-    - If you can’t reach the bar, try Knee Raises or Hanging Knee Tucks.
-    - You can also perform Toes to Bar on a lower bar or use a band for assistance.
+    - If you’re still working on double unders, perform single unders (one jump per rope rotation).
+    - Alternatively, you can do lateral hops or step-ups.
 
-### 2. Power Snatches (same as strength segment)
-
-- **Technique Steps:** (Refer to the Power Snatch section above)
-
-- **Form Tips:** (Refer to the Power Snatch section above)
-
-- **Scaling/Modifications:**
-    - Use lighter weights or Dumbbell Power Snatches if needed.
-
-### 3. High Box Jump Overs
+### 3. Slam Balls
 
 - **Technique Steps:**
-    1. Stand facing the box with your feet shoulder-width apart.
-    2. Bend your knees and swing your arms back to generate momentum.
-    3. Jump onto the box, landing softly with your knees slightly bent.
-    4. Step or jump off the other side and repeat.
+    1. Stand with your feet shoulder-width apart, holding the slam ball at chest level.
+    2. Squat down slightly and then explosively lift the ball overhead.
+    3. Slam the ball down to the ground with force, bending at the hips and knees.
+    4. Catch the ball on the bounce and repeat.
 
 - **Form Tips:**
-    - Focus on a soft landing to absorb the impact.
-    - Keep your core engaged throughout the jump.
+    - Keep your core tight to protect your back during the slam.
+    - Use your legs to generate power, not just your arms.
 
 - **Scaling/Modifications:**
-    - If jumping is too challenging, step-ups are a great alternative.
-    - Use a lower box if needed.
+    - Use a lighter slam ball if you’re new to the movement.
+    - If slam balls are not available, you can perform medicine ball throws or wall balls.
 
-### Loading Options:
+### 4. V-Ups
 
-- **Sweat**: 20/10 lbs for Power Snatches, Box Height 24"/20"
-- **Train**: 30/20 lbs for Power Snatches
-- **Compete**: 40/30 lbs for Power Snatches
+- **Technique Steps:**
+    1. Lie flat on your back with your arms extended overhead and legs straight.
+    2. Simultaneously raise your legs and upper body, reaching for your toes.
+    3. Lower back down with control and repeat.
 
-### Strategy Advice:
+- **Form Tips:**
+    - Keep your lower back pressed into the ground to avoid strain.
+    - Move in a controlled manner; avoid using momentum.
 
-- For the conditioning piece, aim for a steady pace. It’s better to break up your sets early rather than hitting a wall later on. Focus on maintaining good form throughout each movement, especially as fatigue sets in. Remember, quality over quantity! 
+- **Scaling/Modifications:**
+    - If V-ups are too challenging, perform tuck-ups by bringing your knees to your chest instead.
+    - You can also do sit-ups or leg raises as alternatives.
 
-That’s it, folks! Let’s get warmed up and ready to crush this WOD together. Keep your energy up, stay focused on your form, and have fun!
+## Loading and Rep-Modification Options
+
+- **Sweat:** 
+    - Kettlebell: 16/12 kg; Slam Ball: 15/10 kg; V-Ups: Tuck-Ups
+- **Train:** 
+    - Kettlebell: 24/16 kg; Slam Ball: 20/15 kg
+- **Compete:** 
+    - Kettlebell: 32/24 kg; Slam Ball: 20/15 kg
+
+### Strategy Advice
+
+- **Pacing:** Start at a steady pace; it’s better to maintain consistency across all rounds than to burn out early.
+- **Break It Up:** For the kettlebell swings and slam balls, consider breaking them into smaller sets if you start to feel fatigued.
+- **Double Unders:** If you’re struggling, don’t hesitate to switch to single unders to keep moving. The goal is to keep your heart rate up without getting frustrated.
+
+Remember, focus on your form, stay hydrated, and most importantly, have fun! Let’s crush this WOD together! 💪
 
 ---
-*Generated on 2025-09-26T06:08:25.071Z using AI assistance*
+*Generated on 2025-09-28T06:07:55.134Z using AI assistance*
