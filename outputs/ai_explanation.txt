@@ -1,77 +1,107 @@
 ## Workout Overview
 
-Hey everyone! Today, we’re diving into a challenging WOD called "Holbrook." This workout is designed to test your strength, endurance, and grit through a combination of thrusters, pull-ups, and hill sprints. With 10 rounds to complete, we’ll be pushing our limits, but don’t worry—we’ll break it down step by step to ensure you’re moving safely and effectively. The goal here is to build muscular endurance while maintaining good form throughout the workout. Let’s get started!
+Hey everyone! Today we’re tackling a unique challenge called **The Impossible Mile**. This workout is designed to test your endurance, mental toughness, and pacing strategy. It combines running with bodyweight movements, pushing you to maintain a steady effort throughout. The goal is to complete the mile as quickly as possible while incorporating these movements, so let’s break it down step by step!
 
-## Workout Components
+## Workout Structure
 
-### 1. Thrusters
+- **Total Distance**: 1 mile (1609 meters)
+- **Components**: 
+  - 400m run
+  - 30 Burpees
+  - 400m run
+  - 30 Air Squats
+  - 400m run
+  - 30 Push-Ups
+  - 400m run
 
-**Technique Steps:**
-- **Start Position:** Begin with the barbell resting on your shoulders, feet shoulder-width apart, and elbows slightly in front of the bar.
-- **Squat Down:** Initiate the movement by bending at the knees and hips, lowering into a squat while keeping your chest up and back straight.
-- **Drive Up:** As you push through your heels to stand up, drive the barbell overhead in one fluid motion.
-- **Finish Position:** Lock out your arms overhead, ensuring your body is in a straight line from your heels to your hands. Lower the bar back to your shoulders and repeat.
+### Breakdown of Each Component
 
-**Form Tips:**
-- Keep your core engaged throughout the movement to protect your back.
-- Ensure your knees track over your toes during the squat.
-- Use your legs to drive the bar up, not just your arms.
+#### 1. **400m Run**
 
-**Scaling/Modifications:**
-- **Sweat:** Use a lighter barbell (30/20 kg) or perform thrusters with dumbbells.
-- **Train:** Use a moderate weight (40/27.5 kg).
-- **Compete:** Use a heavier barbell (50/35 kg).
+- **Technique Steps**:
+    - Start with a light jog to warm up your muscles.
+    - Maintain an upright posture with your head up and shoulders relaxed.
+    - Use a mid-foot strike to absorb impact and push off efficiently.
+    - Keep your arms at a 90-degree angle, swinging them forward and back to help with momentum.
 
-### 2. Pull-Ups
+- **Form Tips**:
+    - Breathe steadily; don’t hold your breath.
+    - Focus on a consistent pace rather than sprinting all out.
 
-**Technique Steps:**
-- **Start Position:** Hang from the pull-up bar with an overhand grip, arms fully extended, and feet off the ground.
-- **Pull Up:** Engage your lats and pull your chin above the bar, keeping your body straight and avoiding swinging.
-- **Lower Down:** Control your descent back to the starting position.
+- **Scaling/Modifications**:
+    - If running is challenging, consider a brisk walk or a 500m row as an alternative.
 
-**Form Tips:**
-- Keep your shoulders down and away from your ears to avoid unnecessary strain.
-- Use a full range of motion; don’t shortchange your reps.
+#### 2. **30 Burpees**
 
-**Scaling/Modifications:**
-- **Sweat:** Use a resistance band for assistance or perform ring rows.
-- **Train:** Standard pull-ups.
-- **Compete:** Weighted pull-ups if you’re feeling strong!
+- **Technique Steps**:
+    - Start standing tall, then drop into a squat position with your hands on the ground.
+    - Kick your feet back into a plank position, ensuring your body is straight.
+    - Perform a push-up (optional for scaling).
+    - Jump your feet back to your hands and explode up into a jump, clapping overhead.
 
-### 3. 100 Meter Hill Sprint
+- **Form Tips**:
+    - Keep your core tight to maintain a straight line during the plank.
+    - Land softly to reduce impact on your joints.
 
-**Technique Steps:**
-- **Start Position:** Stand at the bottom of the hill, feet shoulder-width apart, ready to explode off the line.
-- **Sprint:** Drive your knees up and pump your arms as you sprint up the hill, focusing on maintaining a strong, upright posture.
-- **Finish:** Once you reach the top, take a moment to catch your breath before heading back down.
+- **Scaling/Modifications**:
+    - Step back instead of jumping for the plank.
+    - Omit the push-up if needed, or perform them on your knees.
 
-**Form Tips:**
-- Keep your head up and eyes forward to maintain good posture.
-- Use your arms to help drive your legs; they should move in sync.
+#### 3. **400m Run** (Repeat)
 
-**Scaling/Modifications:**
-- If a hill isn’t available, sprint a flat distance (like 100 meters) or perform shuttle runs.
+- Same as the first 400m run. Remember to focus on your pacing and recovery from the burpees.
 
-### 4. Rest
+#### 4. **30 Air Squats**
 
-After each round, take a full minute to recover. This is crucial for maintaining intensity throughout the workout. Use this time to hydrate and mentally prepare for the next round.
+- **Technique Steps**:
+    - Stand with your feet shoulder-width apart, toes slightly pointed out.
+    - Initiate the squat by pushing your hips back and bending your knees.
+    - Keep your chest up and weight in your heels as you lower down.
+    - Go as low as you can while maintaining good form, ideally to parallel or below.
+
+- **Form Tips**:
+    - Keep your knees tracking over your toes, not caving inward.
+    - Use your arms for balance by extending them in front of you.
+
+- **Scaling/Modifications**:
+    - Use a box or bench to squat to if you need assistance with depth.
+    - Reduce the number of reps if necessary.
+
+#### 5. **400m Run** (Repeat)
+
+- Same as previous runs. Focus on maintaining your breath and form.
+
+#### 6. **30 Push-Ups**
+
+- **Technique Steps**:
+    - Start in a plank position with your hands slightly wider than shoulder-width.
+    - Lower your body until your chest nearly touches the ground, keeping your elbows at a 45-degree angle.
+    - Push back up to the starting position, keeping your body straight throughout.
+
+- **Form Tips**:
+    - Engage your core to prevent sagging in your hips.
+    - If you struggle with full push-ups, drop to your knees.
+
+- **Scaling/Modifications**:
+    - Perform incline push-ups against a box or wall.
+    - Reduce the number of reps if needed.
+
+#### 7. **400m Run** (Final)
+
+- Finish strong! This is your last run, so dig deep and push through to the end.
 
 ## Loading and Rep-Modification Options
 
-- **Sweat:** 
-  - Thrusters: 30/20 kg
-  - Pull-Ups: Banded Pull-Ups or Ring Rows
-- **Train:** 
-  - Thrusters: 40/27.5 kg
-  - Pull-Ups: Standard Pull-Ups
-- **Compete:** 
-  - Thrusters: 50/35 kg
-  - Pull-Ups: Weighted Pull-Ups
+- **Sweat**: Focus on form and pacing. Consider reducing the distance of the runs to 200m and the reps of each movement to 15.
+  
+- **Train**: Stick to the full distances and reps, but feel free to take short breaks as needed.
+
+- **Compete**: Aim to complete the workout as prescribed, pushing for a personal best time. Focus on maintaining a steady pace throughout.
 
 ### Strategy Advice
 
-- **Pacing:** This workout is all about finding a sustainable pace. Don’t go all out in the first few rounds; instead, aim for consistency.
-- **Break It Up:** For the thrusters and pull-ups, consider breaking them into smaller sets if needed to maintain form and avoid burnout.
-- **Rest Smart:** Use your rest time wisely. Focus on your breathing and prepare mentally for the next round.
+- **Pacing**: Start with a manageable pace on the runs. It’s better to finish strong than to burn out early.
+- **Breaks**: Don’t be afraid to break up the movements into smaller sets, especially if you’re feeling fatigued.
+- **Mindset**: Remember, this workout is as much mental as it is physical. Stay positive and keep pushing through!
 
-Alright team, let’s get after it! Remember, focus on your form, listen to your body, and most importantly, have fun! You’ve got this!
+Alright team, let’s get out there and conquer The Impossible Mile! You’ve got this! 💪🏽
