@@ -1,107 +1,101 @@
 ## Workout Overview
 
-Hey everyone! Today we’re tackling a unique challenge called **The Impossible Mile**. This workout is designed to test your endurance, mental toughness, and pacing strategy. It combines running with bodyweight movements, pushing you to maintain a steady effort throughout. The goal is to complete the mile as quickly as possible while incorporating these movements, so let’s break it down step by step!
+Hey everyone! Today’s WOD is structured as an interval workout where we’ll be completing a series of movements every 6 minutes for a total of 6 rounds. The goal here is to build strength, improve endurance, and enhance your overall conditioning. We’ll be working on some upper body strength with handstand push-ups and strict pull-ups, while also incorporating some lower body work with double dumbbell box step overs. And of course, we’ll finish each round with a 400-meter run to get that heart rate up! 
 
-## Workout Structure
+Let’s break it down step by step so you know exactly what to expect and how to perform each movement safely and effectively.
 
-- **Total Distance**: 1 mile (1609 meters)
-- **Components**: 
-  - 400m run
-  - 30 Burpees
-  - 400m run
-  - 30 Air Squats
-  - 400m run
-  - 30 Push-Ups
-  - 400m run
+## Step-by-Step Breakdown
 
-### Breakdown of Each Component
+### 1. Handstand Push-Ups
 
-#### 1. **400m Run**
+- **Technique Steps:**
+    - Start in a handstand position against a wall, with your hands shoulder-width apart.
+    - Lower your head towards the ground by bending your elbows, keeping your body straight.
+    - Press back up to the starting position, fully extending your arms.
 
-- **Technique Steps**:
-    - Start with a light jog to warm up your muscles.
-    - Maintain an upright posture with your head up and shoulders relaxed.
-    - Use a mid-foot strike to absorb impact and push off efficiently.
-    - Keep your arms at a 90-degree angle, swinging them forward and back to help with momentum.
+- **Form Tips:**
+    - Keep your core tight to maintain a straight line from your hands to your feet.
+    - Avoid flaring your elbows out; keep them close to your body.
+    - Use the wall for support if you’re still mastering the balance.
 
-- **Form Tips**:
-    - Breathe steadily; don’t hold your breath.
-    - Focus on a consistent pace rather than sprinting all out.
+- **Scaling/Modifications:**
+    - If you’re not comfortable with handstand push-ups, try **Pike Push-Ups**: Start in a downward dog position and lower your head towards the ground.
+    - Alternatively, you can perform **Z-Presses** seated on the ground with dumbbells.
 
-- **Scaling/Modifications**:
-    - If running is challenging, consider a brisk walk or a 500m row as an alternative.
+---
 
-#### 2. **30 Burpees**
+### 2. Double Dumbbell Box Step Overs
 
-- **Technique Steps**:
-    - Start standing tall, then drop into a squat position with your hands on the ground.
-    - Kick your feet back into a plank position, ensuring your body is straight.
-    - Perform a push-up (optional for scaling).
-    - Jump your feet back to your hands and explode up into a jump, clapping overhead.
+- **Technique Steps:**
+    - Stand with a dumbbell in each hand at your sides.
+    - Step up onto the box with one foot, driving through your heel to lift your body up.
+    - Step down with the same foot, then follow with the other foot to complete one rep.
+    - Alternate legs with each rep.
 
-- **Form Tips**:
-    - Keep your core tight to maintain a straight line during the plank.
-    - Land softly to reduce impact on your joints.
+- **Form Tips:**
+    - Keep your chest up and core engaged as you step.
+    - Make sure your entire foot is on the box before stepping down.
+    - Move at a steady pace to maintain control.
 
-- **Scaling/Modifications**:
-    - Step back instead of jumping for the plank.
-    - Omit the push-up if needed, or perform them on your knees.
+- **Scaling/Modifications:**
+    - If the box height is too challenging, lower it to a height that feels comfortable.
+    - You can also reduce the weight of the dumbbells or perform the movement without weights.
 
-#### 3. **400m Run** (Repeat)
+---
 
-- Same as the first 400m run. Remember to focus on your pacing and recovery from the burpees.
+### 3. Strict Pull-Ups
 
-#### 4. **30 Air Squats**
+- **Technique Steps:**
+    - Hang from the pull-up bar with an overhand grip, hands shoulder-width apart.
+    - Engage your shoulders and pull your body up until your chin is above the bar.
+    - Lower yourself back down with control to the starting position.
 
-- **Technique Steps**:
-    - Stand with your feet shoulder-width apart, toes slightly pointed out.
-    - Initiate the squat by pushing your hips back and bending your knees.
-    - Keep your chest up and weight in your heels as you lower down.
-    - Go as low as you can while maintaining good form, ideally to parallel or below.
+- **Form Tips:**
+    - Avoid swinging; keep your body as still as possible.
+    - Focus on using your back muscles to pull yourself up, not just your arms.
+    - Keep your core tight to help stabilize your body.
 
-- **Form Tips**:
-    - Keep your knees tracking over your toes, not caving inward.
-    - Use your arms for balance by extending them in front of you.
+- **Scaling/Modifications:**
+    - If you’re not able to do strict pull-ups, use a **banded pull-up** for assistance.
+    - Alternatively, you can perform **Ring Rows** to build strength.
 
-- **Scaling/Modifications**:
-    - Use a box or bench to squat to if you need assistance with depth.
-    - Reduce the number of reps if necessary.
+---
 
-#### 5. **400m Run** (Repeat)
+### 4. 400 Meter Run
 
-- Same as previous runs. Focus on maintaining your breath and form.
+- **Technique Steps:**
+    - Start with a light jog to warm up your legs.
+    - Maintain a steady pace, focusing on your breathing.
+    - Keep your arms at a 90-degree angle and swing them naturally as you run.
 
-#### 6. **30 Push-Ups**
+- **Form Tips:**
+    - Land softly on your feet to reduce impact.
+    - Keep your head up and look ahead, not down at your feet.
+    - Relax your shoulders to avoid tension.
 
-- **Technique Steps**:
-    - Start in a plank position with your hands slightly wider than shoulder-width.
-    - Lower your body until your chest nearly touches the ground, keeping your elbows at a 45-degree angle.
-    - Push back up to the starting position, keeping your body straight throughout.
+- **Scaling/Modifications:**
+    - If running isn’t feasible, you can substitute with a **500-meter row** or **1-minute of jump rope**.
 
-- **Form Tips**:
-    - Engage your core to prevent sagging in your hips.
-    - If you struggle with full push-ups, drop to your knees.
-
-- **Scaling/Modifications**:
-    - Perform incline push-ups against a box or wall.
-    - Reduce the number of reps if needed.
-
-#### 7. **400m Run** (Final)
-
-- Finish strong! This is your last run, so dig deep and push through to the end.
+---
 
 ## Loading and Rep-Modification Options
 
-- **Sweat**: Focus on form and pacing. Consider reducing the distance of the runs to 200m and the reps of each movement to 15.
+- **Sweat:**
+    - Dumbbell Weight: 15/10 kg
+    - Modifications: Pike Push-Ups / Z-Press for handstand push-ups, Banded Pull-Ups / Ring Rows for pull-ups.
   
-- **Train**: Stick to the full distances and reps, but feel free to take short breaks as needed.
+- **Train:**
+    - Dumbbell Weight: 17.5/12.5 kg
+    - Focus on maintaining good form throughout the workout.
 
-- **Compete**: Aim to complete the workout as prescribed, pushing for a personal best time. Focus on maintaining a steady pace throughout.
+- **Compete:**
+    - Dumbbell Weight: 22.5/15 kg
+    - Push your limits, but listen to your body and adjust as needed.
 
 ### Strategy Advice
 
-- **Pacing**: Start with a manageable pace on the runs. It’s better to finish strong than to burn out early.
-- **Breaks**: Don’t be afraid to break up the movements into smaller sets, especially if you’re feeling fatigued.
-- **Mindset**: Remember, this workout is as much mental as it is physical. Stay positive and keep pushing through!
+- Aim for a steady pace throughout the workout; it’s better to maintain a consistent effort than to go all out and burn out early.
+- Break up the movements if needed, especially on the strict pull-ups and handstand push-ups, to avoid fatigue.
+- Keep an eye on the clock to ensure you’re ready to start each round on time!
 
-Alright team, let’s get out there and conquer The Impossible Mile! You’ve got this! 💪🏽
+Alright team, let’s get after it! Remember to focus on your form, listen to your body, and most importantly, have fun!
