@@ -1,140 +1,123 @@
-# CrossFit MINS Workout - 2025-10-10
+# CrossFit MINS Workout - 2025-10-12
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><br><li class="ml-4">Conditioning</li><li class="ml-4">For Time:</li><li class="ml-4">600m Run</li><li class="ml-4">25 Burpees to target</li><li class="ml-4">60 Toes to Bar</li><li class="ml-4">25 Burpees to target</li><li class="ml-4">600m Run</li><br><li class="ml-4">Sweat: 400 Meter Run</li><li class="ml-4">Train: 45 Toes to Bar</li><br><li class="ml-4">Accessory</li><li class="ml-4">4 Sets for Quality:</li><li class="ml-4">10 Banded Triceps Extensions</li><li class="ml-4">10/10 Kettlebell Side Bends</li><li class="ml-4">5/5 Suitcase Kettlebell Calf Raises</li><li class="ml-4">Rest 1 Minute</li>
+<p class="mb-2">WOD:</p><p class="mb-2">AMRAP 35</p><li class="ml-4">15 Pushups</li><li class="ml-4">20 Alt. Jumping Lunges</li><li class="ml-4">15 Tuck Ups</li><li class="ml-4">20 Double Kettlebell Deadlifts</li><li class="ml-4">15 Glute Bridges</li><br><p class="mb-2">Sweat: 16/8</p><p class="mb-2">Train: 20/12</p><p class="mb-2">Compete: 24/16</p>
 
 ### Expert Explanation
-# Workout Overview
+## Workout Overview
 
-Hey everyone! Today’s WOD is a great mix of conditioning and accessory work designed to build your endurance and strength. We’ll kick things off with a cardio-intensive conditioning piece that includes running, burpees, and toes to bar. This will really get your heart pumping and challenge your core. After that, we’ll move into some accessory work focusing on triceps, obliques, and calves to help support your overall strength and stability. 
+Hey everyone! Today’s WOD is an AMRAP (As Many Rounds As Possible) for 35 minutes. This workout is designed to challenge your muscular endurance, core stability, and overall conditioning. We’ll be moving through a series of bodyweight and kettlebell movements that will get your heart rate up and build strength. The goal here is to maintain good form throughout, so listen closely as we break down each movement!
 
-Let’s break it down step by step!
+## Step-by-Step Breakdown
 
-## Conditioning Segment [For Time]
-
-### 600m Run
+### 1. Push-Ups
 
 - **Technique Steps:**
-    - Start with a light jog to warm up your muscles.
-    - Maintain an upright posture with your shoulders back and relaxed.
-    - Use a midfoot strike to land softly, keeping your feet under your hips.
-    - Swing your arms naturally at your sides to help with momentum.
+    - Start in a plank position with your hands slightly wider than shoulder-width apart.
+    - Keep your body in a straight line from head to heels.
+    - Lower your chest towards the ground by bending your elbows, keeping them at about a 45-degree angle.
+    - Push through your palms to return to the starting position.
 
 - **Form Tips:**
-    - Keep your breathing steady; inhale through your nose and exhale through your mouth.
-    - Focus on a consistent pace rather than sprinting out of the gate.
-
+    - Engage your core to prevent sagging in your hips.
+    - Keep your neck neutral; don’t let your head drop or jut forward.
+  
 - **Scaling/Modifications:**
-    - If you're new to running or have any concerns, scale down to a 400m run or even a brisk walk.
-    - Consider using a treadmill if outdoor running isn’t an option.
+    - If full push-ups are challenging, drop to your knees for a knee push-up.
+    - Use an elevated surface (like a box or bench) for incline push-ups.
 
-### 25 Burpees to Target
+### 2. Alternating Jumping Lunges
 
 - **Technique Steps:**
-    - Start standing tall, then drop into a squat and place your hands on the ground.
-    - Jump your feet back into a plank position, ensuring your body is in a straight line.
-    - Perform a push-up (optional) and then jump your feet back towards your hands.
-    - Explode up into a jump, reaching your hands towards a target (like a pull-up bar or a wall).
+    - Start in a standing position.
+    - Step forward with one leg into a lunge, lowering your back knee toward the ground.
+    - Jump explosively, switching legs in mid-air, and land softly into the next lunge.
 
 - **Form Tips:**
-    - Keep your core engaged throughout the movement to maintain a strong plank position.
-    - Land softly on your feet when jumping up.
+    - Keep your front knee over your ankle; don’t let it go past your toes.
+    - Use your arms to help with balance and momentum.
 
 - **Scaling/Modifications:**
-    - Step back into the plank instead of jumping if you need to reduce impact.
-    - You can also perform a burpee without the push-up for a less intense version.
+    - If jumping is too intense, perform alternating reverse lunges instead.
+    - Reduce the number of reps if needed.
 
-### 60 Toes to Bar
+### 3. Tuck-Ups
 
 - **Technique Steps:**
-    - Hang from a pull-up bar with a grip slightly wider than shoulder-width.
-    - Engage your core and initiate the movement by bringing your knees up towards your chest.
-    - Once your knees are up, extend your legs and bring your toes to the bar, aiming to touch it with your toes.
+    - Lie flat on your back with your arms extended overhead and legs straight.
+    - Engage your core and simultaneously lift your legs and upper body, reaching your hands towards your shins.
+    - Lower back down with control and repeat.
 
 - **Form Tips:**
-    - Keep your shoulders engaged and avoid swinging too much.
-    - Focus on using your core rather than just your hip flexors.
+    - Keep your lower back pressed into the ground to protect your spine.
+    - Focus on using your core, not your neck, to lift.
 
 - **Scaling/Modifications:**
-    - If toes to bar are too challenging, scale to knee raises or hanging knee tucks.
-    - You can also perform the movement on a lower bar or use a band for assistance.
+    - If tuck-ups are too challenging, try bent-knee sit-ups or crunches.
+    - Reduce the number of reps if necessary.
 
-### 25 Burpees to Target (Repeat)
-
-- Just like before, focus on maintaining good form and pacing yourself through this second set of burpees.
-
-### 600m Run (Repeat)
-
-- Finish strong with another 600m run, keeping your form in check and pushing through to the end!
-
-## Accessory Segment [4 Sets for Quality]
-
-### 10 Banded Triceps Extensions
+### 4. Double Kettlebell Deadlifts
 
 - **Technique Steps:**
-    - Secure a resistance band overhead or to a sturdy object.
-    - Stand with your back to the band, holding the band with both hands behind your head.
-    - Extend your arms straight up, fully extending your elbows.
+    - Stand with your feet hip-width apart, kettlebells on the ground between your feet.
+    - Hinge at your hips and bend your knees to grasp the kettlebells.
+    - Keep your chest up and back flat as you lift the kettlebells by extending your hips and knees simultaneously.
 
 - **Form Tips:**
-    - Keep your elbows close to your head throughout the movement.
-    - Avoid arching your back; keep your core engaged.
+    - Keep the kettlebells close to your body as you lift.
+    - Avoid rounding your back; maintain a neutral spine throughout.
 
 - **Scaling/Modifications:**
-    - Use a lighter band if you’re struggling to maintain form.
-    - You can also perform this movement with a dumbbell if bands are not available.
+    - Use a single kettlebell for a single-arm deadlift if double kettlebells are too heavy.
+    - Reduce the weight of the kettlebells as needed.
 
-### 10/10 Kettlebell Side Bends
+### 5. Glute Bridges
 
 - **Technique Steps:**
-    - Stand with your feet shoulder-width apart, holding a kettlebell in one hand.
-    - Slowly bend to the side, bringing the kettlebell down towards your knee.
-    - Return to the starting position, engaging your obliques as you lift back up.
+    - Lie on your back with your knees bent and feet flat on the ground, hip-width apart.
+    - Press through your heels and lift your hips towards the ceiling, squeezing your glutes at the top.
+    - Lower back down with control and repeat.
 
 - **Form Tips:**
-    - Keep your back straight and avoid leaning forward or backward.
-    - Focus on controlled movements rather than rushing through.
+    - Keep your shoulders relaxed and avoid arching your back.
+    - Engage your core to maintain stability.
 
 - **Scaling/Modifications:**
-    - Use a lighter kettlebell or perform the movement without weight to focus on form.
-
-### 5/5 Suitcase Kettlebell Calf Raises
-
-- **Technique Steps:**
-    - Hold a kettlebell in one hand and stand tall.
-    - Raise up onto the balls of your feet, squeezing your calves at the top.
-    - Lower back down slowly and repeat.
-
-- **Form Tips:**
-    - Keep your core engaged to maintain balance.
-    - Avoid rolling your ankles; keep your feet straight.
-
-- **Scaling/Modifications:**
-    - Perform calf raises without weight if needed.
-    - You can also do these on a step for a greater range of motion.
-
-### Rest 1 Minute
-
-- Use this time to hydrate and prepare for the next set. Focus on your breathing and shake out any tight muscles.
+    - If you want more challenge, try single-leg glute bridges.
+    - Reduce the number of reps if necessary.
 
 ## Loading and Rep-Modification Options
 
 - **Sweat:** 
-    - 400m Run, 15 Burpees, 30 Toes to Bar (focus on form and pacing).
-  
-- **Train:** 
-    - Stick with the prescribed reps but consider scaling the run to 500m if needed.
+    - Push-Ups: 10-12 reps, Knee Push-Ups if needed.
+    - Jumping Lunges: 10-12 reps per leg.
+    - Tuck-Ups: 10-12 reps, use bent-knee sit-ups if needed.
+    - Double Kettlebell Deadlifts: 16/8 kg.
+    - Glute Bridges: 10-12 reps.
 
-- **Compete:** 
-    - Go for the full workout as prescribed, aiming for a strong finish. Push your limits but listen to your body!
+- **Train:**
+    - Push-Ups: 15 reps.
+    - Jumping Lunges: 15 reps per leg.
+    - Tuck-Ups: 15 reps.
+    - Double Kettlebell Deadlifts: 20/12 kg.
+    - Glute Bridges: 15 reps.
+
+- **Compete:**
+    - Push-Ups: 15 reps.
+    - Jumping Lunges: 20 reps per leg.
+    - Tuck-Ups: 15 reps.
+    - Double Kettlebell Deadlifts: 24/16 kg.
+    - Glute Bridges: 15 reps.
 
 ### Strategy Advice
 
-- For the conditioning piece, pacing is key. Start strong but find a rhythm that you can maintain throughout the workout. Break up the burpees and toes to bar into manageable sets if needed. For the accessory work, focus on quality over quantity; it’s about building strength, so take your time with each rep.
+- Pace yourself! This is a longer AMRAP, so find a rhythm that you can maintain throughout the 35 minutes.
+- Break up the movements into manageable sets, especially if you start to feel fatigued.
+- Focus on quality over quantity; maintaining good form will help prevent injury and keep you moving efficiently.
 
-Alright team, let’s get after it! Remember to have fun and challenge yourselves today! 💪
+Alright team, let’s get warmed up and ready to crush this WOD! Remember to listen to your body and have fun!
 
 ---
-*Generated on 2025-10-10T06:08:17.084Z using AI assistance*
+*Generated on 2025-10-12T06:07:30.651Z using AI assistance*
