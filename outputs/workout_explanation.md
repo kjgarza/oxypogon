@@ -1,123 +1,89 @@
-# CrossFit MINS Workout - 2025-10-12
+# CrossFit MINS Workout - 2025-10-13
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><p class="mb-2">AMRAP 35</p><li class="ml-4">15 Pushups</li><li class="ml-4">20 Alt. Jumping Lunges</li><li class="ml-4">15 Tuck Ups</li><li class="ml-4">20 Double Kettlebell Deadlifts</li><li class="ml-4">15 Glute Bridges</li><br><p class="mb-2">Sweat: 16/8</p><p class="mb-2">Train: 20/12</p><p class="mb-2">Compete: 24/16</p>
+<p class="mb-2">WOD:</p><br><li class="ml-4">Hang Clean and Jerk</li><p class="mb-2">On the 2:00 x 6</p><p class="mb-2">1 Hang Power Clean + 2 Shoulder to Overhead</p><p class="mb-2">*start at 50% and build to 80-85% of 1 RM S2OH</p><br><li class="ml-4">Conditioning</li><p class="mb-2">For Time:</p><p class="mb-2">5-10-15-20</p><p class="mb-2">Hang Power Cleans</p><p class="mb-2">1 Hill Run</p><p class="mb-2">Shoulder to Overhead</p><p class="mb-2">1 Hill Run</p><br><p class="mb-2">Weights:</p><p class="mb-2">Sweat: 30/20</p><p class="mb-2">Train: 45/30</p><p class="mb-2">Compete: 60/40</p>
 
 ### Expert Explanation
 ## Workout Overview
 
-Hey everyone! Today’s WOD is an AMRAP (As Many Rounds As Possible) for 35 minutes. This workout is designed to challenge your muscular endurance, core stability, and overall conditioning. We’ll be moving through a series of bodyweight and kettlebell movements that will get your heart rate up and build strength. The goal here is to maintain good form throughout, so listen closely as we break down each movement!
+Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your power and endurance. We’ll kick things off with a strength segment focusing on the Hang Clean and Jerk, where we’ll work on our technique and build up to a heavier weight. Then, we’ll dive into a conditioning piece that combines Hang Power Cleans and Shoulder to Overhead with some hill runs to really get that heart rate up. The goal here is to improve your strength while also pushing your cardiovascular limits. Let’s break it down!
 
-## Step-by-Step Breakdown
+## Strength Segment
 
-### 1. Push-Ups
-
-- **Technique Steps:**
-    - Start in a plank position with your hands slightly wider than shoulder-width apart.
-    - Keep your body in a straight line from head to heels.
-    - Lower your chest towards the ground by bending your elbows, keeping them at about a 45-degree angle.
-    - Push through your palms to return to the starting position.
-
-- **Form Tips:**
-    - Engage your core to prevent sagging in your hips.
-    - Keep your neck neutral; don’t let your head drop or jut forward.
-  
-- **Scaling/Modifications:**
-    - If full push-ups are challenging, drop to your knees for a knee push-up.
-    - Use an elevated surface (like a box or bench) for incline push-ups.
-
-### 2. Alternating Jumping Lunges
+### Hang Clean and Jerk (Barbell)
 
 - **Technique Steps:**
-    - Start in a standing position.
-    - Step forward with one leg into a lunge, lowering your back knee toward the ground.
-    - Jump explosively, switching legs in mid-air, and land softly into the next lunge.
+    1. **Setup**: Start with the barbell on the ground. Stand with your feet hip-width apart, and grip the bar just outside your knees.
+    2. **Hang Position**: Hinge at your hips and knees, lowering the bar to just above your knees. Keep your back flat and chest up.
+    3. **The Clean**: Explode through your legs, extending your hips and knees while pulling the bar up. As the bar reaches your hips, drop under it into a squat position, catching it on your shoulders.
+    4. **The Jerk**: Stand up from the squat, then dip slightly at the knees and drive the bar overhead, locking out your arms. 
+    5. **Reset**: Lower the bar back to your shoulders, then back to the hang position to repeat.
 
 - **Form Tips:**
-    - Keep your front knee over your ankle; don’t let it go past your toes.
-    - Use your arms to help with balance and momentum.
+    - Keep the bar close to your body throughout the movement.
+    - Ensure your elbows are high when catching the bar on your shoulders.
+    - Drive through your legs during the jerk, not just your arms.
 
 - **Scaling/Modifications:**
-    - If jumping is too intense, perform alternating reverse lunges instead.
-    - Reduce the number of reps if needed.
+    - If you’re new to this movement, consider using a lighter barbell or even a PVC pipe to focus on form.
+    - You can also break the movement into two parts: practice Hang Power Cleans and Shoulder to Overhead separately.
 
-### 3. Tuck-Ups
+- **Loading:**
+    - Start at 50% of your 1RM for the first set and gradually build up to 80-85% by the last set. This progressive loading helps you focus on technique while also preparing your body for heavier lifts.
 
-- **Technique Steps:**
-    - Lie flat on your back with your arms extended overhead and legs straight.
-    - Engage your core and simultaneously lift your legs and upper body, reaching your hands towards your shins.
-    - Lower back down with control and repeat.
+## Conditioning Segment [For Time]
 
-- **Form Tips:**
-    - Keep your lower back pressed into the ground to protect your spine.
-    - Focus on using your core, not your neck, to lift.
+### 5-10-15-20 Reps of:
 
-- **Scaling/Modifications:**
-    - If tuck-ups are too challenging, try bent-knee sit-ups or crunches.
-    - Reduce the number of reps if necessary.
+1. **Hang Power Cleans**
+    - **Technique Steps:**
+        1. Start in the same hang position as before.
+        2. Hinge at your hips, then explosively pull the bar up, catching it in a quarter squat.
+        3. Stand tall to finish the rep.
+    - **Form Tips:**
+        - Keep your elbows high and the bar close to your body.
+        - Use your legs to drive the bar up, not just your arms.
+    - **Scaling/Modifications:**
+        - Use a lighter barbell or dumbbells if needed.
+        - Reduce the number of reps if you’re still mastering the movement.
 
-### 4. Double Kettlebell Deadlifts
+2. **Hill Run**
+    - **Technique Steps:**
+        1. Start with a strong, steady pace as you approach the hill.
+        2. Maintain an upright posture and drive your knees up as you run.
+        3. Focus on your breathing and keep a consistent rhythm.
+    - **Form Tips:**
+        - Use your arms to help drive your legs; they should move in sync.
+        - Shorten your stride slightly to maintain speed and control on the incline.
+    - **Scaling/Modifications:**
+        - If running isn’t an option, consider a brisk walk or a rowing machine for a similar cardio effect.
 
-- **Technique Steps:**
-    - Stand with your feet hip-width apart, kettlebells on the ground between your feet.
-    - Hinge at your hips and bend your knees to grasp the kettlebells.
-    - Keep your chest up and back flat as you lift the kettlebells by extending your hips and knees simultaneously.
+3. **Shoulder to Overhead**
+    - **Technique Steps:**
+        1. Start with the barbell at your shoulders.
+        2. Dip slightly at the knees, then drive the bar overhead, locking out your arms.
+        3. Lower the bar back to your shoulders to repeat.
+    - **Form Tips:**
+        - Keep your core tight to stabilize your body.
+        - Ensure your elbows are locked out at the top of the movement.
+    - **Scaling/Modifications:**
+        - Use a lighter barbell or dumbbells if needed.
+        - You can also perform Push Presses instead of a full Shoulder to Overhead if you’re still building strength.
 
-- **Form Tips:**
-    - Keep the kettlebells close to your body as you lift.
-    - Avoid rounding your back; maintain a neutral spine throughout.
+### Loading Options:
 
-- **Scaling/Modifications:**
-    - Use a single kettlebell for a single-arm deadlift if double kettlebells are too heavy.
-    - Reduce the weight of the kettlebells as needed.
+- **Sweat**: 30/20 kg DB, focus on form and technique.
+- **Train**: 45/30 kg DB, challenge yourself but maintain good form.
+- **Compete**: 60/40 kg DB, push your limits, but listen to your body.
 
-### 5. Glute Bridges
+### Strategy Advice:
 
-- **Technique Steps:**
-    - Lie on your back with your knees bent and feet flat on the ground, hip-width apart.
-    - Press through your heels and lift your hips towards the ceiling, squeezing your glutes at the top.
-    - Lower back down with control and repeat.
+- For the conditioning piece, aim for a steady pace. It’s better to break up the Hang Power Cleans and Shoulder to Overhead into manageable sets rather than going all out and burning out early.
+- Keep your transitions smooth, especially between the lifts and the hill runs. This will help maintain your heart rate and keep you moving efficiently throughout the workout.
 
-- **Form Tips:**
-    - Keep your shoulders relaxed and avoid arching your back.
-    - Engage your core to maintain stability.
-
-- **Scaling/Modifications:**
-    - If you want more challenge, try single-leg glute bridges.
-    - Reduce the number of reps if necessary.
-
-## Loading and Rep-Modification Options
-
-- **Sweat:** 
-    - Push-Ups: 10-12 reps, Knee Push-Ups if needed.
-    - Jumping Lunges: 10-12 reps per leg.
-    - Tuck-Ups: 10-12 reps, use bent-knee sit-ups if needed.
-    - Double Kettlebell Deadlifts: 16/8 kg.
-    - Glute Bridges: 10-12 reps.
-
-- **Train:**
-    - Push-Ups: 15 reps.
-    - Jumping Lunges: 15 reps per leg.
-    - Tuck-Ups: 15 reps.
-    - Double Kettlebell Deadlifts: 20/12 kg.
-    - Glute Bridges: 15 reps.
-
-- **Compete:**
-    - Push-Ups: 15 reps.
-    - Jumping Lunges: 20 reps per leg.
-    - Tuck-Ups: 15 reps.
-    - Double Kettlebell Deadlifts: 24/16 kg.
-    - Glute Bridges: 15 reps.
-
-### Strategy Advice
-
-- Pace yourself! This is a longer AMRAP, so find a rhythm that you can maintain throughout the 35 minutes.
-- Break up the movements into manageable sets, especially if you start to feel fatigued.
-- Focus on quality over quantity; maintaining good form will help prevent injury and keep you moving efficiently.
-
-Alright team, let’s get warmed up and ready to crush this WOD! Remember to listen to your body and have fun!
+Alright, team! Let’s get after it, focus on our form, and have some fun! Remember, it’s all about progress, so listen to your body and enjoy the workout!
 
 ---
-*Generated on 2025-10-12T06:07:30.651Z using AI assistance*
+*Generated on 2025-10-13T06:09:28.220Z using AI assistance*
