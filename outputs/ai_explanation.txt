@@ -1,112 +1,100 @@
 ## Workout Overview
 
-Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that’s going to challenge your legs, core, and cardiovascular endurance. We’ll kick things off with a strength segment focusing on Front Squats, where we’ll progressively build up to a heavy single. Then, we’ll dive into a conditioning piece that includes rowing, front squats, and toes to bar, designed to test your stamina and grit. Let’s break it down step by step!
+Hey everyone! Today we’re diving into a benchmark workout called "DORK." This WOD is structured as 6 rounds for time, which means we’re going to be pushing ourselves to complete the rounds as quickly as possible while maintaining good form. The goal here is to build cardiovascular endurance, improve our skill with double-unders, and develop strength and power through kettlebell swings and burpees. Let’s break it down step by step!
 
 ---
 
-## Strength Segment
+## Main Workout: "DORK"
 
-### Front Squat
+### 1. Double-Unders (60 reps)
 
-**Overview:**
-The Front Squat is a key movement that emphasizes leg strength, core stability, and proper squat mechanics. It’s crucial to maintain good form to prevent injury and maximize effectiveness.
+- **Technique Steps:**
+    - Start with the jump rope behind your heels.
+    - Grip the handles lightly and keep your elbows close to your sides.
+    - Jump off the balls of your feet, keeping your knees slightly bent.
+    - As you jump, flick your wrists to make the rope spin faster, aiming to pass the rope under your feet twice before landing.
+  
+- **Form Tips:**
+    - Keep your jumps low; you don’t need to jump high for double-unders.
+    - Focus on a smooth, rhythmic motion with your wrists rather than your arms.
+  
+- **Scaling/Modifications:**
+    - If you’re new to double-unders, switch to single-unders (120 reps) to build your confidence and coordination.
+    - You can also try doing double-under attempts for a set time (e.g., 1 minute) to practice without counting reps.
 
-#### Technique Steps:
-1. **Setup**: Start by placing the barbell on your front rack position. This means resting it on your shoulders with your elbows high and your hands gripping the bar.
-2. **Feet Position**: Stand with your feet shoulder-width apart, toes slightly pointed out.
-3. **Engage Core**: Take a deep breath, brace your core, and keep your chest up.
-4. **Descent**: Initiate the squat by bending at the knees and hips simultaneously. Keep your elbows high and your torso upright as you lower down.
-5. **Depth**: Aim to get your thighs parallel to the ground or lower, while keeping your heels flat on the floor.
-6. **Ascent**: Push through your heels to stand back up, driving your knees out and maintaining that upright torso.
+### 2. Kettlebell Swings (30 reps)
 
-#### Form Tips:
-- Keep your elbows high throughout the movement to prevent the bar from rolling forward.
-- Focus on keeping your weight in your heels and your chest up to maintain balance.
-- Use a mirror or ask a coach for feedback on your form.
+- **Technique Steps:**
+    - Stand with your feet shoulder-width apart, kettlebell on the ground in front of you.
+    - Hinge at your hips and bend your knees slightly to grab the kettlebell with both hands.
+    - Swing the kettlebell back between your legs, keeping your back straight.
+    - Drive your hips forward to swing the kettlebell up to shoulder height, locking out your arms at the top.
+  
+- **Form Tips:**
+    - Use your hips, not your arms, to generate power for the swing.
+    - Keep your core engaged and your back flat throughout the movement.
+  
+- **Scaling/Modifications:**
+    - Use a lighter kettlebell if you’re still mastering the movement.
+    - If kettlebells aren’t available, you can substitute with dumbbell swings or even a medicine ball slam.
 
-#### Scaling/Modifications:
-- If you’re new to this movement, consider using a lighter barbell or even a PVC pipe to practice the mechanics.
-- You can also perform Front Squats with a kettlebell or dumbbell held in the goblet position.
+### 3. Burpees (15 reps)
 
-#### Loading:
-- **Sweat**: Start at 50-60% of your 1RM.
-- **Train**: Build up to 70-80% of your 1RM.
-- **Compete**: Aim for 90% of your 1RM.
-
----
-
-## Conditioning Segment [12 Intervals on the 1:30]
-
-### 1. Row for Calories
-
-**Overview:**
-Rowing is a great way to build aerobic capacity and engage multiple muscle groups. The goal here is to accumulate calories efficiently.
-
-#### Technique Steps:
-1. **Setup**: Sit on the rower with your feet secured in the straps.
-2. **Grip**: Hold the handle with both hands, palms facing down.
-3. **Drive**: Start with your legs, pushing through your heels while leaning back slightly and pulling the handle towards your chest.
-4. **Recovery**: Extend your arms, lean forward, and bend your knees to return to the starting position.
-
-#### Form Tips:
-- Keep your back straight and avoid hunching over.
-- Use your legs to drive the power, not just your arms.
-
-#### Scaling/Modifications:
-- Adjust the damper setting on the rower to make it easier or harder.
-- If rowing isn’t an option, you can substitute with a bike or run.
-
-#### Loading:
-- **Sweat**: 19/14 Calories
-- **Train**: 22/17 Calories
-- **Compete**: 25/20 Calories
+- **Technique Steps:**
+    - Start standing tall, then drop into a squat position with your hands on the ground.
+    - Jump your feet back into a plank position, keeping your body straight.
+    - Perform a push-up (optional, depending on your fitness level).
+    - Jump your feet back to your hands and explosively jump up, reaching your arms overhead.
+  
+- **Form Tips:**
+    - Keep your core tight during the plank to avoid sagging your hips.
+    - Land softly when you jump up to reduce impact on your joints.
+  
+- **Scaling/Modifications:**
+    - Step back instead of jumping if you need to modify the movement.
+    - You can also do a burpee without the push-up for a lower intensity option.
 
 ---
 
-### 2. Front Squats (15 Reps)
+## Loading and Rep-Modification Options
 
-**Overview:**
-This is a repeat of the strength segment but in a conditioning context. You’ll be moving quickly, so focus on maintaining form under fatigue.
+### Sweat:
+- **Double-Unders:** 120 Single Unders
+- **Kettlebell Swings:** 16/8 kg
+- **Burpees:** 10 reps
 
-#### Technique Steps:
-- Follow the same steps as outlined in the strength segment.
+### Train:
+- **Double-Unders:** 40 Double Unders
+- **Kettlebell Swings:** 20/12 kg
+- **Burpees:** 15 reps
 
-#### Scaling/Modifications:
-- Use a lighter weight if you’re feeling fatigued or if your form starts to break down.
+### Compete:
+- **Double-Unders:** 24/16 kg
+- **Kettlebell Swings:** 24/16 kg
+- **Burpees:** 15 reps
 
----
-
-### 3. Toes to Bar
-
-**Overview:**
-Toes to bar is a fantastic core exercise that also engages your shoulders and grip. It’s important to maintain control throughout the movement.
-
-#### Technique Steps:
-1. **Hang Position**: Start by hanging from a pull-up bar with your arms fully extended.
-2. **Engage Core**: Activate your core and pull your legs up towards the bar.
-3. **Lift**: As you lift your legs, aim to touch your toes to the bar while keeping your body controlled.
-4. **Lower**: Slowly lower your legs back to the starting position.
-
-#### Form Tips:
-- Keep your shoulders engaged and avoid swinging.
-- Use a kipping motion if you’re comfortable, but focus on control.
-
-#### Scaling/Modifications:
-- If toes to bar is too challenging, you can scale to knee raises or straight leg raises.
-
-#### Loading:
-- **Sweat**: 20 Knee / Straight Leg Raises
-- **Train**: 15 Toes to Bar
-- **Compete**: 20 Toes to Bar
+### Strategy Advice:
+- For the "Sweat" option, focus on maintaining a steady pace and breaking up the reps if needed to avoid burnout.
+- In the "Train" and "Compete" options, aim to keep transitions quick between movements to maintain your heart rate and momentum. Don’t be afraid to break sets into smaller chunks if you start to feel fatigued.
 
 ---
 
-## Strategy Advice
+## Accessory Work
 
-- **Pacing**: For the rowing, find a steady pace that you can maintain throughout the intervals. Don’t go all out on the first round; save some energy for the later rounds.
-- **Breaking Up Sets**: For the front squats, consider breaking them into smaller sets if needed (e.g., 8-7 or 5-5-5) to maintain form.
-- **Core Control**: On the toes to bar, focus on controlled movements rather than speed to avoid swinging.
+After we crush the WOD, we’ll move into some accessory work to help with muscle recovery and strength:
+
+### 1. Dumbbell Chest Flys (3 Sets of 10 reps)
+- **Technique:** Lie on a bench, hold dumbbells above your chest, and lower them out to the sides in a controlled manner, then bring them back together.
+- **Form Tips:** Keep a slight bend in your elbows and avoid letting the weights drop too low.
+
+### 2. Banded Hamstring Curls (3 Sets of 10 reps)
+- **Technique:** Attach a resistance band to a low anchor, loop it around your ankle, and curl your heel towards your glutes.
+- **Form Tips:** Keep your hips stable and avoid arching your back.
+
+### 3. Arch Hold (3 Sets of 20-30 seconds)
+- **Technique:** Lie face down, lift your arms and legs off the ground, and hold.
+- **Form Tips:** Keep your neck neutral and focus on squeezing your glutes and lower back.
 
 ---
 
-That’s it, team! Remember to listen to your body, focus on your form, and have fun with it. Let’s get after it today! 💪
+Alright team, let’s get ready to tackle this workout! Remember to listen to your body, focus on your form, and most importantly, have fun! Let’s crush it! 💪
