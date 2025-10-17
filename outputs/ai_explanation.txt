@@ -1,100 +1,92 @@
-## Workout Overview
+# Workout Overview
 
-Hey everyone! Today we’re diving into a benchmark workout called "DORK." This WOD is structured as 6 rounds for time, which means we’re going to be pushing ourselves to complete the rounds as quickly as possible while maintaining good form. The goal here is to build cardiovascular endurance, improve our skill with double-unders, and develop strength and power through kettlebell swings and burpees. Let’s break it down step by step!
+Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your endurance and technique. We’ll start with a strength segment focusing on Deadlifts, where we’ll build from a lighter load to something heavier, aiming for 75-80% of your one-rep max (1RM). After that, we’ll dive into two AMRAP (As Many Rounds As Possible) conditioning pieces that will keep your heart rate up and test your stamina. 
 
----
+Let’s break it down step by step!
 
-## Main Workout: "DORK"
+## Strength Segment
 
-### 1. Double-Unders (60 reps)
-
-- **Technique Steps:**
-    - Start with the jump rope behind your heels.
-    - Grip the handles lightly and keep your elbows close to your sides.
-    - Jump off the balls of your feet, keeping your knees slightly bent.
-    - As you jump, flick your wrists to make the rope spin faster, aiming to pass the rope under your feet twice before landing.
-  
-- **Form Tips:**
-    - Keep your jumps low; you don’t need to jump high for double-unders.
-    - Focus on a smooth, rhythmic motion with your wrists rather than your arms.
-  
-- **Scaling/Modifications:**
-    - If you’re new to double-unders, switch to single-unders (120 reps) to build your confidence and coordination.
-    - You can also try doing double-under attempts for a set time (e.g., 1 minute) to practice without counting reps.
-
-### 2. Kettlebell Swings (30 reps)
+### Deadlift
 
 - **Technique Steps:**
-    - Stand with your feet shoulder-width apart, kettlebell on the ground in front of you.
-    - Hinge at your hips and bend your knees slightly to grab the kettlebell with both hands.
-    - Swing the kettlebell back between your legs, keeping your back straight.
-    - Drive your hips forward to swing the kettlebell up to shoulder height, locking out your arms at the top.
-  
+    1. **Setup**: Stand with your feet hip-width apart, barbell over the middle of your feet. Bend at the hips and knees to grip the bar just outside your legs.
+    2. **Position**: Keep your chest up, back flat, and shoulders slightly in front of the bar. Your hips should be lower than your shoulders.
+    3. **Lift**: Engage your core, push through your heels, and extend your hips and knees simultaneously to lift the bar. Keep the bar close to your body.
+    4. **Finish**: Stand tall at the top, squeezing your glutes, then reverse the movement by hinging at the hips and bending your knees to lower the bar back to the ground.
+
 - **Form Tips:**
-    - Use your hips, not your arms, to generate power for the swing.
-    - Keep your core engaged and your back flat throughout the movement.
-  
+    - Maintain a neutral spine throughout the lift; avoid rounding your back.
+    - Keep your weight in your heels and drive through your midfoot.
+    - Don’t rush; focus on controlled movements to prevent injury.
+
 - **Scaling/Modifications:**
-    - Use a lighter kettlebell if you’re still mastering the movement.
-    - If kettlebells aren’t available, you can substitute with dumbbell swings or even a medicine ball slam.
+    - If you’re new to deadlifting, consider using a lighter barbell or even a kettlebell to practice the movement.
+    - You can also perform the deadlift from a raised platform (like a box) to reduce the range of motion.
 
-### 3. Burpees (15 reps)
+- **Loading:**
+    - **Sweat**: Start at 50% of your 1RM, aiming for 60-65% by the last set.
+    - **Train**: Build to 70-75% of your 1RM.
+    - **Compete**: Aim for 75-80% of your 1RM.
 
-- **Technique Steps:**
-    - Start standing tall, then drop into a squat position with your hands on the ground.
-    - Jump your feet back into a plank position, keeping your body straight.
-    - Perform a push-up (optional, depending on your fitness level).
-    - Jump your feet back to your hands and explosively jump up, reaching your arms overhead.
+## Conditioning Segment
+
+### AMRAP 8: Alternating Dumbbell Snatch & Cal. Ski Erg
+
+- **Alternating Dumbbell Snatch (2,2,4,4,6,6...)**:
+    - **Technique Steps**:
+        1. Start with the dumbbell on the ground between your feet.
+        2. Hinge at your hips, grab the dumbbell with one hand, and explosively drive it overhead in one fluid motion.
+        3. Switch hands at the top of the movement and lower the dumbbell back to the ground.
+    
+    - **Form Tips**:
+        - Keep your back straight and core engaged during the lift.
+        - Use your legs to drive the weight up, not just your arms.
+    
+    - **Scaling/Modifications**:
+        - Use a lighter dumbbell if you’re still mastering the movement.
+        - If you’re new, you can perform the snatch from a hang position (just above the knees) instead of the ground.
+
+- **Cal. Ski Erg**:
+    - **Technique Steps**:
+        1. Stand tall with your feet hip-width apart, gripping the handles of the Ski Erg.
+        2. Engage your core and pull the handles down in a smooth motion, using your legs and arms together.
+        3. Return to the starting position with control.
+    
+    - **Form Tips**:
+        - Keep your back straight and avoid leaning too far forward or back.
+        - Focus on using your legs to drive the movement, not just your arms.
+
+    - **Scaling/Modifications**:
+        - If you don’t have access to a Ski Erg, you can substitute with a rowing machine or even burpees for a similar cardio effect.
+
+### Rest 1 Minute
+
+### AMRAP 8: Alternating Dumbbell Hang Snatch & Hill Run
+
+- **Alternating Dumbbell Hang Snatch (10 reps)**:
+    - Follow the same technique as above, but this time start from the hang position (dumbbell just above the knees).
   
-- **Form Tips:**
-    - Keep your core tight during the plank to avoid sagging your hips.
-    - Land softly when you jump up to reduce impact on your joints.
-  
-- **Scaling/Modifications:**
-    - Step back instead of jumping if you need to modify the movement.
-    - You can also do a burpee without the push-up for a lower intensity option.
+- **Hill Run (1 rep)**:
+    - **Technique Steps**:
+        1. Start at the bottom of the hill, standing tall.
+        2. Engage your core and drive your knees up as you run uphill.
+        3. Focus on maintaining a steady pace and breathing rhythm.
+    
+    - **Form Tips**:
+        - Keep your arms bent at 90 degrees and pump them to help drive your legs.
+        - Stay light on your feet and avoid overstriding.
 
----
+    - **Scaling/Modifications**:
+        - If running isn’t an option, consider a 200m shuttle run or a stationary bike for a similar cardio challenge.
 
-## Loading and Rep-Modification Options
+## Loading Options
 
-### Sweat:
-- **Double-Unders:** 120 Single Unders
-- **Kettlebell Swings:** 16/8 kg
-- **Burpees:** 10 reps
+- **Sweat**: Use 15/10 kg dumbbells for the snatches and focus on form and pacing.
+- **Train**: Use 17.5/12.5 kg dumbbells, aiming for a moderate challenge.
+- **Compete**: Go for 22.5/15 kg dumbbells, pushing your limits while maintaining good technique.
 
-### Train:
-- **Double-Unders:** 40 Double Unders
-- **Kettlebell Swings:** 20/12 kg
-- **Burpees:** 15 reps
+### Strategy Advice
 
-### Compete:
-- **Double-Unders:** 24/16 kg
-- **Kettlebell Swings:** 24/16 kg
-- **Burpees:** 15 reps
+- For the conditioning pieces, aim for a steady pace. It’s better to break up your sets early rather than going all out and burning out quickly, especially on the core and grip-intensive movements. Focus on maintaining good form throughout, and remember to breathe!
 
-### Strategy Advice:
-- For the "Sweat" option, focus on maintaining a steady pace and breaking up the reps if needed to avoid burnout.
-- In the "Train" and "Compete" options, aim to keep transitions quick between movements to maintain your heart rate and momentum. Don’t be afraid to break sets into smaller chunks if you start to feel fatigued.
-
----
-
-## Accessory Work
-
-After we crush the WOD, we’ll move into some accessory work to help with muscle recovery and strength:
-
-### 1. Dumbbell Chest Flys (3 Sets of 10 reps)
-- **Technique:** Lie on a bench, hold dumbbells above your chest, and lower them out to the sides in a controlled manner, then bring them back together.
-- **Form Tips:** Keep a slight bend in your elbows and avoid letting the weights drop too low.
-
-### 2. Banded Hamstring Curls (3 Sets of 10 reps)
-- **Technique:** Attach a resistance band to a low anchor, loop it around your ankle, and curl your heel towards your glutes.
-- **Form Tips:** Keep your hips stable and avoid arching your back.
-
-### 3. Arch Hold (3 Sets of 20-30 seconds)
-- **Technique:** Lie face down, lift your arms and legs off the ground, and hold.
-- **Form Tips:** Keep your neck neutral and focus on squeezing your glutes and lower back.
-
----
-
-Alright team, let’s get ready to tackle this workout! Remember to listen to your body, focus on your form, and most importantly, have fun! Let’s crush it! 💪
+Alright, team! Let’s get warmed up and ready to tackle this WOD. Remember, it’s all about quality movement and pushing your limits safely. Let’s crush it! 💪
