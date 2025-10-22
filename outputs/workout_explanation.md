@@ -1,113 +1,133 @@
-# CrossFit MINS Workout - 2025-10-20
+# CrossFit MINS Workout - 2025-10-22
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><br><p class="mb-2">**Date:** 18.10.2025</p><br><p class="mb-2">**Format:** Team Workout (In Teams of 2)</p><br><p class="mb-2">**For Time:**</p><li class="ml-4">80 Handstand Push-Ups (HSPU)</li><li class="ml-4">120 Thrusters</li><li class="ml-4">160 Knees-to-Elbows</li><li class="ml-4">200 Box Step-Ups (24"/20")</li><br><p class="mb-2">**Weight Options:**</p><li class="ml-4">Sweat: 30/20 kg; Knee to Hips</li><li class="ml-4">Train: 37.5/27.5 kg; Knee to Chest</li><li class="ml-4">Compete: 45/35 kg</li>
+<p class="mb-2">**WOD: 22.10.2025**</p><br><li class="ml-4">**Upper Body Push**</li><p class="mb-2">Every 2 min x 5</p><li class="ml-4">Beginner: 10-15 sec Ring/Box Support + 8 Bench Dips</li><li class="ml-4">Intermediate: 2-5 Strict Ring Dips</li><li class="ml-4">Advanced: 5 Weighted Ring Dips OR 1 RMU + 3 Ring Dips</li><br><li class="ml-4">**Conditioning**</li><p class="mb-2">8 x 1:00 On / 1:00 Off</p><li class="ml-4">12 unbroken Push Press</li><li class="ml-4">6 Box Jumps (30/24)</li><li class="ml-4">Max Bike ME</li><br><p class="mb-2">**Sweat:** 20/10</p><p class="mb-2">**Train:** 30/20</p><p class="mb-2">**Compete:** 40/30</p>
 
 ### Expert Explanation
-## Workout Overview
+# Workout Overview
 
-Hey team! Today’s WOD is a team workout designed to challenge your strength, endurance, and teamwork. We’ll be tackling a series of movements that will test your upper body strength, core stability, and leg endurance. The goal is to complete the following for time:
+Hey everyone! Today’s WOD is a fantastic blend of upper body strength and conditioning. We’ll kick things off with a focused upper body push segment, where we’ll work on our pressing strength and stability. Then, we’ll dive into a conditioning piece that will really get your heart pumping and test your endurance. The goal here is to build strength while also improving your cardiovascular fitness. Let’s break it down!
 
-- **80 Handstand Push-Ups (HSPU)**
-- **120 Thrusters**
-- **160 Knees-to-Elbows**
-- **200 Box Step-Ups (24"/20")**
+## Upper Body Push
 
-This workout is structured to push your limits while working together with a partner. Remember, communication and pacing are key!
+### Every 2 min x 5
+
+This segment is all about building upper body strength and stability. We have different options based on your experience level, so everyone can find a challenge that suits them!
+
+#### Beginner: 10-15 sec Ring/Box Support + 8 Bench Dips
+
+- **Technique Steps:**
+    1. **Ring/Box Support:** Start by either holding onto rings or placing your hands on a box. Engage your core and keep your body straight. Hold for 10-15 seconds.
+    2. **Bench Dips:** Sit on the edge of a bench, hands next to your hips. Lower your body by bending your elbows, keeping them close to your sides, then push back up.
+
+- **Form Tips:**
+    - For the support, keep your shoulders down and away from your ears.
+    - During dips, avoid flaring your elbows out; keep them tucked in.
+
+- **Scaling/Modifications:**
+    - If you’re struggling with the support, you can do a wall support instead.
+    - For dips, you can bend your knees to make it easier or elevate your feet for more challenge.
+
+#### Intermediate: 2-5 Strict Ring Dips
+
+- **Technique Steps:**
+    1. Grab the rings and jump up to a support position.
+    2. Lower yourself down by bending your elbows, keeping your body straight.
+    3. Push back up to the starting position.
+
+- **Form Tips:**
+    - Keep your body as vertical as possible.
+    - Engage your lats to help control the movement.
+
+- **Scaling/Modifications:**
+    - If strict ring dips are too challenging, you can perform them on a box or use a band for assistance.
+
+#### Advanced: 5 Weighted Ring Dips OR 1 RMU + 3 Ring Dips
+
+- **Technique Steps:**
+    1. For weighted dips, add a weight belt or hold a dumbbell between your feet.
+    2. For the RMU (Ring Muscle Up), start in a support position, transition through the dip, and finish in a pull-up position.
+
+- **Form Tips:**
+    - Maintain a strong core throughout the movement.
+    - For muscle-ups, focus on the transition; it’s all about timing and technique.
+
+- **Scaling/Modifications:**
+    - If weighted dips are too much, stick to bodyweight dips.
+    - For muscle-ups, practice with bands or do strict pull-ups and dips separately.
+
+## Conditioning
+
+### 8 x 1:00 On / 1:00 Off
+
+This part of the workout is designed to push your limits with a mix of strength and cardio. You’ll be working for one minute, then resting for one minute. Let’s break down each movement!
+
+#### 12 Unbroken Push Press
+
+- **Technique Steps:**
+    1. Stand with your feet shoulder-width apart, barbell resting on your shoulders.
+    2. Dip slightly by bending your knees, then drive through your legs and press the bar overhead in one fluid motion.
+    3. Lock out your arms at the top and bring the bar back to your shoulders.
+
+- **Form Tips:**
+    - Keep your core tight and avoid leaning back.
+    - Use your legs to help drive the bar up.
+
+- **Scaling/Modifications:**
+    - Use a lighter barbell or dumbbells if needed.
+    - If you’re new to the movement, practice with a PVC pipe.
+
+#### 6 Box Jumps (30/24)
+
+- **Technique Steps:**
+    1. Stand in front of the box with your feet shoulder-width apart.
+    2. Bend your knees and swing your arms back, then explode upward, landing softly on the box.
+    3. Stand tall on the box before stepping back down.
+
+- **Form Tips:**
+    - Use your arms to generate momentum.
+    - Land softly with your knees slightly bent.
+
+- **Scaling/Modifications:**
+    - Step up instead of jumping if you’re not comfortable with the jump.
+    - Use a lower box if needed.
+
+#### Max Bike ME (Max Effort)
+
+- **Technique Steps:**
+    1. Hop on the bike and set your feet in the pedals.
+    2. Push hard for the entire minute, focusing on maintaining a steady pace.
+
+- **Form Tips:**
+    - Keep your back straight and core engaged.
+    - Use your legs to drive the pedals, maintaining a consistent cadence.
+
+- **Scaling/Modifications:**
+    - If you don’t have access to a bike, you can substitute with a run or row for the same duration.
+
+## Loading Options
+
+- **Sweat:** 
+    - Push Press: 20/10 kg
+    - Box Jumps: Use a lower height if needed.
+  
+- **Train:** 
+    - Push Press: 30/20 kg
+    - Box Jumps: Standard height.
+
+- **Compete:** 
+    - Push Press: 40/30 kg
+    - Box Jumps: Standard height.
+
+### Strategy Advice
+
+- During the push press, focus on unbroken sets; if you feel fatigued, break it up early to maintain form.
+- For box jumps, aim for a steady rhythm; don’t rush, and focus on landing softly.
+- On the bike, push hard but be mindful of your energy; you want to leave some in the tank for the next round!
+
+Alright, team! Let’s get after it today! Remember to listen to your body, focus on your form, and most importantly, have fun! Let’s crush this WOD together! 💪
 
 ---
-
-## Step-by-Step Breakdown
-
-### 1. Handstand Push-Ups (HSPU)
-
-#### Technique Steps:
-- Start in a handstand position against a wall, with your hands shoulder-width apart.
-- Lower your head towards the ground by bending your elbows, keeping them close to your body.
-- Press back up to the starting position, engaging your shoulders and core throughout.
-
-#### Form Tips:
-- Keep your body straight and avoid arching your back.
-- Focus on a controlled descent and a powerful push back up.
-- Use a spotter if needed for safety and support.
-
-#### Scaling/Modifications:
-- If you’re new to HSPUs, try doing them on an elevated surface like a box or with your feet on the ground (pike push-ups).
-- You can also perform strict shoulder presses with a barbell or dumbbells if HSPUs are too challenging.
-
----
-
-### 2. Thrusters
-
-#### Technique Steps:
-- Start with the barbell resting on your shoulders, feet shoulder-width apart.
-- Squat down, keeping your chest up and weight in your heels.
-- As you stand up, press the barbell overhead in one fluid motion.
-
-#### Form Tips:
-- Keep your elbows high and your core tight throughout the movement.
-- Make sure to fully extend your arms overhead at the top of the movement.
-- Avoid leaning back; your body should be in a straight line from your heels to your hands.
-
-#### Scaling/Modifications:
-- Use a lighter barbell or dumbbells if needed.
-- If you’re still working on your squat form, you can perform front squats without the press.
-
----
-
-### 3. Knees-to-Elbows
-
-#### Technique Steps:
-- Hang from a pull-up bar with an overhand grip, arms fully extended.
-- Engage your core and pull your knees up towards your elbows, aiming to touch them.
-- Lower your legs back down with control.
-
-#### Form Tips:
-- Keep your shoulders engaged and avoid swinging.
-- Focus on using your core rather than your hip flexors to lift your knees.
-
-#### Scaling/Modifications:
-- If you can’t reach your elbows yet, try bringing your knees to your chest instead (knee raises).
-- You can also perform hanging leg raises or even lying down knee tucks if hanging is too difficult.
-
----
-
-### 4. Box Step-Ups (24"/20")
-
-#### Technique Steps:
-- Stand in front of the box with your feet hip-width apart.
-- Step up onto the box with one foot, driving through your heel.
-- Stand tall at the top, then step back down with control.
-
-#### Form Tips:
-- Keep your chest up and engage your core as you step up.
-- Alternate legs for each rep or complete all reps on one leg before switching.
-
-#### Scaling/Modifications:
-- Use a lower box if the height is too challenging.
-- If you’re looking for a less intense option, you can perform step-ups without weights.
-
----
-
-## Loading and Rep-Modification Options
-
-### Weight Options:
-- **Sweat:** 30/20 kg; Knee to Hips for HSPU
-- **Train:** 37.5/27.5 kg; Knee to Chest for HSPU
-- **Compete:** 45/35 kg
-
-### Strategy Advice:
-- **Sweat:** Focus on form and technique, and break the movements into manageable sets. Don’t rush; it’s about building endurance.
-- **Train:** Aim for a steady pace, and communicate with your partner to break up the work effectively.
-- **Compete:** Push your limits, but be smart about your breaks. Keep transitions quick and maintain a consistent rhythm throughout.
-
----
-
-### Summary
-
-Alright, team! Remember to support each other throughout this workout. Stay focused on your form, and don’t hesitate to scale movements as needed. Let’s have fun, work hard, and crush this WOD together! Let’s get after it! 💪
-
----
-*Generated on 2025-10-20T06:09:04.284Z using AI assistance*
+*Generated on 2025-10-22T06:08:38.805Z using AI assistance*

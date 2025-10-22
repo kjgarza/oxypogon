@@ -1,8 +1,5 @@
 {
   "version": "3",
-  "redirects": {
-    "https://deno.land/x/url_join/mod.ts": "https://deno.land/x/url_join@1.0.0/mod.ts"
-  },
   "remote": {
     "https://cdn.deno.land/mimetypes/versions/v1.0.0/raw/mod.ts": "abd1ea614b32cfa7fd50b46f6e070617696664698b8a34935dc807f3035ad408",
     "https://cdn.deno.land/mimetypes/versions/v1.0.0/raw/src/mime.ts": "7cd7590eae6127dc1abfe710900fc749e94d5c715ffe8a148e59fe20ee21a9a5",
@@ -71,6 +68,6 @@
     "https://deno.land/x/flat@0.0.15/src/zip.ts": "5b8e27106c08751889d627fbbea71bd99f802472c4e9fe9cd9f88dcee9752bd8",
     "https://deno.land/x/sheetjs@v0.18.3/dist/cpexcel.full.mjs": "7a7bba23b6b6f23b5c69fbb631f78d1d455f74b57e4aa54e9a2f81a8ab844964",
     "https://deno.land/x/sheetjs@v0.18.3/xlsx.mjs": "922b8ca90825111d3af3a19098613d53ac4721ac58d05c0ac25fbdf9def2472f",
-    "https://deno.land/x/url_join@1.0.0/mod.ts": "d3c7007e3ab15594e54d5b90dce623b3e274a726e0cdf57858e7ecab77a0166c"
+    "https://deno.land/x/url_join/mod.ts": "d3c7007e3ab15594e54d5b90dce623b3e274a726e0cdf57858e7ecab77a0166c"
   }
 }
