@@ -1,133 +1,123 @@
-# CrossFit MINS Workout - 2025-10-22
+# CrossFit MINS Workout - 2025-10-24
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">**WOD: 22.10.2025**</p><br><li class="ml-4">**Upper Body Push**</li><p class="mb-2">Every 2 min x 5</p><li class="ml-4">Beginner: 10-15 sec Ring/Box Support + 8 Bench Dips</li><li class="ml-4">Intermediate: 2-5 Strict Ring Dips</li><li class="ml-4">Advanced: 5 Weighted Ring Dips OR 1 RMU + 3 Ring Dips</li><br><li class="ml-4">**Conditioning**</li><p class="mb-2">8 x 1:00 On / 1:00 Off</p><li class="ml-4">12 unbroken Push Press</li><li class="ml-4">6 Box Jumps (30/24)</li><li class="ml-4">Max Bike ME</li><br><p class="mb-2">**Sweat:** 20/10</p><p class="mb-2">**Train:** 30/20</p><p class="mb-2">**Compete:** 40/30</p>
+<p class="mb-2">WOD:</p><br><li class="ml-4">Power Clean</li><p class="mb-2">EMOM x 10</p><p class="mb-2">1 Power Clean</p><p class="mb-2">*start at 50-55% and build to 90-95% of 1 RM</p><br><li class="ml-4">Conditioning</li><p class="mb-2">3 Rounds:</p><li class="ml-4">18 Abmat Sit-ups</li><li class="ml-4">12 Deadlifts</li><br><p class="mb-2">Directly into:</p><p class="mb-2">5 Rounds:</p><li class="ml-4">18 Abmat Sit-ups</li><li class="ml-4">24 Kettlebell Swings</li><br><p class="mb-2">Sweat: 60/30; 16/8</p><p class="mb-2">Train: 80/50; 20/12</p><p class="mb-2">Compete: 100/70; 24/16</p>
 
 ### Expert Explanation
-# Workout Overview
+## Workout Overview
 
-Hey everyone! Today’s WOD is a fantastic blend of upper body strength and conditioning. We’ll kick things off with a focused upper body push segment, where we’ll work on our pressing strength and stability. Then, we’ll dive into a conditioning piece that will really get your heart pumping and test your endurance. The goal here is to build strength while also improving your cardiovascular fitness. Let’s break it down!
-
-## Upper Body Push
-
-### Every 2 min x 5
-
-This segment is all about building upper body strength and stability. We have different options based on your experience level, so everyone can find a challenge that suits them!
-
-#### Beginner: 10-15 sec Ring/Box Support + 8 Bench Dips
-
-- **Technique Steps:**
-    1. **Ring/Box Support:** Start by either holding onto rings or placing your hands on a box. Engage your core and keep your body straight. Hold for 10-15 seconds.
-    2. **Bench Dips:** Sit on the edge of a bench, hands next to your hips. Lower your body by bending your elbows, keeping them close to your sides, then push back up.
-
-- **Form Tips:**
-    - For the support, keep your shoulders down and away from your ears.
-    - During dips, avoid flaring your elbows out; keep them tucked in.
-
-- **Scaling/Modifications:**
-    - If you’re struggling with the support, you can do a wall support instead.
-    - For dips, you can bend your knees to make it easier or elevate your feet for more challenge.
-
-#### Intermediate: 2-5 Strict Ring Dips
-
-- **Technique Steps:**
-    1. Grab the rings and jump up to a support position.
-    2. Lower yourself down by bending your elbows, keeping your body straight.
-    3. Push back up to the starting position.
-
-- **Form Tips:**
-    - Keep your body as vertical as possible.
-    - Engage your lats to help control the movement.
-
-- **Scaling/Modifications:**
-    - If strict ring dips are too challenging, you can perform them on a box or use a band for assistance.
-
-#### Advanced: 5 Weighted Ring Dips OR 1 RMU + 3 Ring Dips
-
-- **Technique Steps:**
-    1. For weighted dips, add a weight belt or hold a dumbbell between your feet.
-    2. For the RMU (Ring Muscle Up), start in a support position, transition through the dip, and finish in a pull-up position.
-
-- **Form Tips:**
-    - Maintain a strong core throughout the movement.
-    - For muscle-ups, focus on the transition; it’s all about timing and technique.
-
-- **Scaling/Modifications:**
-    - If weighted dips are too much, stick to bodyweight dips.
-    - For muscle-ups, practice with bands or do strict pull-ups and dips separately.
-
-## Conditioning
-
-### 8 x 1:00 On / 1:00 Off
-
-This part of the workout is designed to push your limits with a mix of strength and cardio. You’ll be working for one minute, then resting for one minute. Let’s break down each movement!
-
-#### 12 Unbroken Push Press
-
-- **Technique Steps:**
-    1. Stand with your feet shoulder-width apart, barbell resting on your shoulders.
-    2. Dip slightly by bending your knees, then drive through your legs and press the bar overhead in one fluid motion.
-    3. Lock out your arms at the top and bring the bar back to your shoulders.
-
-- **Form Tips:**
-    - Keep your core tight and avoid leaning back.
-    - Use your legs to help drive the bar up.
-
-- **Scaling/Modifications:**
-    - Use a lighter barbell or dumbbells if needed.
-    - If you’re new to the movement, practice with a PVC pipe.
-
-#### 6 Box Jumps (30/24)
-
-- **Technique Steps:**
-    1. Stand in front of the box with your feet shoulder-width apart.
-    2. Bend your knees and swing your arms back, then explode upward, landing softly on the box.
-    3. Stand tall on the box before stepping back down.
-
-- **Form Tips:**
-    - Use your arms to generate momentum.
-    - Land softly with your knees slightly bent.
-
-- **Scaling/Modifications:**
-    - Step up instead of jumping if you’re not comfortable with the jump.
-    - Use a lower box if needed.
-
-#### Max Bike ME (Max Effort)
-
-- **Technique Steps:**
-    1. Hop on the bike and set your feet in the pedals.
-    2. Push hard for the entire minute, focusing on maintaining a steady pace.
-
-- **Form Tips:**
-    - Keep your back straight and core engaged.
-    - Use your legs to drive the pedals, maintaining a consistent cadence.
-
-- **Scaling/Modifications:**
-    - If you don’t have access to a bike, you can substitute with a run or row for the same duration.
-
-## Loading Options
-
-- **Sweat:** 
-    - Push Press: 20/10 kg
-    - Box Jumps: Use a lower height if needed.
-  
-- **Train:** 
-    - Push Press: 30/20 kg
-    - Box Jumps: Standard height.
-
-- **Compete:** 
-    - Push Press: 40/30 kg
-    - Box Jumps: Standard height.
-
-### Strategy Advice
-
-- During the push press, focus on unbroken sets; if you feel fatigued, break it up early to maintain form.
-- For box jumps, aim for a steady rhythm; don’t rush, and focus on landing softly.
-- On the bike, push hard but be mindful of your energy; you want to leave some in the tank for the next round!
-
-Alright, team! Let’s get after it today! Remember to listen to your body, focus on your form, and most importantly, have fun! Let’s crush this WOD together! 💪
+Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your power and endurance. We’ll kick things off with an EMOM (Every Minute on the Minute) segment focusing on Power Cleans, where we’ll work on our technique and gradually increase the load. After that, we’ll dive into a conditioning piece that combines core work with some solid deadlifts and kettlebell swings. This workout is designed to build strength, improve your metabolic conditioning, and enhance your overall fitness.
 
 ---
-*Generated on 2025-10-22T06:08:38.805Z using AI assistance*
+
+## Strength Segment
+
+### Power Clean (Barbell):
+
+- **Technique Steps:**
+    1. **Setup**: Stand with your feet hip-width apart, barbell over the midfoot. Bend at the hips and knees to grip the bar just outside your knees.
+    2. **First Pull**: Keep your chest up and back flat as you lift the bar off the ground. Drive through your heels and extend your knees while keeping the bar close to your body.
+    3. **Second Pull**: Once the bar passes your knees, explosively extend your hips and shrug your shoulders to pull the bar upward.
+    4. **Catch**: As the bar rises, drop under it by bending your knees and catching it on your shoulders in a front squat position. Elbows should be high and the bar resting on your shoulders.
+    5. **Stand Up**: Stand tall to complete the lift, then reset for the next rep.
+
+- **Form Tips:**
+    - Keep your core engaged throughout the lift to maintain stability.
+    - Focus on keeping the bar close to your body; this will help with control and efficiency.
+    - Don’t rush the second pull; it’s all about that explosive hip extension!
+
+- **Scaling/Modifications:**
+    - If you’re new to the Power Clean, consider using a lighter barbell or even a PVC pipe to master the technique.
+    - You can also practice with dumbbells or kettlebells if a barbell isn’t available.
+
+- **Loading:**
+    - Start at 50-55% of your 1RM and aim to build up to 90-95% by the end of the EMOM.
+    - **Sweat**: 30-40% of 1RM
+    - **Train**: 50-60% of 1RM
+    - **Compete**: 70-80% of 1RM
+
+---
+
+## Conditioning Segment
+
+### 3 Rounds:
+
+#### 18 Abmat Sit-ups:
+
+- **Technique Steps:**
+    1. Sit on the floor with your knees bent and feet flat, placing the Abmat under your lower back for support.
+    2. Lie back until your shoulder blades touch the ground.
+    3. Engage your core and sit up, bringing your torso to your thighs, and touch your toes or the ground in front of you.
+    4. Lower back down with control and repeat.
+
+- **Form Tips:**
+    - Keep your feet anchored to the ground to avoid using momentum.
+    - Focus on using your core to lift your torso rather than pulling with your arms.
+
+- **Scaling/Modifications:**
+    - If full sit-ups are challenging, you can perform crunches instead, where you only lift your shoulders off the ground.
+    - Alternatively, you can do sit-ups with feet anchored under a barbell or a partner’s feet.
+
+#### 12 Deadlifts (Barbell):
+
+- **Technique Steps:**
+    1. Stand with your feet hip-width apart, barbell over the midfoot.
+    2. Bend at the hips and knees to grip the bar, keeping your back flat and chest up.
+    3. Drive through your heels, extending your hips and knees simultaneously to lift the bar.
+    4. Stand tall with your shoulders back at the top, then lower the bar back to the ground with control.
+
+- **Form Tips:**
+    - Keep the bar close to your body throughout the lift.
+    - Avoid rounding your back; maintain a neutral spine.
+
+- **Scaling/Modifications:**
+    - Use lighter weights or a kettlebell if you’re still mastering the deadlift form.
+    - You can also perform Romanian deadlifts with lighter weights to focus on the hip hinge.
+
+---
+
+### Directly into:
+
+### 5 Rounds:
+
+#### 18 Abmat Sit-ups (same as above)
+
+#### 24 Kettlebell Swings:
+
+- **Technique Steps:**
+    1. Stand with your feet shoulder-width apart, kettlebell on the ground in front of you.
+    2. Hinge at the hips to grab the kettlebell with both hands, keeping your back flat.
+    3. Swing the kettlebell back between your legs, then explosively drive your hips forward to swing it up to shoulder height.
+    4. Let the kettlebell swing back down and repeat.
+
+- **Form Tips:**
+    - Focus on using your hips to generate power, not your arms.
+    - Keep your core engaged to protect your lower back.
+
+- **Scaling/Modifications:**
+    - Use a lighter kettlebell or perform Russian swings (kettlebell swings to chest height) if overhead swings are too challenging.
+
+---
+
+## Loading Options:
+
+- **Sweat**: 
+    - Power Clean: 30-40% of 1RM
+    - Deadlifts: 60/30 kg; Kettlebell: 16/8 kg
+- **Train**: 
+    - Power Clean: 50-60% of 1RM
+    - Deadlifts: 80/50 kg; Kettlebell: 20/12 kg
+- **Compete**: 
+    - Power Clean: 70-80% of 1RM
+    - Deadlifts: 100/70 kg; Kettlebell: 24/16 kg
+
+### Strategy Advice:
+
+- For the EMOM, focus on maintaining good form rather than just lifting heavy. It’s about quality over quantity!
+- During the conditioning piece, pace yourself. Break up the sit-ups and deadlifts if needed to avoid burnout.
+- On the kettlebell swings, keep a steady rhythm; it’s better to
+
+---
+*Generated on 2025-10-24T06:08:12.358Z using AI assistance*
