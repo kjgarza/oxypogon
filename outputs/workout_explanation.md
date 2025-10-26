@@ -1,123 +1,103 @@
-# CrossFit MINS Workout - 2025-10-24
+# CrossFit MINS Workout - 2025-10-26
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><br><li class="ml-4">Power Clean</li><p class="mb-2">EMOM x 10</p><p class="mb-2">1 Power Clean</p><p class="mb-2">*start at 50-55% and build to 90-95% of 1 RM</p><br><li class="ml-4">Conditioning</li><p class="mb-2">3 Rounds:</p><li class="ml-4">18 Abmat Sit-ups</li><li class="ml-4">12 Deadlifts</li><br><p class="mb-2">Directly into:</p><p class="mb-2">5 Rounds:</p><li class="ml-4">18 Abmat Sit-ups</li><li class="ml-4">24 Kettlebell Swings</li><br><p class="mb-2">Sweat: 60/30; 16/8</p><p class="mb-2">Train: 80/50; 20/12</p><p class="mb-2">Compete: 100/70; 24/16</p>
+<p class="mb-2">WOD:</p><p class="mb-2">For Quality</p><p class="mb-2">6 Rounds:</p><li class="ml-4">3:00 Row/Ski Erg</li><li class="ml-4">20 Box Step-ups</li><li class="ml-4">15 Kettlebell Sumo Deadlift High Pulls (24/16)</li><li class="ml-4">10 Ring Rows</li><br><p class="mb-2">Sweat: 16/8</p><p class="mb-2">Train: 20/12</p><p class="mb-2">Compete: 24/16</p>
 
 ### Expert Explanation
 ## Workout Overview
 
-Hey everyone! Today’s WOD is a fantastic blend of strength and conditioning that will really challenge your power and endurance. We’ll kick things off with an EMOM (Every Minute on the Minute) segment focusing on Power Cleans, where we’ll work on our technique and gradually increase the load. After that, we’ll dive into a conditioning piece that combines core work with some solid deadlifts and kettlebell swings. This workout is designed to build strength, improve your metabolic conditioning, and enhance your overall fitness.
+Hey team! Today’s WOD is all about quality over quantity, focusing on building endurance and strength through a series of movements that will challenge your body while keeping your form sharp. We’ll be doing 6 rounds of rowing or skiing, box step-ups, kettlebell sumo deadlift high pulls, and ring rows. The goal here is to maintain a steady pace and focus on technique throughout each round. Let’s break it down!
 
----
+## Workout Components
 
-## Strength Segment
-
-### Power Clean (Barbell):
+### 1. Row/Ski Erg (3:00)
 
 - **Technique Steps:**
-    1. **Setup**: Stand with your feet hip-width apart, barbell over the midfoot. Bend at the hips and knees to grip the bar just outside your knees.
-    2. **First Pull**: Keep your chest up and back flat as you lift the bar off the ground. Drive through your heels and extend your knees while keeping the bar close to your body.
-    3. **Second Pull**: Once the bar passes your knees, explosively extend your hips and shrug your shoulders to pull the bar upward.
-    4. **Catch**: As the bar rises, drop under it by bending your knees and catching it on your shoulders in a front squat position. Elbows should be high and the bar resting on your shoulders.
-    5. **Stand Up**: Stand tall to complete the lift, then reset for the next rep.
+    - For the Row: Sit on the rower, strap your feet in, and grab the handle. Start with your knees bent and your back straight.
+    - Push through your legs, lean back slightly, and pull the handle towards your chest, keeping your elbows close.
+    - Reverse the motion: extend your arms, lean forward, and bend your knees to return to the starting position.
+    - For the Ski Erg: Stand tall, grab the handles, and start with your arms extended overhead.
+    - Pull the handles down towards your hips, engaging your core and using your legs to assist the movement.
 
 - **Form Tips:**
-    - Keep your core engaged throughout the lift to maintain stability.
-    - Focus on keeping the bar close to your body; this will help with control and efficiency.
-    - Don’t rush the second pull; it’s all about that explosive hip extension!
+    - Keep your back straight and avoid rounding your shoulders.
+    - Use your legs to drive the movement; your arms should follow.
+    - For the Ski Erg, maintain a strong core to stabilize your body.
 
 - **Scaling/Modifications:**
-    - If you’re new to the Power Clean, consider using a lighter barbell or even a PVC pipe to master the technique.
-    - You can also practice with dumbbells or kettlebells if a barbell isn’t available.
+    - If you’re new to rowing, focus on shorter intervals (1:00) to build confidence.
+    - On the Ski Erg, reduce the resistance if needed.
 
-- **Loading:**
-    - Start at 50-55% of your 1RM and aim to build up to 90-95% by the end of the EMOM.
-    - **Sweat**: 30-40% of 1RM
-    - **Train**: 50-60% of 1RM
-    - **Compete**: 70-80% of 1RM
-
----
-
-## Conditioning Segment
-
-### 3 Rounds:
-
-#### 18 Abmat Sit-ups:
+### 2. Box Step-Ups (20 reps)
 
 - **Technique Steps:**
-    1. Sit on the floor with your knees bent and feet flat, placing the Abmat under your lower back for support.
-    2. Lie back until your shoulder blades touch the ground.
-    3. Engage your core and sit up, bringing your torso to your thighs, and touch your toes or the ground in front of you.
-    4. Lower back down with control and repeat.
+    - Stand facing the box with your feet hip-width apart.
+    - Step up with one foot, pressing through your heel to lift your body onto the box.
+    - Bring the other foot up to meet the first, then step back down one foot at a time.
 
 - **Form Tips:**
-    - Keep your feet anchored to the ground to avoid using momentum.
-    - Focus on using your core to lift your torso rather than pulling with your arms.
+    - Keep your chest up and engage your core throughout the movement.
+    - Ensure your entire foot is on the box to avoid slipping.
 
 - **Scaling/Modifications:**
-    - If full sit-ups are challenging, you can perform crunches instead, where you only lift your shoulders off the ground.
-    - Alternatively, you can do sit-ups with feet anchored under a barbell or a partner’s feet.
+    - Use a lower box if you’re still building strength or balance.
+    - Perform step-ups without weights to focus on form.
 
-#### 12 Deadlifts (Barbell):
+### 3. Kettlebell Sumo Deadlift High Pulls (15 reps)
 
 - **Technique Steps:**
-    1. Stand with your feet hip-width apart, barbell over the midfoot.
-    2. Bend at the hips and knees to grip the bar, keeping your back flat and chest up.
-    3. Drive through your heels, extending your hips and knees simultaneously to lift the bar.
-    4. Stand tall with your shoulders back at the top, then lower the bar back to the ground with control.
+    - Stand with your feet wider than shoulder-width, toes slightly pointed out, and the kettlebell on the ground between your feet.
+    - Hinge at the hips to grab the kettlebell with both hands.
+    - Drive through your heels, extending your hips and knees, and pull the kettlebell up to your chin, keeping your elbows high.
 
 - **Form Tips:**
-    - Keep the bar close to your body throughout the lift.
-    - Avoid rounding your back; maintain a neutral spine.
+    - Keep your back flat and chest up during the lift.
+    - Use your legs to generate power, not just your arms.
 
 - **Scaling/Modifications:**
-    - Use lighter weights or a kettlebell if you’re still mastering the deadlift form.
-    - You can also perform Romanian deadlifts with lighter weights to focus on the hip hinge.
+    - Use a lighter kettlebell or perform the movement without weight to practice the technique.
+    - If kettlebells are unavailable, you can substitute with dumbbells.
 
----
-
-### Directly into:
-
-### 5 Rounds:
-
-#### 18 Abmat Sit-ups (same as above)
-
-#### 24 Kettlebell Swings:
+### 4. Ring Rows (10 reps)
 
 - **Technique Steps:**
-    1. Stand with your feet shoulder-width apart, kettlebell on the ground in front of you.
-    2. Hinge at the hips to grab the kettlebell with both hands, keeping your back flat.
-    3. Swing the kettlebell back between your legs, then explosively drive your hips forward to swing it up to shoulder height.
-    4. Let the kettlebell swing back down and repeat.
+    - Set the rings at a height that allows you to lean back with your arms extended.
+    - Grab the rings and walk your feet forward until your body is at an angle.
+    - Pull your chest towards the rings, keeping your body straight and core engaged.
 
 - **Form Tips:**
-    - Focus on using your hips to generate power, not your arms.
-    - Keep your core engaged to protect your lower back.
+    - Avoid letting your hips sag; keep a straight line from head to heels.
+    - Squeeze your shoulder blades together at the top of the movement.
 
 - **Scaling/Modifications:**
-    - Use a lighter kettlebell or perform Russian swings (kettlebell swings to chest height) if overhead swings are too challenging.
+    - If rings are too challenging, perform inverted rows on a bar or use a TRX.
+    - Adjust the height of the rings to make the movement easier or harder.
+
+## Loading and Rep-Modification Options
+
+- **Sweat:** 
+    - Row/Ski: 16/8 calories
+    - Box Step-Ups: Bodyweight or low box
+    - Kettlebell: 12kg/8kg
+    - Ring Rows: Feet on the ground
+
+- **Train:** 
+    - Row/Ski: 20/12 calories
+    - Box Step-Ups: Moderate box height
+    - Kettlebell: 16kg/12kg
+    - Ring Rows: Standard height
+
+- **Compete:** 
+    - Row/Ski: 24/16 calories
+    - Box Step-Ups: Higher box
+    - Kettlebell: 24kg/16kg
+    - Ring Rows: Standard height
+
+### Strategy Advice
+
+As you tackle this WOD, remember to pace yourself. Focus on maintaining good form rather than rushing through the reps. Breaking up the movements into manageable sets can help you maintain quality throughout the workout. Listen to your body, and don’t hesitate to scale if you need to. Let’s get after it and have some fun!
 
 ---
-
-## Loading Options:
-
-- **Sweat**: 
-    - Power Clean: 30-40% of 1RM
-    - Deadlifts: 60/30 kg; Kettlebell: 16/8 kg
-- **Train**: 
-    - Power Clean: 50-60% of 1RM
-    - Deadlifts: 80/50 kg; Kettlebell: 20/12 kg
-- **Compete**: 
-    - Power Clean: 70-80% of 1RM
-    - Deadlifts: 100/70 kg; Kettlebell: 24/16 kg
-
-### Strategy Advice:
-
-- For the EMOM, focus on maintaining good form rather than just lifting heavy. It’s about quality over quantity!
-- During the conditioning piece, pace yourself. Break up the sit-ups and deadlifts if needed to avoid burnout.
-- On the kettlebell swings, keep a steady rhythm; it’s better to
-
----
-*Generated on 2025-10-24T06:08:12.358Z using AI assistance*
+*Generated on 2025-10-26T06:07:46.112Z using AI assistance*
