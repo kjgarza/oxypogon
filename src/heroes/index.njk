@@ -1,0 +1,140 @@
+---
+layout: layouts/base.njk
+title: "Hero Workouts | CrossFit Workout Viewer"
+description: "Hero WODs dedicated to fallen military service members, first responders, and public servants."
+---
+
+<h1 class="text-4xl font-bold mb-4">Hero Workouts</h1>
+<p class="text-base-content/70 mb-8">
+  Hero WODs are dedicated to fallen military service members, first responders,
+  and public servants who gave their lives in the line of duty. These workouts
+  honor their memory and sacrifice.
+</p>
+
+{# Branch Filter #}
+{% set branches = heroes.heroes | uniqueBranches %}
+<div class="mb-8 sticky top-4 z-10 bg-base-100/95 backdrop-blur-sm rounded-box p-4 border border-base-300 shadow-sm">
+  <div class="flex flex-wrap gap-2">
+    <button class="btn btn-sm btn-primary branch-btn" data-branch="all">
+      All ({{ heroes.heroes.length }})
+    </button>
+    {% for branch in branches %}
+    <button class="btn btn-sm btn-outline branch-btn" data-branch="{{ branch }}">
+      {{ branch }}
+    </button>
+    {% endfor %}
+  </div>
+</div>
+
+{# Heroes Grid #}
+<div class="space-y-6" id="heroes-grid">
+  {% for hero in heroes.heroes %}
+  <div class="card bg-base-100 shadow-lg hero-card border border-base-300" data-branch="{{ hero.honoree.branch }}">
+    <div class="card-body">
+      {# Header #}
+      <div class="flex flex-wrap justify-between items-start gap-4">
+        <div>
+          <h2 class="card-title text-2xl">{{ hero.name }}</h2>
+          {% if hero.honoree.name %}
+          <p class="text-base-content/70">
+            In honor of {{ hero.honoree.rank }} {{ hero.honoree.name }}
+            {% if hero.honoree.branch %}<span class="badge badge-outline badge-sm ml-2">{{ hero.honoree.branch }}</span>{% endif %}
+          </p>
+          {% endif %}
+        </div>
+
+        {% if hero.workout.type %}
+        <span class="badge badge-secondary">{{ hero.workout.type | titleCase }}</span>
+        {% endif %}
+      </div>
+
+      {# Workout Description #}
+      <div class="mt-4 bg-base-200 rounded-lg p-4">
+        <pre class="whitespace-pre-wrap font-mono text-sm leading-relaxed">{{ hero.workout.description }}</pre>
+        {% if hero.workout.notes %}
+        <p class="mt-3 text-sm text-base-content/70 italic border-t border-base-300 pt-3">
+          {{ hero.workout.notes }}
+        </p>
+        {% endif %}
+      </div>
+
+      {# Rx Weights #}
+      {% if hero.rx %}
+      <div class="mt-4 flex flex-wrap gap-4">
+        {% if hero.rx.male %}
+        <div class="badge badge-outline gap-1">
+          <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z"/></svg>
+          Men: {{ hero.rx.male }}
+        </div>
+        {% endif %}
+        {% if hero.rx.female %}
+        <div class="badge badge-outline gap-1">
+          <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z"/></svg>
+          Women: {{ hero.rx.female }}
+        </div>
+        {% endif %}
+      </div>
+      {% endif %}
+
+      {# Honoree Details #}
+      {% if hero.honoree.circumstances %}
+      <div class="mt-4 text-sm border-l-4 border-primary pl-4 bg-base-200/50 py-2 rounded-r-lg">
+        <p class="text-base-content/80">{{ hero.honoree.circumstances }}</p>
+        <div class="flex flex-wrap gap-4 mt-2 text-base-content/60">
+          {% if hero.honoree.age %}
+          <span>Age: {{ hero.honoree.age }}</span>
+          {% endif %}
+          {% if hero.honoree.location %}
+          <span>From: {{ hero.honoree.location }}</span>
+          {% endif %}
+          {% if hero.honoree.date_of_death %}
+          <span>{{ hero.honoree.date_of_death | formatDate }}</span>
+          {% endif %}
+        </div>
+      </div>
+      {% endif %}
+
+      {# Survivors #}
+      {% if hero.survivors and hero.survivors.length > 0 %}
+      <div class="mt-4 text-sm">
+        <span class="font-semibold">Survived by:</span>
+        <span class="text-base-content/70">{{ hero.survivors | join(", ") }}</span>
+      </div>
+      {% endif %}
+
+      {# Footer #}
+      <div class="card-actions justify-between items-center mt-4 pt-4 border-t border-base-300">
+        <span class="text-xs text-base-content/50">First posted: {{ hero.first_posted | formatDate }}</span>
+        {% if hero.source_url %}
+        <a href="{{ hero.source_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-ghost">
+          View on CrossFit.com
+        </a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<script>
+document.querySelectorAll('.branch-btn').forEach(btn => {
+  btn.addEventListener('click', function() {
+    const branch = this.dataset.branch;
+
+    // Update button states
+    document.querySelectorAll('.branch-btn').forEach(b => {
+      b.classList.toggle('btn-primary', b.dataset.branch === branch);
+      b.classList.toggle('btn-outline', b.dataset.branch !== branch);
+    });
+
+    // Filter cards
+    document.querySelectorAll('.hero-card').forEach(card => {
+      card.style.display = (branch === 'all' || card.dataset.branch === branch)
+        ? 'block' : 'none';
+    });
+
+    // Scroll to top of content
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+});
+</script>

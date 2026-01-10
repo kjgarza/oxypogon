@@ -1,0 +1,3558 @@
+{
+  "movements": [
+    {
+      "name": "The Air Squat",
+      "slug": "the-air-squat",
+      "category": "The Squats",
+      "is_foundational": true,
+      "description": "Master the air squat with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower"
+      ],
+      "how_to": {
+        "setup": "the descent, and the return to the start position.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=rMvwVtlqjTE",
+      "source_url": "https://www.crossfit.com/essentials/the-air-squat"
+    },
+    {
+      "name": "The Front Squat",
+      "slug": "the-front-squat",
+      "category": "The Squats",
+      "is_foundational": true,
+      "description": "Master the Front Squat with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": "the descent, and the return to the start position.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=uYumuL_G_V0",
+      "source_url": "https://www.crossfit.com/essentials/the-front-squat"
+    },
+    {
+      "name": "The Overhead Squat",
+      "slug": "the-overhead-squat",
+      "category": "The Squats",
+      "is_foundational": true,
+      "description": "Master the overhead squat with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": "the descent, and the return to the start position.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=pn8mqlG0nkE",
+      "source_url": "https://www.crossfit.com/essentials/the-overhead-squat"
+    },
+    {
+      "name": "The Shoulder Press",
+      "slug": "the-shoulder-press",
+      "category": "The Presses",
+      "is_foundational": true,
+      "description": "Master the Shoulder Press with CrossFit",
+      "muscle_groups": [
+        "shoulders",
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "GHD",
+        "jump rope",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": "position, pressing motion, and overhead position to enhance efficiency and safety.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=5yWaNOvgFCM",
+      "source_url": "https://www.crossfit.com/essentials/the-shoulder-press"
+    },
+    {
+      "name": "The Push Press",
+      "slug": "the-push-press",
+      "category": "The Presses",
+      "is_foundational": true,
+      "description": "Master the push press with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=iaBVSJm78ko",
+      "source_url": "https://www.crossfit.com/essentials/the-push-press"
+    },
+    {
+      "name": "The Push Jerk",
+      "slug": "the-push-jerk",
+      "category": "The Presses",
+      "is_foundational": true,
+      "description": "Master the push jerk with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": "correct, followed by an execution sequence of dip, drive, press under, and stand (with load overhead).",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=VrHNJXoSyXw",
+      "source_url": "https://www.crossfit.com/essentials/the-push-jerk"
+    },
+    {
+      "name": "The Deadlift",
+      "slug": "the-deadlift",
+      "category": "The Deadlifts",
+      "is_foundational": true,
+      "description": "Master the Deadlift with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": "the liftoff to full extension of the legs and hips, and the descent.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=1ZXobu7JvvE",
+      "source_url": "https://www.crossfit.com/essentials/the-deadlift"
+    },
+    {
+      "name": "The Sumo Deadlift High Pull",
+      "slug": "the-sumo-deadlift-high-pull",
+      "category": "The Deadlifts",
+      "is_foundational": true,
+      "description": "Master the Sumo Deadlift High Pull with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": "the liftoff to full extension of the legs and hips, the pull of the bar to the chin, and the descent.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=gh55vVlwlQg",
+      "source_url": "https://www.crossfit.com/essentials/the-sumo-deadlift-high-pull"
+    },
+    {
+      "name": "The Medicine Ball Clean",
+      "slug": "the-medicine-ball-clean",
+      "category": "The Deadlifts",
+      "is_foundational": true,
+      "description": "Master the Medicine-Ball Clean with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "medicine ball",
+        "GHD"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=KVGhkHSrDJo",
+      "source_url": "https://www.crossfit.com/essentials/the-medicine-ball-clean"
+    },
+    {
+      "name": "The Abmat Sit Up",
+      "slug": "the-abmat-sit-up",
+      "category": "Core",
+      "is_foundational": false,
+      "description": "There is an adjunct movement to GHD sit-ups in which the athlete is dynamic in the trunk and static in the hip. It is the AbMat sit-up, where we deliberately take the hip flexors out of the equation and work the torso dynamically. The two sit-ups, GHD and AbMat, complement each other beautifully. One is dynamic in the hips and static in the trunk; the other is dynamic in the trunk and static in the hip. In conjunction with the L-sit (static in the trunk and hip), they develop a formidable capacity in the midline.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "GHD",
+        "abmat"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=VIZX2Ru9qU8",
+      "source_url": "https://www.crossfit.com/essentials/the-abmat-sit-up"
+    },
+    {
+      "name": "Back Scales Progression",
+      "slug": "back-scales-progression",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "The difficulty of the back scale can be moderated by adjusting the level of the torso and rear leg as well as the duration of the hold. Begin with a small bend at the hip and lift of the rear leg. Master the basic position before increasing the range of motion.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Arh2Q_prqvw",
+      "source_url": "https://www.crossfit.com/essentials/back-scales-progression"
+    },
+    {
+      "name": "The Back Squat",
+      "slug": "the-back-squat",
+      "category": "Squats",
+      "is_foundational": false,
+      "description": "Master the back squat with CrossFit",
+      "muscle_groups": [
+        "back",
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": "the descent, and the return to the start position.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": [
+        "What Is the Back Squat?",
+        "Back Squat Benefits",
+        "Muscle Groups Worked",
+        "How to Prepare for the Back Squat",
+        "Equipment Needed for the Back Squat",
+        "How to Warm Up for the Back Squat",
+        "How to Perform the Back Squat",
+        "Common Mistakes and How to Avoid Them",
+        "Back Squat Modifications",
+        "Common Back Squat Workouts"
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=QmZAiBqPvZw",
+      "source_url": "https://www.crossfit.com/essentials/the-back-squat"
+    },
+    {
+      "name": "Barbell Front Rack Lunge",
+      "slug": "barbell-front-rack-lunge",
+      "category": "Lower Body",
+      "is_foundational": false,
+      "description": "CrossFit Seminar Staff member James Hobart demonstrates the front rack lunge with a barbell.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=f3WLs_HutLw",
+      "source_url": "https://www.crossfit.com/essentials/barbell-front-rack-lunge"
+    },
+    {
+      "name": "The Bench Press",
+      "slug": "the-bench-press",
+      "category": "Upper Body",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=SCVCLChPQFY",
+      "source_url": "https://www.crossfit.com/essentials/the-bench-press"
+    },
+    {
+      "name": "The Box Jump",
+      "slug": "the-box-jump",
+      "category": "Plyometrics",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=NBY9-kTuHEk",
+      "source_url": "https://www.crossfit.com/essentials/the-box-jump"
+    },
+    {
+      "name": "The Box Step Up",
+      "slug": "the-box-step-up",
+      "category": "Lower Body",
+      "is_foundational": false,
+      "description": "Master the box step-up with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "GHD",
+        "rower"
+      ],
+      "how_to": {
+        "setup": "Position\\nStart facing the box with feet approximately hip-width apart.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=5qjqDHOUh-A",
+      "source_url": "https://www.crossfit.com/essentials/the-box-step-up"
+    },
+    {
+      "name": "The Burpee 2",
+      "slug": "the-burpee-2",
+      "category": "Conditioning",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": null,
+      "source_url": "https://www.crossfit.com/essentials/the-burpee-2"
+    },
+    {
+      "name": "The Burpee Box Jump Over",
+      "slug": "the-burpee-box-jump-over",
+      "category": "Conditioning",
+      "is_foundational": false,
+      "description": "The burpee is a versatile movement. In its simplest form, it requires little skill, space, or equipment. However, the framework of the basic movement lends itself to many creative variations, such as burpee box jump-overs, which have the potential for greater intensity and challenge coordination, agility, and balance.&nbsp;",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": [
+        "Additional Resources"
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=GLktGkmcvWE",
+      "source_url": "https://www.crossfit.com/essentials/the-burpee-box-jump-over"
+    },
+    {
+      "name": "The Butterfly Pull Up",
+      "slug": "the-butterfly-pull-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "The butterfly pull-up is the fastest and most efficient variation of a pull-up, but it takes time and experience to develop the proper technique.",
+      "muscle_groups": [
+        "shoulders",
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=U_MhBXnlInE",
+      "source_url": "https://www.crossfit.com/essentials/the-butterfly-pull-up"
+    },
+    {
+      "name": "The Chest To Wall Handstand Push Up",
+      "slug": "the-chest-to-wall-handstand-push-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "The chest-to-wall handstand push-up encourages the athlete to maintain a hollow position throughout the movement. Arching during the press in this handstand push-up variation will result in the athlete falling away from the wall. As a result, mastering the strict chest-to-wall handstand push-up brings the athlete one step closer to performing a strict, freestanding handstand push-up.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=lkPPVyExFpU",
+      "source_url": "https://www.crossfit.com/essentials/the-chest-to-wall-handstand-push-up"
+    },
+    {
+      "name": "The Clean 2",
+      "slug": "the-clean-2",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "The clean is a pure bit of functionality. The clean is simply pulling a load from the ground to the shoulders, where frequently the object is being readied for lifting overhead. With the clean, we take ourselves from standing over an object and pulling it to moving under it and supporting it.",
+      "muscle_groups": [
+        "shoulders",
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Ty14ogq_Vok",
+      "source_url": "https://www.crossfit.com/essentials/the-clean-2"
+    },
+    {
+      "name": "The Clean And Jerk",
+      "slug": "the-clean-and-jerk",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "Master the clean and jerk with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "GHD",
+        "rope",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": "Position\\nStance: The feet start under the hips or slightly wider than hip-width.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": [
+        "What Is the Clean and Jerk?",
+        "Benefits",
+        "Muscle Groups Worked",
+        "How to Prepare",
+        "Equipment Needed",
+        "How to Warm Up",
+        "How to Perform",
+        "Common Mistakes and How to Avoid Them",
+        "Modifications"
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=PjY1rH4_MOA",
+      "source_url": "https://www.crossfit.com/essentials/the-clean-and-jerk"
+    },
+    {
+      "name": "The Squat Clean And Push Jerk",
+      "slug": "the-squat-clean-and-push-jerk",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=GqAEuwXQXRU",
+      "source_url": "https://www.crossfit.com/essentials/the-squat-clean-and-push-jerk"
+    },
+    {
+      "name": "The Dip",
+      "slug": "the-dip",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=o2qX3Zb5mvg",
+      "source_url": "https://www.crossfit.com/essentials/the-dip"
+    },
+    {
+      "name": "The Double Under",
+      "slug": "the-double-under",
+      "category": "Conditioning",
+      "is_foundational": false,
+      "description": "Double-unders require the athlete to propel the body upward and lift the feet up to several inches from the ground while making small, fast circular movements with the wrists in order to execute multiple turns of the rope with each jump.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "jump rope"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=82jNjDS19lg",
+      "source_url": "https://www.crossfit.com/essentials/the-double-under"
+    },
+    {
+      "name": "The Dumbbell Clean",
+      "slug": "the-dumbbell-clean",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=SYxObzJ3gn0",
+      "source_url": "https://www.crossfit.com/essentials/the-dumbbell-clean"
+    },
+    {
+      "name": "The Dumbbell Deadlift",
+      "slug": "the-dumbbell-deadlift",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "Master the Dumbbell Deadlift with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "jump rope"
+      ],
+      "how_to": {
+        "setup": "the liftoff to full extension of the legs and hips, and the descent.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=JNpUNRPQkAk",
+      "source_url": "https://www.crossfit.com/essentials/the-dumbbell-deadlift"
+    },
+    {
+      "name": "The Farmer Carry",
+      "slug": "the-farmer-carry",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=p5MNNosenJc",
+      "source_url": "https://www.crossfit.com/essentials/the-farmer-carry"
+    },
+    {
+      "name": "The Dumbbell Front Rack Lunge",
+      "slug": "the-dumbbell-front-rack-lunge",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=7EmwtpAI8cM",
+      "source_url": "https://www.crossfit.com/essentials/the-dumbbell-front-rack-lunge"
+    },
+    {
+      "name": "The Dumbbell Front Squat",
+      "slug": "the-dumbbell-front-squat",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "shoulders",
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=B86Zj72LwzA",
+      "source_url": "https://www.crossfit.com/essentials/the-dumbbell-front-squat"
+    },
+    {
+      "name": "The Dumbbell Hang Clean",
+      "slug": "the-dumbbell-hang-clean",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "Master the Dumbbell Hang Clean with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "GHD",
+        "jump rope"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=8r44xv_Aqbw",
+      "source_url": "https://www.crossfit.com/essentials/the-dumbbell-hang-clean"
+    },
+    {
+      "name": "The Dumbbell Hang Power Clean",
+      "slug": "the-dumbbell-hang-power-clean",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=myc1taX-uBs",
+      "source_url": "https://www.crossfit.com/essentials/the-dumbbell-hang-power-clean"
+    },
+    {
+      "name": "The Dumbbell Overhead Squat",
+      "slug": "the-dumbbell-overhead-squat",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=azumEfnk-GI",
+      "source_url": "https://www.crossfit.com/essentials/the-dumbbell-overhead-squat"
+    },
+    {
+      "name": "Dumbbell Overhead Walking Lunge",
+      "slug": "dumbbell-overhead-walking-lunge",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "CrossFit Seminar Staff member Julie Foucher demonstrates the dumbbell overhead walking lunge.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=J3DxelcaaMU",
+      "source_url": "https://www.crossfit.com/essentials/dumbbell-overhead-walking-lunge"
+    },
+    {
+      "name": "The Dumbbell Power Clean",
+      "slug": "the-dumbbell-power-clean",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "Master the Dumbbell Power Clean with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "medicine ball",
+        "GHD"
+      ],
+      "how_to": {
+        "setup": "position, then broken down into a deadlifting phase, an extension phase, a shrug and pull or pull-under phase, a power receiving position, and a finish phase.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=viWI2rEt-HU",
+      "source_url": "https://www.crossfit.com/essentials/the-dumbbell-power-clean"
+    },
+    {
+      "name": "The Dumbbell Power Snatch",
+      "slug": "the-dumbbell-power-snatch",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "Master the Dumbbell Power Snatch with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "GHD"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=3mlhF3dptAo",
+      "source_url": "https://www.crossfit.com/essentials/the-dumbbell-power-snatch"
+    },
+    {
+      "name": "The Dumbbell Push Jerk",
+      "slug": "the-dumbbell-push-jerk",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=rnN3pYswScE",
+      "source_url": "https://www.crossfit.com/essentials/the-dumbbell-push-jerk"
+    },
+    {
+      "name": "The Dumbbell Push Press",
+      "slug": "the-dumbbell-push-press",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "Master the Dumbbell Push Press with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": "position and mastering the dip, the drive, the press, and the overhead position.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=4tCaD42ghlc",
+      "source_url": "https://www.crossfit.com/essentials/the-dumbbell-push-press"
+    },
+    {
+      "name": "The Dumbbell Snatch",
+      "slug": "the-dumbbell-snatch",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=etK3OPjM3S4",
+      "source_url": "https://www.crossfit.com/essentials/the-dumbbell-snatch"
+    },
+    {
+      "name": "The Dumbbell Thruster",
+      "slug": "the-dumbbell-thruster",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "The long line of action of the thruster coupled with the difficulty of controlling two dumbbells creates a robust training stimulus. Any technical inefficiencies or positional weaknesses are immediately highlighted by the dumbbells. Start with a light set of dumbbells and refine your technique before challenging yourself with greater load.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "core",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=u3wKkZjE8QM",
+      "source_url": "https://www.crossfit.com/essentials/the-dumbbell-thruster"
+    },
+    {
+      "name": "The Dumbbell Turkish Get Up",
+      "slug": "the-dumbbell-turkish-get-up",
+      "category": "Dumbbell",
+      "is_foundational": false,
+      "description": "The dumbbell Turkish get-up tests and advances the margins of our capacity to stand from the ground by adding load. Coordination, balance, flexibility, and strength are all challenged with the practice of this movement. Move slowly and deliberately at first until the positions become familiar. Then, strive to perform the movement smoothly with fluid transitions between positions.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=saYKvqSscuY",
+      "source_url": "https://www.crossfit.com/essentials/the-dumbbell-turkish-get-up"
+    },
+    {
+      "name": "Forward Roll From Support",
+      "slug": "forward-roll-from-support",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "To learn more about human movement and the CrossFit methodology, visit&nbsp;CrossFit Training.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=xF8ptIfnfBo",
+      "source_url": "https://www.crossfit.com/essentials/forward-roll-from-support"
+    },
+    {
+      "name": "The Freestanding Handstand Push Up",
+      "slug": "the-freestanding-handstand-push-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "shoulders",
+        "back",
+        "arms",
+        "core",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=aAErmRDDJKY",
+      "source_url": "https://www.crossfit.com/essentials/the-freestanding-handstand-push-up"
+    },
+    {
+      "name": "Front Scales Progression",
+      "slug": "front-scales-progression",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "The difficulty of the front scale can be moderated by adjusting the height of the leg as well as the duration of the hold. Regardless of the height of the leg, strive to maintain perfect posture and alignment.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=WgXaf7g0Pyo",
+      "source_url": "https://www.crossfit.com/essentials/front-scales-progression"
+    },
+    {
+      "name": "The Ghd Back Extension",
+      "slug": "the-ghd-back-extension",
+      "category": "Core",
+      "is_foundational": false,
+      "description": "The GHD back extension is dissimilar in action to CrossFit’s nine foundational movements. The spine actively and deliberately flexes and extends. While you would not want to flex and extend the spine in such a way while lifting, it is important to develop the strength and positional awareness to move from these positions to a neutral position.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "GHD"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ivDB23Kcv-A",
+      "source_url": "https://www.crossfit.com/essentials/the-ghd-back-extension"
+    },
+    {
+      "name": "The Ghd Hip And Back Extension",
+      "slug": "the-ghd-hip-and-back-extension",
+      "category": "Core",
+      "is_foundational": false,
+      "description": "The GHD hip and back extension is dissimilar in action to CrossFit’s nine foundational movements. The spine actively and deliberately flexes and extends. While you would not want to flex and extend the spine in such a way while lifting, the hip and back extension further challenges the strength and coordination needed to recover from these positions during more dynamic movements.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "GHD"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=QdCzafAXJhY",
+      "source_url": "https://www.crossfit.com/essentials/the-ghd-hip-and-back-extension"
+    },
+    {
+      "name": "The Ghd Hip Extension",
+      "slug": "the-ghd-hip-extension",
+      "category": "Core",
+      "is_foundational": false,
+      "description": "The GHD hip extension is very similar in action to CrossFit’s nine foundational movements. The spine remains in a neutral position and is supported by the abdominals and spinal erectors while the hip extensors supply the power behind the movement. This pattern is easily seen during squats and deadlifts, among other movements.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "core",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "GHD"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=P0iuN0xygc0",
+      "source_url": "https://www.crossfit.com/essentials/the-ghd-hip-extension"
+    },
+    {
+      "name": "The Ghd Sit Up",
+      "slug": "the-ghd-sit-up",
+      "category": "Core",
+      "is_foundational": false,
+      "description": "Carefully introduced and practiced, the GHD sit-up is a potent tool for reeducating the athlete to use the hip flexors more efficaciously and safely.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "core",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "GHD"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=oFwt7WfnPcc",
+      "source_url": "https://www.crossfit.com/essentials/the-ghd-sit-up"
+    },
+    {
+      "name": "The Glide Kip",
+      "slug": "the-glide-kip",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "To learn more about human movement and the CrossFit methodology, visit&nbsp;CrossFit Training.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=6UYEyhFpN0s",
+      "source_url": "https://www.crossfit.com/essentials/the-glide-kip"
+    },
+    {
+      "name": "The Good Morning",
+      "slug": "the-good-morning",
+      "category": "Lower Body",
+      "is_foundational": false,
+      "description": "The good morning emphasizes the development of the glutes, hamstrings, and spinal erectors. These are the major muscles that comprise the posterior chain. Strengthening the posterior chain translates into improvements in running, jumping, lifting, throwing, punching, and almost all other athletic movements.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=KxYxHr1lkx4",
+      "source_url": "https://www.crossfit.com/essentials/the-good-morning"
+    },
+    {
+      "name": "Freestanding Handstand",
+      "slug": "freestanding-handstand",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "In the handstand, a much weaker base supports the body while simultaneously raising the body’s center of gravity a foot or more in a world turned upside down. Things don’t get more foreign. When standing, the hip is the focus of control and leverage. When in the handstand, the focus shifts to the shoulder. This shift not only helps develop “shoulders strong as hips” but also improves proprioception and core strength in ways that other protocols cannot.",
+      "muscle_groups": [
+        "shoulders",
+        "back",
+        "arms",
+        "core",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=_-9_46by2JI",
+      "source_url": "https://www.crossfit.com/essentials/freestanding-handstand"
+    },
+    {
+      "name": "Pirouettes",
+      "slug": "pirouettes",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=tTnvKzRLCUk",
+      "source_url": "https://www.crossfit.com/essentials/pirouettes"
+    },
+    {
+      "name": "Handstand Push Up Variations",
+      "slug": "handstand-push-up-variations",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "CrossFit trainers are skilled in the art of making many difficult movements accessible for the beginner. A good trainer will guide new athletes through a progression, celebrating the small victories along the way. For example, the trainer may start an athlete with a full range of motion push-up, then progress to a dip, then pike push-ups on a box, then finally moving to the wall. This process may take years.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=qbRbM6d5ddM",
+      "source_url": "https://www.crossfit.com/essentials/handstand-push-up-variations"
+    },
+    {
+      "name": "The Handstand Walk",
+      "slug": "the-handstand-walk",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "shoulders",
+        "back",
+        "arms",
+        "core",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=FdgJ9jZIT-Q",
+      "source_url": "https://www.crossfit.com/essentials/the-handstand-walk"
+    },
+    {
+      "name": "The Hang Squat Clean",
+      "slug": "the-hang-squat-clean",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=DaKC_BEN5bk",
+      "source_url": "https://www.crossfit.com/essentials/the-hang-squat-clean"
+    },
+    {
+      "name": "The Hang Clean And Push Jerk",
+      "slug": "the-hang-clean-and-push-jerk",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=KBpys4KTG5Q",
+      "source_url": "https://www.crossfit.com/essentials/the-hang-clean-and-push-jerk"
+    },
+    {
+      "name": "The Hanging L Sit",
+      "slug": "the-hanging-l-sit",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=WHi1bvZLwlw",
+      "source_url": "https://www.crossfit.com/essentials/the-hanging-l-sit"
+    },
+    {
+      "name": "The Hang Power Clean",
+      "slug": "the-hang-power-clean",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "Master the hang power clean with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "GHD",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": "the jump, and the receiving position \\nThe Setup\\nStance: The feet start under the hips or slightly wider than hip-width.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=0aP3tgKZcHQ",
+      "source_url": "https://www.crossfit.com/essentials/the-hang-power-clean"
+    },
+    {
+      "name": "The Hang Power Snatch",
+      "slug": "the-hang-power-snatch",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "Master the Hang Power Snatch with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=-mLzQdVAwlw",
+      "source_url": "https://www.crossfit.com/essentials/the-hang-power-snatch"
+    },
+    {
+      "name": "The Hang Snatch",
+      "slug": "the-hang-snatch",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=IucshEToDyM",
+      "source_url": "https://www.crossfit.com/essentials/the-hang-snatch"
+    },
+    {
+      "name": "The Inverted Burpee",
+      "slug": "the-inverted-burpee",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "Rolling from a supine position into a controlled handstand, the inverted burpee requires more control than its traditional, downward-facing counterpart.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=M6_nkTKhaFY",
+      "source_url": "https://www.crossfit.com/essentials/the-inverted-burpee"
+    },
+    {
+      "name": "The Kettlebell Snatch",
+      "slug": "the-kettlebell-snatch",
+      "category": "Kettlebell",
+      "is_foundational": false,
+      "description": "Master the Kettlebell Snatch with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "GHD",
+        "rower"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Pm-b2XFeABA",
+      "source_url": "https://www.crossfit.com/essentials/the-kettlebell-snatch"
+    },
+    {
+      "name": "The Kettlebell Swing",
+      "slug": "the-kettlebell-swing",
+      "category": "Kettlebell",
+      "is_foundational": false,
+      "description": "The kettlebell swing offers a simple introduction to core-to-extremity movement patterns. The hips and legs generate the force of the movement, which is then transferred through the arms and into the kettlebell. The midline must remain stable throughout the movement. These movement concepts and basic positions are shared with many other barbell lifts.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "core",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=mKDIuUbH94Q",
+      "source_url": "https://www.crossfit.com/essentials/the-kettlebell-swing"
+    },
+    {
+      "name": "The Kipping Bar Muscle Up",
+      "slug": "the-kipping-bar-muscle-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "The muscle-up is a movement that begins from the hang, passes through portions of a pull-up and a dip, then finishes in a supported position with arms extended.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=OCg3UXgzftc",
+      "source_url": "https://www.crossfit.com/essentials/the-kipping-bar-muscle-up"
+    },
+    {
+      "name": "The Kipping Chest To Bar Pull Up",
+      "slug": "the-kipping-chest-to-bar-pull-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "Kipping comes in a myriad of styles, and each athlete has a signature kip, but in its most elegant form the kip is a transference of movement first generated in the horizontal plane, where it comes cheap and easy, to the vertical plane, where momentum and a perfectly timed pull from the back launch the athlete forcefully upward.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=AyPTCEXTjOo",
+      "source_url": "https://www.crossfit.com/essentials/the-kipping-chest-to-bar-pull-up"
+    },
+    {
+      "name": "The Kipping Deficit Handstand Push Up",
+      "slug": "the-kipping-deficit-handstand-push-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "After mastering the basics of the handstand push-up, the range of motion can be increased by elevating the hands and allowing the head to pass below them. This can and should be approached incrementally until the athlete has developed the capacity to lower and return from a position where the shoulders are in line with the hands.",
+      "muscle_groups": [
+        "shoulders",
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=DJA1t6Fp5WE",
+      "source_url": "https://www.crossfit.com/essentials/the-kipping-deficit-handstand-push-up"
+    },
+    {
+      "name": "The Kipping Handstand Push Up",
+      "slug": "the-kipping-handstand-push-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "To learn more about human movement and the CrossFit methodology, visit&nbsp;CrossFit Training.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=9wIkPCS4Mbo",
+      "source_url": "https://www.crossfit.com/essentials/the-kipping-handstand-push-up"
+    },
+    {
+      "name": "The Kipping Muscle Up",
+      "slug": "the-kipping-muscle-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "The heart of the muscle-up is the transition from pull-up to dip — the agonizing moment when you don’t know if you’re above or below. That moment — the transition — can last from fractions to dozens of seconds. At low, deliberate speeds, the muscle-up takes a toll physically and psychologically that can only be justified by the benefit. No other movement can deliver the same upper body strength. Period.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=G8W0BhzrWcs",
+      "source_url": "https://www.crossfit.com/essentials/the-kipping-muscle-up"
+    },
+    {
+      "name": "The Kipping Pull Up",
+      "slug": "the-kipping-pull-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "Master the kipping pull-up with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=lzRo-4pq_AY",
+      "source_url": "https://www.crossfit.com/essentials/the-kipping-pull-up"
+    },
+    {
+      "name": "The Kipping Toes To Bar",
+      "slug": "the-kipping-toes-to-bar",
+      "category": "Core",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=6dHvTlsMvNY",
+      "source_url": "https://www.crossfit.com/essentials/the-kipping-toes-to-bar"
+    },
+    {
+      "name": "The Legless Rope Climb",
+      "slug": "the-legless-rope-climb",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "There is a strong consensus among scientists that our heritage is deeply rooted in both climbing and bipedalism, i.e., both swinging from the trees and functioning on two feet. While nearly all our regular movements today are bipedal, the value to survival, fitness, and combat of climbing skills is critical and largely undeveloped even in \"elite\" athletes.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rope"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=rfr-Tw3Pxh8",
+      "source_url": "https://www.crossfit.com/essentials/the-legless-rope-climb"
+    },
+    {
+      "name": "The L Pull Up",
+      "slug": "the-l-pull-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "Very few movements challenge the upper body like the L pull-up. This movement has been described as the strictest pull-up variation; the body must remain in the static hold of the L-sit, eliminating any assistance or momentum from the body.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=qeGS55RHBUU",
+      "source_url": "https://www.crossfit.com/essentials/the-l-pull-up"
+    },
+    {
+      "name": "The L Sit",
+      "slug": "the-l-sit",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "\"The gymnasts’ unrivaled capacity at hip and trunk flexion is in large part due to their constant training and practice of this exercise.\" —Greg Glassman",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "core",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=_HbccxgnCg0",
+      "source_url": "https://www.crossfit.com/essentials/the-l-sit"
+    },
+    {
+      "name": "The L Sit On Rings",
+      "slug": "the-l-sit-on-rings",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=lwcHmXvw-T4",
+      "source_url": "https://www.crossfit.com/essentials/the-l-sit-on-rings"
+    },
+    {
+      "name": "The L Sit Rope Climb",
+      "slug": "the-l-sit-rope-climb",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "Rope climbing has long been a staple of the CrossFit regimen. It is a tremendously functional way to challenge the grip and develop upper-body strength. With the addition of the L-sit position, this movement has no peer in developing grip, arm, and core strength, as well as full-body control and coordination.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "core",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rope"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Ewf8rqGRbrE",
+      "source_url": "https://www.crossfit.com/essentials/the-l-sit-rope-climb"
+    },
+    {
+      "name": "The L Sit To Shoulder Stand",
+      "slug": "the-l-sit-to-shoulder-stand",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "shoulders",
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=OkIPCkXhBmY",
+      "source_url": "https://www.crossfit.com/essentials/the-l-sit-to-shoulder-stand"
+    },
+    {
+      "name": "The Modified Rope Climb",
+      "slug": "the-modified-rope-climb",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "Rope climbs build pulling and grip strength and can be performed with various techniques. Rope climbs are used widely in CrossFit gyms and military training.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rope"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=BsDRv1fiXIY",
+      "source_url": "https://www.crossfit.com/essentials/the-modified-rope-climb"
+    },
+    {
+      "name": "The Muscle Snatch",
+      "slug": "the-muscle-snatch",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=bJYzOo1cNqY",
+      "source_url": "https://www.crossfit.com/essentials/the-muscle-snatch"
+    },
+    {
+      "name": "The Power Clean",
+      "slug": "the-power-clean",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "Master the power clean with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "GHD",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": "Position\\nStance: The feet start under the hips or slightly wider than hip-width.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=KwYJTpQ_x5A",
+      "source_url": "https://www.crossfit.com/essentials/the-power-clean"
+    },
+    {
+      "name": "The Power Clean Split Jerk",
+      "slug": "the-power-clean-split-jerk",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Sk1vhXhHO_A",
+      "source_url": "https://www.crossfit.com/essentials/the-power-clean-split-jerk"
+    },
+    {
+      "name": "The Power Snatch",
+      "slug": "the-power-snatch",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=TL8SMp7RdXQ",
+      "source_url": "https://www.crossfit.com/essentials/the-power-snatch"
+    },
+    {
+      "name": "The Pull Over",
+      "slug": "the-pull-over",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "Master the Pull-Over with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=faJDYEZmueM",
+      "source_url": "https://www.crossfit.com/essentials/the-pull-over"
+    },
+    {
+      "name": "The Push Up",
+      "slug": "the-push-up",
+      "category": "Upper Body",
+      "is_foundational": false,
+      "description": "In an earlier time, the push-up was largely regarded as a measure of a person",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=0pkjOk0EiAk",
+      "source_url": "https://www.crossfit.com/essentials/the-push-up"
+    },
+    {
+      "name": "The Ring Dip",
+      "slug": "the-ring-dip",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "The ring dip is to the bar dip as the squat is to the leg press. The movement requires upper-body strength, stability, and control while bringing the shoulders through full extension. Practicing the ring dip will develop upper-body pressing strength as well as a foundation for more advanced gymnastics movements.",
+      "muscle_groups": [
+        "shoulders",
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=EznLCDBAPIU",
+      "source_url": "https://www.crossfit.com/essentials/the-ring-dip"
+    },
+    {
+      "name": "The Ring Push Up",
+      "slug": "the-ring-push-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "Requiring more stability in the shoulders and the midline, while also increasing depth, the ring push-up is significantly more difficult than traditional push-ups on the floor.",
+      "muscle_groups": [
+        "shoulders",
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=FRiiZRhapeU",
+      "source_url": "https://www.crossfit.com/essentials/the-ring-push-up"
+    },
+    {
+      "name": "The Ring Row",
+      "slug": "the-ring-row",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "core",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=sEAOZc77wk8",
+      "source_url": "https://www.crossfit.com/essentials/the-ring-row"
+    },
+    {
+      "name": "The Rope Climb Basket",
+      "slug": "the-rope-climb-basket",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "Rope climbs build pulling and grip strength and can be performed with various techniques. Rope climbs are used widely in CrossFit gyms and military training.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rope"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Pa4QUC9AvuA",
+      "source_url": "https://www.crossfit.com/essentials/the-rope-climb-basket"
+    },
+    {
+      "name": "The Rope Climb Wrapping",
+      "slug": "the-rope-climb-wrapping",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "Rope climbs build pulling and grip strength and can be performed with various techniques. Rope climbs are used widely in CrossFit gyms and military training.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rope"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=zBoTgBpkn7o",
+      "source_url": "https://www.crossfit.com/essentials/the-rope-climb-wrapping"
+    },
+    {
+      "name": "Rowing",
+      "slug": "rowing",
+      "category": "Cardio",
+      "is_foundational": false,
+      "description": "What makes rowing popular with elite athletes and CrossFitters is exactly what many in the general fitness population dislike about it: your weaknesses cannot be hidden on the rowing machine. It is a human polygraph of physical and mental performance. Stroke for stroke, you are provided with feedback that both reveals any weak spots and very visibly demonstrates the relationship between performance and proper technique.&nbsp; —Angela Hart, \"Rowing Technique,\" CFJ",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=fxfhQMbATCw",
+      "source_url": "https://www.crossfit.com/essentials/rowing"
+    },
+    {
+      "name": "The Shoot Through",
+      "slug": "the-shoot-through",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=sZ9fP4iOmFs",
+      "source_url": "https://www.crossfit.com/essentials/the-shoot-through"
+    },
+    {
+      "name": "The Single Leg Squat",
+      "slug": "the-single-leg-squat",
+      "category": "Lower Body",
+      "is_foundational": false,
+      "description": "Master the Single-Leg Squat with CrossFit",
+      "muscle_groups": [
+        "arms",
+        "legs"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "GHD",
+        "rope",
+        "rower"
+      ],
+      "how_to": {
+        "setup": "the descent, and the return to the standing position.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=keSzg7MaoVQ",
+      "source_url": "https://www.crossfit.com/essentials/the-single-leg-squat"
+    },
+    {
+      "name": "The Single Under",
+      "slug": "the-single-under",
+      "category": "Conditioning",
+      "is_foundational": false,
+      "description": "CrossFit Seminar Staff member Julie Foucher demonstrates the single-under. Learn more about CrossFit Courses.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "jump rope"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=hCuXYrTOMxI",
+      "source_url": "https://www.crossfit.com/essentials/the-single-under"
+    },
+    {
+      "name": "Skin The Cat",
+      "slug": "skin-the-cat",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "core",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ABSpTs17ObA",
+      "source_url": "https://www.crossfit.com/essentials/skin-the-cat"
+    },
+    {
+      "name": "The Slam Ball",
+      "slug": "the-slam-ball",
+      "category": "Conditioning",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=k9W6g9LvXDI",
+      "source_url": "https://www.crossfit.com/essentials/the-slam-ball"
+    },
+    {
+      "name": "The Snatch",
+      "slug": "the-snatch",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "Master the snatch with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=GhxhiehJcQY",
+      "source_url": "https://www.crossfit.com/essentials/the-snatch"
+    },
+    {
+      "name": "The Snatch Balance",
+      "slug": "the-snatch-balance",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "\"The snatch balance begins in a narrower stance, with feet directly under the hips—the pulling stance that is the starting position for the clean and the snatch (what Coach Burgener often calls the “jumping stance”). The snatch balance requires the athlete to initiate the movement with a strong dip and drive, then dive under the bar and move the feet to land in the slightly wider catching stance with the bar overhead—all explosively and in an instant.\" (CrossFit Journal, 2005).",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=XuFaD1sAVGI",
+      "source_url": "https://www.crossfit.com/essentials/the-snatch-balance"
+    },
+    {
+      "name": "The Sots Press",
+      "slug": "the-sots-press",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=eJ9MLnNV6FY",
+      "source_url": "https://www.crossfit.com/essentials/the-sots-press"
+    },
+    {
+      "name": "The Split Clean",
+      "slug": "the-split-clean",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=a5CR3Bi2Gc8",
+      "source_url": "https://www.crossfit.com/essentials/the-split-clean"
+    },
+    {
+      "name": "The Split Jerk",
+      "slug": "the-split-jerk",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "For the jerk, as in the snatch and clean, certain parts of the body have to move out of the way of the bar so it can travel up straight. In other words, these parts have to move around the bar. In the jerk, of course, the head is the only obstacle. Also, the distance from the shoulders to overhead is a much shorter than that from the ground to the shoulders or the ground to overhead.",
+      "muscle_groups": [
+        "shoulders",
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=GUDkOtraHHY",
+      "source_url": "https://www.crossfit.com/essentials/the-split-jerk"
+    },
+    {
+      "name": "The Split Snatch",
+      "slug": "the-split-snatch",
+      "category": "Olympic Lifts",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=VFdCGK8yk-8",
+      "source_url": "https://www.crossfit.com/essentials/the-split-snatch"
+    },
+    {
+      "name": "The Straddle Press",
+      "slug": "the-straddle-press",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=DRYQDMUVgYE",
+      "source_url": "https://www.crossfit.com/essentials/the-straddle-press"
+    },
+    {
+      "name": "The Strict Bar Muscle Up",
+      "slug": "the-strict-bar-muscle-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=o69WaY_7k2c",
+      "source_url": "https://www.crossfit.com/essentials/the-strict-bar-muscle-up"
+    },
+    {
+      "name": "The Strict Chest To Bar Pull Up",
+      "slug": "the-strict-chest-to-bar-pull-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "The goal in your pull-up work is &#8216;more.&#8217; You want, you need, more pull-ups. The more you can do, the stronger you become. Muscular endurance, absolute strength, relative strength — whatever you want to define and measure gets better. Every personal-best pull-up is an event worthy of celebration. You’re going to live to be 100, but you’ll not get that many pull-ups, so treat the new ones like birthdays.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "core",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=xf69XHAs5w8",
+      "source_url": "https://www.crossfit.com/essentials/the-strict-chest-to-bar-pull-up"
+    },
+    {
+      "name": "The Strict Handstand Push Up",
+      "slug": "the-strict-handstand-push-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "The integration of strength and balance gives the handstand push-up an athletic edge that brings this movement to at least peer status with even the heaviest of presses, whether bench, overhead, or jerk. Performing 20 handstand push-ups in the middle of the room or on parallel bars becomes an extraordinary feat of strength and balance that has no peer in weightlifting movements.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=0wDEO6shVjc",
+      "source_url": "https://www.crossfit.com/essentials/the-strict-handstand-push-up"
+    },
+    {
+      "name": "The Strict Knees To Elbow",
+      "slug": "the-strict-knees-to-elbow",
+      "category": "Core",
+      "is_foundational": false,
+      "description": "When performed without kipping, the knees-to-elbows places huge demand on the midline to raise the lower body while also requiring a high level control, both on the way up, and on the way down. A lazy uncurling of the legs on the descent will quickly lead to a wild swing, requiring the athlete to pause and recenter themselves.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=_DUlB4YpZRw",
+      "source_url": "https://www.crossfit.com/essentials/the-strict-knees-to-elbow"
+    },
+    {
+      "name": "The Strict Muscle Up",
+      "slug": "the-strict-muscle-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "The muscle-up is a movement that transitions from a hanging position below the rings to a supported position, arms extended, above the rings. It is a combination movement containing both a pull-up and a dip. Far from a contrivance, the muscle-up is hugely functional. With a muscle-up, you’ll be able to surmount any object on which you can get a finger hold — if you can touch it, you can get up on it. The value here for survival, police, firefighter, and military use is impossible to overstate.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=vJTJFc2wmk4",
+      "source_url": "https://www.crossfit.com/essentials/the-strict-muscle-up"
+    },
+    {
+      "name": "The Strict Pull Up",
+      "slug": "the-strict-pull-up",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "“The goal in your pull-up work is",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "core",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=HRV5YKKaeVw",
+      "source_url": "https://www.crossfit.com/essentials/the-strict-pull-up"
+    },
+    {
+      "name": "The Strict Toes To Bar",
+      "slug": "the-strict-toes-to-bar",
+      "category": "Core",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=xX9Hzi7Onnw",
+      "source_url": "https://www.crossfit.com/essentials/the-strict-toes-to-bar"
+    },
+    {
+      "name": "The Strict Toes To Rings",
+      "slug": "the-strict-toes-to-rings",
+      "category": "Core",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=1zp-B1Vb_Vs",
+      "source_url": "https://www.crossfit.com/essentials/the-strict-toes-to-rings"
+    },
+    {
+      "name": "The Sumo Deadlift",
+      "slug": "the-sumo-deadlift",
+      "category": "Lower Body",
+      "is_foundational": false,
+      "description": "Master the Sumo Deadlift with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "rower",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": "the liftoff to full extension of the legs and hips, and the descent.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ENEg9UF7z7M",
+      "source_url": "https://www.crossfit.com/essentials/the-sumo-deadlift"
+    },
+    {
+      "name": "Backward Roll To Support",
+      "slug": "backward-roll-to-support",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=nwpEUd_Yc_E",
+      "source_url": "https://www.crossfit.com/essentials/backward-roll-to-support"
+    },
+    {
+      "name": "The Thruster",
+      "slug": "the-thruster",
+      "category": "Compound",
+      "is_foundational": false,
+      "description": "Master the Thruster with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "medicine ball",
+        "GHD",
+        "rope",
+        "PVC pipe"
+      ],
+      "how_to": {
+        "setup": "position, executing a mechanically sound front squat, and transitioning efficiently to an overhead press.",
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=L219ltL15zk",
+      "source_url": "https://www.crossfit.com/essentials/the-thruster"
+    },
+    {
+      "name": "The Walking Lunge",
+      "slug": "the-walking-lunge",
+      "category": "Lower Body",
+      "is_foundational": false,
+      "description": "The walking lunge is a fantastic, accessible tool for developing lower body strength, postural awareness, and balance. The basic movement pattern can be learned quickly and performed almost anywhere. It also serves as a gateway to many other variations. Once the fundamentals are mastered at body weight, load can be held at the hang, in the front rack, or overhead to increase the challenge of the movement.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=DlhojghkaQ0",
+      "source_url": "https://www.crossfit.com/essentials/the-walking-lunge"
+    },
+    {
+      "name": "The Wall Ball",
+      "slug": "the-wall-ball",
+      "category": "Conditioning",
+      "is_foundational": false,
+      "description": "Master the wall-ball shot with CrossFit",
+      "muscle_groups": [
+        "arms"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box",
+        "medicine ball",
+        "jump rope",
+        "rower"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=EqjGKsiIMCE",
+      "source_url": "https://www.crossfit.com/essentials/the-wall-ball"
+    },
+    {
+      "name": "The Wall Walk",
+      "slug": "the-wall-walk",
+      "category": "Gymnastics",
+      "is_foundational": false,
+      "description": "The wall walk is an excellent tool for introducing the basics of inversion. Coordination and upper-body strength are both challenged as the athlete experiences and strives to maintain fundamental elements of the handstand position. Despite the challenges inherent in being inverted, the athlete remains supported by three points of contact on the floor, wall, or a combination of the two throughout the entire movement. The wall walk can be the first step in a journey toward handstand mastery or a tool for skill development in athletes of any level.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=NK_OcHEm8yM",
+      "source_url": "https://www.crossfit.com/essentials/the-wall-walk"
+    },
+    {
+      "name": "The Windshield Wiper",
+      "slug": "the-windshield-wiper",
+      "category": "Core",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=W2xdEDuR-dE",
+      "source_url": "https://www.crossfit.com/essentials/the-windshield-wiper"
+    },
+    {
+      "name": "The Zercher Squat",
+      "slug": "the-zercher-squat",
+      "category": "Squats",
+      "is_foundational": false,
+      "description": "© 2026 CrossFit, LLC. CrossFit, Fittest on Earth, 3...2...1...Go! CrossFit Games, and Sport of Fitness are trademarks of CrossFit, LLC in the U.S. and/or other countries. All Rights Reserved.",
+      "muscle_groups": [
+        "back",
+        "arms",
+        "legs",
+        "glutes",
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "kettlebell",
+        "pull-up bar",
+        "rings",
+        "box"
+      ],
+      "how_to": {
+        "setup": null,
+        "execution": null,
+        "finish": null
+      },
+      "common_mistakes": null,
+      "variations": null,
+      "youtube_url": "https://www.youtube.com/watch?v=nwx6Ip7hd3I",
+      "source_url": "https://www.crossfit.com/essentials/the-zercher-squat"
+    }
+  ]
+}

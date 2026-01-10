@@ -1,0 +1,101 @@
+---
+layout: layouts/base.njk
+title: "Movement Library | CrossFit Workout Viewer"
+description: "Browse 117 CrossFit movements with video tutorials, equipment lists, and muscle group information."
+---
+
+<h1 class="text-4xl font-bold mb-4">Movement Library</h1>
+<p class="text-base-content/70 mb-8">
+  Browse {{ movements.movements.length }} CrossFit movements. Click on any movement to watch the video tutorial.
+</p>
+
+{# Category Filter #}
+{% set categories = movements.movements | groupByCategory %}
+<div class="mb-8 sticky top-4 z-10 bg-base-100/95 backdrop-blur-sm rounded-box p-4 border border-base-300 shadow-sm">
+  <div class="flex flex-wrap gap-2">
+    <button class="btn btn-sm btn-primary category-btn" data-category="all">
+      All ({{ movements.movements.length }})
+    </button>
+    {% for category, items in categories %}
+    <button class="btn btn-sm btn-outline category-btn" data-category="{{ category }}">
+      {{ category }} ({{ items.length }})
+    </button>
+    {% endfor %}
+  </div>
+</div>
+
+{# Movements Grid by Category #}
+{% for category, categoryMovements in categories %}
+<section class="mb-12 category-section" data-category="{{ category }}">
+  <h2 class="text-2xl font-bold mb-4 flex items-center gap-2">
+    {{ category }}
+    <span class="badge badge-ghost">{{ categoryMovements.length }}</span>
+  </h2>
+
+  <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+    {% for movement in categoryMovements %}
+    <a href="{{ ('/movements/' + movement.slug + '/') | url }}"
+       class="card bg-base-100 shadow-lg hover:shadow-xl transition-all hover:scale-[1.02] movement-card border border-base-300 cursor-pointer">
+      <div class="card-body p-5">
+        <h3 class="card-title text-lg">{{ movement.name }}</h3>
+
+        {% if movement.is_foundational %}
+        <span class="badge badge-primary badge-sm">Foundational</span>
+        {% endif %}
+
+        {% if movement.description %}
+        <p class="text-sm text-base-content/70 line-clamp-2">{{ movement.description }}</p>
+        {% endif %}
+
+        {% if movement.muscle_groups and movement.muscle_groups.length > 0 %}
+        <div class="flex flex-wrap gap-1 mt-2">
+          {% for muscle in movement.muscle_groups %}
+          <span class="badge badge-outline badge-xs">{{ muscle }}</span>
+          {% endfor %}
+        </div>
+        {% endif %}
+
+        {% if movement.equipment and movement.equipment.length > 0 %}
+        <div class="mt-2">
+          <span class="text-xs text-base-content/60">Equipment:</span>
+          <span class="text-xs">{{ movement.equipment | join(", ") }}</span>
+        </div>
+        {% endif %}
+
+        <div class="card-actions justify-end mt-3">
+          <span class="btn btn-sm btn-primary pointer-events-none">
+            View Details
+            <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </span>
+        </div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}
+
+<script>
+document.querySelectorAll('.category-btn').forEach(btn => {
+  btn.addEventListener('click', function() {
+    const category = this.dataset.category;
+
+    // Update button states
+    document.querySelectorAll('.category-btn').forEach(b => {
+      b.classList.toggle('btn-primary', b.dataset.category === category);
+      b.classList.toggle('btn-outline', b.dataset.category !== category);
+    });
+
+    // Filter sections
+    document.querySelectorAll('.category-section').forEach(section => {
+      section.style.display = (category === 'all' || section.dataset.category === category)
+        ? 'block' : 'none';
+    });
+
+    // Scroll to top of content
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+});
+</script>
