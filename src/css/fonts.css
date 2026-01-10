@@ -1,0 +1,65 @@
+/* Font Pairings CSS - Converted from font-pairings.js */
+/* Default: Reddit Sans + Sora */
+
+@import url('https://fonts.googleapis.com/css2?family=Reddit+Sans:ital,wght@0,200..900;1,200..900&family=Sora:wght@100..800&display=swap');
+
+:root {
+  --font-heading: 'Reddit Sans', sans-serif;
+  --font-body: 'Sora', sans-serif;
+  --weight-heading: 700;
+  --weight-body: 400;
+}
+
+/* Apply fonts to headings */
+h1, h2, h3, h4, h5, h6, .font-heading {
+  font-family: var(--font-heading);
+  font-weight: var(--weight-heading);
+}
+
+/* Apply fonts to body text */
+body, p, div, span, .font-body {
+  font-family: var(--font-body);
+  font-weight: var(--weight-body);
+}
+
+/* Prose content styling */
+.prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
+  font-family: var(--font-heading);
+  font-weight: var(--weight-heading);
+}
+
+.prose p, .prose li, .prose td, .prose th {
+  font-family: var(--font-body);
+  font-weight: var(--weight-body);
+}
+
+/* Alternative font pairings via data attribute */
+/* Usage: <html data-font-pairing="arvo-geist"> */
+
+[data-font-pairing="arvo-geist"] {
+  --font-heading: 'Arvo', serif;
+  --font-body: 'Geist', sans-serif;
+  --weight-heading: 700;
+  --weight-body: 400;
+}
+
+[data-font-pairing="dm-serif-sans"] {
+  --font-heading: 'DM Serif Text', serif;
+  --font-body: 'DM Sans', sans-serif;
+  --weight-heading: 400;
+  --weight-body: 400;
+}
+
+[data-font-pairing="bitter-raleway"] {
+  --font-heading: 'Bitter', serif;
+  --font-body: 'Raleway', sans-serif;
+  --weight-heading: 700;
+  --weight-body: 400;
+}
+
+[data-font-pairing="dm-serif-display-mono"] {
+  --font-heading: 'DM Serif Display', serif;
+  --font-body: 'Roboto Mono', monospace;
+  --weight-heading: 400;
+  --weight-body: 400;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "oxypogon",
+  "version": "1.0.0",
+  "description": "CrossFit Workout of the Day viewer with AI-powered insights",
+  "type": "module",
+  "scripts": {
+    "start": "bunx @11ty/eleventy --serve",
+    "build": "bunx @11ty/eleventy",
+    "dev": "bunx @11ty/eleventy --serve --watch"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  },
+  "author": "Kristian Garza",
+  "license": "Apache-2.0"
+}

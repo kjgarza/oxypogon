@@ -1,0 +1,17 @@
+{
+  "title": "CrossFit Workout Viewer",
+  "description": "Your complete workout guide with AI-powered insights",
+  "author": {
+    "name": "Kristian Garza",
+    "email": "kj.garza+kjgarza@gmail.com",
+    "figma": "https://www.figma.com/@kristiangarza",
+    "github": "https://github.com/kjgarza",
+    "linkedin": "https://www.linkedin.com/in/kjgarza"
+  },
+  "socialLinks": [
+    { "name": "Figma", "url": "https://www.figma.com/@kristiangarza" },
+    { "name": "GitHub", "url": "https://github.com/kjgarza" },
+    { "name": "LinkedIn", "url": "https://www.linkedin.com/in/kjgarza" }
+  ],
+  "copyrightYear": 2026
+}

@@ -1,0 +1,179 @@
+---
+pagination:
+  data: movements.movements
+  size: 1
+  alias: movement
+permalink: "/movements/{{ movement.slug }}/"
+layout: layouts/base.njk
+eleventyComputed:
+  title: "{{ movement.name }} | Movement Library"
+  description: "{{ movement.description or 'Learn how to perform the ' + movement.name + ' CrossFit movement.' }}"
+---
+
+<div class="max-w-4xl mx-auto">
+  {# Back Navigation #}
+  <div class="mb-6">
+    <a href="{{ '/movements/' | url }}" class="btn btn-sm btn-ghost gap-2">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
+      </svg>
+      Back to Movements
+    </a>
+  </div>
+
+  {# Header Section #}
+  <div class="mb-6">
+    <div class="flex flex-wrap gap-2 mb-3">
+      <span class="badge badge-lg badge-primary">{{ movement.category }}</span>
+      {% if movement.is_foundational %}
+      <span class="badge badge-lg badge-accent">Foundational</span>
+      {% endif %}
+    </div>
+
+    <h1 class="text-4xl font-bold mb-3">{{ movement.name }}</h1>
+
+    {% if movement.description %}
+    <p class="text-lg text-base-content/80">{{ movement.description }}</p>
+    {% endif %}
+  </div>
+
+  {# YouTube Video Embed #}
+  {% if movement.youtube_url %}
+  {% set embedUrl = movement.youtube_url | youtubeEmbed %}
+  {% if embedUrl %}
+  <div class="mb-8">
+    <div class="relative w-full" style="padding-bottom: 56.25%;">
+      <iframe
+        class="absolute top-0 left-0 w-full h-full rounded-lg shadow-lg"
+        src="{{ embedUrl }}"
+        title="{{ movement.name }} - YouTube video"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+  {% endif %}
+  {% endif %}
+
+
+
+  {# How To #}
+  {% if movement.how_to %}
+  <div class="card bg-base-200 shadow-lg mb-6">
+    <div class="card-body">
+      <h2 class="card-title text-xl mb-4">How To Perform</h2>
+
+      {% if movement.how_to.setup %}
+      <div class="mb-4">
+        <h3 class="font-bold text-lg mb-2 flex items-center gap-2">
+          <span class="badge badge-primary badge-sm">1</span>
+          Setup
+        </h3>
+        <p class="text-base-content/80 pl-8">{{ movement.how_to.setup }}</p>
+      </div>
+      {% endif %}
+
+      {% if movement.how_to.execution %}
+      <div class="mb-4">
+        <h3 class="font-bold text-lg mb-2 flex items-center gap-2">
+          <span class="badge badge-primary badge-sm">2</span>
+          Execution
+        </h3>
+        <p class="text-base-content/80 pl-8">{{ movement.how_to.execution }}</p>
+      </div>
+      {% endif %}
+
+      {% if movement.how_to.finish %}
+      <div>
+        <h3 class="font-bold text-lg mb-2 flex items-center gap-2">
+          <span class="badge badge-primary badge-sm">3</span>
+          Finish
+        </h3>
+        <p class="text-base-content/80 pl-8">{{ movement.how_to.finish }}</p>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
+
+  {# Common Mistakes #}
+  {% if movement.common_mistakes and movement.common_mistakes.length > 0 %}
+  <div class="card bg-base-200 shadow-lg mb-6">
+    <div class="card-body">
+      <h2 class="card-title text-xl mb-3">Common Mistakes</h2>
+      <ul class="list-disc list-inside space-y-2">
+        {% for mistake in movement.common_mistakes %}
+        <li class="text-base-content/80">{{ mistake }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  {% endif %}
+
+  {# Variations #}
+  {% if movement.variations and movement.variations.length > 0 %}
+  <div class="card bg-base-200 shadow-lg mb-6">
+    <div class="card-body">
+      <h2 class="card-title text-xl mb-3">Variations</h2>
+      <ul class="list-disc list-inside space-y-2">
+        {% for variation in movement.variations %}
+        <li class="text-base-content/80">{{ variation }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  {% endif %}
+
+    {# Muscle Groups #}
+  {% if movement.muscle_groups and movement.muscle_groups.length > 0 %}
+  <div class="card bg-base-200 shadow-lg mb-6">
+    <div class="card-body">
+      <h2 class="card-title text-xl mb-3">Muscle Groups</h2>
+      <div class="flex flex-wrap gap-2">
+        {% for muscle in movement.muscle_groups %}
+        <span class="badge badge-lg badge-outline">{{ muscle }}</span>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endif %}
+
+  {# Equipment #}
+  {% if movement.equipment and movement.equipment.length > 0 %}
+  <div class="card bg-base-200 shadow-lg mb-6">
+    <div class="card-body">
+      <h2 class="card-title text-xl mb-3">Equipment</h2>
+      <ul class="list-disc list-inside space-y-1">
+        {% for item in movement.equipment %}
+        <li class="text-base-content/80">{{ item | titleCase }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  {% endif %}
+
+  {# Source Link #}
+  {% if movement.source_url %}
+  <div class="flex justify-center mt-8 mb-6">
+    <a href="{{ movement.source_url }}" target="_blank" rel="noopener noreferrer"
+       class="btn btn-outline btn-primary gap-2">
+      <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+      </svg>
+      View on CrossFit.com
+    </a>
+  </div>
+  {% endif %}
+
+  {# Navigation Footer #}
+  <div class="divider"></div>
+  <div class="flex justify-center mb-8">
+    <a href="{{ '/movements/' | url }}" class="btn btn-ghost gap-2">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
+      </svg>
+      Back to Movement Library
+    </a>
+  </div>
+</div>

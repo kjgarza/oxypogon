@@ -1,0 +1,13 @@
+<footer class="text-primary flex w-full max-w-4xl flex-col items-center justify-between gap-2 px-4 pt-8 pb-24 font-mono font-medium sm:pb-8 md:px-12 xl:px-8 mt-16 border-t border-base-300 mx-auto">
+  <div class="flex flex-wrap items-center justify-center gap-4 text-sm">
+    {% for link in site.socialLinks %}
+    <a class="hover:text-accent hover:underline transition-colors" target="_blank" rel="noopener noreferrer" href="{{ link.url }}">
+      {{ link.name }}
+    </a>
+    {% if not loop.last %}<span class="text-base-content/40">·</span>{% endif %}
+    {% endfor %}
+  </div>
+  <p class="text-base-content/60 text-sm">
+    Copyright © {{ site.copyrightYear }} {{ site.author.name }}
+  </p>
+</footer>

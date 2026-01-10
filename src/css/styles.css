@@ -1,0 +1,114 @@
+/* Main Styles for Oxypogon */
+
+:root {
+  --rounded-box: 0.55rem;
+  --rounded-btn: 0.35rem;
+}
+
+/* Base body styles */
+body {
+  line-height: 1.6;
+}
+
+/* Card styling */
+.card {
+  border: 1px solid hsl(var(--b3));
+  transition: all 0.2s ease-in-out;
+}
+
+.card:hover {
+  border-color: hsl(var(--p) / 0.5);
+  transform: translateY(-2px);
+}
+
+/* Movement card specific */
+.movement-card:hover {
+  box-shadow: 0 20px 40px -20px rgba(0, 0, 0, 0.2);
+}
+
+/* Hero card specific - no transform on hover for gravitas */
+.hero-card:hover {
+  transform: none;
+  border-color: hsl(var(--p));
+}
+
+/* Prose enhancements */
+.prose-lg {
+  max-width: none;
+}
+
+.prose h3, .prose h4 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.prose ul, .prose ol {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+.prose li {
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+}
+
+/* Badge enhancements */
+.badge {
+  font-weight: 500;
+}
+
+/* Sticky filter bar */
+.sticky {
+  backdrop-filter: blur(8px);
+}
+
+/* Line clamp for truncating text */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Pre/code styling in hero workouts */
+pre {
+  background: transparent;
+  font-size: 0.875rem;
+}
+
+/* Navigation active state */
+.btn-active {
+  background-color: hsl(var(--p) / 0.15);
+  border-color: hsl(var(--p) / 0.3);
+}
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Focus styles for accessibility */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid hsl(var(--p));
+  outline-offset: 2px;
+}
+
+/* Animation for category/branch filter transitions */
+.category-section,
+.hero-card {
+  transition: opacity 0.3s ease-in-out;
+}
+
+/* Print styles */
+@media print {
+  header, footer, .sticky {
+    display: none;
+  }
+
+  .card {
+    break-inside: avoid;
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+}

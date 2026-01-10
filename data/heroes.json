@@ -1,0 +1,514 @@
+{
+  "heroes": [
+    {
+      "name": "JT",
+      "workout": {
+        "type": "for_time",
+        "description": "21-15-9 reps for time of:\nHandstand push-ups\nRing dips\nPush-ups",
+        "notes": null
+      },
+      "rx": null,
+      "honoree": {
+        "name": "Jeff Taylor",
+        "age": 30,
+        "location": "Midway, West Virginia",
+        "branch": "Navy",
+        "rank": "Petty Officer 1st Class",
+        "date_of_death": "2005-06-28",
+        "circumstances": "Killed while conducting combat operations in the vicinity of Asadabad, Afghanistan, in Kumar Province"
+      },
+      "survivors": ["father: John", "mother: Carrie", "wife: Erin"],
+      "first_posted": "2005-07-06",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Michael",
+      "workout": {
+        "type": "rounds_for_time",
+        "description": "3 rounds for time of:\nRun 800 meters\n50 back extensions\n50 sit-ups",
+        "notes": null
+      },
+      "rx": null,
+      "honoree": {
+        "name": "Michael McGreevy",
+        "age": 30,
+        "location": "Portville, NY",
+        "branch": "Navy",
+        "rank": "Lieutenant",
+        "date_of_death": "2005-06-28",
+        "circumstances": "Killed in Afghanistan"
+      },
+      "survivors": ["wife: Laura", "daughter: Molly (14-month-old)"],
+      "first_posted": "2005-07-15",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Murph",
+      "workout": {
+        "type": "for_time",
+        "description": "For time:\n1-mile run\n100 pull-ups\n200 push-ups\n300 squats\n1-mile run",
+        "notes": "Partition the pull-ups, push-ups, and squats as needed. Start and finish with a mile run. If you've got a 20-lb vest or body armor, wear it."
+      },
+      "rx": {
+        "male": "20-lb vest",
+        "female": "14-lb vest"
+      },
+      "honoree": {
+        "name": "Michael Murphy",
+        "age": 29,
+        "location": "Patchogue, N.Y.",
+        "branch": "Navy",
+        "rank": "Lieutenant",
+        "date_of_death": "2005-06-28",
+        "circumstances": "Killed in Afghanistan"
+      },
+      "survivors": null,
+      "first_posted": "2005-08-18",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Daniel",
+      "workout": {
+        "type": "for_time",
+        "description": "For time:\n50 pull-ups\n400-meter run\n21 thrusters\n800-meter run\n21 thrusters\n400-meter run\n50 pull-ups",
+        "notes": null
+      },
+      "rx": {
+        "male": "95 lb",
+        "female": "65 lb"
+      },
+      "honoree": {
+        "name": "Daniel Crabtree",
+        "age": null,
+        "location": null,
+        "branch": "Army",
+        "rank": "Sgt 1st Class",
+        "date_of_death": "2006-06-08",
+        "circumstances": "Killed in Al Kut, Iraq"
+      },
+      "survivors": ["wife: Kathy", "daughter: Mallory"],
+      "first_posted": "2006-06-15",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Josh",
+      "workout": {
+        "type": "for_time",
+        "description": "For time:\n21 overhead squats\n42 pull-ups\n15 overhead squats\n30 pull-ups\n9 overhead squats\n18 pull-ups",
+        "notes": null
+      },
+      "rx": {
+        "male": "95 lb",
+        "female": "65 lb"
+      },
+      "honoree": {
+        "name": "Joshua Hager",
+        "age": 29,
+        "location": "Broomfield, Colorado",
+        "branch": "Army",
+        "rank": "Staff Sgt.",
+        "date_of_death": "2007-02-22",
+        "circumstances": "Killed when an improvised explosive device detonated near his Humvee during combat operations in Ramadi, Iraq"
+      },
+      "survivors": ["wife: Heather", "son: Bayley", "mother: Lois Knight", "father: Kris", "stepbrother: Ensign Aaron Jozsef"],
+      "first_posted": "2007-02-26",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Jason",
+      "workout": {
+        "type": "for_time",
+        "description": "For time:\n100 squats\n5 muscle-ups\n75 squats\n10 muscle-ups\n50 squats\n15 muscle-ups\n25 squats\n20 muscle-ups",
+        "notes": null
+      },
+      "rx": null,
+      "honoree": {
+        "name": "Jason Dale Lewis",
+        "age": null,
+        "location": null,
+        "branch": "Navy",
+        "rank": "S01 (SEAL)",
+        "date_of_death": "2007-07-06",
+        "circumstances": "Killed by an IED while conducting combat operations in Southern Baghdad"
+      },
+      "survivors": ["wife: Donna", "children: Jack, Max, Grace"],
+      "first_posted": "2007-08-02",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Badger",
+      "workout": {
+        "type": "rounds_for_time",
+        "description": "3 rounds for time of:\n30 squat cleans\n30 pull-ups\nRun 800 meters",
+        "notes": null
+      },
+      "rx": {
+        "male": "95 lb",
+        "female": "65 lb"
+      },
+      "honoree": {
+        "name": "Mark Carter",
+        "age": 27,
+        "location": "Fallbrook, California",
+        "branch": "Navy",
+        "rank": "Chief Petty Officer",
+        "date_of_death": "2007-12-11",
+        "circumstances": "Killed during combat operations in Iraq"
+      },
+      "survivors": ["father: Tom", "mother: Cindy", "three brothers", "four sisters"],
+      "first_posted": "2007-12-19",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Joshie",
+      "workout": {
+        "type": "rounds_for_time",
+        "description": "3 rounds for time of:\n21 dumbbell snatches, right arm\n21 L pull-ups\n21 dumbbell snatches, left arm\n21 L pull-ups",
+        "notes": null
+      },
+      "rx": {
+        "male": "40 lb",
+        "female": "25 lb"
+      },
+      "honoree": {
+        "name": "Joshua Whitaker",
+        "age": 23,
+        "location": "Long Beach, California",
+        "branch": "Army",
+        "rank": "Staff Sgt.",
+        "date_of_death": "2007-05-15",
+        "circumstances": "Died of wounds sustained in small-arms fire in Afghanistan"
+      },
+      "survivors": ["mother: Catherine", "uncle: Robb", "father: Frank Dougherty", "aunt: Debra", "cousins: Rachel and Laura"],
+      "first_posted": "2007-12-22",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Nate",
+      "workout": {
+        "type": "amrap",
+        "description": "Complete as many rounds as possible in 20 minutes of:\n2 muscle-ups\n4 handstand push-ups\n8 kettlebell swings",
+        "notes": "1.5-pood for women, 2-pood for men"
+      },
+      "rx": {
+        "male": "70 lb",
+        "female": "53 lb"
+      },
+      "honoree": {
+        "name": "Nate Hardy",
+        "age": null,
+        "location": null,
+        "branch": "Navy",
+        "rank": "Chief Special Warfare Operator (SEAL)",
+        "date_of_death": "2008-02-04",
+        "circumstances": "Killed during combat operations in Iraq"
+      },
+      "survivors": ["wife: Mindi", "son: Parker (infant)"],
+      "first_posted": "2008-02-12",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Randy",
+      "workout": {
+        "type": "for_time",
+        "description": "For time:\n75 power snatches",
+        "notes": null
+      },
+      "rx": {
+        "male": "75 lb",
+        "female": "55 lb"
+      },
+      "honoree": {
+        "name": "Randy Simmons",
+        "age": 51,
+        "location": null,
+        "branch": "LAPD",
+        "rank": "SWAT team member",
+        "date_of_death": "2008-02-07",
+        "circumstances": "Killed in the line of duty (27-year LAPD veteran)"
+      },
+      "survivors": ["wife: Lisa", "son: Matthew", "daughter: Gabrielle"],
+      "first_posted": "2008-02-13",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Tommy V",
+      "workout": {
+        "type": "for_time",
+        "description": "For time:\n21 thrusters\n12 rope climbs\n15 thrusters\n9 rope climbs\n9 thrusters\n6 rope climbs",
+        "notes": "15-foot rope"
+      },
+      "rx": {
+        "male": "115 lb",
+        "female": "75 lb"
+      },
+      "honoree": {
+        "name": "Thomas J. Valentine",
+        "age": 37,
+        "location": "Ham Lake, Minnesota",
+        "branch": "Navy",
+        "rank": "Senior Chief Petty Officer",
+        "date_of_death": "2008-02-13",
+        "circumstances": "Died in a training accident in Arizona"
+      },
+      "survivors": ["wife: Christina", "son: John", "daughter: Meghan"],
+      "first_posted": "2008-03-12",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Griff",
+      "workout": {
+        "type": "for_time",
+        "description": "For time:\nRun 800 meters\nRun 400 meters backwards\nRun 800 meters\nRun 400 meters backwards",
+        "notes": null
+      },
+      "rx": null,
+      "honoree": {
+        "name": "Travis L. Griffin",
+        "age": 28,
+        "location": null,
+        "branch": "Air Force",
+        "rank": "Staff Sgt.",
+        "date_of_death": "2008-04-03",
+        "circumstances": "Killed in the Rasheed District of Baghdad by an improvised explosive device strike to his vehicle"
+      },
+      "survivors": ["son: Elijah"],
+      "first_posted": "2008-06-09",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Ryan",
+      "workout": {
+        "type": "rounds_for_time",
+        "description": "5 rounds for time of:\n7 muscle-ups\n21 burpees",
+        "notes": null
+      },
+      "rx": null,
+      "honoree": {
+        "name": "Ryan Hummert",
+        "age": 22,
+        "location": "Maplewood, Missouri",
+        "branch": "Fire Department",
+        "rank": "Firefighter",
+        "date_of_death": "2008-07-21",
+        "circumstances": "Killed by sniper fire when he stepped off his fire truck responding to a call"
+      },
+      "survivors": ["parents: Andrew and Jackie"],
+      "first_posted": "2008-10-08",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Erin",
+      "workout": {
+        "type": "rounds_for_time",
+        "description": "5 rounds for time of:\n15 dumbbell split cleans\n21 pull-ups",
+        "notes": null
+      },
+      "rx": {
+        "male": "40 lb",
+        "female": "30 lb"
+      },
+      "honoree": {
+        "name": "Erin Doyle",
+        "age": 32,
+        "location": null,
+        "branch": "Canadian Army",
+        "rank": "Master Cpl.",
+        "date_of_death": "2008-08-11",
+        "circumstances": "Killed in a firefight in the Panjwaii District, Kandahar Province, Afghanistan"
+      },
+      "survivors": ["wife: Nicole", "daughter: Zarine"],
+      "first_posted": "2008-10-09",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Mr. Joshua",
+      "workout": {
+        "type": "rounds_for_time",
+        "description": "5 rounds for time of:\nRun 400 meters\n30 GHD sit-ups\n15 deadlifts",
+        "notes": null
+      },
+      "rx": {
+        "male": "250 lb",
+        "female": "175 lb"
+      },
+      "honoree": {
+        "name": "Joshua Thomas Harris",
+        "age": 36,
+        "location": null,
+        "branch": "Navy",
+        "rank": "Special Warfare Operator 1st Class (SEAL)",
+        "date_of_death": "2008-08-30",
+        "circumstances": "Drowned during combat operations in Afghanistan"
+      },
+      "survivors": ["parents: Dr. Sam and Evelyn", "brother: Ranchor", "twin sister: Kiki"],
+      "first_posted": "2008-10-10",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "DT",
+      "workout": {
+        "type": "rounds_for_time",
+        "description": "5 rounds for time of:\n12 deadlifts\n9 hang power cleans\n6 push jerks",
+        "notes": null
+      },
+      "rx": {
+        "male": "155 lb",
+        "female": "105 lb"
+      },
+      "honoree": {
+        "name": "Timothy P. Davis",
+        "age": 28,
+        "location": null,
+        "branch": "Air Force",
+        "rank": "Staff Sgt.",
+        "date_of_death": "2009-02-20",
+        "circumstances": "Killed while supporting operations in OEF when his vehicle was struck by an improvised explosive device"
+      },
+      "survivors": ["wife: Megan", "son: T.J. (1-year-old)"],
+      "first_posted": "2009-04-14",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Danny",
+      "workout": {
+        "type": "amrap",
+        "description": "Complete as many rounds in 20 minutes as you can of:\n30 box jumps\n20 push presses\n30 pull-ups",
+        "notes": null
+      },
+      "rx": {
+        "male": "115-lb barbell, 24-inch box",
+        "female": "75-lb barbell, 20-inch box"
+      },
+      "honoree": {
+        "name": "Daniel Sakai",
+        "age": 35,
+        "location": "Oakland",
+        "branch": "SWAT",
+        "rank": "Sgt.",
+        "date_of_death": "2009-03-21",
+        "circumstances": "Killed in the line of duty along with fellow officers Sgt. Ervin Romans, Sgt. Mark Dunakin and Officer John Hege"
+      },
+      "survivors": ["wife: Jenni", "daughter: Jojiye"],
+      "first_posted": "2009-04-16",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Hansen",
+      "workout": {
+        "type": "rounds_for_time",
+        "description": "5 rounds for time of:\n30 kettlebell swings\n30 burpees\n30 GHD sit-ups",
+        "notes": null
+      },
+      "rx": {
+        "male": "70 lb",
+        "female": "53 lb"
+      },
+      "honoree": {
+        "name": "Daniel Hansen",
+        "age": null,
+        "location": null,
+        "branch": "Marine",
+        "rank": "Staff Sgt.",
+        "date_of_death": "2009-02-14",
+        "circumstances": "Killed in Farah Province, Afghanistan, when an improvised explosive device he was working on detonated"
+      },
+      "survivors": ["mother: Sheryll", "father: Delbert", "sister: Katie", "twin brother: Matthew (also a Marine)"],
+      "first_posted": "2009-05-02",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Tyler",
+      "workout": {
+        "type": "rounds_for_time",
+        "description": "5 rounds for time of:\n7 muscle-ups\n21 sumo deadlift high pulls",
+        "notes": null
+      },
+      "rx": {
+        "male": "95 lb",
+        "female": "65 lb"
+      },
+      "honoree": {
+        "name": "Tyler E. Parten",
+        "age": 24,
+        "location": "Arkansas",
+        "branch": "Army",
+        "rank": "1st Lt.",
+        "date_of_death": "2009-09-10",
+        "circumstances": "Died in Konar Province, Afghanistan, of wounds sustained when insurgents attacked his unit using rocket-propelled grenades and small-arms fire"
+      },
+      "survivors": ["mother: Lona", "brother: Daniel"],
+      "first_posted": "2009-10-17",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Lumberjack 20",
+      "workout": {
+        "type": "for_time",
+        "description": "For time:\n20 deadlifts\nRun 400 meters\n20 kettlebell swings\nRun 400 meters\n20 overhead squats\nRun 400 meters\n20 burpees\nRun 400 meters\n20 chest-to-bar pull-ups\nRun 400 meters\n20 box jumps\nRun 400 meters\n20 dumbbell squat cleans\nRun 400 meters",
+        "notes": null
+      },
+      "rx": {
+        "male": "275-lb deadlifts, 70-lb kettlebell, 115-lb overhead squats, 24-inch box, 45-lb dumbbells",
+        "female": "185-lb deadlifts, 53-lb kettlebell, 75-lb overhead squats, 20-inch box, 30-lb dumbbells"
+      },
+      "honoree": {
+        "name": "Frederick Greene, Aaron Thomas Nemelka, Michael Pearson, Kham Xiong",
+        "age": null,
+        "location": "Fort Hood, Texas",
+        "branch": "Army",
+        "rank": "Spc./Pfc.",
+        "date_of_death": "2009-11-05",
+        "circumstances": "Killed at Fort Hood terrorist attack by Major Nidal Hasan; 12 soldiers and one civilian killed, 43 wounded. Four fallen and 11 wounded were active CrossFit athletes in the 20th Engineer Battalion, home to Lumberjack CrossFit"
+      },
+      "survivors": null,
+      "first_posted": "2009-12-05",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Stephen",
+      "workout": {
+        "type": "for_time",
+        "description": "30-25-20-15-10-5 reps of:\nGHD sit-ups\nBack extensions\nKnees-to-elbows\nStiff-legged deadlift",
+        "notes": null
+      },
+      "rx": {
+        "male": "95 lb",
+        "female": "65 lb"
+      },
+      "honoree": {
+        "name": "Stephen Bouzane",
+        "age": 26,
+        "location": null,
+        "branch": "Canadian Army",
+        "rank": "Cpl.",
+        "date_of_death": "2007-06-20",
+        "circumstances": "Killed by an improvised explosive device in the Panjwaii District in Afghanistan"
+      },
+      "survivors": ["parents: Fred and Moureen", "sister: Kelly"],
+      "first_posted": "2010-02-07",
+      "source_url": "https://www.crossfit.com/heroes"
+    },
+    {
+      "name": "Garrett",
+      "workout": {
+        "type": "rounds_for_time",
+        "description": "3 rounds for time of:\n75 squats\n25 ring handstand push-ups\n25 L pull-ups",
+        "notes": null
+      },
+      "rx": null,
+      "honoree": {
+        "name": null,
+        "age": null,
+        "location": null,
+        "branch": null,
+        "rank": null,
+        "date_of_death": null,
+        "circumstances": null
+      },
+      "survivors": null,
+      "first_posted": null,
+      "source_url": "https://www.crossfit.com/heroes"
+    }
+  ]
+}
