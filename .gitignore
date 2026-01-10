@@ -2,6 +2,7 @@
 node_modules/
 .bun/
 bun.lockb
+package-lock.json
 
 # 11ty build output
 _site/
