@@ -1,114 +1,113 @@
-# CrossFit MINS Workout - 2026-03-09
+# CrossFit MINS Workout - 2026-03-11
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><br><p class="mb-2">For Quality</p><p class="mb-2">6 Rounds:</p><li class="ml-4">3:00 Row/Ski Erg</li><li class="ml-4">20 Box Step-ups</li><li class="ml-4">15 Kettlebell Sumo Deadlift High Pulls (24/16)</li><li class="ml-4">10 Ring Rows</li><br><p class="mb-2">Sweat: 16/8</p><p class="mb-2">Train: 20/12</p><p class="mb-2">Compete: 24/16</p>
+<p class="mb-2">WOD:</p><p class="mb-2">For Quality</p><p class="mb-2">6 Rounds:</p><li class="ml-4">3:00 Row/Ski Erg</li><li class="ml-4">20 Box Step-ups</li><li class="ml-4">15 Kettlebell Sumo Deadlift High Pulls (24/16)</li><li class="ml-4">10 Ring Rows</li><br><p class="mb-2">Sweat: 16/8</p><p class="mb-2">Train: 20/12</p><p class="mb-2">Compete: 24/16</p>
 
 ### Expert Explanation
 ## Workout Overview
 
-Hey everyone! Today’s WOD is all about quality and endurance, focusing on building strength and stamina through a series of movements that will challenge your body in different ways. We’ll be doing 6 rounds of rowing or skiing, box step-ups, kettlebell sumo deadlift high pulls, and ring rows. The goal here is to maintain good form throughout each round and really focus on the quality of your movements rather than just rushing through them. Let’s break it down!
+Hey everyone! Today’s WOD is all about quality over quantity, focusing on building endurance and strength through a series of movements that will challenge your cardiovascular system and muscular endurance. We’ll be doing 6 rounds of rowing or skiing, box step-ups, kettlebell sumo deadlift high pulls, and ring rows. The goal here is to maintain good form throughout each movement while keeping a steady pace. Let’s break it down step by step!
 
 ## Workout Components
 
 ### 1. Row/Ski Erg (3:00)
 
-**Technique Steps:**
-- **Rowing:**
-  - Start by sitting on the rower with your feet secured in the straps.
-  - Grab the handle with both hands, keeping your arms straight and your back tall.
-  - Push through your legs, lean back slightly, and pull the handle to your chest in one smooth motion.
-  - Reverse the motion: extend your arms, lean forward, and bend your knees to return to the starting position.
-  
-- **Ski Erg:**
-  - Stand with your feet shoulder-width apart and grab the handles.
-  - Engage your core and pull the handles down towards your hips while simultaneously bending your knees slightly.
-  - Return to the starting position with control.
+- **Technique Steps:**
+    - For the **Row**, sit down on the rower, strap your feet in, and grab the handle with both hands. Start with your knees bent and your back straight.
+    - Push through your heels, extend your legs, lean back slightly, and pull the handle towards your chest, keeping your elbows close.
+    - Reverse the movement: extend your arms, lean forward, and bend your knees to return to the starting position.
+    
+    - For the **Ski Erg**, stand tall with a slight bend in your knees. Grab the handles with both hands.
+    - Engage your core and pull the handles down towards your hips while simultaneously driving your arms back. 
+    - Allow your arms to return to the starting position and repeat.
 
-**Form Tips:**
-- Keep your back straight and avoid hunching over.
-- Use your legs to drive the movement; your arms should follow.
-- For the Ski Erg, focus on using your core and legs to generate power.
+- **Form Tips:**
+    - Keep your back straight and avoid rounding your shoulders.
+    - Use your legs to generate power, not just your arms.
+    - Maintain a steady rhythm; don’t rush through it.
 
-**Scaling/Modifications:**
-- If you’re new to rowing or skiing, reduce the time to 2:00 or even 1:30 to focus on technique.
-- You can also switch to a stationary bike if available.
+- **Scaling/Modifications:**
+    - If you’re new to rowing, aim for a lower intensity or shorter duration (e.g., 2:00).
+    - For the Ski Erg, reduce the resistance if needed.
 
 ### 2. Box Step-Ups (20 reps)
 
-**Technique Steps:**
-- Stand facing the box with your feet hip-width apart.
-- Step up with one foot, pressing through your heel to lift your body onto the box.
-- Bring your other foot up to meet the first, then step back down one foot at a time.
+- **Technique Steps:**
+    - Stand in front of the box with your feet shoulder-width apart.
+    - Step up onto the box with one foot, pressing through your heel to lift your body up.
+    - Bring your other foot up to meet the first on the box, then step back down one foot at a time.
 
-**Form Tips:**
-- Keep your chest up and engage your core throughout the movement.
-- Make sure your entire foot is on the box before stepping down.
-- Alternate legs for each rep to ensure balanced strength.
+- **Form Tips:**
+    - Keep your chest up and engage your core throughout the movement.
+    - Ensure your entire foot is on the box before stepping down.
+    - Alternate the leading foot each round to balance the workload.
 
-**Scaling/Modifications:**
-- Use a lower box if you’re not comfortable with the height.
-- You can also perform step-ups without weights to focus on balance and form.
+- **Scaling/Modifications:**
+    - Use a lower box if you’re not comfortable with the height.
+    - If you have knee issues, consider doing step-ups without weights or using a sturdy platform.
 
 ### 3. Kettlebell Sumo Deadlift High Pulls (15 reps)
 
-**Technique Steps:**
-- Stand with your feet wider than shoulder-width apart, toes slightly pointed out.
-- Place the kettlebell on the ground between your feet.
-- Hinge at your hips and grab the kettlebell with both hands.
-- Drive through your heels to stand up, pulling the kettlebell up towards your chin while keeping your elbows high.
+- **Technique Steps:**
+    - Stand with your feet wider than shoulder-width apart, toes slightly pointed out. Place the kettlebell between your feet.
+    - Hinge at your hips and bend your knees to grab the kettlebell with both hands.
+    - Drive through your heels to stand up, pulling the kettlebell up along your body, leading with your elbows.
+    - At the top, your elbows should be above your hands, and the kettlebell should be at shoulder height. Lower back down and repeat.
 
-**Form Tips:**
-- Keep your back flat and chest up during the hinge.
-- The kettlebell should travel close to your body; think about pulling it up with your elbows rather than your hands.
+- **Form Tips:**
+    - Keep your back flat and chest up during the hinge.
+    - Focus on using your legs to lift the kettlebell, not just your arms.
+    - Maintain a smooth motion throughout the pull.
 
-**Scaling/Modifications:**
-- Use a lighter kettlebell if you’re new to this movement.
-- If kettlebells are not available, you can substitute with dumbbells.
+- **Scaling/Modifications:**
+    - Use a lighter kettlebell if you’re new to this movement.
+    - If kettlebells are not available, you can substitute with dumbbells.
 
 ### 4. Ring Rows (10 reps)
 
-**Technique Steps:**
-- Set the rings at a height that allows you to lean back comfortably.
-- Grab the rings with an overhand grip and walk your feet forward until your body is at an angle.
-- Pull your chest towards the rings while keeping your body straight, then lower back down with control.
+- **Technique Steps:**
+    - Set the rings at a height that allows you to pull yourself up comfortably. Grab the rings and lean back, keeping your body straight.
+    - Pull your chest towards the rings while keeping your elbows close to your body.
+    - Lower yourself back down with control and repeat.
 
-**Form Tips:**
-- Keep your core tight and avoid sagging your hips.
-- Focus on squeezing your shoulder blades together as you pull.
+- **Form Tips:**
+    - Keep your body in a straight line from head to heels.
+    - Engage your core and avoid sagging your hips.
+    - Focus on squeezing your shoulder blades together at the top of the movement.
 
-**Scaling/Modifications:**
-- Adjust the height of the rings to make the movement easier or harder.
-- If rings are not available, you can use a barbell set at waist height for inverted rows.
+- **Scaling/Modifications:**
+    - If ring rows are too challenging, you can perform inverted rows using a barbell or TRX straps.
+    - Alternatively, you can do bent-over dumbbell rows for a similar effect.
 
 ## Loading and Rep-Modification Options
 
 - **Sweat:** 
-  - Row/Ski: 2:00
-  - Box Step-Ups: 16/8 box height
-  - Kettlebell: 16/8 kg
-  - Ring Rows: 8 reps
+    - Row/Ski Erg: 2:00
+    - Box Step-Ups: 16/8
+    - Kettlebell: 12kg/8kg
+    - Ring Rows: 8 reps
 
 - **Train:** 
-  - Row/Ski: 3:00
-  - Box Step-Ups: 20 reps at 20/12 box height
-  - Kettlebell: 20/12 kg
-  - Ring Rows: 10 reps
+    - Row/Ski Erg: 3:00
+    - Box Step-Ups: 20 reps
+    - Kettlebell: 16kg/12kg
+    - Ring Rows: 10 reps
 
 - **Compete:** 
-  - Row/Ski: 3:00
-  - Box Step-Ups: 20 reps at 24/16 box height
-  - Kettlebell: 24/16 kg
-  - Ring Rows: 10 reps
+    - Row/Ski Erg: 3:00
+    - Box Step-Ups: 24/16
+    - Kettlebell: 24kg/16kg
+    - Ring Rows: 12 reps
 
 ### Strategy Advice
 
-- Focus on maintaining a steady pace throughout the workout. It’s better to go slower and keep your form than to rush and risk injury.
-- Break up the reps into manageable sets if needed, especially on the kettlebell pulls and ring rows.
-- Stay hydrated and listen to your body; if you need a quick break, take it!
+- Focus on maintaining a steady pace throughout the workout. It’s better to break up the reps into manageable sets rather than going all out and burning out early.
+- Pay attention to your form, especially as you get tired. Quality over quantity is key here!
+- Hydrate and listen to your body. If something feels off, don’t hesitate to scale back.
 
-Alright team, let’s get after it! Remember, quality over quantity today. Keep your movements crisp, and let’s have some fun!
+Alright team, let’s get after it! Remember to encourage each other and have fun while you work hard. You've got this! 💪
 
 ---
-*Generated on 2026-03-09T06:26:58.289Z using AI assistance*
+*Generated on 2026-03-11T06:21:14.159Z using AI assistance*
