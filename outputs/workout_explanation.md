@@ -1,99 +1,127 @@
-# CrossFit MINS Workout - 2026-06-08
+# CrossFit MINS Workout - 2026-06-10
 
 ## CrossFit MINS Workout
 
 ### Workout
-<p class="mb-2">WOD:</p><br><p class="mb-2">For Quality</p><p class="mb-2">6 Rounds:</p><li class="ml-4">3:00 Row/Ski Erg</li><li class="ml-4">20 Box Step-ups</li><li class="ml-4">15 Kettlebell Sumo Deadlift High Pulls (24/16)</li><li class="ml-4">10 Ring Rows</li><br><p class="mb-2">Sweat: 16/8</p><p class="mb-2">Train: 20/12</p><p class="mb-2">Compete: 24/16</p>
+<p class="mb-2">WOD:</p><p class="mb-2">For Quality</p><p class="mb-2">6 Rounds:</p><li class="ml-4">3:00 Row/Ski Erg</li><li class="ml-4">20 Box Step-ups</li><li class="ml-4">15 Kettlebell Sumo Deadlift High Pulls (24/16)</li><li class="ml-4">10 Ring Rows</li><br><p class="mb-2">Sweat: 16/8</p><p class="mb-2">Train: 20/12</p><p class="mb-2">Compete: 24/16</p>
 
 ### Expert Explanation
 ## Workout Overview
 
-Hey everyone! Today’s WOD is all about quality and maintaining good movement patterns while getting a solid workout in. We’ll be doing 6 rounds of a mix of cardio, strength, and bodyweight movements. The goal here is to focus on your form and technique, ensuring you’re moving efficiently while also getting your heart rate up. Remember, it’s not just about finishing fast; it’s about doing each movement well!
+Hey everyone! Today’s WOD is all about quality and maintaining good movement patterns while getting in some solid work. We’ll be doing 6 rounds of a mix of rowing or skiing, box step-ups, kettlebell sumo deadlift high pulls, and ring rows. This workout is designed to build endurance, strength, and coordination while keeping the intensity manageable. Let’s break it down step by step!
 
 ## Workout Components
 
 ### 1. Row/Ski Erg (3:00)
 
-- **Technique Steps:**
-    - For the rower, sit with your feet secured and grab the handle. Start with your knees bent and your back straight.
-    - Push through your heels, extend your legs, lean back slightly, and pull the handle towards your chest, keeping your elbows close.
-    - Reverse the motion: extend your arms, lean forward, and bend your knees to return to the starting position.
-    - For the Ski Erg, stand tall with a slight bend in your knees. Grip the handles and pull down in a smooth motion, engaging your core and using your legs to drive the movement.
-  
-- **Form Tips:**
-    - Keep your back straight and avoid rounding your shoulders.
-    - Use your legs to drive the movement, not just your arms.
-  
-- **Scaling/Modifications:**
-    - If you’re new to rowing or skiing, reduce the time to 2:00 or focus on technique rather than intensity.
-  
+#### Technique Steps:
+- **Set Up**: Adjust the damper setting on the rower or ski erg to a level that feels comfortable but challenging.
+- **Grip**: For the rower, grip the handle with both hands, keeping your arms straight. For the ski erg, hold the handles with a neutral grip.
+- **Starting Position**: Sit tall with your back straight, core engaged, and feet securely strapped in.
+- **Movement**: 
+  - For rowing: Push through your legs, lean back slightly, and pull the handle towards your chest, keeping your elbows close.
+  - For skiing: Initiate with your legs, then pull down with your arms, engaging your core throughout.
+- **Finish**: Return to the starting position in a controlled manner.
+
+#### Form Tips:
+- Keep your back straight and avoid rounding your shoulders.
+- Use your legs to drive the movement; your arms should follow.
+- Maintain a steady rhythm throughout the 3 minutes.
+
+#### Scaling/Modifications:
+- If you’re new to rowing or skiing, reduce the time to 2 minutes or even 1 minute to focus on form.
+- Consider using a lower damper setting for easier resistance.
+
+---
+
 ### 2. Box Step-Ups (20 reps)
 
-- **Technique Steps:**
-    - Stand facing the box with your feet hip-width apart. Step up with one foot, pressing through your heel to lift your body onto the box.
-    - Bring your other foot up to meet the first, then step back down one foot at a time.
-  
-- **Form Tips:**
-    - Keep your chest up and engage your core.
-    - Ensure your entire foot is on the box before stepping down.
-  
-- **Scaling/Modifications:**
-    - Use a lower box if you’re not comfortable with the height.
-    - Alternatively, you can perform step-ups without weights to focus on balance and form.
+#### Technique Steps:
+- **Set Up**: Stand facing the box with your feet hip-width apart.
+- **Starting Position**: Engage your core and stand tall.
+- **Movement**: 
+  - Step up onto the box with one foot, driving through your heel.
+  - Bring your other foot up to meet the first on the box.
+  - Step back down one foot at a time, maintaining control.
+
+#### Form Tips:
+- Keep your chest up and shoulders back as you step.
+- Ensure your knee doesn’t extend past your toes when stepping up.
+- Use your arms for balance if needed.
+
+#### Scaling/Modifications:
+- Use a lower box if you’re new to step-ups or have mobility concerns.
+- Perform step-ups without weights to focus on balance and technique.
+
+---
 
 ### 3. Kettlebell Sumo Deadlift High Pulls (15 reps)
 
-- **Technique Steps:**
-    - Stand with your feet wider than shoulder-width apart, toes slightly pointed out. Place the kettlebell between your feet.
-    - Hinge at your hips to grab the kettlebell with both hands. Keep your back straight and chest up.
-    - Drive through your heels to stand up, pulling the kettlebell up along your body, leading with your elbows until it reaches chest height.
-  
-- **Form Tips:**
-    - Keep the kettlebell close to your body throughout the movement.
-    - Engage your lats and core to stabilize your back.
-  
-- **Scaling/Modifications:**
-    - Use a lighter kettlebell or perform the movement without weight to focus on form.
-    - If you’re not comfortable with the high pull, you can do a standard kettlebell deadlift instead.
+#### Technique Steps:
+- **Set Up**: Stand with your feet wider than shoulder-width apart, toes slightly pointed out. Place the kettlebell between your feet.
+- **Starting Position**: Hinge at your hips and grab the kettlebell with both hands.
+- **Movement**: 
+  - Drive through your heels to stand up, pulling the kettlebell up along your body.
+  - As the kettlebell reaches your chest, rotate your elbows high and out to the sides.
+  - Lower the kettlebell back down in a controlled manner.
+
+#### Form Tips:
+- Keep your back flat and chest up during the lift.
+- Engage your core throughout the movement.
+- Use your legs to initiate the pull, not just your arms.
+
+#### Scaling/Modifications:
+- Use a lighter kettlebell if you’re new to this movement.
+- Perform the movement without the kettlebell to focus on form.
+
+---
 
 ### 4. Ring Rows (10 reps)
 
-- **Technique Steps:**
-    - Set the rings at a height where you can comfortably reach them while standing. Grab the rings and lean back, keeping your body straight.
-    - Pull your chest towards the rings by bending your elbows and squeezing your shoulder blades together.
-    - Lower yourself back down with control.
-  
-- **Form Tips:**
-    - Keep your body straight from head to heels; avoid sagging your hips.
-    - Focus on pulling with your back, not just your arms.
-  
-- **Scaling/Modifications:**
-    - Adjust the height of the rings to make the movement easier or harder. Lower rings make it easier, while higher rings increase the difficulty.
-    - If rings are not available, you can substitute with TRX rows or bent-over dumbbell rows.
+#### Technique Steps:
+- **Set Up**: Adjust the rings to a height that allows you to perform the movement comfortably.
+- **Starting Position**: Grab the rings with an overhand grip and lean back, keeping your body straight.
+- **Movement**: 
+  - Pull your chest towards the rings, keeping your elbows close to your body.
+  - Lower yourself back down in a controlled manner.
+
+#### Form Tips:
+- Keep your body straight from head to heels.
+- Engage your core and avoid sagging your hips.
+- Focus on squeezing your shoulder blades together at the top of the movement.
+
+#### Scaling/Modifications:
+- Adjust the height of the rings to make the movement easier or harder.
+- If rings are too challenging, perform inverted rows on a barbell or use a TRX.
+
+---
 
 ## Loading and Rep-Modification Options
 
-- **Sweat:** 
-    - Row/Ski: 2:00
-    - Box Step-Ups: 16/8 (use bodyweight)
-    - Kettlebell: 16kg/8kg
-    - Ring Rows: 8 reps
+- **Sweat**: 
+  - Row/Ski: 2 minutes
+  - Box Step-Ups: 16/8 inch box
+  - Kettlebell: 16/8 kg
+  - Ring Rows: 8 reps
 
-- **Train:** 
-    - Row/Ski: 3:00
-    - Box Step-Ups: 20 reps (use light weights if comfortable)
-    - Kettlebell: 20kg/12kg
-    - Ring Rows: 10 reps
+- **Train**: 
+  - Row/Ski: 3 minutes
+  - Box Step-Ups: 20 reps on a 20/16 inch box
+  - Kettlebell: 20/12 kg
+  - Ring Rows: 10 reps
 
-- **Compete:** 
-    - Row/Ski: 3:00
-    - Box Step-Ups: 20 reps (use heavier weights)
-    - Kettlebell: 24kg/16kg
-    - Ring Rows: 10 reps
+- **Compete**: 
+  - Row/Ski: 3 minutes
+  - Box Step-Ups: 20 reps on a 24/20 inch box
+  - Kettlebell: 24/16 kg
+  - Ring Rows: 10 reps
 
-### Strategy Advice
+### Strategy Advice:
+- Focus on maintaining good form throughout each round. Quality over quantity!
+- Break up the reps if needed, especially on the kettlebell and ring rows.
+- Stay consistent with your pacing on the row or ski to avoid burnout.
 
-As you move through the rounds, focus on maintaining a steady pace rather than sprinting through. Break up the sets if needed, especially on the kettlebell high pulls and ring rows, to maintain good form. Remember, quality over quantity! Listen to your body and adjust as necessary to ensure you’re getting the most out of each movement. Let’s have fun and crush this WOD together!
+Alright team, let’s get after it! Remember to listen to your body, and let’s have some fun while we work hard!
 
 ---
-*Generated on 2026-06-08T07:51:04.950Z using AI assistance*
+*Generated on 2026-06-10T07:36:17.411Z using AI assistance*
