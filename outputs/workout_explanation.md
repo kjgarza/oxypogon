@@ -1,4 +1,4 @@
-# CrossFit MINS Workout - 2026-06-19
+# CrossFit MINS Workout - 2026-06-21
 
 ## CrossFit MINS Workout
 
@@ -8,85 +8,86 @@
 ### Expert Explanation
 ## Workout Overview
 
-Hey everyone! Today’s WOD is designed to build your aerobic capacity and muscular endurance while focusing on quality movement. We’ll be going through 6 rounds of a mix of rowing or skiing, box step-ups, kettlebell sumo deadlift high pulls, and ring rows. The goal here is to maintain good form throughout each movement and keep a steady pace. Remember, it’s not just about finishing quickly; it’s about doing it right!
+Hey everyone! Today’s WOD is structured for quality, focusing on building endurance and strength through a series of movements that will challenge your cardiovascular system and muscular endurance. We’ll be doing 6 rounds of rowing or skiing, followed by box step-ups, kettlebell sumo deadlift high pulls, and ring rows. The goal here is to maintain good form throughout each round while keeping a steady pace. Let’s break it down!
 
 ## Workout Components
 
 ### 1. Row/Ski Erg (3:00)
 
 - **Technique Steps:**
-    - **Rowing:** Sit on the rower, strap your feet in, and grab the handle. Start with your knees bent and your back straight. Push through your legs, lean back slightly, and pull the handle to your chest.
-    - **Ski Erg:** Stand tall with your feet shoulder-width apart, grab the handles, and engage your core. Pull down with your arms while driving your knees slightly forward to mimic a skiing motion.
-
+    - For the Row: Sit on the rower with your feet secured in the foot straps. Grab the handle with both hands, keeping your arms straight and your back tall.
+    - Push through your legs first, then lean back slightly while pulling the handle towards your chest. Finish with your elbows drawn back and your shoulders down.
+    - For the Ski Erg: Stand tall, grip the handles, and engage your core. Pull the handles down towards your hips while driving your elbows back, then return to the starting position.
+  
 - **Form Tips:**
     - Keep your back straight and avoid rounding your shoulders.
-    - Use your legs to drive the movement; your arms should follow.
-    - Maintain a steady rhythm; don’t rush it!
-
+    - Focus on a smooth, controlled motion rather than rushing through it.
+  
 - **Scaling/Modifications:**
-    - If you’re new to rowing, consider using a lower damper setting to make it easier.
-    - For the Ski Erg, reduce the resistance if needed.
+    - If you’re new to rowing or skiing, reduce the time to 2:00 or 1:30 to build confidence.
+    - Alternatively, you can substitute with a stationary bike or jump rope for a similar cardio effect.
 
-### 2. Box Step-ups (20 reps)
+### 2. Box Step-Ups (20 reps)
 
 - **Technique Steps:**
-    - Stand facing the box with feet hip-width apart. Step up with one foot, pressing through your heel to lift your body onto the box.
+    - Stand in front of the box with your feet hip-width apart. Step up with one foot, pressing through your heel to lift your body onto the box.
     - Bring your other foot up to meet the first, then step back down one foot at a time.
-
+  
 - **Form Tips:**
-    - Keep your chest up and core engaged throughout the movement.
-    - Ensure your entire foot is on the box before stepping down to avoid any slips.
-
+    - Keep your chest up and engage your core throughout the movement.
+    - Ensure your entire foot is on the box to maintain balance and stability.
+  
 - **Scaling/Modifications:**
-    - Use a lower box if you’re not comfortable with the height.
-    - If you have knee issues, consider stepping up to a platform or using a lower range of motion.
+    - Use a lower box if you’re new to this movement or have mobility concerns.
+    - You can also perform step-ups without weights to focus on form.
 
-### 3. Kettlebell Sumo Deadlift High Pulls (15 reps, 24/16 kg)
+### 3. Kettlebell Sumo Deadlift High Pulls (15 reps)
 
 - **Technique Steps:**
     - Stand with your feet wider than shoulder-width, toes slightly pointed out. Place the kettlebell between your feet.
-    - Hinge at your hips to grab the kettlebell with both hands. Stand up, pulling the kettlebell up along your body, leading with your elbows until it’s at shoulder height.
-
+    - Hinge at your hips to grab the kettlebell with both hands. Keep your back flat and chest up.
+    - Drive through your heels to stand up, pulling the kettlebell up along your body, leading with your elbows until it reaches chest height.
+  
 - **Form Tips:**
-    - Keep your back flat and chest up during the hinge.
-    - Use your legs to drive the kettlebell up; don’t just rely on your arms.
-
+    - Keep the kettlebell close to your body throughout the movement.
+    - Avoid using your arms too much; focus on driving through your legs and hips.
+  
 - **Scaling/Modifications:**
-    - Use a lighter kettlebell if you’re new to this movement.
-    - If kettlebells are unavailable, you can substitute with dumbbells or perform a high pull with a barbell.
+    - Use a lighter kettlebell or perform a standard deadlift if you’re not comfortable with the high pull.
+    - If kettlebells aren’t available, you can use dumbbells or perform a bodyweight squat.
 
 ### 4. Ring Rows (10 reps)
 
 - **Technique Steps:**
-    - Set the rings at a height where you can comfortably reach them while standing. Grab the rings and lean back, keeping your body straight.
-    - Pull your chest towards the rings while keeping your elbows close to your body.
-
+    - Set the rings to a height that allows you to lean back with your arms extended. Grab the rings with an overhand grip.
+    - Keep your body straight and pull your chest towards the rings, squeezing your shoulder blades together at the top.
+  
 - **Form Tips:**
-    - Engage your core to maintain a straight line from head to heels.
-    - Avoid swinging; focus on controlled movements.
-
+    - Maintain a straight line from your head to your heels; avoid sagging your hips.
+    - Control the descent to maximize strength gains.
+  
 - **Scaling/Modifications:**
-    - Adjust the height of the rings to make it easier or harder.
-    - If rings are too challenging, you can substitute with TRX rows or bent-over dumbbell rows.
+    - If rings are too challenging, perform inverted rows on a bar or use a TRX.
+    - You can also adjust the angle of your body to make it easier or harder.
 
 ## Loading and Rep-Modification Options
 
 - **Sweat:** 
-    - Use a 16/8 kg kettlebell for the high pulls and focus on form over speed. Consider reducing the number of rounds if you need to.
-
+    - Use a lighter kettlebell (16/8 kg) and focus on form and technique.
+  
 - **Train:** 
-    - Use a 20/12 kg kettlebell. Aim to complete all rounds with good form, but feel free to take short breaks if needed.
-
+    - Use a moderate kettlebell (20/12 kg) and aim for consistent pacing throughout the rounds.
+  
 - **Compete:** 
-    - Use a 24/16 kg kettlebell. Push yourself to maintain intensity while keeping your technique sharp.
+    - Use a heavier kettlebell (24/16 kg) and push your limits while maintaining quality movement.
 
 ### Strategy Advice
 
-- Focus on maintaining a steady pace throughout the workout. It’s better to go slower and maintain form than to rush and risk injury.
-- Break up the box step-ups and kettlebell high pulls into smaller sets if you start to feel fatigued.
-- Use the rowing or ski erg as a recovery tool between movements; keep your heart rate manageable.
+- Aim for a steady pace throughout the workout. It’s better to break up your sets early rather than going all out and burning out quickly.
+- Focus on your breathing; it will help you maintain endurance.
+- Remember, quality over quantity! Prioritize your form to prevent injury and ensure you’re getting the most out of each movement.
 
-Remember, quality over quantity! Let’s have fun and crush this WOD together!
+Alright team, let’s get after it! Keep your energy up, support each other, and have fun!
 
 ---
-*Generated on 2026-06-19T07:59:12.219Z using AI assistance*
+*Generated on 2026-06-21T07:44:30.828Z using AI assistance*
